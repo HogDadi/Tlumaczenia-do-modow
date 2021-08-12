@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dirt.label>gleba</Dirt.label>
+  <Dirt.description>Gleba standardowa. Smakuje jak ziema.</Dirt.description>
+  <Dirt.tools.0.label>ziema</Dirt.tools.0.label>
+
+  <GT_SoilTilled.label>Gleba uprawna</GT_SoilTilled.label>
+  <GT_SoilTilled.description>Gleba uprawna, do prawidłowego sadzenia roślin.</GT_SoilTilled.description>
+  <GT_SoilTilled.tools.0.label>ziema</GT_SoilTilled.tools.0.label>
+
+</LanguageData>
