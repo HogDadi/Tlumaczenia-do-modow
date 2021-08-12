@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: ResearchPal - Forked -->
+  <ResearchPal>ResearchPal - Forked</ResearchPal>
+
+  <!-- EN: Enables construction {0} -->
+  <ResearchPal.AllowsBuildingX>Enables construction {0}</ResearchPal.AllowsBuildingX>
+  <!-- EN: Enables recipe {0}</> -->
+  <ResearchPal.AllowsCraftingX>Enables recipe {0}</ResearchPal.AllowsCraftingX>
+  <!-- EN: Enables planting {0} in {1} -->
+  <ResearchPal.AllowsSowingXinY>Enables planting {0} in {1}</ResearchPal.AllowsSowingXinY>
+  <!-- EN: Enables growing {0} -->
+  <ResearchPal.AllowsPlantingX>Enables growing {0}</ResearchPal.AllowsPlantingX>
+
+  <!-- EN: Left-Click to replace queue -->
+  <ResearchPal.LClickReplaceQueue>Left-Click to replace queue</ResearchPal.LClickReplaceQueue>
+  <!-- EN: Left-Click to remove from queue -->
+  <ResearchPal.LClickRemoveFromQueue>Left-Click to remove from queue</ResearchPal.LClickRemoveFromQueue>
+  <!-- EN: Shift-Left-Click to append to queue -->
+  <ResearchPal.SLClickAddToQueue>Shift-Left-Click to append to queue</ResearchPal.SLClickAddToQueue>
+  <!-- EN: Alt-Left-Click to prepend to queue -->
+  <ResearchPal.ALClickAddToQueue>Alt-Left-Click to prepend to queue</ResearchPal.ALClickAddToQueue>
+  <!-- EN: (DEBUG) Ctrl-Left-Click to instantly complete -->
+  <ResearchPal.CLClickDebugInstant>(DEBUG) Ctrl-Left-Click to instantly complete</ResearchPal.CLClickDebugInstant>
+
+  <!-- EN: Requires -->
+  <ResearchPal.Requires>Requires</ResearchPal.Requires>
+  <!-- EN: Leads to -->
+  <ResearchPal.LeadsTo>Leads to</ResearchPal.LeadsTo>
+  <!-- EN: none -->
+  <ResearchPal.None>none</ResearchPal.None>
+
+  <!-- EN: Already queued node -->
+  <ResearchPal.QueuedNode>Already queued node</ResearchPal.QueuedNode>
+  <!-- EN: Missing {0} -->
+  <ResearchPal.MissingFacilities>Missing {0}</ResearchPal.MissingFacilities>
+  <!-- EN: Insufficient techprints {0}/{1} -->
+  <ResearchPal.MissingTechprints>Insufficient techprints {0}/{1}</ResearchPal.MissingTechprints>
+
+  <!-- EN: no research found -->
+  <ResearchPal.NoResearchFound>no research found</ResearchPal.NoResearchFound>
+  <!-- EN: no research queued -->
+  <ResearchPal.NothingQueued>no research queued</ResearchPal.NothingQueued>
+  <!-- EN: Next in queue: {0} -->
+  <ResearchPal.NextInQueue>Next in queue: {0}</ResearchPal.NextInQueue>
+
+  <!-- EN: Building Research Tree -->
+  <ResearchPal.BuildingResearchTree>Building Research Tree</ResearchPal.BuildingResearchTree>
+  <!-- EN: Start Building Research Tree on Background -->
+  <ResearchPal.BuildingResearchTreeAsync>Start Building Research Tree on Background</ResearchPal.BuildingResearchTreeAsync>
+
+  <!-- EN: Regenerate Research Tree Layout -->
+  <ResearchPal.ResetLayout>Regenerate Research Tree Layout</ResearchPal.ResetLayout>
+  <!-- EN: Research Tree Layout Regenerated -->
+  <ResearchPal.LayoutRegenerated>Research Tree Layout Regenerated</ResearchPal.LayoutRegenerated>
+
+  <!-- EN: Show Notification Popup -->
+  <ResearchPal.ShowNotificationPopup>Show Notification Popup</ResearchPal.ShowNotificationPopup>
+  <!-- EN: Whenever you finish research, pause and show the default notification. -->
+  <ResearchPal.ShowNotificationPopupTip>Whenever you finish research, pause and show the default notification.</ResearchPal.ShowNotificationPopupTip>
+  <!-- EN: Group Researches by Tech Level -->
+  <ResearchPal.ShouldSeparateByTechLevels>Group Researches by Tech Level</ResearchPal.ShouldSeparateByTechLevels>
+  <!-- EN: Otherwise use a more dense layout (Click "Regenerate Research Tree Layout" to apply) -->
+  <ResearchPal.ShouldSeparateByTechLevelsTip>Otherwise use a more dense layout (Click "Regenerate Research Tree Layout" to apply)</ResearchPal.ShouldSeparateByTechLevelsTip>
+  <!-- EN: Pause on Display -->
+  <ResearchPal.ShouldPauseOnOpen>Pause on Display</ResearchPal.ShouldPauseOnOpen>
+  <!-- EN: Whenever the game should pause when the research tab is displayed. -->
+  <ResearchPal.ShouldPauseOnOpenTip>Whenever the game should pause when the research tab is displayed.</ResearchPal.ShouldPauseOnOpenTip>
+  <!-- EN: Reset on Display -->
+  <ResearchPal.ShouldResetOnOpen>Reset on Display</ResearchPal.ShouldResetOnOpen>
+  <!-- EN: Clear filtering and reset scroll position. -->
+  <ResearchPal.ShouldResetOnOpenTip>Clear filtering and reset scroll position.</ResearchPal.ShouldResetOnOpenTip>
+  <!-- EN: Align Closer to Prerequisites -->
+  <ResearchPal.AlignCloserToAncestors>Align Closer to Prerequisites</ResearchPal.AlignCloserToAncestors>
+  <!-- EN: Heuristically put research nodes closer to their prerequisites instead of children. (Click "Regenerate Research Tree Layout" to apply) -->
+  <ResearchPal.AlignCloserToAncestorsTip>Heuristically put research nodes closer to their prerequisites instead of children. (Click "Regenerate Research Tree Layout" to apply)</ResearchPal.AlignCloserToAncestorsTip>
+  <!-- EN: Minimum Separated Mod Researches Count -->
+  <ResearchPal.MinimumSeparateModTech>Minimum Separated Mod Researches Count</ResearchPal.MinimumSeparateModTech>
+  <!-- EN: Minimum number of added techs for a mod to be placed separately from the main vanilla tech-tree. (Click "Regenerate Research Tree Layout" to apply) -->
+  <ResearchPal.MinimumSeparateModTechTip>Minimum number of added techs for a mod to be placed separately from the main vanilla tech-tree. (Click "Regenerate Research Tree Layout" to apply)</ResearchPal.MinimumSeparateModTechTip>
+  <!-- EN: Group Researches from Same Mods -->
+  <ResearchPal.GroupModTechs>Group Researches from Same Mods</ResearchPal.GroupModTechs>
+  <!-- EN: Place researches from the same mod together ignoring heuristics. (Click "Regenerate Research Tree Layout" to apply) -->
+  <ResearchPal.GroupModTechsTip>Place researches from the same mod together ignoring heuristics. (Click "Regenerate Research Tree Layout" to apply)</ResearchPal.GroupModTechsTip>
+  <!-- EN: Search by Descriptions -->
+  <ResearchPal.SearchByDescription>Search by Descriptions</ResearchPal.SearchByDescription>
+  <!-- EN: Searches will match the keyword against descriptions of the researches (may worsen search performance) -->
+  <ResearchPal.SearchByDescriptionTip>Searches will match the keyword against descriptions of the researches (may worsen search performance)</ResearchPal.SearchByDescriptionTip>
+  <!-- EN: Delay Layout Generation -->
+  <ResearchPal.DelayLayoutGeneration>Delay Layout Generation</ResearchPal.DelayLayoutGeneration>
+  <!-- EN: Generate layout at the first time the research tree is used, instead of when loading the game -->
+  <ResearchPal.DelayLayoutGenerationTip>Generate layout at the first time the research tree is used, instead of when loading the game</ResearchPal.DelayLayoutGenerationTip>
+  <!-- EN: Background Layout Generation -->
+  <ResearchPal.AsyncLoadingOnStartup>Background Layout Generation</ResearchPal.AsyncLoadingOnStartup>
+  <!-- EN: Generate layout on background when game loads -->
+  <ResearchPal.AsyncLoadingOnStartupTip>Generate layout on background when game loads</ResearchPal.AsyncLoadingOnStartupTip>
+  <!-- EN: Research Progress Tooltip -->
+  <ResearchPal.ProgressTooltip>Research Progress Tooltip</ResearchPal.ProgressTooltip>
+  <!-- EN: Display research progress in a tooltip for in-progress project (Warning: currently may not work properly) -->
+  <ResearchPal.ProgressTooltipTip>Display research progress in a tooltip for in-progress project (Warning: currently may not work properly)</ResearchPal.ProgressTooltipTip>
+  <!-- EN: Always Display Progress -->
+  <ResearchPal.AlwaysDisplayProgress>Always Display Progress</ResearchPal.AlwaysDisplayProgress>
+  <!-- EN: Always display the rest of the points needed to complete a project, doesn't affect the display when zooming out -->
+  <ResearchPal.AlwaysDisplayProgressTip>Always display the rest of the points needed to complete a project, doesn't affect the display when zooming out</ResearchPal.AlwaysDisplayProgressTip>
+  <!-- EN: Display Indices on Research Queue -->
+  <ResearchPal.ShowQueueIndexOnQueue>Display Indices on Research Queue</ResearchPal.ShowQueueIndexOnQueue>
+  <!-- EN: Display index icons on researches in the research queue. -->
+  <ResearchPal.ShowQueueIndexOnQueueTip>Display index icons on researches in the research queue.</ResearchPal.ShowQueueIndexOnQueueTip>
+  <!-- EN: DON'T IGNORE HIDDEN PREREQUISITES -->
+  <ResearchPal.DontIgnoreHiddenPrerequisites>DON'T IGNORE HIDDEN PREREQUISITES</ResearchPal.DontIgnoreHiddenPrerequisites>
+  <!-- EN: Fix an old bug of the original ResearchPal that ignores hidden prereqisites.
+    You should always turn this option on for a more balanced gameplay. Being able to turning off this option is for existing save game strategy compatibility. (restart the game to apply) -->
+  <ResearchPal.DontIgnoreHiddenPrerequisitesTip>Fix an old bug of the original ResearchPal that ignores hidden prereqisites.
+    You should always turn this option on for a more balanced gameplay. Being able to turning off this option is for existing save game strategy compatibility. (restart the game to apply)</ResearchPal.DontIgnoreHiddenPrerequisitesTip>
+
+  <!-- EN: Research settings changed, restart RimWorld to apply the change. -->
+  <ResearchPal.NeedsRestart>Research settings changed, restart RimWorld to apply the change.</ResearchPal.NeedsRestart>
+
+  <!-- EN: Scrolling Speed Multiplier -->
+  <ResearchPal.ScrollSpeedMultiplier>Scrolling Speed Multiplier</ResearchPal.ScrollSpeedMultiplier>
+  <!-- EN: Control horizontal and vertical scrolling speed of the main research tree -->
+  <ResearchPal.ScrollSpeedMultiplierTip>Control horizontal and vertical scrolling speed of the main research tree</ResearchPal.ScrollSpeedMultiplierTip>
+  <!-- EN: Zooming Speed Multiplier -->
+  <ResearchPal.ZoomingSpeedMultiplier>Zooming Speed Multiplier</ResearchPal.ZoomingSpeedMultiplier>
+  <!-- EN: Control the zooming sensitivity of the main research tree -->
+  <ResearchPal.ZoomingSpeedMultiplierTip>Control the zooming sensitivity of the main research tree</ResearchPal.ZoomingSpeedMultiplierTip>
+  <!-- EN: Dragging Display Delay -->
+  <ResearchPal.DraggingDisplayDelay>Dragging Display Delay</ResearchPal.DraggingDisplayDelay>
+  <!-- EN: The delay in second a dragged research node in research tree display as dragged. (doesn't affect dragging nodes in queue and the actual trigger of dragging) -->
+  <ResearchPal.DraggingDisplayDelayTip>The delay in second a dragged research node in research tree display as dragged. (doesn't affect dragging nodes in queue and the actual trigger of dragging)</ResearchPal.DraggingDisplayDelayTip>
+
+  <!-- EN: Verbose Logging (WIP) -->
+  <ResearchPal.VerboseLogging>Verbose Logging (WIP)</ResearchPal.VerboseLogging>
+  <!-- EN: Produce verbose debug logs in dev mode messages (WIP). -->
+  <ResearchPal.VerboseLoggingTip>Produce verbose debug logs in dev mode messages (WIP).</ResearchPal.VerboseLoggingTip>
+
+  <!-- EN: Use Vanilla "Research Finished" Message -->
+  <ResearchPal.ShowVanillaResearchFinishedMessage>Use Vanilla "Research Finished" Message</ResearchPal.ShowVanillaResearchFinishedMessage>
+  <!-- EN: ResearchPal normally sends its own letter when research is finished, this option restore the vanilla research completion message, a compatibility workaround for mods like Semi Random Research. -->
+  <ResearchPal.ShowVanillaResearchFinishedMessageTip>ResearchPal normally sends its own letter when research is finished, this option restore the vanilla research completion message, a compatibility workaround for mods like Semi Random Research.</ResearchPal.ShowVanillaResearchFinishedMessageTip>
+
+  <!-- EN: Finished research: {0} -->
+  <ResearchPal.ResearchFinished>Finished research: {0}</ResearchPal.ResearchFinished>
+
+</LanguageData>

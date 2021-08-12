@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- research -->
+  <Research.label>badania</Research.label>
+  <!-- Examine and decide on research projects. -->
+  <Research.description>Zbadaj i zdecyduj o projektach badawczych.</Research.description>
+
+</LanguageData>
