@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- EN: Recipe Icons -->
+  <RecipeIconsTitle>Przypisane Ikony</RecipeIconsTitle>
+  
+  <!-- EN: Enable tooltips -->
+  <RecipeIconsEnableTooltipName>Włącz podpowiedzi</RecipeIconsEnableTooltipName>
+  <!-- EN: Show a window with extended recipe info when hovering over a bill. -->
+  <RecipeIconsEnableTooltipDesc>Pokaż okno z rozszerzonymi informacjami o przepisie po najechaniu kursorem na przepis.</RecipeIconsEnableTooltipDesc>
+  
+  <!-- EN: Disable small float menus -->
+  <RecipeIconsDisableSmallMenusName>Wyłącz małe pływające menu</RecipeIconsDisableSmallMenusName>
+  <!-- EN: Prevent menus from switching into small mode when they have too many items. -->
+  <RecipeIconsDisableSmallMenusDesc>Zapobiegaj przełączaniu się menu w tryb mały, gdy zawiera zbyt wiele elementów.</RecipeIconsDisableSmallMenusDesc>
+  
+  <!-- EN: Show info: mod -->
+  <RecipeIconsShowModName>Pokaż informacje: mod</RecipeIconsShowModName>
+  <!-- EN: Show the mod that item is from in its tooltip. -->
+  <RecipeIconsShowModDesc>Pokaż mod, z którego pochodzi przedmiot w przepisie.</RecipeIconsShowModDesc>
+  
+  <!-- EN: Consumes: -->
+  <RecipeIconsRecipeTooltipConsumes>Zużywa:</RecipeIconsRecipeTooltipConsumes>
+  <!-- EN: Produces: -->
+  <RecipeIconsRecipeTooltipProduces>Wytworzy:</RecipeIconsRecipeTooltipProduces>
+  <!-- EN: example for -->
+  <RecipeIconsRecipeTooltipExample>na przykład</RecipeIconsRecipeTooltipExample>
+  <!-- EN: Requires: -->
+  <RecipeIconsRecipeTooltipRequires>Wymaga:</RecipeIconsRecipeTooltipRequires>
+  <!-- EN: Where -->
+  <RecipeIconsRecipeTooltipWhere>Gdzie</RecipeIconsRecipeTooltipWhere>
+  <!-- EN: is any of: -->
+  <RecipeIconsRecipeTooltipIsAnyOf>to jedno z:</RecipeIconsRecipeTooltipIsAnyOf>
+  <!-- EN: Work to make: {0} -->
+  <RecipeIconsRecipeTooltipWorkToMake>Praca do wykonania: {0}</RecipeIconsRecipeTooltipWorkToMake>
+  <!-- EN: Work to make: {0} ({1}) -->
+  <RecipeIconsRecipeTooltipWorkToMakeWithSpeed>Praca do wykonania: {0} ({1})</RecipeIconsRecipeTooltipWorkToMakeWithSpeed>
+  
+</LanguageData>
