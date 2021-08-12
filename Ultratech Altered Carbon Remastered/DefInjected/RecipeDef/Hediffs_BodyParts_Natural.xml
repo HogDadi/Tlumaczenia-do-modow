@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_InstallOrganicArm.label>install arm</UT_InstallOrganicArm.label>
+  <UT_InstallOrganicArm.description>Install a biological arm.</UT_InstallOrganicArm.description>
+  <UT_InstallOrganicArm.jobString>Installing arm.</UT_InstallOrganicArm.jobString>
+
+  <UT_InstallOrganicLeg.label>install leg</UT_InstallOrganicLeg.label>
+  <UT_InstallOrganicLeg.description>Install a biological leg.</UT_InstallOrganicLeg.description>
+  <UT_InstallOrganicLeg.jobString>Installing leg.</UT_InstallOrganicLeg.jobString>
+
+  <UT_InstallOrganicStomach.label>install stomach</UT_InstallOrganicStomach.label>
+  <UT_InstallOrganicStomach.description>Install biological stomach.</UT_InstallOrganicStomach.description>
+  <UT_InstallOrganicStomach.jobString>Installing stomach.</UT_InstallOrganicStomach.jobString>
+
+  <UT_InstallOrganicEye.label>install eye</UT_InstallOrganicEye.label>
+  <UT_InstallOrganicEye.description>Install a biological eye.</UT_InstallOrganicEye.description>
+  <UT_InstallOrganicEye.jobString>Installing eye.</UT_InstallOrganicEye.jobString>
+
+  <UT_InstallOrganicEar.label>install ear</UT_InstallOrganicEar.label>
+  <UT_InstallOrganicEar.description>Install a biological ear.</UT_InstallOrganicEar.description>
+  <UT_InstallOrganicEar.jobString>Installing ear.</UT_InstallOrganicEar.jobString>
+
+  <UT_InstallOrganicNose.label>install nose</UT_InstallOrganicNose.label>
+  <UT_InstallOrganicNose.description>Install a biological nose.</UT_InstallOrganicNose.description>
+  <UT_InstallOrganicNose.jobString>Installing nose.</UT_InstallOrganicNose.jobString>
+
+
+</LanguageData>

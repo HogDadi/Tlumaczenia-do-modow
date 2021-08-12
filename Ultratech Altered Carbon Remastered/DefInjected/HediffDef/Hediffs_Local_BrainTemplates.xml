@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_SleeveBodyData.label>Dev_SleeveBodyData</UT_SleeveBodyData.label>
+  <UT_SleeveBodyData.description>SleeveBodyData</UT_SleeveBodyData.description>
+  <UT_SleeveBodyData.stages.0.label>low</UT_SleeveBodyData.stages.0.label>
+
+  <UT_BrainTemplateCombat.label>sleeve type (combat)</UT_BrainTemplateCombat.label>
+  <UT_BrainTemplateCombat.description>This body was grown specifically for combat.</UT_BrainTemplateCombat.description>
+
+  <UT_BrainTemplateWorker.label>sleeve type (worker)</UT_BrainTemplateWorker.label>
+  <UT_BrainTemplateWorker.description>This body was grown specifically for manual labour.</UT_BrainTemplateWorker.description>
+
+  <UT_BrainTemplateInfiltrator.label>sleeve type (infiltrator)</UT_BrainTemplateInfiltrator.label>
+  <UT_BrainTemplateInfiltrator.description>This body was grown specifically for stealth and infiltration.</UT_BrainTemplateInfiltrator.description>
+
+
+</LanguageData>

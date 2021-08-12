@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_OrganicArm.label>arm</UT_OrganicArm.label>
+  <UT_OrganicArm.description>A biological human arm. Attached to the shoulder, it allows the body to carry and manipulate things.</UT_OrganicArm.description>
+
+  <UT_OrganicLeg.label>leg</UT_OrganicLeg.label>
+  <UT_OrganicLeg.description>A biological human leg.  Attached to the pelvis, it allows the body to move.</UT_OrganicLeg.description>
+
+  <UT_OrganicStomach.label>stomach</UT_OrganicStomach.label>
+  <UT_OrganicStomach.description>A biological human stomach. Breaks down food into nutrients with acids and enzymes.</UT_OrganicStomach.description>
+
+  <UT_OrganicEye.label>eye</UT_OrganicEye.label>
+  <UT_OrganicEye.description>A biological human eye. Converts light into electrical signals and transmits them to the brain.</UT_OrganicEye.description>
+
+  <UT_OrganicEar.label>ear</UT_OrganicEar.label>
+  <UT_OrganicEar.description>A biological human ear. Converts vibrations in the air into electrical signals and transmits them to the brain.</UT_OrganicEar.description>
+
+  <UT_OrganicNose.label>nose</UT_OrganicNose.label>
+  <UT_OrganicNose.description>A biological human nose. Recognizes and identifies smells in thr air and transmits them to the brain.</UT_OrganicNose.description>
+
+
+</LanguageData>

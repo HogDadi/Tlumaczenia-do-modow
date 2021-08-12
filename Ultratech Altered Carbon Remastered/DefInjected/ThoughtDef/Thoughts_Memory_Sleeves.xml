@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_WrongRace.stages.0.label>different sleeve race</UT_WrongRace.stages.0.label>
+  <UT_WrongRace.stages.0.description>The race of my sleeve is not my own, this feels wrong.</UT_WrongRace.stages.0.description>
+
+  <UT_WrongGender.stages.0.label>different sleeve gender</UT_WrongGender.stages.0.label>
+  <UT_WrongGender.stages.0.description>The gender of my sleeve is not my own, this feels wrong.</UT_WrongGender.stages.0.description>
+
+  <UT_WrongGenderDouble.stages.0.label>different sleeve gender</UT_WrongGenderDouble.stages.0.label>
+  <UT_WrongGenderDouble.stages.0.description>The gender of my sleeve is not my own, this is wrong.</UT_WrongGenderDouble.stages.0.description>
+
+  <UT_NewSleeve.stages.0.label>New sleeve</UT_NewSleeve.stages.0.label>
+  <UT_NewSleeve.stages.0.description>I have a new body, this will take some getting used to.</UT_NewSleeve.stages.0.description>
+
+  <UT_NewSleeveDouble.stages.0.label>New sleeve</UT_NewSleeveDouble.stages.0.label>
+  <UT_NewSleeveDouble.stages.0.description>I have a new body, this will take some getting used to.</UT_NewSleeveDouble.stages.0.description>
+
+  <UT_MansBody.stages.0.label>A man’s body</UT_MansBody.stages.0.label>
+  <UT_MansBody.stages.0.description>I am in the body of a man, I don't like it!</UT_MansBody.stages.0.description>
+
+  <UT_WomansBody.stages.0.label>A woman's body</UT_WomansBody.stages.0.label>
+  <UT_WomansBody.stages.0.description>I am in the body of a woman, I don't like it!</UT_WomansBody.stages.0.description>
+
+  <UT_JustCopy.stages.0.label>Just a copy</UT_JustCopy.stages.0.label>
+  <UT_JustCopy.stages.0.description>I am nothing more than a copy... What even am I?</UT_JustCopy.stages.0.description>
+
+  <UT_LostMySpouse.stages.0.label>Lost my spouse</UT_LostMySpouse.stages.0.label>
+  <UT_LostMySpouse.stages.0.description>My spouse stayed with my original copy, but I still love them. This isn't fair...</UT_LostMySpouse.stages.0.description>
+
+  <UT_LostMyFiance.stages.0.label>Lost my fiance</UT_LostMyFiance.stages.0.label>
+  <UT_LostMyFiance.stages.0.description>My fiance stayed with my original copy, but I still love them. This isn't fair...</UT_LostMyFiance.stages.0.description>
+
+  <UT_LostMyLover.stages.0.label>Lost my lover</UT_LostMyLover.stages.0.label>
+  <UT_LostMyLover.stages.0.description>My lover stayed with my original copy, but I still love them. This isn't fair...</UT_LostMyLover.stages.0.description>
+
+  <UT_SomethingIsWrong.stages.0.label>Something is wrong</UT_SomethingIsWrong.stages.0.label>
+  <UT_SomethingIsWrong.stages.0.description>Something feels wrong, as if I am not really myself. Am I imagining it?</UT_SomethingIsWrong.stages.0.description>
+
+
+</LanguageData>

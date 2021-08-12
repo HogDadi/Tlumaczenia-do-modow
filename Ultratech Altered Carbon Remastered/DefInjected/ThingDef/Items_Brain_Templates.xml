@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_BrainTemplateCombat.label>brain template (combat)</UT_BrainTemplateCombat.label>
+  <UT_BrainTemplateCombat.description>A modification chip that can be installed in sleeve incubators that tune a sleeves brain to a specific skill, no matter the stack installed. Only one template can be installed in an incubator at a time without overloading it.</UT_BrainTemplateCombat.description>
+
+  <UT_BrainTemplateWorker.label>brain template (worker)</UT_BrainTemplateWorker.label>
+  <UT_BrainTemplateWorker.description>A modification chip that can be installed in sleeve incubators that tune a sleeves brain to a specific skill, no matter the stack installed. Only one template can be installed in an incubator at a time without overloading it.</UT_BrainTemplateWorker.description>
+
+  <UT_BrainTemplateInfiltrator.label>brain template (infiltrator)</UT_BrainTemplateInfiltrator.label>
+  <UT_BrainTemplateInfiltrator.description>A modification chip that can be installed in sleeve incubators that tune a sleeves brain to a specific skill, no matter the stack installed. Only one template can be installed in an incubator at a time without overloading it.</UT_BrainTemplateInfiltrator.description>
+
+
+</LanguageData>

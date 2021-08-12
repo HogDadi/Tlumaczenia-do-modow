@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_DecryptAncientStack.label>decrypt ancient stack</UT_DecryptAncientStack.label>
+  <UT_DecryptAncientStack.description>Decrypt ancient stacks in an attempt to repair them or acquire information from them.</UT_DecryptAncientStack.description>
+  <UT_DecryptAncientStack.jobString>decrypting ancient stack.</UT_DecryptAncientStack.jobString>
+
+  <UT_HackBiocodedThings.label>hack biocoded things</UT_HackBiocodedThings.label>
+  <UT_HackBiocodedThings.description>Attempt to remove biocoding from weapons and equipment to make it usable.</UT_HackBiocodedThings.description>
+  <UT_HackBiocodedThings.jobString>hacking biocoded things.</UT_HackBiocodedThings.jobString>
+
+  <UT_WipeFilledCorticalStack.label>wipe cortical stack</UT_WipeFilledCorticalStack.label>
+  <UT_WipeFilledCorticalStack.description>Wipe a cortical stack and remove the pawn stored on it.</UT_WipeFilledCorticalStack.description>
+  <UT_WipeFilledCorticalStack.jobString>wiping cortical stack.</UT_WipeFilledCorticalStack.jobString>
+
+  <UT_HackFilledCorticalStack.label>hack cortical stack</UT_HackFilledCorticalStack.label>
+  <UT_HackFilledCorticalStack.description>Convert a cortical stack to the players faction.</UT_HackFilledCorticalStack.description>
+  <UT_HackFilledCorticalStack.jobString>hacking cortical stack.</UT_HackFilledCorticalStack.jobString>
+
+
+</LanguageData>
