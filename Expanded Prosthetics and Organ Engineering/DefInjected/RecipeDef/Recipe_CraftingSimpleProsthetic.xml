@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateSimpleProstheticLeg.label>Stwórz prostą protezę nogi</CreateSimpleProstheticLeg.label>
+  <CreateSimpleProstheticLeg.description>Stwórz prostą proteze nogi z metalu, super stali i komponentów.</CreateSimpleProstheticLeg.description>
+  <CreateSimpleProstheticLeg.jobString>Tworzy prostą protezę nogi.</CreateSimpleProstheticLeg.jobString>
+  
+  <CreateSimpleProstheticArm.label>Stwórz prostą protezę ramienia</CreateSimpleProstheticArm.label>
+  <CreateSimpleProstheticArm.description>Stwórz prostą protezę ramienia z metalu, super stali i komponentów.</CreateSimpleProstheticArm.description>
+  <CreateSimpleProstheticArm.jobString>Tworzy prostą protezę ramienia.</CreateSimpleProstheticArm.jobString>
+  
+  <CreateSimpleProstheticHand.label>Stwórz prostą protezę dłoni</CreateSimpleProstheticHand.label>
+  <CreateSimpleProstheticHand.description>Stwórz prostą protezę dłoni z metalu, super stali i komponentów.</CreateSimpleProstheticHand.description>
+  <CreateSimpleProstheticHand.jobString>Tworzy prostą protezę dłoni.</CreateSimpleProstheticHand.jobString>
+  
+  <CreateSimpleProstheticFoot.label>Stwórz prostą protezę nogi</CreateSimpleProstheticFoot.label>
+  <CreateSimpleProstheticFoot.description>Stwórz prostą protezę nogi z metalu, super stali i komponentów</CreateSimpleProstheticFoot.description>
+  <CreateSimpleProstheticFoot.jobString>Tworzy prostą protezę nogi.</CreateSimpleProstheticFoot.jobString>
+  
+  <CreateArtificialNose.label>Stwórz sztuczny nos</CreateArtificialNose.label>
+  <CreateArtificialNose.description>Stwórz sztuczny nos z super stali.</CreateArtificialNose.description>
+  <CreateArtificialNose.jobString>Tworzy sztuczny nos.</CreateArtificialNose.jobString>
+
+  <CreateCochlearImplant.label>Stwórz implant ślimakowy</CreateCochlearImplant.label>
+  <CreateCochlearImplant.description>Stwórz implant ślimakowy z super stali.</CreateCochlearImplant.description>
+  <CreateCochlearImplant.jobString>Tworzy implant śliniankowy.</CreateCochlearImplant.jobString>
+
+  <CreateHydraulicJaw.label>Stwórz hydrauliczną szczękę</CreateHydraulicJaw.label>
+  <CreateHydraulicJaw.description>Stwórz hydrauliczną szczękę z metalu i super stali.</CreateHydraulicJaw.description>
+  <CreateHydraulicJaw.jobString>Tworzy hydrauliczną szczękę.</CreateHydraulicJaw.jobString>
+
+  <CreateGoldenEye.label>Złote oko</CreateGoldenEye.label>
+  <CreateGoldenEye.description>Sztabka złota + młotek = złote oko</CreateGoldenEye.description>
+  <CreateGoldenEye.jobString>Tworzy złote oko.</CreateGoldenEye.jobString>
+
+  <CreateLightReceptor.label>Stwórz receptor światła</CreateLightReceptor.label>
+  <CreateLightReceptor.description>Stwórz receptor światła z super stali i komponentów.</CreateLightReceptor.description>
+  <CreateLightReceptor.jobString>Tworzy receptor światła.</CreateLightReceptor.jobString>
+
+  <CreateArtificialPelvis.label>Stwórz sztuczną miednicę</CreateArtificialPelvis.label>
+  <CreateArtificialPelvis.description>Stwórz sztuczną miednicę z metalu i super stali.</CreateArtificialPelvis.description>
+  <CreateArtificialPelvis.jobString>Tworzy sztuczną miednicę.</CreateArtificialPelvis.jobString>
+  
+  <CreateArtificialClavicle.label>Stwórz sztuczny obojczyk</CreateArtificialClavicle.label>
+  <CreateArtificialClavicle.description>Stwórz sztuczny obojczyk ze stali.</CreateArtificialClavicle.description>
+  <CreateArtificialClavicle.jobString>Toworzy sztuczny obojczyk.</CreateArtificialClavicle.jobString>
+
+
+</LanguageData>

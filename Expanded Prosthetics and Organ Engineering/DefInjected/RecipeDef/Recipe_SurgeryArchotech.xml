@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallMuscleStimulatorArms.label>Zainstaluj stymulator mięśni</InstallMuscleStimulatorArms.label>
+  <InstallMuscleStimulatorArms.description>Zainstaluj stymulator mięśni.</InstallMuscleStimulatorArms.description>
+  <InstallMuscleStimulatorArms.jobString>Instaluje stymulator mięśni.</InstallMuscleStimulatorArms.jobString>
+
+  <RemoveMuscleStimulatorArms.label>Usuń stymulator mięśni</RemoveMuscleStimulatorArms.label>
+  <RemoveMuscleStimulatorArms.description>Usuń stymulator mięśni.</RemoveMuscleStimulatorArms.description>
+  <RemoveMuscleStimulatorArms.jobString>Usuwa stymulator mięśni.</RemoveMuscleStimulatorArms.jobString>
+
+  <InstallMuscleStimulatorLegs.label>Zainstaluj stymulator mięśni</InstallMuscleStimulatorLegs.label>
+  <InstallMuscleStimulatorLegs.description>Zainstaluj stymulator mięśni.</InstallMuscleStimulatorLegs.description>
+  <InstallMuscleStimulatorLegs.jobString>Instaluje stymulator mięśni.</InstallMuscleStimulatorLegs.jobString>
+
+  <RemoveMuscleStimulatorLegs.label>Usuń stymulator mięśni</RemoveMuscleStimulatorLegs.label>
+  <RemoveMuscleStimulatorLegs.description>Usuń stymulator mięśni.</RemoveMuscleStimulatorLegs.description>
+  <RemoveMuscleStimulatorLegs.jobString>Usuwa stymulator mięśni.</RemoveMuscleStimulatorLegs.jobString>
+
+  <InstallTacticalCorneaImplant.label>Zainstaluj taktyczny implant rogówki</InstallTacticalCorneaImplant.label>
+  <InstallTacticalCorneaImplant.description>Zainstaluj taktyczny implant rogówki.</InstallTacticalCorneaImplant.description>
+  <InstallTacticalCorneaImplant.jobString>Instaluje taktyczny implant rogówki.</InstallTacticalCorneaImplant.jobString>
+
+  <RemoveTacticalCorneaImplant.label>Usuń taktyczny implant rogówki</RemoveTacticalCorneaImplant.label>
+  <RemoveTacticalCorneaImplant.description>Usuń taktyczny implant rogówki.</RemoveTacticalCorneaImplant.description>
+  <RemoveTacticalCorneaImplant.jobString>Usuwa taktyczny implant rogówki.</RemoveTacticalCorneaImplant.jobString>
+
+  <InstallConstructorCore.label>Zainstaluj przewodnika AI (budowniczy)</InstallConstructorCore.label>
+  <InstallConstructorCore.description>Zainstaluj przewodnika AI (budowniczy).</InstallConstructorCore.description>
+  <InstallConstructorCore.jobString>Instaluje przewodnika AI (budowniczy).</InstallConstructorCore.jobString>
+
+  <RemoveConstructorCore.label>Usuń przewodnika AI (budowniczy)</RemoveConstructorCore.label>
+  <RemoveConstructorCore.description>Usuń przewodnika AI (budowniczy).</RemoveConstructorCore.description>
+  <RemoveConstructorCore.jobString>Usuwa przewodnika AI (budowniczy).</RemoveConstructorCore.jobString>
+
+  <InstallFarmerCore.label>Zainstaluj przewodnika AI (rolniczy)</InstallFarmerCore.label>
+  <InstallFarmerCore.description>Zainstaluj przewodnika AI (rolniczy).</InstallFarmerCore.description>
+  <InstallFarmerCore.jobString>Instaluje przewodnika AI (rolniczy).</InstallFarmerCore.jobString>
+
+  <RemoveFarmerCore.label>Usuń przewodnika AI (rolniczy)</RemoveFarmerCore.label>
+  <RemoveFarmerCore.description>Usuń przewodnika AI (rolniczy).</RemoveFarmerCore.description>
+  <RemoveFarmerCore.jobString>Usuwa przewodnika AI (rolniczy).</RemoveFarmerCore.jobString>
+
+  <InstallMinerCore.label>Zainstaluj przewodnika AI (górniczy)</InstallMinerCore.label>
+  <InstallMinerCore.description>Zainstaluj przewodnika AI (górniczy).</InstallMinerCore.description>
+  <InstallMinerCore.jobString>Instaluje przewodnika AI (górniczy).</InstallMinerCore.jobString>
+
+  <RemoveMinerCore.label>Usuń przewodnika AI (górniczy)</RemoveMinerCore.label>
+  <RemoveMinerCore.description>Usuń przewodnika AI (górniczy).</RemoveMinerCore.description>
+  <RemoveMinerCore.jobString>Usuwa przewodnika AI (górniczy).</RemoveMinerCore.jobString>
+
+  <InstallDoctorCore.label>Zainstaluj przewodnika AI (medyczny)</InstallDoctorCore.label>
+  <InstallDoctorCore.description>Zainstaluj przewodnika AI (medyczny).</InstallDoctorCore.description>
+  <InstallDoctorCore.jobString>Instaluje przewodnika AI (medyczny).</InstallDoctorCore.jobString>
+
+  <RemoveDoctorCore.label>Usuń przewodnika AI (medyczny)</RemoveDoctorCore.label>
+  <RemoveDoctorCore.description>Usuń przewodnika AI (medyczny).</RemoveDoctorCore.description>
+  <RemoveDoctorCore.jobString>Usuwa przewodnika AI (medyczny).</RemoveDoctorCore.jobString>
+
+  <InstallDiplomatCore.label>Zainstaluj przewodnika AI (dyplomatyczny)</InstallDiplomatCore.label>
+  <InstallDiplomatCore.description>Zainstaluj przewodnika AI (dyplomatyczny).</InstallDiplomatCore.description>
+  <InstallDiplomatCore.jobString>Instaluje przewodnika AI (dyplomatyczny).</InstallDiplomatCore.jobString>
+
+  <RemoveDiplomatCore.label>Usuń przewodnika AI (dyplomatyczny)</RemoveDiplomatCore.label>
+  <RemoveDiplomatCore.description>Usuń przewodnika AI (dyplomatyczny).</RemoveDiplomatCore.description>
+  <RemoveDiplomatCore.jobString>Usuwa przewodnika AI (dyplomatyczny).</RemoveDiplomatCore.jobString>
+
+
+</LanguageData>

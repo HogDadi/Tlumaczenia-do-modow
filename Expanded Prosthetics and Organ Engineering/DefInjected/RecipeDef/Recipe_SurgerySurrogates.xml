@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <RecipeDef ParentName="SurgerySurrogate">
+		<defName>InstallSimpleProstheticHeart</defName>
+		<label>install surrogate heart</label>
+		<description>Installs an surrogate heart.</description>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>5</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>SimpleProstheticHeart</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>SimpleProstheticHeart</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Heart</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>SimpleProstheticHeart</addsHediff>
+	</RecipeDef> -->
+
+  <InstallBrainStimulator.label>Zainstaluj stymulator mózgu</InstallBrainStimulator.label>
+  <InstallBrainStimulator.description>Zainstaluj stymulator mózgu.</InstallBrainStimulator.description>
+  <InstallBrainStimulator.jobString>Instaluje zastępczy organ.</InstallBrainStimulator.jobString>
+
+  <InstallSurrogateLung.label>Zainstaluj zastępcze płuco</InstallSurrogateLung.label>
+  <InstallSurrogateLung.description>Zainstaluj zastępcze płuco.</InstallSurrogateLung.description>
+  <InstallSurrogateLung.jobString>Instaluje zastępczy organ.</InstallSurrogateLung.jobString>
+
+  <InstallSurrogateStomach.label>Zainstaluj zastępczy żołądek</InstallSurrogateStomach.label>
+  <InstallSurrogateStomach.description>Zainstaluj zastępczy żołądek.</InstallSurrogateStomach.description>
+  <InstallSurrogateStomach.jobString>Instaluje zastępczy organ.</InstallSurrogateStomach.jobString>
+
+  <InstallSurrogateLiver.label>Zainstaluj zastępczą wątrobę</InstallSurrogateLiver.label>
+  <InstallSurrogateLiver.description>Zainstaluj zastępczą wątrobę.</InstallSurrogateLiver.description>
+  <InstallSurrogateLiver.jobString>Instaluje zastępczy organ.</InstallSurrogateLiver.jobString>
+
+  <InstallSurrogateKidney.label>Zainstaluj zastępczą nerkę</InstallSurrogateKidney.label>
+  <InstallSurrogateKidney.description>Zainstaluj zastępczą nerkę.</InstallSurrogateKidney.description>
+  <InstallSurrogateKidney.jobString>Instaluje zastępczy organ.</InstallSurrogateKidney.jobString>
+
+
+</LanguageData>

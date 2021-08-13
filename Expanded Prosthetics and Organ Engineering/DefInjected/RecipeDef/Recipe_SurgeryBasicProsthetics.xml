@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallSteelArm.label>Przyszyj stalowe ramię</InstallSteelArm.label>
+  <InstallSteelArm.description>Przyszyj stalowe ramię.</InstallSteelArm.description>
+  <InstallSteelArm.jobString>Przyszywa stalowe ramię.</InstallSteelArm.jobString>
+  
+  <InstallEyePatch.label>Załóż przepaskę na oko</InstallEyePatch.label>
+  <InstallEyePatch.description>Załóż przepaskę na oko.</InstallEyePatch.description>
+  <InstallEyePatch.jobString>Zakłada przepaskę na oko.</InstallEyePatch.jobString>
+  
+  <InstallHookHand.label>Przyszyj rękę hak</InstallHookHand.label>
+  <InstallHookHand.description>Przyszyj rękę hak.</InstallHookHand.description>
+  <InstallHookHand.jobString>Przyszywa rękę hak.</InstallHookHand.jobString>
+  
+  <InstallDenture.label>Zainstaluj drewnianą szczękę</InstallDenture.label>
+  <InstallDenture.description>Zainstaluj drewnianą szczękę.</InstallDenture.description>
+  <InstallDenture.jobString>Instaluje drewnianą szczękę.</InstallDenture.jobString>
+  
+  <InstallWoodenFoot.label>Zainstaluj drewnianą stopę</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Zainstaluj drewnianą stopę.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Instaluje drewnianą stopę.</InstallWoodenFoot.jobString>
+  
+  <InstallPegLeg.label>Zainstaluj drewnianą nogę</InstallPegLeg.label>
+  <InstallPegLeg.description>Zainstaluj drewnianą nogę.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Instaluje drewnianą nogę.</InstallPegLeg.jobString>
+  
+  <InstallEarBandage.label>Zabandażuj ucho</InstallEarBandage.label>
+  <InstallEarBandage.description>Zabandażuj ucho.</InstallEarBandage.description>
+  <InstallEarBandage.jobString>Bandażuje ucho.</InstallEarBandage.jobString>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableOrgans.label>Drukarka tkankowa</TableOrgans.label>
+  <TableOrgans.description>Stanowisko robocze wyposażone w drukarkę 3D do wykonywania organów.</TableOrgans.description>
+
+  <TableProsthetics.label>Stół protetyczny</TableProsthetics.label>
+  <TableProsthetics.description>Stół warsztatowy przystosowany do produkcji wszelkiego rodzaju protez.</TableProsthetics.description>
+
+
+</LanguageData>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <RecipeDef ParentName="SurgerySyntheticVanilla">
+		<defName>InstallJoywire</defName>
+		<label>install joywire</label>
+		<description>Installs joywire.</description>
+		<workerClass>Recipe_InstallImplant</workerClass>
+		<jobString>Installing joywire.</jobString>
+		<workAmount>2000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>7</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Joywire</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>Joywire</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Brain</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>Joywire</addsHediff>
+		<researchPrerequisite>AdvancedBrainSurgery</researchPrerequisite>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySyntheticVanilla">
+		<defName>InstallPainstopper</defName>
+		<label>install painstopper</label>
+		<description>Installs painstopper.</description>
+		<workerClass>Recipe_InstallImplant</workerClass>
+		<jobString>Installing painstopper.</jobString>
+		<workAmount>2000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>7</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Painstopper</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>Painstopper</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Brain</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>Painstopper</addsHediff>
+		<researchPrerequisite>BrainSurgery</researchPrerequisite>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="SurgerySynthetic">
+		<defName>InstallBionicHeart</defName>
+		<label>install synthetic heart</label>
+		<description>Installs a synthetic heart.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing an synthetic heart.</jobString>
+		<workAmount>1000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>5</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>BionicHeart</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>BionicHeart</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Heart</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>BionicHeart</addsHediff>
+	</RecipeDef> -->
+
+  <InstallAIChip.label>Zainstaluj chip AI</InstallAIChip.label>
+  <InstallAIChip.description>Zainstaluj chip AI.</InstallAIChip.description>
+  <InstallAIChip.jobString>Instaluja chip AI</InstallAIChip.jobString>
+
+  <InstallAIPersonaCore.label>Zainstaluj rdzeń osobowy AI</InstallAIPersonaCore.label>
+  <InstallAIPersonaCore.description>Zainstaluj rdzeń osobowy AI.</InstallAIPersonaCore.description>
+  <InstallAIPersonaCore.jobString>Instaluje rdzeń osobowy AI</InstallAIPersonaCore.jobString>
+
+  <InstallSyntheticLung.label>Zainstaluj syntetyczne płuco</InstallSyntheticLung.label>
+  <InstallSyntheticLung.description>Zainstaluj syntetyczne płuco.</InstallSyntheticLung.description>
+  <InstallSyntheticLung.jobString>Instaluje syntetyczne płuco</InstallSyntheticLung.jobString>
+  
+
+  <InstallBionicStomach.label>Zainstaluj syntetyczny żołądek</InstallBionicStomach.label>
+  <InstallBionicStomach.description>Zainstaluj syntetyczny żołądek.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>Instaluje syntetyczny żołądek.</InstallBionicStomach.jobString>
+
+  <InstallSyntheticLiver.label>Zainstaluj syntetyczną wątrobę</InstallSyntheticLiver.label>
+  <InstallSyntheticLiver.description>Zainstaluj syntetyczną wątrobę.</InstallSyntheticLiver.description>
+  <InstallSyntheticLiver.jobString>Instaluje syntetyczną wątrobę</InstallSyntheticLiver.jobString>
+
+  <InstallSyntheticKidney.label>Zainstaluj syntetyczną nerkę</InstallSyntheticKidney.label>
+  <InstallSyntheticKidney.description>Zainstaluj syntetyczną nerkę.</InstallSyntheticKidney.description>
+  <InstallSyntheticKidney.jobString>Instaluje syntetyczną nerkę</InstallSyntheticKidney.jobString>
+
+</LanguageData>

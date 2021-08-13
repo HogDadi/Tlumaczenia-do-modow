@@ -1,11 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-		
-    <BrainStimulator.label>Stymulator mózgu</BrainStimulator.label>
-    <SurrogateLung.label>Sztuczne płuco</SurrogateLung.label>
-    <SurrogateStomach.label>Sztuczny żołądek</SurrogateStomach.label>
-    <SurrogateLiver.label>Sztuczna wątroba</SurrogateLiver.label>
-    <SurrogateKidney.label>Sztuczna nerka</SurrogateKidney.label>
-    <SurrogateHeart.label>Sztuczne serce</SurrogateHeart.label>
-	
+
+  <!-- Added body parts -->
+
+  <BrainStimulator.label>Stymulator mózgu</BrainStimulator.label>
+  <BrainStimulator.description>Zainstalowny stymulator mózgu.</BrainStimulator.description>
+
+  <SurrogateLung.label>Sztuczne płuco</SurrogateLung.label>
+  <SurrogateLung.description>Zainstalowane sztuczne płuco.</SurrogateLung.description>
+
+  <SurrogateStomach.label>Sztuczny żołąde</SurrogateStomach.label>
+  <SurrogateStomach.description>Zainstalowany sztuczny żołądek.</SurrogateStomach.description>
+
+  <SurrogateLiver.label>Sztuczna wątrob</SurrogateLiver.label>
+  <SurrogateLiver.description>Zainstalowana sztuczna wątroba.</SurrogateLiver.description>
+
+  <SurrogateKidney.label>Sztuczna nerka</SurrogateKidney.label>
+  <SurrogateKidney.description>Zainstalowana sztuczna nerka.</SurrogateKidney.description>
+
+  <SimpleProstheticHeart.label>Sztuczne serce</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>Zainstalowane sztuczne serce.</SimpleProstheticHeart.description>
+
 </LanguageData>

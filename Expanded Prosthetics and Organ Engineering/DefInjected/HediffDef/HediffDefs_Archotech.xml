@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added implants -->
+
+  <MuscleStimulatorArms.label>Stymulator mięśni</MuscleStimulatorArms.label>
+  <MuscleStimulatorArms.description>Zainstalowany stymulator mięśni.</MuscleStimulatorArms.description>
+
+  <MuscleStimulatorLegs.label>Stymulator mięśni</MuscleStimulatorLegs.label>
+  <MuscleStimulatorLegs.description>Zainstalowany stymulator mięśni.</MuscleStimulatorLegs.description>
+
+  <TacticalCorneaImplant.label>Taktyczny implant rogówki</TacticalCorneaImplant.label>
+  <TacticalCorneaImplant.description>Zainstalowany taktyczny implant rogówki.</TacticalCorneaImplant.description>
+
+  <ConstructorCore.label>Przewodnik AI (budowniczy)</ConstructorCore.label>
+  <ConstructorCore.description>Zainstalowany budowniczy przewodnik AI.</ConstructorCore.description>
+
+  <FarmerCore.label>Przewodnik AI (rolniczy)</FarmerCore.label>
+  <FarmerCore.description>Zainstalowany rolniczy przewodnik AI.</FarmerCore.description>
+
+  <MinerCore.label>Przewodnik AI (górnczy)</MinerCore.label>
+  <MinerCore.description>Zainstalowany górniczy przewodnik AI.</MinerCore.description>
+
+  <DoctorCore.label>Przewodnik AI (medyczny)</DoctorCore.label>
+  <DoctorCore.description>Zainstalowany medyczny przewodnik AI.</DoctorCore.description>
+
+  <DiplomatCore.label>Przewodnik AI (dyplomatyczny)</DiplomatCore.label>
+  <DiplomatCore.description>Zainstalowany dyplomatyczny przewodnik AI.</DiplomatCore.description>
+
+
+</LanguageData>

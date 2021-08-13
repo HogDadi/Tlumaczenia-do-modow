@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoreTakeover.label>Przejęcie rdzenia AI</CoreTakeover.label>
+  <CoreTakeover.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] przytłoczon{PAWM_gender ? y : a} przez AI.</CoreTakeover.rulePack.rulesStrings.0>
+  <CoreTakeover.rulePack.rulesStrings.1>image->[PAWN_nameFull] wpada w szał [circumstance_group]</CoreTakeover.rulePack.rulesStrings.1>
+  <CoreTakeover.rulePack.rulesStrings.2>image->[PAWN_nameFull] staje się brutalnie szalon{PAWM_gender ? y : a} [circumstance_group]</CoreTakeover.rulePack.rulesStrings.2>
+  <CoreTakeover.rulePack.rulesStrings.3>image->[PAWN_nameFull] potyka się z psychotycznym wyrazem twarzy [circumstance_group]</CoreTakeover.rulePack.rulesStrings.3>
+  <CoreTakeover.rulePack.rulesStrings.4>circumstance_phrase->podczas rozbierania się</CoreTakeover.rulePack.rulesStrings.4>
+  <CoreTakeover.rulePack.rulesStrings.5>circumstance_phrase-z desperackim wyrazem twarzy</CoreTakeover.rulePack.rulesStrings.5>
+  <CoreTakeover.rulePack.rulesStrings.6>circumstance_phrase->jak inni kulą się ze strachu</CoreTakeover.rulePack.rulesStrings.6>
+  <CoreTakeover.rulePack.rulesStrings.7>circumstance_phrase->jak przyjaciel ucieka</CoreTakeover.rulePack.rulesStrings.7>
+  <CoreTakeover.rulePack.rulesStrings.8>circumstance_phrase->przez rdzeń AI</CoreTakeover.rulePack.rulesStrings.8>
+  <CoreTakeover.rulePack.rulesStrings.9>circumstance_phrase->próbując z tym walczyć</CoreTakeover.rulePack.rulesStrings.9>
+  <CoreTakeover.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun] w swojej głowie traci kontrolę nad AI.</CoreTakeover.rulePack.rulesStrings.10>
+  <CoreTakeover.rulePack.rulesStrings.11>desc_sentence->[PAWN_possessive] zęby obnażone w śmiertelnym warczeniu.</CoreTakeover.rulePack.rulesStrings.11>
+  <CoreTakeover.rulePack.rulesStrings.12>desc_sentence->[PAWN_possessive] oczy świecą się na czerwono.</CoreTakeover.rulePack.rulesStrings.12>
+  <CoreTakeover.rulePack.rulesStrings.13>desc_sentence->Spittle wylatuje z [PAWN_possessive] ust , gdy [PAWN_nameFull] krzyczy z szaloną wściekłością i bólem.</CoreTakeover.rulePack.rulesStrings.13>
+  <CoreTakeover.rulePack.rulesStrings.14>desc_sentence->[PAWN_nameDef] straci{PAWM_gender ? ł : ła} część swojego stroju.</CoreTakeover.rulePack.rulesStrings.14>
+  <CoreTakeover.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef] krzywi się z żalu.</CoreTakeover.rulePack.rulesStrings.15>
+  <CoreTakeover.rulePack.rulesStrings.16>desc_sentence->[PAWN_nameDef] straci{PAWM_gender ? ł : ła} kontrolę nad swoim ciałem.</CoreTakeover.rulePack.rulesStrings.16>
+  <CoreTakeover.rulePack.rulesStrings.17>desc_sentence->[PAWN_nameDef] jest przedstawiony z warczącą twarzą [Animal].</CoreTakeover.rulePack.rulesStrings.17>
+  <CoreTakeover.rulePack.rulesStrings.18>desc_sentence->[Animal] symbolicznie otacza głowę [PAWN_nameDef].</CoreTakeover.rulePack.rulesStrings.18>
+  <CoreTakeover.rulePack.rulesStrings.19>desc_sentence->[PAWN_nameDef] ma morderczy błysk w oku.</CoreTakeover.rulePack.rulesStrings.19>
+  <CoreTakeover.rulePack.rulesStrings.20>desc_sentence->całe ciało [PAWN_nameDef] drży z nienawiści.</CoreTakeover.rulePack.rulesStrings.20>
+  <CoreTakeover.rulePack.rulesStrings.21>desc_sentence->twarz [PAWN_nameDef] ma wyraz pokręconego spokoju.</CoreTakeover.rulePack.rulesStrings.21>
+  <CoreTakeover.rulePack.rulesStrings.22>desc_sentence->Pojedyncza łza spływa po twarzy [PAWN_nameDef].</CoreTakeover.rulePack.rulesStrings.22>
+
+
+</LanguageData>

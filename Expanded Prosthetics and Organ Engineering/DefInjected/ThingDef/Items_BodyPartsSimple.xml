@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <GoldenEye.label>Złote oko</GoldenEye.label>
+  <GoldenEye.description>Zastępuje brakujące oko. Jest tak nieprawdopodobnie piękne, aż szkoda, że nie widzisz się w lustrze.</GoldenEye.description>
+
+  <ArtificialNose.label>Sztuczny nos</ArtificialNose.label>
+  <ArtificialNose.description>Zastępuje brakujący nos. Zakrywa dziure w twarzy.</ArtificialNose.description>
+
+  <CochlearImplant.label>Implant ślimakowy</CochlearImplant.label>
+  <CochlearImplant.description>Implant zastępujący normalny słuch. Zewnętrzny mikrofon przesyła sygnał dźwiękowy do elektrod owiniętych wokół nerwów słuchowych ucha wewnętrznego. Elektrody stymulują nerwy zgodnie z dźwiękiem, tworząc wrażenie słuchu. To nie jest tak dobre jak naturalne ucho, ale o wiele lepsze niż bycie głuchym.</CochlearImplant.description>
+
+  <HydraulicJaw.label>Hydrauliczna szczęka</HydraulicJaw.label>
+  <HydraulicJaw.description>Zastępuje brakującą szczęke. Bądź ostrożny z tak wydajnymi zębami!</HydraulicJaw.description>
+
+  <LightReceptor.label>Receptor światła</LightReceptor.label>
+  <LightReceptor.description>Zastępuje brakujące oko. Potrafi wykrywać światło, a nawet przedmioty. Jak patrzenie przez matowe szkło, ale bez kolorów.</LightReceptor.description>
+
+  <SimpleProstheticHand.label>Prosta proteza dłoni</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>Zastępuje brakującą dłoń. O wiele bardziej komfortowa niż ta zakończona hakiem.</SimpleProstheticHand.description>
+
+  <SimpleProstheticFoot.label>Prosta proteza stopy</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>Zastępuje brakującą stopę. Nie tak tania jak ta drewniana.</SimpleProstheticFoot.description>
+
+  <SimpleProstheticLeg.label>Prosta proteza nogi</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Zastępuje brakującą nogę. Niezbyt wygodna, ale cicha. </SimpleProstheticLeg.description>
+
+  <SimpleProstheticArm.label>Prosta proteza ramienia</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>Prosta, ale trwała!</SimpleProstheticArm.description>
+
+   <ArtificialPelvis.label>Sztuczna miednica</ArtificialPelvis.label>
+   <ArtificialPelvis.description>Zastępuje brakującą miednicę. Bardzo użyteczna, pod warunkiem, że pełzanie nie jest twoją ulubioną formą przemieszczania się.</ArtificialPelvis.description>
+
+  <ArtificialClavicle.label>Sztuczny obojczyk</ArtificialClavicle.label>
+  <ArtificialClavicle.description>Zastępuje brakujący obojczyk. Jeśli jakoś zdołasz złamać swój.</ArtificialClavicle.description>
+
+
+</LanguageData>

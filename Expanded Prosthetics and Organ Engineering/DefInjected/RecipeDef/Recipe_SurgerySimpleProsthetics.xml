@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EPOE -->
+
+  <InstallGoldenEye.label>Zainstaluj złote oko</InstallGoldenEye.label>
+  <InstallGoldenEye.description>Zainstaluj złote oko.</InstallGoldenEye.description>
+  <InstallGoldenEye.jobString>Instaluje złote oko</InstallGoldenEye.jobString>
+
+  <InstallLightReceptor.label>Zainstaluj receptor światła</InstallLightReceptor.label>
+  <InstallLightReceptor.description>Zainstaluj receptor światła.</InstallLightReceptor.description>
+  <InstallLightReceptor.jobString>Instaluje receptor światła.</InstallLightReceptor.jobString>
+
+  <InstallSimpleProstheticHand.label>Przyszyj prostą protezę dłoni</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Przyszywa prostą protezę dłoni.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>Przyszywa prostą protezę dłoni.</InstallSimpleProstheticHand.jobString>
+
+  <InstallSimpleProstheticFoot.label>Przyszyj prostą protezę stopy</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Przyszywa prostą protezę stopy.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>Przyszywa prostą protezę stopy.</InstallSimpleProstheticFoot.jobString>
+
+  <InstallArtificialNose.label>Przyszyj sztuczny nos</InstallArtificialNose.label>
+  <InstallArtificialNose.description>Przyszywa sztuczny nos.</InstallArtificialNose.description>
+  <InstallArtificialNose.jobString>Przyszywa sztuczny nos.</InstallArtificialNose.jobString>
+
+  <InstallHydraulicJaw.label>Zainstaluj hydrauliczną szczękę</InstallHydraulicJaw.label>
+  <InstallHydraulicJaw.description>Zainstaluj hydrauliczną szczękę.</InstallHydraulicJaw.description>
+  <InstallHydraulicJaw.jobString>Instaluje hydrauliczną szczękę.</InstallHydraulicJaw.jobString>
+
+  <InstallArtificialPelvis.label>Zainstaluj sztuczną miednicę</InstallArtificialPelvis.label>
+  <InstallArtificialPelvis.description>Zainstaluj sztuczną miednicę.</InstallArtificialPelvis.description>
+  <InstallArtificialPelvis.jobString>Instaluje sztuczną miednicę</InstallArtificialPelvis.jobString>
+
+  <InstallArtificialClavicle.label>Zainstaluj sztuczny obojczyk</InstallArtificialClavicle.label>
+  <InstallArtificialClavicle.description>Zainstaluj sztuczny obojczyk.</InstallArtificialClavicle.description>
+  <InstallArtificialClavicle.jobString>Instaluje sztuczny obojczyk.</InstallArtificialClavicle.jobString>
+
+
+</LanguageData>

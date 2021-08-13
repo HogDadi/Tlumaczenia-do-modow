@@ -1,11 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-		
-	<AIChip.label>Chip AI</AIChip.label>
-	<SyntheticLung.label>Syntetyczne płuco</SyntheticLung.label>
+
+  <!-- Added body parts -->
+
+  <AIChip.label>Czip AI</AIChip.label>
+  <AIChip.description>Zainstalowany chip AI.</AIChip.description>
+  <AIChip.labelNoun>Czip AI</AIChip.labelNoun>
+
+  <AIPersonaCore.label>Personalny czip AI</AIPersonaCore.label>
+  <AIPersonaCore.description>Zainstalowany personalny czip AI.</AIPersonaCore.description>
+  <AIPersonaCore.labelNoun>Personalny czip AI</AIPersonaCore.labelNoun>
+
+  <SyntheticLung.label>Syntetyczne płuco</SyntheticLung.label>
+  <SyntheticLung.description>Zainstalowane syntetyczne płuco.</SyntheticLung.description>
+  <SyntheticLung.labelNoun>Syntetyczne płuco</SyntheticLung.labelNoun>
+
 	<SyntheticStomach.label>Syntetyczny żołądek</SyntheticStomach.label>
+  <BionicStomach.description>Zainstalowany sysnetyczny żołądek.</BionicStomach.description>
+  <BionicStomach.labelNoun>Syntetyczny żołądek</BionicStomach.labelNoun>
+
 	<SyntheticLiver.label>Syntetyczna wątroba</SyntheticLiver.label>
+  <SyntheticLiver.description>Zainstalowana syntetyczna wątroba.</SyntheticLiver.description>
+  <SyntheticLiver.labelNoun>Syntetyczna wątroba</SyntheticLiver.labelNoun>
+
 	<SyntheticKidney.label>Syntetyczna nerka</SyntheticKidney.label>
-	<SyntheticHeart.label>Syntetyczne serce</SyntheticHeart.label>
-	
-</LanguageData>
+  <SyntheticKidney.description>Zainstalowana synetetyczna nerka.</SyntheticKidney.description>
+  <SyntheticKidney.labelNoun>Syntetyczna nerka</SyntheticKidney.labelNoun>
+
+  <SyntheticHeart.label>Syntetyczne serce</SyntheticHeart.label>
+  <BionicHeart.description>Zainstalowane synetetyczne serce.</BionicHeart.description>
+  <BionicHeart.labelNoun>Syntetyczne serce</BionicHeart.labelNoun>
+
+
+</LanguageData> 

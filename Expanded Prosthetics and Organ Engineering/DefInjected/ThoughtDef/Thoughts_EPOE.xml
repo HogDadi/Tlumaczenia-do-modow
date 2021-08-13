@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DruggedRibThought.stages.0.label>Żebro (medyczne)</DruggedRibThought.stages.0.label>
+  <DruggedRibThought.stages.0.description>Nie wiem dlaczego, ale jest mi dobrze.</DruggedRibThought.stages.0.description>
+
+  <SilentJawThought.stages.0.label>Cicha szczęka</SilentJawThought.stages.0.label>
+  <SilentJawThought.stages.0.description>Ja tylko chcę mówić! To jest okropne!</SilentJawThought.stages.0.description>
+
+  <CoreDepression.stages.0.label>Depresyjny rdzeń AI</CoreDepression.stages.0.label>
+  <CoreDepression.stages.0.description>Dlaczego ta rzecz w mojej głowie zmusiła mnie do ataku na moich przyjaciół? Chcę tylko, żeby przestało mieszać mi w głowie!</CoreDepression.stages.0.description>
+
+
+</LanguageData>

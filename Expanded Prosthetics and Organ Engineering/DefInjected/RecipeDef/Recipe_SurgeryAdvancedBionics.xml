@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallAdvancedPowerArm.label>Zainstaluj zaawansowane ramię mocy</InstallAdvancedPowerArm.label>
+  <InstallAdvancedPowerArm.description>Zainstaluj zaawansowane ramię mocy.</InstallAdvancedPowerArm.description>
+  <InstallAdvancedPowerArm.jobString>Instaluje zaawansowane ramię mocy.</InstallAdvancedPowerArm.jobString>
+
+  <InstallAdvancedPowerClaw.label>Zainstaluj zaawansowany pazur mocy</InstallAdvancedPowerClaw.label>
+  <InstallAdvancedPowerClaw.description>Zainstaluj zaawansowany pazur mocy.</InstallAdvancedPowerClaw.description>
+  <InstallAdvancedPowerClaw.jobString>Instaluje zaawansowany pazur mocy.</InstallAdvancedPowerClaw.jobString>
+
+  <InstallAdvancedBionicArm.label>Zainstaluj zaawansowane ramię bioniczne</InstallAdvancedBionicArm.label>
+  <InstallAdvancedBionicArm.description>Zainstaluj zaawansowane ramię bioniczne.</InstallAdvancedBionicArm.description>
+  <InstallAdvancedBionicArm.jobString>Instaluje zaawansowane ramię bionicznego.</InstallAdvancedBionicArm.jobString>
+
+  <InstallAdvancedBionicLeg.label>Zainstaluj zaawansowaną bioniczną nogę</InstallAdvancedBionicLeg.label>
+  <InstallAdvancedBionicLeg.description>Zainstaluj zaawansowaną bioniczną nogę.</InstallAdvancedBionicLeg.description>
+  <InstallAdvancedBionicLeg.jobString>Instaluje zaawansowaną bioniczną nogę.</InstallAdvancedBionicLeg.jobString>
+
+  <InstallAdvancedBionicHand.label>Zainstaluj zaawansowaną bioniczną rękę</InstallAdvancedBionicHand.label>
+  <InstallAdvancedBionicHand.description>Zainstaluj zaawansowaną bioniczną rękę.</InstallAdvancedBionicHand.description>
+  <InstallAdvancedBionicHand.jobString>Instaluje zaawansowaną bioniczną rękę.</InstallAdvancedBionicHand.jobString>
+
+  <InstallAdvancedBionicFoot.label>Zainstaluj zaawansowaną stopę bioniczną</InstallAdvancedBionicFoot.label>
+  <InstallAdvancedBionicFoot.description>Zainstaluj zaawansowaną bioniczną stopę.</InstallAdvancedBionicFoot.description>
+  <InstallAdvancedBionicFoot.jobString>Instaluje zaawansowaną bioniczną stopę.</InstallAdvancedBionicFoot.jobString>
+
+  <InstallAdvancedBionicEye.label>Zainstaluj zaawansowane bioniczne oko</InstallAdvancedBionicEye.label>
+  <InstallAdvancedBionicEye.description>Zainstaluj zaawansowane bioniczne oko.</InstallAdvancedBionicEye.description>
+  <InstallAdvancedBionicEye.jobString>Instaluje zaawansowane bioniczne oko.</InstallAdvancedBionicEye.jobString>
+
+  <InstallAdvancedBionicEar.label>Zainstaluj zaawansowany bioniczny implant ucha</InstallAdvancedBionicEar.label>
+  <InstallAdvancedBionicEar.description>Zainstaluj zaawansowany bioniczny implant ucha.</InstallAdvancedBionicEar.description>
+  <InstallAdvancedBionicEar.jobString>Instaluje zaawansowany bioniczny implant ucha.</InstallAdvancedBionicEar.jobString>
+
+  <InstallAdvancedBionicJaw.label>Zainstaluj zaawansowany bioniczny implant szczęki</InstallAdvancedBionicJaw.label>
+  <InstallAdvancedBionicJaw.description>Zainstaluj zaawansowaną bioniczną szczękę.</InstallAdvancedBionicJaw.description>
+  <InstallAdvancedBionicJaw.jobString>Instaluje zaawansowaną bioniczną szczękę.</InstallAdvancedBionicJaw.jobString>
+
+  <InstallAdvancedBionicSpine.label>Zainstaluj zaawansowany bioniczny implant kręgosłupa</InstallAdvancedBionicSpine.label>
+  <InstallAdvancedBionicSpine.description>Zainstaluj zaawansowany bioniczny kręgosłup.</InstallAdvancedBionicSpine.description>
+  <InstallAdvancedBionicSpine.jobString>Instaluje zaawansowany bioniczny kręgosłup.</InstallAdvancedBionicSpine.jobString>
+
+  <InstallExoskeletonSuit.label>Zainstaluj kombinezon egzoszkieletu</InstallExoskeletonSuit.label>
+  <InstallExoskeletonSuit.description>Zainstaluj kombinezon egzoszkieletu.</InstallExoskeletonSuit.description>
+  <InstallExoskeletonSuit.jobString>Instaluje kombinezon egzoszkieletu.</InstallExoskeletonSuit.jobString>
+
+  <RemoveExoskeletonSuit.label>usuń kombinezon egzoszkieletu</RemoveExoskeletonSuit.label>
+  <RemoveExoskeletonSuit.description>Usuń kombinezon egzoszkieletu.</RemoveExoskeletonSuit.description>
+  <RemoveExoskeletonSuit.jobString>Usuwa kombinezon egzoszkieletu.</RemoveExoskeletonSuit.jobString>
+
+</LanguageData>

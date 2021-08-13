@@ -1,13 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-		
-   <Stomach.label>Żołądek</Stomach.label>
-   <Heart.label>Serce</Heart.label>
-   <Nose.label>Nos</Nose.label>
-   <Arm.label>Ramię</Arm.label>
-   <Leg.label>Noga</Leg.label>
-   <Jaw.label>Szczęka</Jaw.label>
-   <Eye.label>Oko</Eye.label>
 
-	
+  <!-- Natural body parts -->
+
+  <Stomach.label>Żołądek</Stomach.label>
+  <Stomach.description>Żołądek.</Stomach.description>
+
+  <Heart.label>Serce</Heart.label>
+  <Heart.description>Serce.</Heart.description>
+
+  <Nose.label>Nos</Nose.label>
+  <Nose.description>nos.</Nose.description>
+
+  <Jaw.label>Szczęka</Jaw.label>
+  <Jaw.description>Szczęka</Jaw.description>
+
+  <Eye.label>Oko</Eye.label>
+  <Eye.description>Oko</Eye.description>
+
+  <Arm.label>Ramię</Arm.label>
+  <Arm.description>Ramię</Arm.description>
+
+  <Leg.label>Noga</Leg.label>
+  <Leg.description>Noga.</Leg.description>
+
+
 </LanguageData>

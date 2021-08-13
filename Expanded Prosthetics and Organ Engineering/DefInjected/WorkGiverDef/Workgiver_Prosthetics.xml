@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsTableOrgans.label>Drukuj organy</DoBillsTableOrgans.label>
+  <DoBillsTableOrgans.verb>wydrukować</DoBillsTableOrgans.verb>
+  <DoBillsTableOrgans.gerund>drukuje</DoBillsTableOrgans.gerund>
+
+  <DoBillsProstheticTable.label>Protetyka rzemieślnicza</DoBillsProstheticTable.label>
+  <DoBillsProstheticTable.verb>składać</DoBillsProstheticTable.verb>
+  <DoBillsProstheticTable.gerund>składanie</DoBillsProstheticTable.gerund>
+
+
+</LanguageData>

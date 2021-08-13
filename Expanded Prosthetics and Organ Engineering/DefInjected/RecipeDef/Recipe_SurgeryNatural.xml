@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EPOE -->
+
+  <InstallNaturalEye.label>Zainstaluj oko</InstallNaturalEye.label>
+  <InstallNaturalEye.description>Zainstaluj oko.</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>Instaluje oko.</InstallNaturalEye.jobString>
+
+  <InstallNaturalNose.label>Przyszyj nos</InstallNaturalNose.label>
+  <InstallNaturalNose.description>Przyszyj nos.</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>Przyszywa nos.</InstallNaturalNose.jobString>
+
+  <InstallNaturalEar.label>Przyszyj ucho</InstallNaturalEar.label>
+  <InstallNaturalEar.description>Przyszyj ucho.</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>Przyszywa ucho.</InstallNaturalEar.jobString>
+
+  <InstallNaturalJaw.label>Zainstaluj naturalną szczękę</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>Zainstaluj naturalną szczękę.</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>Instaluje naturalną szczękę.</InstallNaturalJaw.jobString>
+
+  <InstallNaturalArm.label>Przyszyj ramię</InstallNaturalArm.label>
+  <InstallNaturalArm.description>Przyszyj ramię.</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>Przyszywa ramię.</InstallNaturalArm.jobString>
+
+  <InstallNaturalLeg.label>Przyszy nogę</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>Przyszyj nogę.</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>Przyszywa nogę/</InstallNaturalLeg.jobString>
+
+  <InstallNaturalStomach.label>Zainstaluj żołądek</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>Zainstaluj żołądek.</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>Instaluje żołądek</InstallNaturalStomach.jobString>
+
+</LanguageData>

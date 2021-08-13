@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Removal Recipes -->
+
+  <RemoveBrainStimulator.label>Usuń stymulator mózgu</RemoveBrainStimulator.label>
+  <RemoveBrainStimulator.description>Usuń stymulator mózgu.</RemoveBrainStimulator.description>
+  <RemoveBrainStimulator.jobString>Usuwa stymulator mózgu.</RemoveBrainStimulator.jobString>
+  <RemoveBrainStimulator.successfullyRemovedHediffMessage>{0} pomyślnie usun{0_gender ? ął : ęła} stymulator mózgu {1}.</RemoveBrainStimulator.successfullyRemovedHediffMessage>
+
+  <RemoveAIChip.label>Usuń czip AI</RemoveAIChip.label>
+  <RemoveAIChip.description>Usuń czip AI.</RemoveAIChip.description>
+  <RemoveAIChip.jobString>Usuwa czip AI.</RemoveAIChip.jobString>
+  <RemoveAIChip.successfullyRemovedHediffMessage>{0} pomyślnie usun{0_gender ? ął : ęła} czip AI {1}.</RemoveAIChip.successfullyRemovedHediffMessage>
+
+  <RemoveMedicalRib.label>Usuń żebro medyczne</RemoveMedicalRib.label>
+  <RemoveMedicalRib.description>Usuń żebro medyczne.</RemoveMedicalRib.description>
+  <RemoveMedicalRib.jobString>Usuwa żebro medyczne.</RemoveMedicalRib.jobString>
+  <RemoveMedicalRib.successfullyRemovedHediffMessage>{0} pomyślnie usun{0_gender ? ął : ęła} żebro medyczne {1}</RemoveMedicalRib.successfullyRemovedHediffMessage>
+
+  <RemoveDruggedRib.label>Usuń żebro odurzające</RemoveDruggedRib.label>
+  <RemoveDruggedRib.description>Usuń żebro odurzające.</RemoveDruggedRib.description>
+  <RemoveDruggedRib.jobString>Usuwa żebro odurzające.</RemoveDruggedRib.jobString>
+  <RemoveDruggedRib.successfullyRemovedHediffMessage>{0} pomyślnie usun{0_gender ? ął : ęła} czip AI {1}</RemoveDruggedRib.successfullyRemovedHediffMessage>
+
+  <RemoveAdrenalineRib.label>Usuń żebro pobudzające</RemoveAdrenalineRib.label>
+  <RemoveAdrenalineRib.description>Usuń żebro pobudzające.</RemoveAdrenalineRib.description>
+  <RemoveAdrenalineRib.jobString>Usuwa żebro pobudzające.</RemoveAdrenalineRib.jobString>
+  <RemoveAdrenalineRib.successfullyRemovedHediffMessage>{0} pomyślnie usun{0_gender ? ął : ęła} czip AI {1}</RemoveAdrenalineRib.successfullyRemovedHediffMessage>
+
+  <RemovePainkillerRib.label>Usuń żebro przeciwbólowe</RemovePainkillerRib.label>
+  <RemovePainkillerRib.description>Usuń żebro przeciwbólowe.</RemovePainkillerRib.description>
+  <RemovePainkillerRib.jobString>Usuwa żebro przeciwbólowe.</RemovePainkillerRib.jobString>
+  <RemovePainkillerRib.successfullyRemovedHediffMessage>{0} pomyślnie usun{0_gender ? ął : ęła} czip AI {1}</RemovePainkillerRib.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

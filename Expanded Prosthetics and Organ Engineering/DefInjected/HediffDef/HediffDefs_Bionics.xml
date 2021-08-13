@@ -1,16 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-		
-   <PowerArm.label>Ramię mocy</PowerArm.label>
-   <BionicHand.label>Bioniczna ręka</BionicHand.label>
-   <BionicFoot.label>Bioniczna stopa</BionicFoot.label>
-   <BionicEar.label>Bioniczne ucho</BionicEar.label>
-   <BionicJaw.label>Bioniczna szczęka</BionicJaw.label>
-   <SilentJaw.label>Cicha szczęka</SilentJaw.label>
-   <BionicSpine.label>Bioniczny kręgosłup</BionicSpine.label>
-   <MedicalRib.label>Żebro medyczne</MedicalRib.label>
-   <DruggedRib.label>Żebro odurzające</DruggedRib.label>
-   <AdrenalineRib.label>Żebro z adrenaliną </AdrenalineRib.label>
-   <PainkillerRib.label>Żebro przeciwbólowe</PainkillerRib.label>
-   
+
+  <!-- Added body parts -->
+
+  <PowerArm.label>Ramię mocy</PowerArm.label>
+  <PowerArm.description>Zainstalowane remię mocy.</PowerArm.description>
+  <PowerArm.comps.0.tools.0.label>Bioniczna pięść</PowerArm.comps.0.tools.0.label>
+  <PowerArm.labelNoun>Ramię mocy</PowerArm.labelNoun>
+
+  <BionicHand.label>Bioniczna dłoń</BionicHand.label>
+  <BionicHand.description>Zainstalowana bioniczna dłoń.</BionicHand.description>
+  <BionicHand.comps.0.tools.0.label>Bioniczna pięść</BionicHand.comps.0.tools.0.label>
+  <BionicHand.labelNoun>Bioniczna dłoń</BionicHand.labelNoun>
+
+  <BionicFoot.label>Bioniczna stopa</BionicFoot.label>
+  <BionicFoot.description>Zaistalowna bioniczna stopa.</BionicFoot.description>
+  <BionicFoot.labelNoun>Bioniczna stopa</BionicFoot.labelNoun>
+
+  <BionicEar.label>Bioniczne ucho</BionicEar.label>
+  <BionicEar.description>Zainstalowane bioniczne ucho.</BionicEar.description>
+  <BionicEar.labelNoun>Bioniczne ucho</BionicEar.labelNoun>
+
+  <BionicJaw.label>Bioniczna szczęka</BionicJaw.label>
+  <BionicJaw.description>Zainstalowana bioniczna szczęka.</BionicJaw.description>
+  <BionicJaw.labelNoun>Bioniczna szczęka</BionicJaw.labelNoun>
+
+  <SilentJaw.label>Cicha szczęka</SilentJaw.label>
+  <SilentJaw.description>Zainstalowana cicha szczęka.</SilentJaw.description>
+  <SilentJaw.labelNoun>Cicha szczęka</SilentJaw.labelNoun>
+
+  <BionicSpine.label>Bioniczny kręgosłup</BionicSpine.label>
+  <BionicSpine.description>Zainstalwany bioniczny kręgosłup.</BionicSpine.description>
+  <BionicSpine.labelNoun>Bioniczny kręgosłup</BionicSpine.labelNoun>
+
+
+  <!-- Ribs -->
+
+  <MedicalRib.label>Żebro medyczne</MedicalRib.label>
+  <MedicalRib.description>Zainstalowane żebro medyczne.</MedicalRib.description>
+  <MedicalRib.labelNoun>Żebro medyczne</MedicalRib.labelNoun>
+
+  <DruggedRib.label>Żebro odurzające</DruggedRib.label>
+  <DruggedRib.description>Zainstalowane żebro odurzające.</DruggedRib.description>
+  <DruggedRib.labelNoun>Żebro odurzające</DruggedRib.labelNoun>
+
+  <AdrenalineRib.label>Żebro z adrenaliną</AdrenalineRib.label>
+  <AdrenalineRib.description>Zainstalowane żebro z adrenaliną.</AdrenalineRib.description>
+  <AdrenalineRib.labelNoun>Żebro z adrenaliną</AdrenalineRib.labelNoun>
+
+  <PainkillerRib.label>Żebro przeciwbólowe</PainkillerRib.label>
+  <PainkillerRib.description>Zainstalowane żebro przeciwbólowe.</PainkillerRib.description>
+  <PainkillerRib.labelNoun>Żebro przeciwbólowe</PainkillerRib.labelNoun>
+
 </LanguageData>

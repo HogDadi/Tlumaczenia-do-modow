@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateAdvancedBionicEye.label>Ulepsz bioniczne oko</CreateAdvancedBionicEye.label>
+  <CreateAdvancedBionicEye.description>Ulepsz bioniczne oko vancidium.</CreateAdvancedBionicEye.description>
+  <CreateAdvancedBionicEye.jobString>Ulepsza bioniczne oko</CreateAdvancedBionicEye.jobString>
+  
+  <CreateAdvancedPowerClaw.label>Ulepsz pazur mocy</CreateAdvancedPowerClaw.label>
+  <CreateAdvancedPowerClaw.description>Ulepsz pazur mocy za pomocą zaawansowanych komponentów.</CreateAdvancedPowerClaw.description>
+  <CreateAdvancedPowerClaw.jobString>Ulepsza pazur mocy.</CreateAdvancedPowerClaw.jobString>
+  
+  <CreateAdvancedPowerArm.label>Ulepsz ramię mocy</CreateAdvancedPowerArm.label>
+  <CreateAdvancedPowerArm.description>Ulepsz ramię mocy vancidium.</CreateAdvancedPowerArm.description>
+  <CreateAdvancedPowerArm.jobString>Ulepsza ramię mocy</CreateAdvancedPowerArm.jobString>
+  
+  <CreateAdvancedBionicArm.label>Ulepsz bioniczne ramię</CreateAdvancedBionicArm.label>
+  <CreateAdvancedBionicArm.description>Ulepsz bioniczne ramię vancidium.</CreateAdvancedBionicArm.description>
+  <CreateAdvancedBionicArm.jobString>Ulepsza bioniczne ramię</CreateAdvancedBionicArm.jobString>
+  
+  <CreateAdvancedBionicHand.label>Ulepsz bioniczną dłoń</CreateAdvancedBionicHand.label>
+  <CreateAdvancedBionicHand.description>Ulepsz bioniczną dłoń vancidium.</CreateAdvancedBionicHand.description>
+  <CreateAdvancedBionicHand.jobString>Ulepsza bioniczną dłoń</CreateAdvancedBionicHand.jobString>
+  
+  <CreateAdvancedBionicFoot.label>Ulepsz bioniczną stopę</CreateAdvancedBionicFoot.label>
+  <CreateAdvancedBionicFoot.description>Ulepsz bioniczną stopę vancidium.</CreateAdvancedBionicFoot.description>
+  <CreateAdvancedBionicFoot.jobString>Ulepsza bioniczną stopę</CreateAdvancedBionicFoot.jobString>
+  
+  <CreateAdvancedBionicLeg.label>Ulepsz bioniczną nogę</CreateAdvancedBionicLeg.label>
+  <CreateAdvancedBionicLeg.description>Ulepsz bioniczną nogę vancidium.</CreateAdvancedBionicLeg.description>
+  <CreateAdvancedBionicLeg.jobString>Ulepsza bioniczną nogę</CreateAdvancedBionicLeg.jobString>
+  
+  <CreateAdvancedBionicJaw.label>Ulepsz bioniczną szczękę</CreateAdvancedBionicJaw.label>
+  <CreateAdvancedBionicJaw.description>Ulepsz bioniczną szczękę vancidium.</CreateAdvancedBionicJaw.description>
+  <CreateAdvancedBionicJaw.jobString>Ulepsza bioniczną szczękę</CreateAdvancedBionicJaw.jobString> 
+  
+  <CreateAdvancedBionicEar.label>Ulepsz bioniczne ucho</CreateAdvancedBionicEar.label>
+  <CreateAdvancedBionicEar.description>Ulepsz bioniczne ucho vancidium.</CreateAdvancedBionicEar.description>
+  <CreateAdvancedBionicEar.jobString>Ulepsza bioniczne ucho</CreateAdvancedBionicEar.jobString>
+  
+  <CreateAdvancedBionicSpine.label>Ulepsz bioniczny kręgosłup</CreateAdvancedBionicSpine.label>
+  <CreateAdvancedBionicSpine.description>Ulepsz bioniczny kręgosłup vancidium.</CreateAdvancedBionicSpine.description>
+  <CreateAdvancedBionicSpine.jobString>Ulepsza bioniczny kręgosłup</CreateAdvancedBionicSpine.jobString>
+  
+  <CreateExoskeletonSuit.label>Stwórz egzoszkielet</CreateExoskeletonSuit.label>
+  <CreateExoskeletonSuit.description>Stwórz egzoszkielet z metalu i superstali. Wymaga drukarki 3D i odpowiednio dużej ilości czasu.</CreateExoskeletonSuit.description>
+  <CreateExoskeletonSuit.jobString>Tworzy egzoszkielet</CreateExoskeletonSuit.jobString>
+
+</LanguageData>

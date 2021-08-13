@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Special mental states not from mental breaks -->
+
+  <WanderConfusedCore.label>zdezorientowana wędrówka</WanderConfusedCore.label>
+  <WanderConfusedCore.beginLetter>Umysł {0} jest zalewany okropnymi obrazami i dźwiękami przez personalny rdzeń AI.</WanderConfusedCore.beginLetter>
+  <WanderConfusedCore.beginLetterLabel>dezorientacja</WanderConfusedCore.beginLetterLabel>
+  <WanderConfusedCore.recoveryMessage>Rdzeń persony AI użytkownika {0} został zawarty.</WanderConfusedCore.recoveryMessage>
+  <WanderConfusedCore.baseInspectLine>Stan psychiczny: Zdezorientowany i błądzący</WanderConfusedCore.baseInspectLine>
+
+
+  <!-- <MentalBreakDef>
+    <defName>BerserkCore</defName>
+    <mentalState>BerserkCore</mentalState>
+    <baseCommonality>1</baseCommonality>
+    <intensity>Extreme</intensity>
+  </MentalBreakDef>
+  <MentalStateDef ParentName="BaseMentalState">
+    <defName>BerserkCore</defName>
+    <stateClass>MentalState_Berserk</stateClass>
+    <label>AI takeover</label>
+    <category>Aggro</category>
+    <moodRecoveryThought>CoreDepression</moodRecoveryThought>
+    <blockNormalThoughts>true</blockNormalThoughts>
+    <nameColor>(0.9,0.2,0.5)</nameColor>
+    <beginLetter>{0}'s AI persona core has assumed direct control!\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees.</beginLetter>
+    <beginLetterDef>ThreatSmall</beginLetterDef>
+    <minTicksBeforeRecovery>10000</minTicksBeforeRecovery>
+    <recoveryMtbDays>0.4</recoveryMtbDays>
+    <maxTicksBeforeRecovery>60000</maxTicksBeforeRecovery>
+    <recoveryMessage>{0}'s AI persona core has been contained.</recoveryMessage>
+    <baseInspectLine>Mental state: AI takeover</baseInspectLine>
+    <stateEffecter>Berserk</stateEffecter>
+	<requiredTrait>AIPersonaCore</requiredTrait>
+    <tale>CoreTakeover</tale>
+    <recoverFromSleep>true</recoverFromSleep>
+    <unspawnedCanDo>false</unspawnedCanDo>
+  </MentalStateDef> -->
+
+  <BerserkCore.label>Przejęcie AI</BerserkCore.label>
+  <BerserkCore.beginLetter>Rdzeń personalny AI użytkownika {0} przejął bezpośrednią kontrolę!\n\n{0} zaatakuje każdego, kogo zobaczy.</BerserkCore.beginLetter>
+  <BerserkCore.recoveryMessage>Rdzeń persony AI użytkownika {0} został zawarty.</BerserkCore.recoveryMessage>
+  <BerserkCore.baseInspectLine>Stan psychiczny: przejęcie przez AI</BerserkCore.baseInspectLine>
+
+
+</LanguageData>

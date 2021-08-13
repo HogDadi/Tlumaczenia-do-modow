@@ -1,12 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-		
-   <SteelArm.label>Stalowe ramię</SteelArm.label>
-   <EyePatch.label>Przepaska na oko</EyePatch.label>
-   <HookHand.label>Ręka hak</HookHand.label>
-   <WoodenFoot.label>Drewniana stopa</WoodenFoot.label>
-   <EarBandage.label>Bandaż ucha</EarBandage.label>
-   <denture.label>Proteza</denture.label>
-   <PegLeg.label>Drewniana noga</PegLeg.label>
-   
+
+  <!-- Added body parts -->
+
+  <SteelArm.label>stalowe ramię</SteelArm.label>
+  <SteelArm.description>Zainstalowane ramię stalowe.</SteelArm.description>
+  <SteelArm.comps.0.tools.0.label>stalowa pięść</SteelArm.comps.0.tools.0.label>
+  <SteelArm.labelNoun>stalowe ramię</SteelArm.labelNoun>
+
+  <EyePatch.label>przepaska na oko</EyePatch.label>
+  <EyePatch.description>Założona opaska na oko.</EyePatch.description>
+  <EyePatch.labelNoun>przepaska na oko</EyePatch.labelNoun>
+
+  <WoodenHand.label>ręka hak</WoodenHand.label>
+  <WoodenHand.description>Hak zamiast ręki.</WoodenHand.description>
+  <WoodenHand.comps.0.tools.0.label>ręka hak</WoodenHand.comps.0.tools.0.label>
+  <WoodenHand.labelNoun>ręka hak</WoodenHand.labelNoun>
+
+  <denture.label>proteza</denture.label>
+  <denture.description>Proteza.</denture.description>
+  <denture.labelNoun>proteza</denture.labelNoun>
+
+  <PegLeg.label>derewniana noga</PegLeg.label>
+  <PegLeg.description>Zainstalowana drewniana noga.</PegLeg.description>
+  <PegLeg.labelNoun>derewniana noga</PegLeg.labelNoun>
+
+  <WoodenFoot.label>drewniana stopa</WoodenFoot.label>
+  <WoodenFoot.description>Zainstalowana drewniana stopa.</WoodenFoot.description>
+  <WoodenFoot.labelNoun>drewniana stopa</WoodenFoot.labelNoun>
+
+  <EarBandage.label>bandaż ucha</EarBandage.label>
+  <EarBandage.description>Zainstalowany bandaż ucha.</EarBandage.description>
+  <EarBandage.labelNoun>bandaż ucha</EarBandage.labelNoun>
+
+
 </LanguageData>

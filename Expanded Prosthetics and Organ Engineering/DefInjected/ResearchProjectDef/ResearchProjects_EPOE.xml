@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 -->
+
+	<BasicProsthetics.label>Podstawy protetyki</BasicProsthetics.label>
+	<BasicProsthetics.description>Zrozumienie kształtu nogi i połączenie tej wiedzy z podstawowyą obróbką drewna, pozwala tworzyć drewniane nogi i inne prymitywne protezy.</BasicProsthetics.description>
+
+
+  <!-- Tier 1 -->
+
+  <Prosthetics.label>Prosta protetyka</Prosthetics.label>
+  <Prosthetics.description>Zaawansowane badania anatomiczne i badania metali pozwolą Ci zbudować proste protezy. Odblokowuje stół protetyczny.</Prosthetics.description>
+
+	<SurrogateOrgans.label>Sztuczne narządy</SurrogateOrgans.label>
+	<SurrogateOrgans.description>Poprzez poszerzenie swojej medycznej wiedzy stworzenie prostych, sztucznych nardządów, które zastąpią brakujące staje się możliwe.</SurrogateOrgans.description>
+
+
+  <!-- Tier 2 -->
+
+	<Bionics.label>Bionika</Bionics.label>
+	<Bionics.description>Odkrycie zasad działania bardzo małych silników i obwodów elektrycznych otwiera przed tobą nowy wymiar tworzenia protez!</Bionics.description>
+
+  <BrainSurgery.label>Operacja mózgu</BrainSurgery.label>
+  <BrainSurgery.description>Pozwala przeprowadzać operacje mózgu.</BrainSurgery.description>
+
+	<RibReplacements.label>Wymiana żeber</RibReplacements.label>
+	<RibReplacements.description>Odkrywasz bardzo małe dozowniki, zastanawiasz się nad umieszczeniem ich w żebrach. Od teraz możesz tworzyć i wszczepiać implanty żeber. </RibReplacements.description>
+
+
+  <!-- Tier 3 -->
+
+	<AdvancedBionics.label>Zaawansowana bionika</AdvancedBionics.label>
+	<AdvancedBionics.description>Ulepsz swoje bioniczne protezy vancidium, aby były jeszcze lepsze.</AdvancedBionics.description>
+
+  <BionicSpine.label>Bioniczny kręgosłup</BionicSpine.label>
+  <BionicSpine.description>Anatomia ludzkiego kręgosłupa jest absurdalnie skomplikowana. Prawdopodobnie powinieneś trochę poszukać, zanim zaczniesz się tym bawić.</BionicSpine.description>
+
+  <AdvancedBionicSpine.label>Zaawansowany bioniczny kręgosłup</AdvancedBionicSpine.label>
+  <AdvancedBionicSpine.description>Chcesz wcisnąć jeszcze bardziej złożoną technologię w swój kręgosłup? Poświęć trochę czasu na przestudiowanie zawiłości kręgosłupa.</AdvancedBionicSpine.description>
+
+  <BionicWarfare.label>Bjonika bojowa</BionicWarfare.label>
+  <BionicWarfare.description>Używanie bioniki w pokojowy sposób do przywracania brakujących kończyn wydaje się takim marnotrawstwem. Użyjmy ich jako broni! Odblokowuje bioniczne bronie do walki wręcz.</BionicWarfare.description>
+
+  <AdvancedBionicWarfare.label>Zaawansowana bjonika bojowa</AdvancedBionicWarfare.label>
+  <AdvancedBionicWarfare.description>Skosztowałeś krwi, a teraz chcesz więcej?</AdvancedBionicWarfare.description>
+
+	<SyntheticOrgans.label>Syntetyczne organy</SyntheticOrgans.label>
+	<SyntheticOrgans.description>Dalsze badania w nanotechnologii pozwoliły stworzyć nieprawdopodobnie dobrze zaprojektowane sztuczne organy w Stacji Rozwojowej.</SyntheticOrgans.description>
+
+  <AdvancedBrainSurgery.label>Zaawansowane operacje mózgu</AdvancedBrainSurgery.label>
+  <AdvancedBrainSurgery.description>Umożliwia tworzenie bardziej zaawansowanych implantów mózgowych i wykonywanie operacji na mózgu.</AdvancedBrainSurgery.description>
+
+
+  <!-- Tier 4 -->
+
+  <ExoskeletonSuits.label>Kombinezony egzoszkieletowe</ExoskeletonSuits.label>
+  <ExoskeletonSuits.description>Wykorzystaj absolutnie najnowocześniejszą technologię silników i wiedzę z zakresu ergonomii, aby zrozumieć koncepcję egzoszkieletów i powielić ją na ludziach. Pozwala na produkcję i montaż kombinezonów egzoszkieletowych.</ExoskeletonSuits.description>
+
+</LanguageData>

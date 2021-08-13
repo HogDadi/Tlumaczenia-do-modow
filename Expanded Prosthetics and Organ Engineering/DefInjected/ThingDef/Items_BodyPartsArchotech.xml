@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <MuscleStimulator.label>Stymulator mięśni</MuscleStimulator.label>
+  <MuscleStimulator.description>Dzięki specjalnym chemikaliom i wstrząsom elektrycznym ten mały chip jest w stanie stymulować mięśnie, aby mogły pracować z ponad maksymalną wydajnością.</MuscleStimulator.description>
+
+  <TacticalCorneaImplant.label>Taktyczny implant rogówki</TacticalCorneaImplant.label>
+  <TacticalCorneaImplant.description>Ulepszony implant, który dostarcza użytkownikowi dodatkowych informacji o potencjalnych celach i sugeruje idealny kąt strzału.</TacticalCorneaImplant.description>
+
+  <ConstructorCore.label>Przewodnik AI (budowniczy)</ConstructorCore.label>
+  <ConstructorCore.description>Archotechowie nie tracą czasu na szkolenia i edukację, nawet na skomplikowane prace. AI zainstalowane w mózgu na stałe komunikuje się z użytkownikiem i pełni rolę przewodnika. Jak to robią, jest poza naszym zrozumieniem. Wymaga badań chirurgii mózgu przed instalacją.</ConstructorCore.description>
+
+  <FarmerCore.label>Przewodnik AI (rolniczy)</FarmerCore.label>
+  <FarmerCore.description>Archotechowie nie tracą czasu na szkolenia i edukację, nawet na skomplikowane prace. AI zainstalowane w mózgu na stałe komunikuje się z użytkownikiem i pełni rolę przewodnika. Jak to robią, jest poza naszym zrozumieniem. Wymaga badań chirurgii mózgu przed instalacją.</FarmerCore.description>
+
+  <MinerCore.label>Przewodnik AI (górniczy)</MinerCore.label>
+  <MinerCore.description>Archotechowie nie tracą czasu na szkolenia i edukację, nawet na skomplikowane prace. AI zainstalowane w mózgu na stałe komunikuje się z użytkownikiem i pełni rolę przewodnika. Jak to robią, jest poza naszym zrozumieniem. Wymaga badań chirurgii mózgu przed instalacją.</MinerCore.description>
+
+  <DoctorCore.label>Przewodnik AI (medyczny)</DoctorCore.label>
+  <DoctorCore.description>Archotechowie nie tracą czasu na szkolenia i edukację, nawet na skomplikowane prace. AI zainstalowane w mózgu na stałe komunikuje się z użytkownikiem i pełni rolę przewodnika. Jak to robią, jest poza naszym zrozumieniem. Wymaga badań chirurgii mózgu przed instalacją.</DoctorCore.description>
+
+  <DiplomatCore.label>Przewodnik AI (dyplomatyczny)</DiplomatCore.label>
+  <DiplomatCore.description>Archotechowie nie tracą czasu na szkolenia i edukację, nawet na skomplikowane prace. AI zainstalowane w mózgu na stałe komunikuje się z użytkownikiem i pełni rolę przewodnika. Jak to robią, jest poza naszym zrozumieniem. Wymaga badań chirurgii mózgu przed instalacją.</DiplomatCore.description>
+
+
+</LanguageData>
