@@ -1,29 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_InstallOrganicArm.label>install arm</UT_InstallOrganicArm.label>
-  <UT_InstallOrganicArm.description>Install a biological arm.</UT_InstallOrganicArm.description>
-  <UT_InstallOrganicArm.jobString>Installing arm.</UT_InstallOrganicArm.jobString>
+    <!-- EN: install arm -->
+  <UT_InstallOrganicArm.label>zainstaluj ramię</UT_InstallOrganicArm.label>
+    <!-- EN: Install a biological arm. -->
+  <UT_InstallOrganicArm.description>Zainstaluj biologiczne ramię.</UT_InstallOrganicArm.description>
+    <!-- EN: Installing arm. -->
+  <UT_InstallOrganicArm.jobString>Instalule ramię.</UT_InstallOrganicArm.jobString>
 
-  <UT_InstallOrganicLeg.label>install leg</UT_InstallOrganicLeg.label>
-  <UT_InstallOrganicLeg.description>Install a biological leg.</UT_InstallOrganicLeg.description>
-  <UT_InstallOrganicLeg.jobString>Installing leg.</UT_InstallOrganicLeg.jobString>
+    <!-- EN: install leg -->
+  <UT_InstallOrganicLeg.label>zainstaluj nogę</UT_InstallOrganicLeg.label>
+    <!-- EN: Install a biological leg. -->
+  <UT_InstallOrganicLeg.description>Zainstaluj biologiczną nogę.</UT_InstallOrganicLeg.description>
+    <!-- EN: Installing leg. -->
+  <UT_InstallOrganicLeg.jobString>Instaluje nogę.</UT_InstallOrganicLeg.jobString>
 
-  <UT_InstallOrganicStomach.label>install stomach</UT_InstallOrganicStomach.label>
-  <UT_InstallOrganicStomach.description>Install biological stomach.</UT_InstallOrganicStomach.description>
-  <UT_InstallOrganicStomach.jobString>Installing stomach.</UT_InstallOrganicStomach.jobString>
+    <!-- EN: install stomach -->
+  <UT_InstallOrganicStomach.label>zainstaluj żołądek</UT_InstallOrganicStomach.label>
+    <!-- EN: Install biological stomach. -->
+  <UT_InstallOrganicStomach.description>Zainstaluj biologiczny żołądek.</UT_InstallOrganicStomach.description>
+    <!-- EN: Installing stomach. -->
+  <UT_InstallOrganicStomach.jobString>Instaluje żołądek.</UT_InstallOrganicStomach.jobString>
 
-  <UT_InstallOrganicEye.label>install eye</UT_InstallOrganicEye.label>
-  <UT_InstallOrganicEye.description>Install a biological eye.</UT_InstallOrganicEye.description>
-  <UT_InstallOrganicEye.jobString>Installing eye.</UT_InstallOrganicEye.jobString>
+    <!-- EN: install eye -->
+  <UT_InstallOrganicEye.label>zainstaluj oko</UT_InstallOrganicEye.label>
+    <!-- EN: Install a biological eye. -->
+  <UT_InstallOrganicEye.description>Zainstaluj biologiczne oko.</UT_InstallOrganicEye.description>
+    <!-- EN: Installing eye. -->
+  <UT_InstallOrganicEye.jobString>Instaluje oko.</UT_InstallOrganicEye.jobString>
 
-  <UT_InstallOrganicEar.label>install ear</UT_InstallOrganicEar.label>
-  <UT_InstallOrganicEar.description>Install a biological ear.</UT_InstallOrganicEar.description>
-  <UT_InstallOrganicEar.jobString>Installing ear.</UT_InstallOrganicEar.jobString>
+    <!-- EN: install ear -->
+  <UT_InstallOrganicEar.label>zainstaluj ucho</UT_InstallOrganicEar.label>
+    <!-- EN: Install a biological ear. -->
+  <UT_InstallOrganicEar.description>Zainstaluj biologiczne ucho.</UT_InstallOrganicEar.description>
+    <!-- EN: Installing ear. -->
+  <UT_InstallOrganicEar.jobString>Instaluje ucho.</UT_InstallOrganicEar.jobString>
 
-  <UT_InstallOrganicNose.label>install nose</UT_InstallOrganicNose.label>
-  <UT_InstallOrganicNose.description>Install a biological nose.</UT_InstallOrganicNose.description>
-  <UT_InstallOrganicNose.jobString>Installing nose.</UT_InstallOrganicNose.jobString>
-
+    <!-- EN: install nose -->
+  <UT_InstallOrganicNose.label>zainstaluj nos</UT_InstallOrganicNose.label>
+    <!-- EN: Install a biological nose. -->
+  <UT_InstallOrganicNose.description>Zainstaluj biologiczny nos.</UT_InstallOrganicNose.description>
+    <!-- EN: Installing nose. -->
+  <UT_InstallOrganicNose.jobString>Instaluje nos.</UT_InstallOrganicNose.jobString>
 
 </LanguageData>

@@ -1,45 +1,79 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Growing Sleeves -->
   <UT_SleeveGrowing.label>Growing Sleeves</UT_SleeveGrowing.label>
-  <UT_SleeveGrowing.helpText>SLEEVE INCUBATORS can be used to create new sleeves from scratch. It requires NEUTROAMINE as fuel.
+  
+  <!-- SLEEVE INCUBATORS can be used to create new sleeves from scratch. It requires NEUTROAMINE as fuel.
 		\n\nTo start growing a new sleeve select the sleeve incubator and click CREATE SLEEVE. This will open the sleeve designer. Here you can customize the new sleeve to your liking, choose its race (supports HAR 2.0) and choose its level of QUALITY and BEAUTY. When you are happy with the design, click ACCEPT to start growing the pawn.\n\nBEAUTY defines how beautiful the new sleeve will be. This will add the appropriate trait to the new sleeve. NORMAL will not add beauty trait.
 		\n\nQUALITY will influence how long the sleeve takes to grow and apply a hediff that effects how effective the new sleeve is. NORMAL will not add a hediff.
-		\n\nNew sleeves are basically brain dead and wont be able to care for themselves. Its recommended to have a SLEEVE CASKET ready to store them until you install a stack.</UT_SleeveGrowing.helpText>
+		\n\nNew sleeves are basically brain dead and wont be able to care for themselves. Its recommended to have a SLEEVE CASKET ready to store them until you install a stack. -->
+  <UT_SleeveGrowing.helpText>INKUBATORY HOMONKULUSÓW mogą być używane do tworzenia nowych Homunkulusów od podstaw. Wymaga NEUTROAMINY jako paliwa.
+	\n\nAby rozpocząć hodowlę nowego Homunkulusa, wybierz inkubator Homunkulusa i kliknij UTWÓRZ HOMUNKULUSA. To otworzy projektanta Homunkulusów. Tutaj możesz dostosować nowego Homunkulusa do swoich upodobań, wybrać jego rasę (obsługuje HAR 2.0) i wybrać poziom JAKOŚCI i PIĘKNA. Kiedy jesteś zadowolony z projektu, kliknij AKCEPTUJ, aby zacząć hodować pionka.\n\nPIĘKNO określa, jak piękny będzie nowy Homunkulus. To doda odpowiednią cechę nowemu rękawowi. NORMALNY nie doda urody.
+	\n\nJAKOŚĆ wpłynie na czas wzrostu Homunkulusa i zastosuje cechy dziedziczne, które wpływają na efektywność nowego Homunkulusa. NORMAL nie doda odziedziczonych cech.
+	\n\nNowe Homunkulusy są praktycznie martwe i nie będą w stanie same o siebie zadbać. Zalecane jest przygotowanie SZAFKI HOMUNKULUSA do przechowywania ich do czasu zainstalowania pojemnika węglowego.</UT_SleeveGrowing.helpText>
 
-  <UT_UsingSleeveCaskets.label>Sleeve Caskets</UT_UsingSleeveCaskets.label>
-  <UT_UsingSleeveCaskets.helpText>SLEEVE CASKETS are ultra tech med beds that basically "freeze" the pawn using it. This means their needs will not decay and you can take your time installing IMPLANTS and STACKS into new empty sleeves.
-		\n\nSLEEVE CASKETS can ONLY be used as medical beds and should be used for empty sleeves only.</UT_UsingSleeveCaskets.helpText>
+    <!-- Sleeve Caskets -->
+  <UT_UsingSleeveCaskets.label>Szafa Homunkulusa</UT_UsingSleeveCaskets.label>
+  <!-- SLEEVE CASKETS are ultra tech med beds that basically "freeze" the pawn using it. This means their needs will not decay and you can take your time installing IMPLANTS and STACKS into new empty sleeves.
+		\n\nSLEEVE CASKETS can ONLY be used as medical beds and should be used for empty sleeves only. -->
+  <UT_UsingSleeveCaskets.helpText>SZAFA HOMUNKULUSA to ultra nowoczesne łóżko medyczne, które w zasadzie „zamraża” pionka, używające go. Oznacza to, że ich potrzeby nie znikną i możesz poświęcić swój czas na instalowanie IMPLANTÓW i POJEMNIKÓW w nowych pustych Homunkulusach.
+	\n\n SZTUKI Z HOMUNKULUSAMI mogą być używane TYLKO jako łóżka medyczne i powinny być używane tylko do pustych Homunkulusach. </UT_UsingSleeveCaskets.helpText>
 
-  <UT_UsingBrainTemplates.label>Brain Templates</UT_UsingBrainTemplates.label>
-  <UT_UsingBrainTemplates.helpText>BRAIN TEMPLATES are new items you can insert into SLEEVE CASKETS to modify sleeves grown inside with special values, giving them HEDIFFS that make the new sleeve more useful for certain tasks.
+    <!-- Brain Templates -->
+  <UT_UsingBrainTemplates.label>Szablony mózgu</UT_UsingBrainTemplates.label>
+  <!-- BRAIN TEMPLATES are new items you can insert into SLEEVE CASKETS to modify sleeves grown inside with special values, giving them HEDIFFS that make the new sleeve more useful for certain tasks.
 		\n\nTo inset a brain template, select the wanted SLEEVE INCUBATOR and click on INSERT BRAIN TEMPLATE. Now you can select what kind of template you want (It will only show templates available to you!). One of your colonists will automatically insert the template for you now.
-		\n\nYou can remove a template from a sleeve incubator by selecting it and saying REMOVE TEMPLATE NAME.</UT_UsingBrainTemplates.helpText>
+		\n\nYou can remove a template from a sleeve incubator by selecting it and saying REMOVE TEMPLATE NAME -->
+  <UT_UsingBrainTemplates.helpText>SZABLONY MÓZGU to nowe elementy, które możesz włożyć do SZAFEK HOMUNKULUSÓW, aby zmodyfikować Homonkulusy dodając im niektóre cechy, które sprawiają, że nowy Homunkulus jest bardziej przydatny do niektórych zadaniach.
+	\n\nAby wstawić szablon mózgu, wybierz żądany INKUBATOR HOMUNKULUSÓW i kliknij WSTAW SZABLON MÓZGU. Teraz możesz wybrać, jakiego rodzaju szablon chcesz (pokaże tylko dostępne szablony!). Jeden z Twoich kolonistów automatycznie wstawi teraz za Ciebie szablon.
+	\n\nMożesz usunąć szablon z inkubatora Homunkulusów, wybierając go i klikając USUŃ SZABLON.</UT_UsingBrainTemplates.helpText>
 
-  <UT_EmptyStacks.label>Cortical Stacks</UT_EmptyStacks.label>
-  <UT_EmptyStacks.helpText>CORTICAL STACKS are a new IMPLANT you can install in any pawn via SURGERY. They will store the pawns consciousness and prevent them from dying when their body is destoryed.
+    <!-- Cortical Stacks -->
+  <UT_EmptyStacks.label>Pojemniki węglowe</UT_EmptyStacks.label>
+  <!-- CORTICAL STACKS are a new IMPLANT you can install in any pawn via SURGERY. They will store the pawns consciousness and prevent them from dying when their body is destoryed.
 		\n\nIn game terms this means: When a empty stack is installed, it saves the pawns date on it. This includes, but is not limited to: Name, age, traits (not all, some are excluded!), skills, relationships, bonds, and much more! Including ROYALTY DLC information.
 		\nIt also supports multiple popular mods by default.
 		\n\nWhen a pawn with a stack dies, you can EXTRACT the stack from the corpse via either the new EXTRACT STACK ORDER or simply right clicking a pawn with a colonist selected. Similarly to how stripping clothes work.
 		\n\nCORTICAL STACKS can NOT be crafted. You will have to find or "acquire" them from other people.
-		\n\nCORTICAL STACKS can be DUPLICATED. This makes an exact copy of the pawn on STACK ONE to a new empty stack, STACK TWO. Be crafeul, not everyone likes being basically cloned. To DUPLICATE a stack, select a colonist and then click on the stack you want to duplicate. This requires a pawn with at least an INTELLECTUAL skill of 10. Be aware, this can fail and destroy the stack!</UT_EmptyStacks.helpText>
+		\n\nCORTICAL STACKS can be DUPLICATED. This makes an exact copy of the pawn on STACK ONE to a new empty stack, STACK TWO. Be crafeul, not everyone likes being basically cloned. To DUPLICATE a stack, select a colonist and then click on the stack you want to duplicate. This requires a pawn with at least an INTELLECTUAL skill of 10. Be aware, this can fail and destroy the stack! -->
+  <UT_EmptyStacks.helpText>POJEMNIKI WĘGLOWE to nowy IMPLANT, który możesz zainstalować w dowolnym pionku za pomocą CHIRURGII. Będą przechowywać świadomość pionków i zapobiegać ich śmierci, gdy ich ciało zostanie zniszczone.
+	\n\nW terminologii gry oznacza to: Kiedy zainstalowany jest pusty pojemnik, zapisuje na nim świadomość pionków. Obejmuje to między innymi: imię, wiek, cechy (nie wszystkie, niektóre są wykluczone!), umiejętności, relacje, więzi i wiele więcej! W tym informacje o DLC ROYALTY.
+	\nDomyślnie obsługuje również wiele popularnych modów.
+	\n\nKiedy pionek z pojemnikiem zginie, możesz WYCIĄGNĄĆ pojemnik ze zwłok za pomocą nowego ROZKAZU WYCIĄGNIĘCIA POJEMNIKA lub po prostu klikając prawym przyciskiem myszy na pionka wybranym kolonistą. Podobnie jak w przypadku rozebrania.
+	\n\nPOJEMNIKÓW WĘGLOWYCH NIE można tworzyć. Będziesz musiał je znaleźć lub "nabyć" od innych osób.
+	\n\nPOJEMNIKI WĘGLOWE mogą być DUPLIKOWANE. Tworzy to dokładną kopię pionka z pierwszego pojemnika do nowego pustego pojemnika. Bądź ostrożny, nie każdy lubi być klonowany. Aby DUPLIKOWAĆ pojemnik, wybierz kolonistę, a następnie kliknij pojemnik, który chcesz zduplikować. Wymaga to pionka z umiejętnością INTELEKTUALNĄ co najmniej 10. Pamiętaj, że może on zawieść i zniszczyć pojemnik!</UT_EmptyStacks.helpText>
 
-  <UT_FilledStacks.label>Filled Stacks</UT_FilledStacks.label>
-  <UT_FilledStacks.helpText>FILLED CORTICAL STACKS are stacks with a pawns consciousness stored on them.
+    <!-- Filled Stacks -->
+  <UT_FilledStacks.label>Wypełnione pojemniki</UT_FilledStacks.label>
+  <!-- FILLED CORTICAL STACKS are stacks with a pawns consciousness stored on them.
 		\n\nAs long as the stack with a pawn stored on it exists, the pawn on it is considerd alive by the game. You can IMPLANT filled stacks into a new body (or sleeve if you want) via SURGERY. This can be ANYONE, even a PRISONER! Due to game limitations, you cant select which stack you want to install, so its recommended you FORBID all filled stacks you have BUT the one you want to install.
 		\n\nFILLED CORTICAL STACKS can also be WIPED and turned into EMPTY CORTICAL STACKS. This progress kills the pawn stored on it. To WIPE a stack, select a colonist and then click on the stack you want to wipe. This requires a pawn with at least an INTELLECTUAL skill of 10. Be aware, this can fail and destroy the stack!
-		\n\nCORTICAL STACKS can NOT be crafted. You will have to find or "acquire" them from other people.</UT_FilledStacks.helpText>
+		\n\nCORTICAL STACKS can NOT be crafted. You will have to find or "acquire" them from other people. -->
+  <UT_FilledStacks.helpText>WYPEŁNIONE POJEMNIKI WĘGOWE to pojemniki z zapisaną na nich świadomością pionków.
+	\n\nTak długo, jak istnieje pojemnik z przechowywanym na nim pionkiem, gra uważana go za żywego. Możesz wszczepić wypełnione pojemniki do nowego ciała (lub Homunkulusa, jeśli chcesz) za pomocą CHIRURGII. To może być KAŻDY, nawet WIĘZIEŃ! Ze względu na ograniczenia gry nie możesz wybrać pojemnika, który chcesz zainstalować, więc zaleca się ZABRONIĆ wszystkich wypełnionych pojemników, ale pozwolić na ten, który chcesz zainstalować.
+	\n\nWYPEŁNIONE POJEMNIKI WĘGLOWE mogą być również WYCZYSZCZONE i zamienione w PUSTE POJEMNIKI WĘGLOWE. Ten postęp zabija przechowywanego na nim pionka. Aby WYCZYŚĆ pojemnik, wybierz kolonistę, a następnie kliknij pojemnik, który chcesz wymazać. Wymaga to pionka z umiejętnością INTELEKTUALNĄ co najmniej 10. Uważaj, może on zawieść i zniszczyć pojemnik!
+	\n\nPOJEMNIKÓW WĘGLOWYCH NIE można tworzyć. Będziesz musiał je znaleźć lub "nabyć" od innych osób.</UT_FilledStacks.helpText>
 
-  <UT_DeadPawnWithStack.label>Extract Stacks</UT_DeadPawnWithStack.label>
-  <UT_DeadPawnWithStack.helpText>It seems you have corpses with CORTICAL STACKS on your map!
+    <!-- Extract Stacks -->
+  <UT_DeadPawnWithStack.label>Wyodrębnij pojemniki</UT_DeadPawnWithStack.label>
+  <!-- It seems you have corpses with CORTICAL STACKS on your map!
 		\n\nYou can EXTRACT the stack from the corpse via either the new EXTRACT STACK ORDER or simply right clicking a pawn with a colonist selected. Similarly to how stripping clothes work.
-		\n\nStacks are rare and powerful, so make sure to harvest them!</UT_DeadPawnWithStack.helpText>
+		\n\nStacks are rare and powerful, so make sure to harvest them! -->
+  <UT_DeadPawnWithStack.helpText>Wygląda na to, że masz na swojej mapie zwłoki ze pojemnikami węglowymi!
+	\n\nMożesz WYCIĄGNĄĆ pojemnik ze zwłok za pomocą nowego ROZKAZU WYCIĄGNIĘCIA POJEMNIKA lub po prostu klikając prawym przyciskiem myszy pionek z wybranym kolonistą. Podobnie jak w przypadku rozbierania.
+	\n\nPojemniki są rzadkie i potężne, więc pamiętaj, aby je zebrać!</UT_DeadPawnWithStack.helpText>
 
-  <UT_AncientStacks.label>Ancient Stacks</UT_AncientStacks.label>
-  <UT_AncientStacks.helpText>FILLED CORTICAL STACKS are stacks with a pawns consciousness stored on them.
+    <!-- Ancient Stacks -->
+  <UT_AncientStacks.label>Starożytne pojemniki</UT_AncientStacks.label>
+  <!-- FILLED CORTICAL STACKS are stacks with a pawns consciousness stored on them.
 		\n\nAs long as the stack with a pawn stored on it exists, the pawn on it is considerd alive by the game. You can IMPLANT filled stacks into a new body (or sleeve if you want) via SURGERY. This can be ANYONE, even a PRISONER! Due to game limitations, you cant select which stack you want to install, so its recommended you FORBID all filled stacks you have BUT the one you want to install.
 		\n\nFILLED CORTICAL STACKS can also be WIPED and turned into EMPTY CORTICAL STACKS. This progress kills the pawn stored on it. To WIPE a stack, select a colonist and then click on the stack you want to wipe. This requires a pawn with at least an INTELLECTUAL skill of 10. Be aware, this can fail and destroy the stack!
-		\n\nCORTICAL STACKS can NOT be crafted. You will have to find or "acquire" them from other people.</UT_AncientStacks.helpText>
+		\n\nCORTICAL STACKS can NOT be crafted. You will have to find or "acquire" them from other people. -->
+  <UT_AncientStacks.helpText>WYPEŁNIONE POJEMNIKI WĘGLOWE to pojemniki z zapisaną na nich świadomością pionków.
+	\n\nTak długo, jak istnieje pojemnik z przechowywanym na nim pionkiem, gra uważana go za żywego. Możesz wszczepić wypełnione pojemniki do nowego ciała (lub Homunkulusa, jeśli chcesz) za pomocą CHIRURGII. To może być KAŻDY, nawet WIĘZIEŃ! Ze względu na ograniczenia gry nie możesz wybrać pojemnika, który chcesz zainstalować, więc zaleca się ZABRONIĆ wszystkich wypełnionych pojemników, ale zezwolić na ten, który chcesz zainstalować.
+	\n\nWYPEŁNIONE POJEMNIKI WĘGLOWE mogą być również WYCZYSZCZONE i zamienione w PUSTE POJEMNIKI WĘGLOWE. Ten czyn zabija przechowywanego na nim pionka. Aby WYCZYŚĆ pojemnik, wybierz kolonistę, a następnie kliknij pojemnik, który chcesz wymazać. Wymaga to pionka z umiejętnością INTELEKTUALNĄ co najmniej 10. Uważaj, może on zawieść i zniszczyć pojemnik!
+	\n\nPOJEMNIKÓW WĘGLOWYCH NIE można tworzyć. Będziesz musiał je znaleźć lub "nabyć" od innych osób.</UT_AncientStacks.helpText>
 
 
 </LanguageData>

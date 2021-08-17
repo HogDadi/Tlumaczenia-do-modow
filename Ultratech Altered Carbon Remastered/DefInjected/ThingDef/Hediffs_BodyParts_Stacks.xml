@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_EmptyCorticalStack.label>empty cortical stack</UT_EmptyCorticalStack.label>
-  <UT_EmptyCorticalStack.description>An empty, ultra tech implant which can store a human's consciousness. Being implanted directly into a person's neck, blunt force trauma and bullets to the head and neck should be avoided at all cost. Extremely rare and hard to make.</UT_EmptyCorticalStack.description>
+    <!-- EN: empty cortical stack -->
+  <UT_EmptyCorticalStack.label>Pusty pojemnik węglowy</UT_EmptyCorticalStack.label>
+    <!-- EN: An empty, ultra tech implant which can store a human's consciousness. Being implanted directly into a person's neck, blunt force trauma and bullets to the head and neck should be avoided at all cost. Extremely rare and hard to make. -->
+  <UT_EmptyCorticalStack.description>Pusty, ultranowoczesny implant, który może przechowywać ludzką świadomość. Za wszelką cenę należy unikać wszczepienia bezpośrednio w szyję osoby. Ponieważ jest podatny na urazy wyrządzone tępymi narzędziami i pociskami w głowę i szyję. Jest niezwykle rzadki i trudny do wykonania.</UT_EmptyCorticalStack.description>
 
-  <UT_FilledCorticalStack.label>cortical stack</UT_FilledCorticalStack.label>
-  <UT_FilledCorticalStack.description>An ultra tech implant with a human's consciousness stored on it. Can be implanted into an empty sleeve or random body to bring back the person stored on it.</UT_FilledCorticalStack.description>
+    <!-- EN: cortical stack -->
+  <UT_FilledCorticalStack.label>Pojemnik węglowy</UT_FilledCorticalStack.label>
+    <!-- EN: An ultra tech implant with a human's consciousness stored on it. Can be implanted into an empty sleeve or random body to bring back the person stored on it. -->
+  <UT_FilledCorticalStack.description>Ultra-technologiczny implant z zapisaną ludzką świadomością. Można go wszczepić do pustego Homunkulusa lub przypadkowego ciała, aby przywrócić przechowywaną na nim osobę.</UT_FilledCorticalStack.description>
 
 
 </LanguageData>

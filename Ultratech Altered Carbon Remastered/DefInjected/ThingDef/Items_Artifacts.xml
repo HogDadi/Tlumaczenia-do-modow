@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_AncientStack.label>ancient cortical stack</UT_AncientStack.label>
-  <UT_AncientStack.description>An ancient, ultra tech implant that once store a human's consciousness. For whatever reason, is it age, lack of maintenance or damage, it is corrupted, but there might still be data worth salvaging on it.</UT_AncientStack.description>
+    <!-- EN: ancient cortical stack -->
+  <UT_AncientStack.label>Starożytny pojemnik węglowy</UT_AncientStack.label>
+    <!-- EN: An ancient, ultra tech implant that once store a human's consciousness. For whatever reason, is it age, lack of maintenance or damage, it is corrupted, but there might still be data worth salvaging on it. -->
+  <UT_AncientStack.description>Starożytny, ultranowoczesny implant, który kiedyś przechowywał ludzką świadomość. Z jakiegoś powodu, czy to wiek, brak konserwacji lub uszkodzenie, nie działa, ale nadal mogą być na nim dane, które warto uratować.</UT_AncientStack.description>
 
 
 </LanguageData>

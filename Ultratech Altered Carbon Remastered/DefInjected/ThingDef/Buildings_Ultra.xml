@@ -1,20 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_SleeveIncubator.label>sleeve incubator</UT_SleeveIncubator.label>
-  <UT_SleeveIncubator.description>An ultra-tech vat tank connected to advanced life support systems and an AI core. Used by the rich 1% on ultra-tech worlds and less trustworthy individuals on rimworlds to grow custom sleeves, the sleeve incubator is capable of growing any human body one can imagine.</UT_SleeveIncubator.description>
+    <!-- EN: sleeve incubator -->
+  <UT_SleeveIncubator.label>inkubator Homunkulusów</UT_SleeveIncubator.label>
+    <!-- EN: An ultra-tech vat tank connected to advanced life support systems and an AI core. Used by the rich 1% on ultra-tech worlds and less trustworthy individuals on rimworlds to grow custom sleeves, the sleeve incubator is capable of growing any human body one can imagine. -->
+  <UT_SleeveIncubator.description>Ultranowoczesny zbiornik kadzi połączony z zaawansowanymi systemami podtrzymywania życia i rdzeniem AI. Wykorzystywany przez bogatych. Ale i  mniej godnych zaufania do hodowania niestandardowych Homonkulusów, inkubator Homunkulusów jest w stanie wyhodować każde ludzkie ciało, jakie można sobie wyobrazić.</UT_SleeveIncubator.description>
 
-  <UT_OrganIncubator.label>organ incubator</UT_OrganIncubator.label>
-  <UT_OrganIncubator.description>A small ultra-tech vat tank used to grow organs of any kind in a short period of time. Requires neutroamine to work.</UT_OrganIncubator.description>
+    <!-- EN: organ incubator -->
+  <UT_OrganIncubator.label>inkubator narządów</UT_OrganIncubator.label>
+    <!-- EN: A small ultra-tech vat tank used to grow organs of any kind in a short period of time. Requires neutroamine to work. -->
+  <UT_OrganIncubator.description>Niewielki, ultranowoczesny zbiornik kadzi służący do hodowania wszelkiego rodzaju organów w krótkim czasie. Wymaga neutroaminy do pracy.</UT_OrganIncubator.description>
 
-  <UT_SleeveCasket.label>sleeve casket</UT_SleeveCasket.label>
-  <UT_SleeveCasket.description>An ultra-tech casket used for storing grown sleeves before their stack is installed. It uses crypto tech technology to suspend the needs of the sleeves body, while still allowing for the installation of implants or bionics.</UT_SleeveCasket.description>
+    <!-- EN: sleeve casket -->
+  <UT_SleeveCasket.label>szafka Homunkulusa</UT_SleeveCasket.label>
+    <!-- EN: An ultra-tech casket used for storing grown sleeves before their stack is installed. It uses crypto tech technology to suspend the needs of the sleeves body, while still allowing for the installation of implants or bionics. -->
+  <UT_SleeveCasket.description>Ultranowoczesna szafa służąca do przechowywania wyrośniętych Homunkulusów przed zainstalowaniem ich pojemnika węglowego. Wykorzystuje technologię kryptograficzną, aby zawiesić potrzeby ciała Homunkulusów, jednocześnie umożliwiając instalację implantów lub bioniki.</UT_SleeveCasket.description>
 
-  <UT_CorticalStackStorage.label>quantum storage matrix</UT_CorticalStackStorage.label>
-  <UT_CorticalStackStorage.description>A ultra-tech, quantum computing matrix made to store cortical stacks. If in range of auto-linked stacks, the matrix can make emergency backups in case of catastrophic stack faliure. Can be linked to a rVR server.</UT_CorticalStackStorage.description>
+    <!-- EN: quantum storage matrix -->
+  <UT_CorticalStackStorage.label>kwantowa macierz pamięci</UT_CorticalStackStorage.label>
+    <!-- EN: A ultra-tech, quantum computing matrix made to store cortical stacks. If in range of auto-linked stacks, the matrix can make emergency backups in case of catastrophic stack faliure. Can be linked to a rVR server. -->
+  <UT_CorticalStackStorage.description>Ultra-technologiczna, kwantowa macierz obliczeniowa stworzona do przechowywania pojemników węglowych. W zasięgu pojemników automatycznie łączonych macierz może wykonać awaryjne kopie zapasowe w przypadku katastrofalnego uszkodzenia pojemnika. Może być połączony z serwerem rVR.</UT_CorticalStackStorage.description>
 
-  <UT_DecryptionBench.label>decryption bench</UT_DecryptionBench.label>
-  <UT_DecryptionBench.description>A workbench equipped with advanced tools for decrypting ultra-tech gear and items.</UT_DecryptionBench.description>
+    <!-- EN: decryption bench -->
+  <UT_DecryptionBench.label>ławka deszyfrująca</UT_DecryptionBench.label>
+    <!-- EN: A workbench equipped with advanced tools for decrypting ultra-tech gear and items. -->
+  <UT_DecryptionBench.description>Stół warsztatowy wyposażony w zaawansowane narzędzia do deszyfrowania ultra-technologicznego sprzętu i przedmiotów.</UT_DecryptionBench.description>
 
 
 </LanguageData>

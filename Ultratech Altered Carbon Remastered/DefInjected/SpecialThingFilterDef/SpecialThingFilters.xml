@@ -1,14 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_AllowStacksColonist.label>allow colonist stacks</UT_AllowStacksColonist.label>
-  <UT_AllowStacksColonist.description>Allow the stacks of colonists.</UT_AllowStacksColonist.description>
+    <!-- EN: allow colonist stacks -->
+  <UT_AllowStacksColonist.label>zezwalaj na skojemniki kolonistów</UT_AllowStacksColonist.label>
+    <!-- EN: Allow the stacks of colonists. -->
+  <UT_AllowStacksColonist.description>Pozwól na pojemników kolonistów.</UT_AllowStacksColonist.description>
 
-  <UT_AllowStacksStranger.label>allow stranger stacks</UT_AllowStacksStranger.label>
-  <UT_AllowStacksStranger.description>Allow the stacks of strangers.</UT_AllowStacksStranger.description>
+    <!-- EN: allow stranger stacks -->
+  <UT_AllowStacksStranger.label>zezwalaj na nieznajome pojemniki</UT_AllowStacksStranger.label>
+    <!-- EN: Allow the stacks of strangers. -->
+  <UT_AllowStacksStranger.description>Pozwól na nieznajome pojemniki.</UT_AllowStacksStranger.description>
 
-  <UT_AllowStacksHostile.label>allow hostile stacks</UT_AllowStacksHostile.label>
-  <UT_AllowStacksHostile.description>Allow the stacks of hostiles and enemies.</UT_AllowStacksHostile.description>
+    <!-- EN: allow hostile stacks -->
+  <UT_AllowStacksHostile.label>zezwalaj na wrogie pojemniki</UT_AllowStacksHostile.label>
+    <!-- EN: Allow the stacks of hostiles and enemies. -->
+  <UT_AllowStacksHostile.description>Pozwól na pojemniki wrogów.</UT_AllowStacksHostile.description>
 
 
 </LanguageData>

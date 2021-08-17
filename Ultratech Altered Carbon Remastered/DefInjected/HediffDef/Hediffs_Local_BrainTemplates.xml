@@ -1,18 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- EN: Dev_SleeveBodyData -->
   <UT_SleeveBodyData.label>Dev_SleeveBodyData</UT_SleeveBodyData.label>
+    <!-- EN: SleeveBodyData -->
   <UT_SleeveBodyData.description>SleeveBodyData</UT_SleeveBodyData.description>
-  <UT_SleeveBodyData.stages.0.label>low</UT_SleeveBodyData.stages.0.label>
+    <!-- EN: low -->
+  <UT_SleeveBodyData.stages.0.label>słaby</UT_SleeveBodyData.stages.0.label>
 
-  <UT_BrainTemplateCombat.label>sleeve type (combat)</UT_BrainTemplateCombat.label>
-  <UT_BrainTemplateCombat.description>This body was grown specifically for combat.</UT_BrainTemplateCombat.description>
+    <!-- EN: sleeve type (combat) -->
+  <UT_BrainTemplateCombat.label>typ Homunkulusa (bojowy)</UT_BrainTemplateCombat.label>
+    <!-- EN: This body was grown specifically for combat. -->
+  <UT_BrainTemplateCombat.description>To ciało zostało wyhodowane specjalnie do walki.</UT_BrainTemplateCombat.description>
 
-  <UT_BrainTemplateWorker.label>sleeve type (worker)</UT_BrainTemplateWorker.label>
-  <UT_BrainTemplateWorker.description>This body was grown specifically for manual labour.</UT_BrainTemplateWorker.description>
+    <!-- EN: sleeve type (worker) -->
+  <UT_BrainTemplateWorker.label>typ Homunkulusa (pracownik)</UT_BrainTemplateWorker.label>
+    <!-- EN: This body was grown specifically for manual labour. -->
+  <UT_BrainTemplateWorker.description>To ciało zostało wyhodowane specjalnie do pracy fizycznej.</UT_BrainTemplateWorker.description>
 
-  <UT_BrainTemplateInfiltrator.label>sleeve type (infiltrator)</UT_BrainTemplateInfiltrator.label>
-  <UT_BrainTemplateInfiltrator.description>This body was grown specifically for stealth and infiltration.</UT_BrainTemplateInfiltrator.description>
+    <!-- EN: sleeve type (infiltrator) -->
+  <UT_BrainTemplateInfiltrator.label>typ Homunkulusa (infiltrator)</UT_BrainTemplateInfiltrator.label>
+    <!-- EN: This body was grown specifically for stealth and infiltration. -->
+  <UT_BrainTemplateInfiltrator.description>To ciało zostało wyhodowane specjalnie do ukrywania się i infiltracji.</UT_BrainTemplateInfiltrator.description>
 
 
 </LanguageData>

@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_FreeMind.degreeDatas.0.label>free mind</UT_FreeMind.degreeDatas.0.label>
-  <UT_FreeMind.degreeDatas.0.description>[PAWN_nameDef] always saw their body as nothing more than a vessel for their mind. [PAWN_pronoun] does not care about the gender, age or looks of a body.</UT_FreeMind.degreeDatas.0.description>
+    <!-- EN: free mind -->
+  <UT_FreeMind.degreeDatas.0.label>wolny umysł</UT_FreeMind.degreeDatas.0.label>
+    <!-- EN: [PAWN_nameDef] always saw their body as nothing more than a vessel for their mind. [PAWN_pronoun] does not care about the gender, age or looks of a body. -->
+  <UT_FreeMind.degreeDatas.0.description>[PAWN_nameDef] zawsze postrzega{PAWN_gender ? ł : ła} swoje ciało jako naczynie dla swojego umysłu. [PAWN_pronoun] nie dba o płeć, wiek ani wygląd ciała.</UT_FreeMind.degreeDatas.0.description>
 
 
 </LanguageData>

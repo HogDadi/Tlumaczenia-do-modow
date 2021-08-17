@@ -1,124 +1,235 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: Name -->
   <AlteredCarbon.Name>Nazwa</AlteredCarbon.Name>
+  <!-- EN: Faction -->
   <AlteredCarbon.faction>Frakcja</AlteredCarbon.faction>
+  <!-- EN: Childhood -->
   <AlteredCarbon.childhood>Dzieciństwo</AlteredCarbon.childhood>
+  <!-- EN: Adulthood -->
   <AlteredCarbon.adulthood>Dorosłość</AlteredCarbon.adulthood>
+  <!-- EN: Chronological age -->
   <AlteredCarbon.ageChronologicalTicks>Wiek chronologiczny</AlteredCarbon.ageChronologicalTicks>
+  <!-- EN: Extract stack -->
   <AlteredCarbon.ExtractStack>Wyciągnij pojemnik</AlteredCarbon.ExtractStack>
+  <!-- EN: Duplicate Stack -->
   <AlteredCarbon.DuplicateStack>Zduplikuj pojemnik</AlteredCarbon.DuplicateStack>
+  <!-- EN: Destroy stack -->
   <AlteredCarbon.DestroyStack>Zniszcz pojemnik</AlteredCarbon.DestroyStack>
+  <!-- EN: Destroyed stack -->
   <AlteredCarbon.DestroyedStack>Zniszczony pojemnik</AlteredCarbon.DestroyedStack>
+  <!-- EN: An empty stack was destroyed by inept actions of {PAWN_labelShort}. -->
   <AlteredCarbon.DestroyedStackDesc>Pusty pojemnik został zniszczony przez nieudolne działania {PAWN_labelShort}.</AlteredCarbon.DestroyedStackDesc>
+  <!-- EN: A stack was destroyed by inept actions of {PAWN_labelShort}. -->
   <AlteredCarbon.DestroyedWipingStackDesc>pojemnik został zniszczony przez nieudolne działania {PAWN_labelShort}.</AlteredCarbon.DestroyedWipingStackDesc>
-  <AlteredCarbon.EmptySleeve>Pusty rękaw</AlteredCarbon.EmptySleeve>
+  <!-- EN: Empty sleeve -->
+  <AlteredCarbon.EmptySleeve>Pusty Homunkulus</AlteredCarbon.EmptySleeve>
+  <!-- EN: Empty stack -->
   <AlteredCarbon.EmptyStack>Pusty pojemnik</AlteredCarbon.EmptyStack>
+  <!-- EN: An empty stack. -->
   <AlteredCarbon.EmptyStackDesc>Pusty pojemnik.</AlteredCarbon.EmptyStackDesc>
+  <!-- EN: Sleeve Death -->
   <AlteredCarbon.SleeveDeath>Śmierć Homunkulusa</AlteredCarbon.SleeveDeath>
+  <!-- EN: Sleeve Death. -->
   <AlteredCarbon.SleeveDeathDesc>Śmierć Homunkulusa.</AlteredCarbon.SleeveDeathDesc>
+  <!-- EN: Sleeve of {PAWN_labelShort} has died. Cause: {1}. -->
   <AlteredCarbon.PawnDiedBecauseOf>Zmarł Homunkulus {PAWN_labelShort}. Przyczyna: {1}.</AlteredCarbon.PawnDiedBecauseOf>
+  <!-- EN: Sleeve of {1_labelShort} has died. -->
   <AlteredCarbon.PawnDied>Homunkulus zmarł {1_labelShort}.</AlteredCarbon.PawnDied>
+  <!-- EN: Sleeve of  -->
   <AlteredCarbon.SleveOf>Homunkulus </AlteredCarbon.SleveOf>
+   <!-- EN: Deleting Stack:\nWARNING! You are about to wipe this stack, killing the person saved on it. Are you sure you want to continue? -->
   <AlteredCarbon.EmptyStackConfirmation>Usuwanie pojemnika:\nOSTRZEŻENIE! Masz zamiar wyczyścić ten pojemnik, zabijając osobę na nim zapisaną. Jesteś pewien, że chcesz kontynuować?</AlteredCarbon.EmptyStackConfirmation>
+  <!-- EN: Destroying Stack:\nWARNING! You are about to destroy this stack. Are you sure you want to continue? -->
   <AlteredCarbon.DestroyStackConfirmation>Niszczenie pojemnika:\nOSTRZEŻENIE! Masz zamiar zniszczyć ten pojemnik. Jesteś pewien, że chcesz kontynuować?</AlteredCarbon.DestroyStackConfirmation>
 
+  <!-- EN: Sleeve Customization -->
   <AlteredCarbon.SleeveCustomization>Dostosowanie Homunkulusa</AlteredCarbon.SleeveCustomization>
+  <!-- EN: No Sleeve -->
   <AlteredCarbon.NoSleeve>Bez Homunkulusa</AlteredCarbon.NoSleeve>
+  <!-- EN: Sleeve -->
   <AlteredCarbon.Sleeve>Homunkulus</AlteredCarbon.Sleeve>
+  <!-- EN: Duplicate Stack (requires intellectual skill of 10 or higher) -->
   <AlteredCarbon.CannotCopyNoIntellectual>Zduplikowany pojemnik (wymaga umiejętności intelektualnej 10 lub wyższej)</AlteredCarbon.CannotCopyNoIntellectual>
-  <AlteredCarbon.CannotCopyNoOtherEmptyStacks>Zduplikowany pojemnik (bez pustych stosów na mapie)</AlteredCarbon.CannotCopyNoOtherEmptyStacks>
+  <!-- EN: Duplicate Stack (no empty stacks on the map) -->
+  <AlteredCarbon.CannotCopyNoOtherEmptyStacks>Zduplikowany pojemnik (brak pustych pojemników na mapie)</AlteredCarbon.CannotCopyNoOtherEmptyStacks>
+  <!-- EN: erased {PAWN_labelShort} -->
   <AlteredCarbon.GoodwillChangedReason_ErasedPawn>usunięte {PAWN_labelShort}</AlteredCarbon.GoodwillChangedReason_ErasedPawn>
+  <!-- EN: Wipe Stack (requires intellectual skill of 5 or higher) -->
   <AlteredCarbon.CantWipeStackTooDumb>Wyczyść pojemnik (wymagana umiejętność intelektualna 5 lub wyższa)</AlteredCarbon.CantWipeStackTooDumb>
+  <!-- EN: Cancel the sleeve growing process. -->
   <AlteredCarbon.CancelSleeveBodyGrowing>Anuluj proces uprawy Homunkulusa.</AlteredCarbon.CancelSleeveBodyGrowing>
+  <!-- EN: Cancel sleeve growing. -->
   <AlteredCarbon.CancelSleeveBodyGrowingDesc>Anuluj uprawę Homunkulusa.</AlteredCarbon.CancelSleeveBodyGrowingDesc>
+  <!-- EN: Create sleeve -->
   <AlteredCarbon.CreateSleeveBody>Utwórz Homunkulusa</AlteredCarbon.CreateSleeveBody>
+  <!-- EN: Create a new sleeve. -->
   <AlteredCarbon.CreateSleeveBodyDesc>Utwórz nowego Homunkulusa.</AlteredCarbon.CreateSleeveBodyDesc>
+  <!-- EN: Release sleeve -->
   <AlteredCarbon.ReleaseSleeve>Zwolnij Homunkulusa</AlteredCarbon.ReleaseSleeve>
+  <!-- EN: This race does not support hair! -->
   <AlteredCarbon.noHairAllowed>Ta rasa nie wspiera włosów!</AlteredCarbon.noHairAllowed>
 
+  <!-- EN: Body shape -->
   <AlteredCarbon.BodyShape>Figura</AlteredCarbon.BodyShape>
+  <!-- EN: Body type -->
   <AlteredCarbon.BodyTypeReplace>Typ ciała</AlteredCarbon.BodyTypeReplace>
+  <!-- EN: Cancel -->
   <AlteredCarbon.Cancel>Anuluj</AlteredCarbon.Cancel>
+  <!-- EN: Growth progress:  -->
   <AlteredCarbon.GrowthProgress>Postęp wzrostu: </AlteredCarbon.GrowthProgress>
+  <!-- EN: Hair colour -->
   <AlteredCarbon.HairColour>Kolor włosów</AlteredCarbon.HairColour>
+  <!-- EN: Hair type -->
   <AlteredCarbon.HairType>Typ włosó</AlteredCarbon.HairType>
+  <!-- EN: Head shape -->
   <AlteredCarbon.HeadShape>Kształt głowy</AlteredCarbon.HeadShape>
+  <!-- EN: Head type -->
   <AlteredCarbon.HeadTypeReplace>Typ głowy</AlteredCarbon.HeadTypeReplace>
+  <!-- EN: Beard type -->
   <AlteredCarbon.BeardType>Typ brody</AlteredCarbon.BeardType>
+  <!-- EN: Face tattoos type -->
   <AlteredCarbon.FaceTattoosType>Typ tatuaży na głowie</AlteredCarbon.FaceTattoosType>
+  <!-- EN: Body tattoos type -->
   <AlteredCarbon.BodyTattoosType>Typ tatuaży na ciele</AlteredCarbon.BodyTattoosType>
+  <!-- EN: Level of beauty -->
   <AlteredCarbon.LevelOfBeauty>Poziom urody</AlteredCarbon.LevelOfBeauty>
+  <!-- EN: Level of quality -->
   <AlteredCarbon.LevelofQuality>Poziom jakości</AlteredCarbon.LevelofQuality>
+  <!-- EN: Require neutroamine -->
   <AlteredCarbon.RequireBiomass>Wymagana neutroamina</AlteredCarbon.RequireBiomass>
+  <!-- EN: Skin colour -->
   <AlteredCarbon.SkinColour>Kolor skóty</AlteredCarbon.SkinColour>
+  <!-- EN: Time to grow -->
   <AlteredCarbon.TimeToGrow>Czas wzrostu</AlteredCarbon.TimeToGrow>
+  <!-- EN: Select race -->
   <AlteredCarbon.SelectRace>Wybierz rasę</AlteredCarbon.SelectRace>
+  <!-- EN: Race type -->
   <AlteredCarbon.RaceTypeReplace>Typ rasy</AlteredCarbon.RaceTypeReplace>
+  <!-- EN: Clone sleeve -->
   <AlteredCarbon.CloneSleeve>Sklonuj rękaw</AlteredCarbon.CloneSleeve>
+  <!-- EN: Create a sleeve based on an existing pawn. -->
   <AlteredCarbon.CloneSleeveDesc>Stwórz rękaw na podstawie istniejącego pionka.</AlteredCarbon.CloneSleeveDesc>
+  <!-- EN: Sleeve incubator is running out neutroamine -->
   <AlteredCarbon.isRunningOutFuel>W inkubatorze Homunkulusó kończy się neutroamina</AlteredCarbon.isRunningOutFuel>
+  <!-- EN: Sleeve incubator is running out power -->
   <AlteredCarbon.isRunningOutPower>Inkubator Homunkulusów wyczerpuje się</AlteredCarbon.isRunningOutPower>
+  <!-- EN: Sleeve body in the incubator is dead -->
   <AlteredCarbon.SleeveInIncubatorIsDead>Ciało Homunkulusa w inkubatorze jest martwe</AlteredCarbon.SleeveInIncubatorIsDead>
 
+  <!-- EN: No brain templates found -->
   <AlteredCarbon.NoBrainTemplatesFound>Nie znaleziono szablonów mózgu</AlteredCarbon.NoBrainTemplatesFound>
+  <!-- EN: Insert brain template -->
   <AlteredCarbon.InsertBrainTemplate>Wstaw szablon mózgu</AlteredCarbon.InsertBrainTemplate>
+  <!-- EN: Insert a brain template into the incubator. -->
   <AlteredCarbon.InsertBrainTemplateDesc>Włóż szablon mózgu do inkubatora.</AlteredCarbon.InsertBrainTemplateDesc>
+  <!-- EN: Remove current brain template -->
   <AlteredCarbon.RemoveCurrentBrainTemplate>Usuń aktualny szablon mózgu</AlteredCarbon.RemoveCurrentBrainTemplate>
+  <!-- EN: Call psylink neuroformers -->
   <AlteredCarbon.CommandCallsNeuroformers>Zadzwoń do neuroformatorów psylink</AlteredCarbon.CommandCallsNeuroformers>
 
+  <!-- EN: Sleeve growing time duration -->
   <AlteredCarbon.growingTimeDuration>Czas wzrostu Homunkulusa</AlteredCarbon.growingTimeDuration>
+  <!-- EN: Sleeve growing time duration -->
   <AlteredCarbon.baseBeautyLevel>Czas wzrostu Homunkulusa</AlteredCarbon.baseBeautyLevel>
+  <!-- EN: Sleeve growing time duration -->
   <AlteredCarbon.baseQualityLevel>Czas wzrostu Homonkulusa</AlteredCarbon.baseQualityLevel>
 
+  <!-- EN: Health preview -->
   <AlteredCarbon.sleeveHealthPreview>Podgląd zdrowia</AlteredCarbon.sleeveHealthPreview>
+  <!-- EN: saturation -->
   <AlteredCarbon.saturation>saturacja</AlteredCarbon.saturation>
+  <!-- EN: brightness -->
   <AlteredCarbon.value>jasność</AlteredCarbon.value>
 
+  <!-- EN: Extract stack -->
   <AC.DesignatorExtractStack>Rozpakuj pojemnik</AC.DesignatorExtractStack>
+  <!-- EN: Extract cortical stacks from dead bodies -->
   <AC.DesignatorExtractStackDesc>Wydobądź pojemniki węglowe z martwych ciał</AC.DesignatorExtractStackDesc>
+  <!-- EN: The body should have a cortical stack -->
   <AC.MessageMustDesignateHasStack>Ciało musi mieć pojemnik węglowy</AC.MessageMustDesignateHasStack>
 
+  <!-- EN: {FACTION_name} demands stacks of their members back.\n\n{0} -->
   <AC.FactionDemandsStacks>{FACTION_name} żąda zwrotu pojemników swoich członków.\n\n{0}</AC.FactionDemandsStacks>
+  <!-- EN: Accept: (+{0} goodwill) -->
   <AC.AppeptFactionDemand>Zaakceptuj: (+{0} reputacji)</AC.AppeptFactionDemand>
+  <!-- EN: Reject: ({0} goodwill) -->
   <AC.RejectFactionDemand>Odrzuć: ({0} reputacji)</AC.RejectFactionDemand>
+  <!-- EN: Cortical Stacks in Matrix: ({0}/{1}) -->
   <AC.CorticalStacksInMatrix>Pojemniki węglowe w macierzy: ({0}/{1})</AC.CorticalStacksInMatrix>
+  <!-- EN: Contents -->
   <AC.StackStorage>Zawartość</AC.StackStorage>
 
-  <AC.AllowColonistStacks>*Allow colonist cortical stacks</AC.AllowColonistStacks>
-  <AC.AllowStrangerStacks>*Allow stranger cortical stacks</AC.AllowStrangerStacks>
-  <AC.AllowHostileStacks>*Allow hostile cortical stacks</AC.AllowHostileStacks>
+  <!-- EN: *Allow colonist cortical stacks -->
+  <AC.AllowColonistStacks>*Zezwalaj kolonistom na pojemniki węglowe</AC.AllowColonistStacks>
+  <!-- EN: *Allow stranger cortical stacks -->
+  <AC.AllowStrangerStacks>*Zezwalaj na nieznajome pojemniki węglowe</AC.AllowStrangerStacks>
+  <!-- EN: *Allow hostile cortical stacks -->
+  <AC.AllowHostileStacks>*Zezwalaj na wrogie pojemniki węglowe</AC.AllowHostileStacks>
+  <!-- EN: Copy -->
   <AC.Copy>Kopiuj</AC.Copy>
+  <!-- EN: Original -->
   <AC.Original>Orginał</AC.Original>
+  <!-- EN: {PAWN_nameDef} successfully duplicated cortical stack. -->
   <AC.SuccessfullyDuplicatedStack>{PAWN_nameDef} pomyślnie {PAWN_gender ? zduplikował : zduplikowała} pojemnik węglowy.</AC.SuccessfullyDuplicatedStack>
+  <!-- EN: Organ incubator is running out neutroamine -->
   <AlteredCarbon.OrganIncubatorIsRunningOutFuel>W inkubatorze organów kończy się neutroamina</AlteredCarbon.OrganIncubatorIsRunningOutFuel>
+  <!-- EN: Organ incubator is running out power -->
   <AlteredCarbon.OrganIncubatorIsRunningOutPower>Inkubator organów traci moc</AlteredCarbon.OrganIncubatorIsRunningOutPower>
+  <!-- EN: Organ in the incubator is spoiled -->
   <AlteredCarbon.OrganSpoiled>Organy w inkubatorze są zepsute</AlteredCarbon.OrganSpoiled>
+  <!-- EN: Cancel organ growing -->
   <AlteredCarbon.CancelOrganGrowing>Anuluj wzrost organów</AlteredCarbon.CancelOrganGrowing>
+  <!-- EN: Cancel sleeve growing -->
   <AlteredCarbon.CancelOrganGrowingDesc>Anuluj wzrost Homonkulusa</AlteredCarbon.CancelOrganGrowingDesc>
+  <!-- EN: Grow organ -->
   <AlteredCarbon.CreateOrgan>Rozwijaj organy</AlteredCarbon.CreateOrgan>
+  <!-- EN: Grow an organ. -->
   <AlteredCarbon.CreateOrganDesc>Wyhoduj organ.</AlteredCarbon.CreateOrganDesc>
+  <!-- EN: Sleeve Incubator: Finished growing sleeve! -->
   <AlteredCarbon.FinishedGrowingSleeve>Inkubator Homonkulusów: Homunkulus w pełni gotowy!</AlteredCarbon.FinishedGrowingSleeve>
+  <!-- EN: Install stack -->
   <AlteredCarbon.InstallStack>Zainstaluj pojemnik</AlteredCarbon.InstallStack>
+  <!-- EN: Install a stack. -->
   <AlteredCarbon.InstallStackDesc>Zainstaluj pojemnik.</AlteredCarbon.InstallStackDesc>
+  <!-- EN: Cannot be placed too close to existing Quantum Storage Matrix! -->
   <AlteredCarbon.MustPlaceDistantToOtherCorticalMatrixes>Nie można umieścić zbyt blisko istniejącej macierzy pamięci Matrix!</AlteredCarbon.MustPlaceDistantToOtherCorticalMatrixes>
+  <!-- EN: Hack stack -->
   <AlteredCarbon.HackStack>Hakowanie pojemnika</AlteredCarbon.HackStack>
+  <!-- EN: Convert a stack to the players faction. -->
   <AlteredCarbon.HackStackDesc>Zamień pojemnik na frakcję gracza.</AlteredCarbon.HackStackDesc>
-  <AlteredCarbon.ConvertStack>Konwertuj ideę pojemnika</AlteredCarbon.ConvertStack>
+  <!-- EN: Convert stack ideo -->
+<AlteredCarbon.ConvertStack>Konwertuj ideę pojemnika</AlteredCarbon.ConvertStack>
+  <!-- EN: Convert a stack to the players ideology. -->
   <AlteredCarbon.ConvertStackDesc>Zamień pojemnik na ideologię gracza.</AlteredCarbon.ConvertStackDesc>
+  <!-- EN: Wipe stack -->
   <AlteredCarbon.WipeStack>Wyczyść pojemnik</AlteredCarbon.WipeStack>
+  <!-- EN: Wipe a stack of the pawn stored on it. -->
   <AlteredCarbon.WipeStackDesc>Wyczyść pojemnik i przechowywanego na nim pionka.</AlteredCarbon.WipeStackDesc>
+  <!-- EN: {PAWN_nameDef} already has a cortical stack installed! -->
   <AlteredCarbon.PawnAlreadyHasStack>{PAWN_nameDef} ma już zainstalowany pojemnik węglowy!</AlteredCarbon.PawnAlreadyHasStack>
+  <!-- EN: Cannot install cortical stack - neck is missing or another implant installed in the neck. -->
   <AlteredCarbon.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>Nie można zainstalować pojemnika węglowego - brak szyi lub inny implant jest już zainstalowany w szyi.</AlteredCarbon.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
+  <!-- EN: This stack is set for hacking already on the decryption workbench. -->
   <AlteredCarbon.AlreadyOrderedToHackStack>Ten pojemnik jest ustawiony do hakowania już na stole roboczym deszyfrowania.</AlteredCarbon.AlreadyOrderedToHackStack>
+  <!-- EN: This stack is set for ideo converting already on the decryption workbench. -->
   <AlteredCarbon.AlreadyOrderedToConvertStack>Ten pojemnik jest ustawiony do konwersji ideo już w środowisku deszyfrowania.</AlteredCarbon.AlreadyOrderedToConvertStack>
+  <!-- EN: This stack is set for wiping already on the decryption workbench. -->
   <AlteredCarbon.AlreadyOrderedToWipeStack>Ten pojemnik jest ustawiony do wymazywania już na stole roboczym deszyfrowania.</AlteredCarbon.AlreadyOrderedToWipeStack>
+  <!-- EN: Decrypt Ancient Stacks: Fixed the ancient cortical stack! -->
   <AlteredCarbon.FixedAncientStack>Odszyfruj starożytne pojemniki: Naprawiono starożytny pojemnik węglowy!</AlteredCarbon.FixedAncientStack>
+  <!-- EN: Decrypt Ancient Stacks: Unlocked new technology - {0}! -->
   <AlteredCarbon.UnlockedNewTechnology>Odszyfruj starożytne pojemniki: odblokowana nowa technologia — {0}!</AlteredCarbon.UnlockedNewTechnology>
+  <!-- EN: Decrypt Ancient Stacks: Gained progress to technology - {0}! -->
   <AlteredCarbon.GainedProgressToTechnology>Odszyfruj starożytne pojemniki: Osiągnięto postęp w technologii — {0}!</AlteredCarbon.GainedProgressToTechnology>
-  <AlteredCarbon.GainedEmptyCorticalStack>Odszyfruj starożytne stosy: Zdobyto pusty pojemnik węglowy!</AlteredCarbon.GainedEmptyCorticalStack>
-  <AlteredCarbon.FailedCorticalStackDestroyed>Odszyfruj starożytne stosy: Nieudane, pojemnik węglowy zniszczony!</AlteredCarbon.FailedCorticalStackDestroyed>
+  <!-- EN: Decrypt Ancient Stacks: Gained empty cortical stack! -->
+  <AlteredCarbon.GainedEmptyCorticalStack>Odszyfruj starożytny pojemnik: Zdobyto pusty pojemnik węglowy!</AlteredCarbon.GainedEmptyCorticalStack>
+  <!-- EN: Decrypt Ancient Stacks: Failed, cortical stack destroyed! -->
+  <AlteredCarbon.FailedCorticalStackDestroyed>Odszyfruj starożytny pojemnik: Nieudane, pojemnik węglowy zniszczony!</AlteredCarbon.FailedCorticalStackDestroyed>
+  <!-- EN: Hacking biocoded equipment: Failed, {0} destroyed! -->
   <AlteredCarbon.HackingBiocodedFailed>Hakowanie sprzętu z biokodowanym kodem: nie powiodło się, {0} zniszczone!!</AlteredCarbon.HackingBiocodedFailed>
+  <!-- EN: Hacking biocoded equipment: Successful! {0} is unlocked. -->
   <AlteredCarbon.HackingBiocodedSuccess>Hakowanie sprzętu z biokodowanym kodem: Udało się! {0} jest odblokowany.</AlteredCarbon.HackingBiocodedSuccess>
 
 </LanguageData>
