@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SP_Animal_Chonk.label>chonk</SP_Animal_Chonk.label>
+  <SP_Animal_ResidentSleeper.label>resident sleeper</SP_Animal_ResidentSleeper.label>
+  <SP_Animal_FeetBump.label>feet bump</SP_Animal_FeetBump.label>
+  <SP_Animal_LapRegular.label>lap regular</SP_Animal_LapRegular.label>
+  <SP_Animal_StaringContestChampion.label>staring contest champion</SP_Animal_StaringContestChampion.label>
+  <SP_Animal_HorriblySlowStalker.label>horribly slow stalker</SP_Animal_HorriblySlowStalker.label>
+  <SP_Animal_Sunbather.label>sunbather</SP_Animal_Sunbather.label>
+  <SP_Animal_BedDweller.label>bed-dweller</SP_Animal_BedDweller.label>
+  <SP_Animal_BlepSpecialist.label>blep specialist</SP_Animal_BlepSpecialist.label>
+  <SP_Animal_Loner.label>loner</SP_Animal_Loner.label>
+  <SP_Animal_Sleepyhead.label>sleepyhead</SP_Animal_Sleepyhead.label>
+  <SP_Animal_Laggard.label>laggard</SP_Animal_Laggard.label>
+  <SP_Animal_Slowpoke.label>slowpoke</SP_Animal_Slowpoke.label>
+  <SP_Animal_DillyDallyer.label>dilly-dallyer</SP_Animal_DillyDallyer.label>
+  <SP_Animal_Landmark.label>landmark</SP_Animal_Landmark.label>
+  <SP_Animal_CEO.label>CEO of chonks</SP_Animal_CEO.label>
+  <SP_Animal_Maruder.label>maruder</SP_Animal_Maruder.label>
+  <SP_Animal_Catnip.label>catnip aficionado</SP_Animal_Catnip.label>
+  <SP_Animal_BOB.label>beast of burden</SP_Animal_BOB.label>
+  <SP_Animal_GentleGiant.label>gentle giant</SP_Animal_GentleGiant.label>
+
+
+</LanguageData>

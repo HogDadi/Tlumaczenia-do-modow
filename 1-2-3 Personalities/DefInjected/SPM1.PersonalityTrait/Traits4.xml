@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SP_Sensitive.label>sensitive</SP_Sensitive.label>
+  <SP_Withdrawn.label>withdrawn</SP_Withdrawn.label>
+  <SP_Expressive.label>expressive</SP_Expressive.label>
+  <SP_Dramatic.label>dramatic</SP_Dramatic.label>
+  <SP_Self-absorbed.label>self-absorbed</SP_Self-absorbed.label>
+  <SP_Temperamental.label>temperamental</SP_Temperamental.label>
+  <SP_Passionate.label>passionate</SP_Passionate.label>
+  <SP_Introspective.label>introspective</SP_Introspective.label>
+
+
+</LanguageData>

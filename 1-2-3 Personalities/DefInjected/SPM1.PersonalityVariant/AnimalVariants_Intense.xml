@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SP_Animal_BadBoy.label>bad {0}</SP_Animal_BadBoy.label>
+  <SP_Animal_Mischief.label>mischief</SP_Animal_Mischief.label>
+  <SP_Animal_FussyEater.label>fussy eater</SP_Animal_FussyEater.label>
+  <SP_Animal_Bully.label>bully</SP_Animal_Bully.label>
+  <SP_Animal_HouseplantEater.label>houseplant eater</SP_Animal_HouseplantEater.label>
+  <SP_Animal_ShoeGnawer.label>shoe gnawer</SP_Animal_ShoeGnawer.label>
+  <SP_Animal_TerritorialWarlord.label>territorial warlord</SP_Animal_TerritorialWarlord.label>
+  <SP_Animal_BarkingEnthusiast.label>barking enthusiast</SP_Animal_BarkingEnthusiast.label>
+  <SP_Animal_FeetBiter.label>feet biter</SP_Animal_FeetBiter.label>
+  <SP_Animal_NeighbourChaser.label>neighbour chaser</SP_Animal_NeighbourChaser.label>
+  <SP_Animal_GreedyFetcher.label>greedy fetcher</SP_Animal_GreedyFetcher.label>
+  <SP_Animal_PerpetualSnarler.label>perpetual snarler</SP_Animal_PerpetualSnarler.label>
+  <SP_Animal_FancyPurebred.label>fancy purebred</SP_Animal_FancyPurebred.label>
+  <SP_Animal_MoodyDiva.label>moody diva</SP_Animal_MoodyDiva.label>
+  <SP_Animal_Rascal.label>rascal</SP_Animal_Rascal.label>
+  <SP_Animal_Stalker.label>stalker</SP_Animal_Stalker.label>
+  <SP_Animal_SpoiledPup.label>spoiled pup</SP_Animal_SpoiledPup.label>
+  <SP_Animal_MailmansNightmare.label>mailman's nightmare</SP_Animal_MailmansNightmare.label>
+
+
+</LanguageData>

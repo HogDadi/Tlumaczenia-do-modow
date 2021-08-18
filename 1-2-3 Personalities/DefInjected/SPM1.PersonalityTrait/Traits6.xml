@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SP_Committed.label>committed</SP_Committed.label>
+  <SP_Engaging.label>engaging</SP_Engaging.label>
+  <SP_Responsible.label>responsible</SP_Responsible.label>
+  <SP_Anxious.label>anxious</SP_Anxious.label>
+  <SP_Suspicious.label>suspicious</SP_Suspicious.label>
+  <SP_Doubtful.label>doubtful</SP_Doubtful.label>
+  <SP_Restless.label>restless</SP_Restless.label>
+  <SP_Paranoid.label>paranoid</SP_Paranoid.label>
+
+
+</LanguageData>

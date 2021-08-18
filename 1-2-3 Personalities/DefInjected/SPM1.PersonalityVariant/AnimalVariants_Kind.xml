@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SP_Animal_GoodBoy.label>good {0}</SP_Animal_GoodBoy.label>
+  <SP_Animal_Hugger.label>hugger</SP_Animal_Hugger.label>
+  <SP_Animal_PackLeader.label>pack leader</SP_Animal_PackLeader.label>
+  <SP_Animal_BestFriend.label>man's best friend</SP_Animal_BestFriend.label>
+  <SP_Animal_Snuggler.label>snuggler</SP_Animal_Snuggler.label>
+  <SP_Animal_Floof.label>floof</SP_Animal_Floof.label>
+  <SP_Animal_PoopProducer.label>poop producer</SP_Animal_PoopProducer.label>
+  <SP_Animal_Yelper.label>yelper</SP_Animal_Yelper.label>
+  <SP_Animal_Alpha.label>alpha {0}</SP_Animal_Alpha.label>
+  <SP_Animal_ToyHoarder.label>toy hoarder</SP_Animal_ToyHoarder.label>
+  <SP_Animal_DirtCarrier.label>joyful dirt carrier</SP_Animal_DirtCarrier.label>
+  <SP_Animal_ExhibitionVeteran.label>exhibiton veteran</SP_Animal_ExhibitionVeteran.label>
+  <SP_Animal_Fondling.label>fondling</SP_Animal_Fondling.label>
+  <SP_Animal_GoodestBoy.label>goodest {0}</SP_Animal_GoodestBoy.label>
+  <SP_Animal_Runt.label>runt</SP_Animal_Runt.label>
+  <SP_Animal_CutiePie.label>cutie pie</SP_Animal_CutiePie.label>
+  <SP_Animal_CutenessOverload.label>cuteness overload</SP_Animal_CutenessOverload.label>
+  <SP_Animal_SlipperBringer.label>slipper bringer</SP_Animal_SlipperBringer.label>
+  <SP_Animal_LoyalOne.label>loyal one</SP_Animal_LoyalOne.label>
+  <SP_Animal_FaceLicker.label>face licker</SP_Animal_FaceLicker.label>
+
+
+</LanguageData>

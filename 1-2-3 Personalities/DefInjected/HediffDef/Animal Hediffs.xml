@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Kind animals get this hediff. -->
+
+  <SP_Hediff_AnimalKind.label>Personality (Kind)</SP_Hediff_AnimalKind.label>
+  <SP_Hediff_AnimalKind.description>This animal has a kind personality. It will nuzzle colonists more often.</SP_Hediff_AnimalKind.description>
+
+
+  <!-- Intense animals get this hediff. -->
+
+  <SP_Hediff_AnimalIntense.label>Personality (Intense)</SP_Hediff_AnimalIntense.label>
+  <SP_Hediff_AnimalIntense.description>This animal has an intense personality. It will deal more damage when it attacks.</SP_Hediff_AnimalIntense.description>
+
+
+  <!-- Energetic animals get this hediff. -->
+
+  <SP_Hediff_AnimalEnergetic.label>Personality (Energetic)</SP_Hediff_AnimalEnergetic.label>
+  <SP_Hediff_AnimalEnergetic.description>This animal has an energetic personality. It will move slightly faster.</SP_Hediff_AnimalEnergetic.description>
+
+
+  <!-- Calm animals get this hediff. -->
+
+  <SP_Hediff_AnimalCalm.label>Personality (Calm)</SP_Hediff_AnimalCalm.label>
+  <SP_Hediff_AnimalCalm.description>This animal has a calm personality. Its steady movement allows it to haul more items and carry more mass in caravans.</SP_Hediff_AnimalCalm.description>
+
+
+</LanguageData>
