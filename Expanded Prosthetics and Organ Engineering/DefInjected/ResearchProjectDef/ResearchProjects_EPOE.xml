@@ -4,7 +4,7 @@
   <!-- Tier 0 -->
 
 	<BasicProsthetics.label>Podstawy protetyki</BasicProsthetics.label>
-	<BasicProsthetics.description>Zrozumienie kształtu nogi i połączenie tej wiedzy z podstawowyą obróbką drewna, pozwala tworzyć drewniane nogi i inne prymitywne protezy.</BasicProsthetics.description>
+	<BasicProsthetics.description>Zrozumienie kształtu nogi i połączenie tej wiedzy z podstawową obróbką drewna, pozwala tworzyć drewniane nogi i inne prymitywne protezy.</BasicProsthetics.description>
 
 
   <!-- Tier 1 -->
@@ -13,7 +13,7 @@
   <Prosthetics.description>Zaawansowane badania anatomiczne i badania metali pozwolą Ci zbudować proste protezy. Odblokowuje stół protetyczny.</Prosthetics.description>
 
 	<SurrogateOrgans.label>Sztuczne narządy</SurrogateOrgans.label>
-	<SurrogateOrgans.description>Poprzez poszerzenie swojej medycznej wiedzy stworzenie prostych, sztucznych nardządów, które zastąpią brakujące staje się możliwe.</SurrogateOrgans.description>
+	<SurrogateOrgans.description>Poprzez poszerzenie swojej medycznej wiedzy stworzenie prostych, sztucznych narządów, które zastąpią brakujące staje się możliwe.</SurrogateOrgans.description>
 
 
   <!-- Tier 2 -->
@@ -31,7 +31,7 @@
   <!-- Tier 3 -->
 
 	<AdvancedBionics.label>Zaawansowana bionika</AdvancedBionics.label>
-	<AdvancedBionics.description>Ulepsz swoje bioniczne protezy vancidium, aby były jeszcze lepsze.</AdvancedBionics.description>
+	<AdvancedBionics.description>Ulepsz swoje bioniczne protezy, aby były jeszcze lepsze.</AdvancedBionics.description>
 
   <BionicSpine.label>Bioniczny kręgosłup</BionicSpine.label>
   <BionicSpine.description>Anatomia ludzkiego kręgosłupa jest absurdalnie skomplikowana. Prawdopodobnie powinieneś trochę poszukać, zanim zaczniesz się tym bawić.</BionicSpine.description>

@@ -2,7 +2,7 @@
 <LanguageData>
 
   <CreateSimpleProstheticLeg.label>Stwórz prostą protezę nogi</CreateSimpleProstheticLeg.label>
-  <CreateSimpleProstheticLeg.description>Stwórz prostą proteze nogi z metalu, super stali i komponentów.</CreateSimpleProstheticLeg.description>
+  <CreateSimpleProstheticLeg.description>Stwórz prostą protezę nogi z metalu, super stali i komponentów.</CreateSimpleProstheticLeg.description>
   <CreateSimpleProstheticLeg.jobString>Tworzy prostą protezę nogi.</CreateSimpleProstheticLeg.jobString>
   
   <CreateSimpleProstheticArm.label>Stwórz prostą protezę ramienia</CreateSimpleProstheticArm.label>
@@ -23,7 +23,7 @@
 
   <CreateCochlearImplant.label>Stwórz implant ślimakowy</CreateCochlearImplant.label>
   <CreateCochlearImplant.description>Stwórz implant ślimakowy z super stali.</CreateCochlearImplant.description>
-  <CreateCochlearImplant.jobString>Tworzy implant śliniankowy.</CreateCochlearImplant.jobString>
+  <CreateCochlearImplant.jobString>Tworzy implant ślimakowy.</CreateCochlearImplant.jobString>
 
   <CreateHydraulicJaw.label>Stwórz hydrauliczną szczękę</CreateHydraulicJaw.label>
   <CreateHydraulicJaw.description>Stwórz hydrauliczną szczękę z metalu i super stali.</CreateHydraulicJaw.description>
@@ -43,7 +43,7 @@
   
   <CreateArtificialClavicle.label>Stwórz sztuczny obojczyk</CreateArtificialClavicle.label>
   <CreateArtificialClavicle.description>Stwórz sztuczny obojczyk ze stali.</CreateArtificialClavicle.description>
-  <CreateArtificialClavicle.jobString>Toworzy sztuczny obojczyk.</CreateArtificialClavicle.jobString>
+  <CreateArtificialClavicle.jobString>Tworzy sztuczny obojczyk.</CreateArtificialClavicle.jobString>
 
 
 </LanguageData>

@@ -122,7 +122,7 @@
 
   <InstallAIChip.label>Zainstaluj chip AI</InstallAIChip.label>
   <InstallAIChip.description>Zainstaluj chip AI.</InstallAIChip.description>
-  <InstallAIChip.jobString>Instaluja chip AI</InstallAIChip.jobString>
+  <InstallAIChip.jobString>Instaluje chip AI</InstallAIChip.jobString>
 
   <InstallAIPersonaCore.label>Zainstaluj rdzeń osobowy AI</InstallAIPersonaCore.label>
   <InstallAIPersonaCore.description>Zainstaluj rdzeń osobowy AI.</InstallAIPersonaCore.description>

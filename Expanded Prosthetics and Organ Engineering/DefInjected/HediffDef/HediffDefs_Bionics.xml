@@ -4,7 +4,7 @@
   <!-- Added body parts -->
 
   <PowerArm.label>Ramię mocy</PowerArm.label>
-  <PowerArm.description>Zainstalowane remię mocy.</PowerArm.description>
+  <PowerArm.description>Zainstalowane remie mocy.</PowerArm.description>
   <PowerArm.comps.0.tools.0.label>Bioniczna pięść</PowerArm.comps.0.tools.0.label>
   <PowerArm.labelNoun>Ramię mocy</PowerArm.labelNoun>
 
@@ -14,7 +14,7 @@
   <BionicHand.labelNoun>Bioniczna dłoń</BionicHand.labelNoun>
 
   <BionicFoot.label>Bioniczna stopa</BionicFoot.label>
-  <BionicFoot.description>Zaistalowna bioniczna stopa.</BionicFoot.description>
+  <BionicFoot.description>Zainstalowana bioniczna stopa.</BionicFoot.description>
   <BionicFoot.labelNoun>Bioniczna stopa</BionicFoot.labelNoun>
 
   <BionicEar.label>Bioniczne ucho</BionicEar.label>
@@ -30,7 +30,7 @@
   <SilentJaw.labelNoun>Cicha szczęka</SilentJaw.labelNoun>
 
   <BionicSpine.label>Bioniczny kręgosłup</BionicSpine.label>
-  <BionicSpine.description>Zainstalwany bioniczny kręgosłup.</BionicSpine.description>
+  <BionicSpine.description>Zainstalowany bioniczny kręgosłup.</BionicSpine.description>
   <BionicSpine.labelNoun>Bioniczny kręgosłup</BionicSpine.labelNoun>
 
 
