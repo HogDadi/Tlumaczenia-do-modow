@@ -6,7 +6,7 @@
     <!-- EN: Install a biological arm. -->
   <UT_InstallOrganicArm.description>Zainstaluj biologiczne ramię.</UT_InstallOrganicArm.description>
     <!-- EN: Installing arm. -->
-  <UT_InstallOrganicArm.jobString>Instalule ramię.</UT_InstallOrganicArm.jobString>
+  <UT_InstallOrganicArm.jobString>Instaluje ramię.</UT_InstallOrganicArm.jobString>
 
     <!-- EN: install leg -->
   <UT_InstallOrganicLeg.label>zainstaluj nogę</UT_InstallOrganicLeg.label>

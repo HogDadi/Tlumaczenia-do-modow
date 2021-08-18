@@ -82,7 +82,7 @@
   <!-- EN: Hair colour -->
   <AlteredCarbon.HairColour>Kolor włosów</AlteredCarbon.HairColour>
   <!-- EN: Hair type -->
-  <AlteredCarbon.HairType>Typ włosó</AlteredCarbon.HairType>
+  <AlteredCarbon.HairType>Typ włosów</AlteredCarbon.HairType>
   <!-- EN: Head shape -->
   <AlteredCarbon.HeadShape>Kształt głowy</AlteredCarbon.HeadShape>
   <!-- EN: Head type -->
@@ -98,9 +98,9 @@
   <!-- EN: Level of quality -->
   <AlteredCarbon.LevelofQuality>Poziom jakości</AlteredCarbon.LevelofQuality>
   <!-- EN: Require neutroamine -->
-  <AlteredCarbon.RequireBiomass>Wymagana neutroamina</AlteredCarbon.RequireBiomass>
+  <AlteredCarbon.RequireBiomass>Wymagana neutroaminy</AlteredCarbon.RequireBiomass>
   <!-- EN: Skin colour -->
-  <AlteredCarbon.SkinColour>Kolor skóty</AlteredCarbon.SkinColour>
+  <AlteredCarbon.SkinColour>Kolor skóry</AlteredCarbon.SkinColour>
   <!-- EN: Time to grow -->
   <AlteredCarbon.TimeToGrow>Czas wzrostu</AlteredCarbon.TimeToGrow>
   <!-- EN: Select race -->
@@ -112,7 +112,7 @@
   <!-- EN: Create a sleeve based on an existing pawn. -->
   <AlteredCarbon.CloneSleeveDesc>Stwórz rękaw na podstawie istniejącego pionka.</AlteredCarbon.CloneSleeveDesc>
   <!-- EN: Sleeve incubator is running out neutroamine -->
-  <AlteredCarbon.isRunningOutFuel>W inkubatorze Homunkulusó kończy się neutroamina</AlteredCarbon.isRunningOutFuel>
+  <AlteredCarbon.isRunningOutFuel>W inkubatorze Homunkulusów kończy się neutroamina</AlteredCarbon.isRunningOutFuel>
   <!-- EN: Sleeve incubator is running out power -->
   <AlteredCarbon.isRunningOutPower>Inkubator Homunkulusów wyczerpuje się</AlteredCarbon.isRunningOutPower>
   <!-- EN: Sleeve body in the incubator is dead -->
@@ -134,7 +134,7 @@
   <!-- EN: Sleeve growing time duration -->
   <AlteredCarbon.baseBeautyLevel>Czas wzrostu Homunkulusa</AlteredCarbon.baseBeautyLevel>
   <!-- EN: Sleeve growing time duration -->
-  <AlteredCarbon.baseQualityLevel>Czas wzrostu Homonkulusa</AlteredCarbon.baseQualityLevel>
+  <AlteredCarbon.baseQualityLevel>Czas wzrostu Homunkulusa</AlteredCarbon.baseQualityLevel>
 
   <!-- EN: Health preview -->
   <AlteredCarbon.sleeveHealthPreview>Podgląd zdrowia</AlteredCarbon.sleeveHealthPreview>
@@ -170,7 +170,7 @@
   <!-- EN: Copy -->
   <AC.Copy>Kopiuj</AC.Copy>
   <!-- EN: Original -->
-  <AC.Original>Orginał</AC.Original>
+  <AC.Original>Oryginał</AC.Original>
   <!-- EN: {PAWN_nameDef} successfully duplicated cortical stack. -->
   <AC.SuccessfullyDuplicatedStack>{PAWN_nameDef} pomyślnie {PAWN_gender ? zduplikował : zduplikowała} pojemnik węglowy.</AC.SuccessfullyDuplicatedStack>
   <!-- EN: Organ incubator is running out neutroamine -->
@@ -182,13 +182,13 @@
   <!-- EN: Cancel organ growing -->
   <AlteredCarbon.CancelOrganGrowing>Anuluj wzrost organów</AlteredCarbon.CancelOrganGrowing>
   <!-- EN: Cancel sleeve growing -->
-  <AlteredCarbon.CancelOrganGrowingDesc>Anuluj wzrost Homonkulusa</AlteredCarbon.CancelOrganGrowingDesc>
+  <AlteredCarbon.CancelOrganGrowingDesc>Anuluj wzrost Homunkulusa</AlteredCarbon.CancelOrganGrowingDesc>
   <!-- EN: Grow organ -->
   <AlteredCarbon.CreateOrgan>Rozwijaj organy</AlteredCarbon.CreateOrgan>
   <!-- EN: Grow an organ. -->
   <AlteredCarbon.CreateOrganDesc>Wyhoduj organ.</AlteredCarbon.CreateOrganDesc>
   <!-- EN: Sleeve Incubator: Finished growing sleeve! -->
-  <AlteredCarbon.FinishedGrowingSleeve>Inkubator Homonkulusów: Homunkulus w pełni gotowy!</AlteredCarbon.FinishedGrowingSleeve>
+  <AlteredCarbon.FinishedGrowingSleeve>Inkubator Homunkulusów: Homunkulus w pełni gotowy!</AlteredCarbon.FinishedGrowingSleeve>
   <!-- EN: Install stack -->
   <AlteredCarbon.InstallStack>Zainstaluj pojemnik</AlteredCarbon.InstallStack>
   <!-- EN: Install a stack. -->
@@ -228,8 +228,8 @@
   <!-- EN: Decrypt Ancient Stacks: Failed, cortical stack destroyed! -->
   <AlteredCarbon.FailedCorticalStackDestroyed>Odszyfruj starożytny pojemnik: Nieudane, pojemnik węglowy zniszczony!</AlteredCarbon.FailedCorticalStackDestroyed>
   <!-- EN: Hacking biocoded equipment: Failed, {0} destroyed! -->
-  <AlteredCarbon.HackingBiocodedFailed>Hakowanie sprzętu z biokodowanym kodem: nie powiodło się, {0} zniszczone!!</AlteredCarbon.HackingBiocodedFailed>
+  <AlteredCarbon.HackingBiocodedFailed>Hakowanie sprzętu z bio-kodowanym kodem: nie powiodło się, {0} zniszczone!!</AlteredCarbon.HackingBiocodedFailed>
   <!-- EN: Hacking biocoded equipment: Successful! {0} is unlocked. -->
-  <AlteredCarbon.HackingBiocodedSuccess>Hakowanie sprzętu z biokodowanym kodem: Udało się! {0} jest odblokowany.</AlteredCarbon.HackingBiocodedSuccess>
+  <AlteredCarbon.HackingBiocodedSuccess>Hakowanie sprzętu z bio-kodowanym kodem: Udało się! {0} jest odblokowany.</AlteredCarbon.HackingBiocodedSuccess>
 
 </LanguageData>

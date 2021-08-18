@@ -42,7 +42,7 @@
   <UT_JustCopy.stages.0.description>Jestem niczym więcej niż kopią... Kim w ogóle jestem?</UT_JustCopy.stages.0.description>
 
     <!-- EN: Lost my spouse -->
-  <UT_LostMySpouse.stages.0.label>Straciłęm żonę</UT_LostMySpouse.stages.0.label>
+  <UT_LostMySpouse.stages.0.label>Straciłem żonę</UT_LostMySpouse.stages.0.label>
     <!-- EN: My spouse stayed with my original copy, but I still love them. This isn't fair... -->
   <UT_LostMySpouse.stages.0.description>Moja żona pozostała przy moim oryginalnym egzemplarzu, a ja nadal ją kocham. To niesprawiedliwe...</UT_LostMySpouse.stages.0.description>
 
@@ -52,7 +52,7 @@
   <UT_LostMyFiance.stages.0.description>Mój mąż został przy moim oryginalnym egzemplarzu, a ja nadal go kocham. To niesprawiedliwe...</UT_LostMyFiance.stages.0.description>
 
     <!-- EN: Lost my lover -->
-  <UT_LostMyLover.stages.0.label>Stracona mołość</UT_LostMyLover.stages.0.label>
+  <UT_LostMyLover.stages.0.label>Stracona miłość</UT_LostMyLover.stages.0.label>
     <!-- EN: My lover stayed with my original copy, but I still love them. This isn't fair... -->
   <UT_LostMyLover.stages.0.description>Moja miłość pozostała przy moim oryginalnym egzemplarzu, a ja nadal ją kocham. To niesprawiedliwe...</UT_LostMyLover.stages.0.description>
 

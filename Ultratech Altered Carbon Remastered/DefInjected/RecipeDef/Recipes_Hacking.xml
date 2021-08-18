@@ -6,14 +6,14 @@
     <!-- EN: Decrypt ancient stacks in an attempt to repair them or acquire information from them. -->
   <UT_DecryptAncientStack.description>Odszyfruj starożytne pojemniki, próbując je naprawić lub uzyskać informacje.</UT_DecryptAncientStack.description>
     <!-- EN: decrypting ancient stack. -->
-  <UT_DecryptAncientStack.jobString>odszyfrowywuje starożytny pojemnik.</UT_DecryptAncientStack.jobString>
+  <UT_DecryptAncientStack.jobString>odszyfrowuje starożytny pojemnik.</UT_DecryptAncientStack.jobString>
 
     <!-- EN: hack biocoded things -->
-  <UT_HackBiocodedThings.label>włam się do biokodowanych rzeczy</UT_HackBiocodedThings.label>
+  <UT_HackBiocodedThings.label>włam się do bio-kodowanych rzeczy</UT_HackBiocodedThings.label>
     <!-- EN: Attempt to remove biocoding from weapons and equipment to make it usable. -->
-  <UT_HackBiocodedThings.description>Spróbuj usunąć biokodowanie z broni i sprzętu, aby można było z niego korzystać.</UT_HackBiocodedThings.description>
+  <UT_HackBiocodedThings.description>Spróbuj usunąć bio-kodowanie z broni i sprzętu, aby można było z niego korzystać.</UT_HackBiocodedThings.description>
     <!-- EN: hacking biocoded things. -->
-  <UT_HackBiocodedThings.jobString>hakuje biokodowaną rzecz.</UT_HackBiocodedThings.jobString>
+  <UT_HackBiocodedThings.jobString>hakuje bio-kodowaną rzecz.</UT_HackBiocodedThings.jobString>
 
     <!-- EN: wipe cortical stack -->
   <UT_WipeFilledCorticalStack.label>wyczyść pojemnik węglowy</UT_WipeFilledCorticalStack.label>

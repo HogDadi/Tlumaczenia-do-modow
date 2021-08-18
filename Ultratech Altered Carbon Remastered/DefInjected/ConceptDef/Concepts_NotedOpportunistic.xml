@@ -25,7 +25,7 @@
   <!-- BRAIN TEMPLATES are new items you can insert into SLEEVE CASKETS to modify sleeves grown inside with special values, giving them HEDIFFS that make the new sleeve more useful for certain tasks.
 		\n\nTo inset a brain template, select the wanted SLEEVE INCUBATOR and click on INSERT BRAIN TEMPLATE. Now you can select what kind of template you want (It will only show templates available to you!). One of your colonists will automatically insert the template for you now.
 		\n\nYou can remove a template from a sleeve incubator by selecting it and saying REMOVE TEMPLATE NAME -->
-  <UT_UsingBrainTemplates.helpText>SZABLONY MÓZGU to nowe elementy, które możesz włożyć do SZAFEK HOMUNKULUSÓW, aby zmodyfikować Homonkulusy dodając im niektóre cechy, które sprawiają, że nowy Homunkulus jest bardziej przydatny do niektórych zadaniach.
+  <UT_UsingBrainTemplates.helpText>SZABLONY MÓZGU to nowe elementy, które możesz włożyć do SZAFEK HOMUNKULUSÓW, aby zmodyfikować Homunkulusy dodając im niektóre cechy, które sprawiają, że nowy Homunkulus jest bardziej przydatny do niektórych zadaniach.
 	\n\nAby wstawić szablon mózgu, wybierz żądany INKUBATOR HOMUNKULUSÓW i kliknij WSTAW SZABLON MÓZGU. Teraz możesz wybrać, jakiego rodzaju szablon chcesz (pokaże tylko dostępne szablony!). Jeden z Twoich kolonistów automatycznie wstawi teraz za Ciebie szablon.
 	\n\nMożesz usunąć szablon z inkubatora Homunkulusów, wybierając go i klikając USUŃ SZABLON.</UT_UsingBrainTemplates.helpText>
 

@@ -2,7 +2,7 @@
 <LanguageData>
 
     <!-- EN: allow colonist stacks -->
-  <UT_AllowStacksColonist.label>zezwalaj na skojemniki kolonistów</UT_AllowStacksColonist.label>
+  <UT_AllowStacksColonist.label>zezwalaj na pojemniki kolonistów</UT_AllowStacksColonist.label>
     <!-- EN: Allow the stacks of colonists. -->
   <UT_AllowStacksColonist.description>Pozwól na pojemników kolonistów.</UT_AllowStacksColonist.description>
 
