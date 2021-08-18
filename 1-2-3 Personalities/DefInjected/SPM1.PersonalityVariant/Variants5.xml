@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_Investigator.label>Investigator</SP_Investigator.label>
-  <SP_Philosopher.label>Philosopher</SP_Philosopher.label>
-  <SP_Troubleshooter.label>Troubleshooter</SP_Troubleshooter.label>
-  <SP_Thinker.label>Thinker</SP_Thinker.label>
-
+<!-- EN: Investigator -->
+<SP_Investigator.label>Badacz</SP_Investigator.label>
+<!-- EN: Philosopher -->
+<SP_Philosopher.label>Filozof</SP_Philosopher.label>
+<!-- EN: Troubleshooter -->
+<SP_Troubleshooter.label>Rozwiązywacz problemów</SP_Troubleshooter.label>
+<!-- EN: Thinker -->
+<SP_Thinker.label>Myśliciel</SP_Thinker.label>
 
 </LanguageData>

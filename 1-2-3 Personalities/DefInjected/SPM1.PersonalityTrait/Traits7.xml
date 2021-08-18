@@ -1,14 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_Fun-loving.label>fun-loving</SP_Fun-loving.label>
-  <SP_Spontaneous.label>spontaneous</SP_Spontaneous.label>
-  <SP_Versatile.label>versatile</SP_Versatile.label>
-  <SP_Distractible.label>distractible</SP_Distractible.label>
-  <SP_Scattered.label>scattered</SP_Scattered.label>
-  <SP_Diligent.label>diligent</SP_Diligent.label>
-  <SP_Erratic.label>erratic</SP_Erratic.label>
-  <SP_Childlike.label>childlike</SP_Childlike.label>
+<!-- EN: fun-loving -->
+<SP_Fun-loving.label>kochanie zabaw</SP_Fun-loving.label>
+<!-- EN: spontaneous -->
+<SP_Spontaneous.label>spontaniczność</SP_Spontaneous.label>
+<!-- EN: versatile -->
+<SP_Versatile.label>wszechstronność</SP_Versatile.label>
+<!-- EN: distractible -->
+<SP_Distractible.label>rozpraszanie się</SP_Distractible.label>
+<!-- EN: scattered -->
+<SP_Scattered.label>chaotyczność</SP_Scattered.label>
+<!-- EN: diligent -->
+<SP_Diligent.label>staranność</SP_Diligent.label>
+<!-- EN: erratic -->
+<SP_Erratic.label>niekonsekwentność</SP_Erratic.label>
+<!-- EN: childlike -->
+<SP_Childlike.label>dziecinność</SP_Childlike.label>
 
 
 </LanguageData>

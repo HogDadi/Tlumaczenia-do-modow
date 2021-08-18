@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_Reformer.label>Reformer</SP_Reformer.label>
-  <SP_Idealist.label>Idealist</SP_Idealist.label>
-  <SP_Activist.label>Activist</SP_Activist.label>
-  <SP_Perfectionist.label>Perfectionist</SP_Perfectionist.label>
-
+<!-- EN: Reformer -->
+<SP_Reformer.label>Reformator</SP_Reformer.label>
+<!-- EN: Idealist -->
+<SP_Idealist.label>Idealista</SP_Idealist.label>
+<!-- EN: Activist -->
+<SP_Activist.label>Aktywista</SP_Activist.label>
+<!-- EN: Perfectionist -->
+<SP_Perfectionist.label>Perfekcjonista</SP_Perfectionist.label>
 
 </LanguageData>

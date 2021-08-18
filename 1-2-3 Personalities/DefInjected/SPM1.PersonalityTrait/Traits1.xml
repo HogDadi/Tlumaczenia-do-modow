@@ -1,14 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_Rational.label>rational</SP_Rational.label>
-  <SP_Idealistic.label>idealistic</SP_Idealistic.label>
-  <SP_Principled.label>principled</SP_Principled.label>
-  <SP_Purposeful.label>purposeful</SP_Purposeful.label>
-  <SP_Self-Controlled.label>self-controlled</SP_Self-Controlled.label>
-  <SP_Calm.label>calm</SP_Calm.label>
-  <SP_Judgmental.label>judgmental</SP_Judgmental.label>
-  <SP_Obsessive.label>obsessive</SP_Obsessive.label>
-
+<!-- EN: rational -->
+<SP_Rational.label>racjonalizm</SP_Rational.label>
+<!-- EN: idealistic -->
+<SP_Idealistic.label>idealizm</SP_Idealistic.label>
+<!-- EN: principled -->
+<SP_Principled.label>pryncypat</SP_Principled.label>
+<!-- EN: purposeful -->
+<SP_Purposeful.label>zdecydowanie</SP_Purposeful.label>
+<!-- EN: self-controlled -->
+<SP_Self-Controlled.label>opanowanie</SP_Self-Controlled.label>
+<!-- EN: calm -->
+<SP_Calm.label>spokuj</SP_Calm.label>
+<!-- EN: judgmental -->
+<SP_Judgmental.label>krytyczność</SP_Judgmental.label>
+<!-- EN: obsessive -->
+<SP_Obsessive.label>obsesyjność</SP_Obsessive.label>
 
 </LanguageData>

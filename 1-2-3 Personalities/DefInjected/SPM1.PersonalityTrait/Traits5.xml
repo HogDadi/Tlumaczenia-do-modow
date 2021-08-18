@@ -1,14 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_Intense.label>intense</SP_Intense.label>
-  <SP_Perceptive.label>perceptive</SP_Perceptive.label>
-  <SP_Innovative.label>innovative</SP_Innovative.label>
-  <SP_Secretive.label>secretive</SP_Secretive.label>
-  <SP_Isolated.label>isolated</SP_Isolated.label>
-  <SP_Uptight.label>uptight</SP_Uptight.label>
-  <SP_Nostalgic.label>nostalgic</SP_Nostalgic.label>
-  <SP_Independent.label>independent</SP_Independent.label>
-
+<!-- EN: intense -->
+<SP_Intense.label>siłą</SP_Intense.label>
+<!-- EN: perceptive -->
+<SP_Perceptive.label>spostrzegawczość</SP_Perceptive.label>
+<!-- EN: innovative -->
+<SP_Innovative.label>innowacyjność</SP_Innovative.label>
+<!-- EN: secretive -->
+<SP_Secretive.label>skrytość</SP_Secretive.label>
+<!-- EN: isolated -->
+<SP_Isolated.label>odosobnionienei</SP_Isolated.label>
+<!-- EN: uptight -->
+<SP_Uptight.label>spięcie</SP_Uptight.label>
+<!-- EN: nostalgic -->
+<SP_Nostalgic.label>nostalgiczność</SP_Nostalgic.label>
+<!-- EN: independent -->
+<SP_Independent.label>niezależność</SP_Independent.label>
 
 </LanguageData>

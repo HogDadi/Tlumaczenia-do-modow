@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_Loyalist.label>Loyalist</SP_Loyalist.label>
-  <SP_Guardian.label>Guardian</SP_Guardian.label>
-  <SP_Confidant.label>Confidant</SP_Confidant.label>
-  <SP_Iconoclast.label>Iconoclast</SP_Iconoclast.label>
-
+<!-- EN: Loyalist -->
+<SP_Loyalist.label>Lojalista</SP_Loyalist.label>
+<!-- EN: Guardian -->
+<SP_Guardian.label>Opiekun</SP_Guardian.label>
+<!-- EN: Confidant -->
+<SP_Confidant.label>Powiernik</SP_Confidant.label>
+<!-- EN: Iconoclast -->
+<SP_Iconoclast.label>Ikonoklasta</SP_Iconoclast.label>
 
 </LanguageData>

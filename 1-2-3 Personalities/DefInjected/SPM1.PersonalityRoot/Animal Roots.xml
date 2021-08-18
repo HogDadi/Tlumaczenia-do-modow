@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_AnimalRoot_Kind.label>kind</SP_AnimalRoot_Kind.label>
-  <SP_AnimalRoot_Intense.label>intense</SP_AnimalRoot_Intense.label>
-  <SP_AnimalRoot_Energetic.label>energetic</SP_AnimalRoot_Energetic.label>
-  <SP_AnimalRoot_Calm.label>calm</SP_AnimalRoot_Calm.label>
-
+<!-- EN: kind -->
+<SP_AnimalRoot_Kind.label>miłej</SP_AnimalRoot_Kind.label>
+<!-- EN: intense -->
+<SP_AnimalRoot_Intense.label>silnej</SP_AnimalRoot_Intense.label>
+<!-- EN: energetic -->
+<SP_AnimalRoot_Energetic.label>energetycznej</SP_AnimalRoot_Energetic.label>
+<!-- EN: calm -->
+<SP_AnimalRoot_Calm.label>spokojnej</SP_AnimalRoot_Calm.label>
 
 </LanguageData>

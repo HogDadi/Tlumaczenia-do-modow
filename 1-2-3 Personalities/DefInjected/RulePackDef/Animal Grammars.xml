@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_AnimalPersonalityDesc.rulePack.rulesStrings.0>main->[PAWN_nameDef] is an animal of [ROOT_labelCol] nature.</SP_AnimalPersonalityDesc.rulePack.rulesStrings.0>
-  <SP_AnimalPersonalityDesc.rulePack.rulesStrings.1>secondary->[PAWN_pronoun] is known to be the [VAR_labelCol].</SP_AnimalPersonalityDesc.rulePack.rulesStrings.1>
+<!-- EN: main->[PAWN_nameDef] is an animal of [ROOT_labelCol] nature. -->
+<SP_AnimalPersonalityDesc.rulePack.rulesStrings.0>main->[PAWN_nameDef] to zwierzę o [ROOT_labelCol] naturze.</SP_AnimalPersonalityDesc.rulePack.rulesStrings.0>
+<!-- EN: secondary->[PAWN_pronoun] is known to be the [VAR_labelCol]. -->
+<SP_AnimalPersonalityDesc.rulePack.rulesStrings.1>secondary->jest nazywane [VAR_labelCol].</SP_AnimalPersonalityDesc.rulePack.rulesStrings.1>
 
 
 </LanguageData>

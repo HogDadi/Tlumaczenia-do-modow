@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_Achiever.label>Achiever</SP_Achiever.label>
-  <SP_Charmer.label>Charmer</SP_Charmer.label>
-  <SP_Professional.label>Professional</SP_Professional.label>
-  <SP_Performer.label>Performer</SP_Performer.label>
-
+<!-- EN: Achiever -->
+<SP_Achiever.label>Zdobywca</SP_Achiever.label>
+<!-- EN: Charmer -->
+<SP_Charmer.label>Czarodziej</SP_Charmer.label>
+<!-- EN: Professional -->
+<SP_Professional.label>Profesjonalista</SP_Professional.label>
+<!-- EN: Performer -->
+<SP_Performer.label>Wykonawca</SP_Performer.label>
 
 </LanguageData>

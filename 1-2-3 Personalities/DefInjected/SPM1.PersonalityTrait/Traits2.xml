@@ -1,14 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_Caring.label>caring</SP_Caring.label>
-  <SP_Altruistic.label>altruistic</SP_Altruistic.label>
-  <SP_Ostentatious.label>ostentatious</SP_Ostentatious.label>
-  <SP_People-pleasing.label>people-pleasing</SP_People-pleasing.label>
-  <SP_Possessive.label>possessive</SP_Possessive.label>
-  <SP_Exuberant.label>exuberant</SP_Exuberant.label>
-  <SP_Empathetic.label>empathetic</SP_Empathetic.label>
-  <SP_Cordial.label>cordial</SP_Cordial.label>
-
+<!-- EN: caring -->
+<SP_Caring.label>opiekuńczość</SP_Caring.label>
+<!-- EN: altruistic -->
+<SP_Altruistic.label>altruistcyzm</SP_Altruistic.label>
+<!-- EN: ostentatious -->
+<SP_Ostentatious.label>ostentacyjność</SP_Ostentatious.label>
+<!-- EN: people-pleasing -->
+<SP_People-pleasing.label>otwartość</SP_People-pleasing.label>
+<!-- EN: possessive -->
+<SP_Possessive.label>zaborczość</SP_Possessive.label>
+<!-- EN: exuberant -->
+<SP_Exuberant.label>żywiołowość</SP_Exuberant.label>
+<!-- EN: empathetic -->
+<SP_Empathetic.label>empatyczność</SP_Empathetic.label>
+<!-- EN: cordial -->
+<SP_Cordial.label>serdeczność</SP_Cordial.label>
 
 </LanguageData>

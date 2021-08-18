@@ -1,14 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SP_Committed.label>committed</SP_Committed.label>
-  <SP_Engaging.label>engaging</SP_Engaging.label>
-  <SP_Responsible.label>responsible</SP_Responsible.label>
-  <SP_Anxious.label>anxious</SP_Anxious.label>
-  <SP_Suspicious.label>suspicious</SP_Suspicious.label>
-  <SP_Doubtful.label>doubtful</SP_Doubtful.label>
-  <SP_Restless.label>restless</SP_Restless.label>
-  <SP_Paranoid.label>paranoid</SP_Paranoid.label>
-
+<!-- EN: committed -->
+<SP_Committed.label>zobowiązanie</SP_Committed.label>
+<!-- EN: engaging -->
+<SP_Engaging.label>angażowanie się</SP_Engaging.label>
+<!-- EN: responsible -->
+<SP_Responsible.label>odpowiedzialność</SP_Responsible.label>
+<!-- EN: anxious -->
+<SP_Anxious.label>niepokuj</SP_Anxious.label>
+<!-- EN: suspicious -->
+<SP_Suspicious.label>podejrzliwosć</SP_Suspicious.label>
+<!-- EN: doubtful -->
+<SP_Doubtful.label>wątpliwość</SP_Doubtful.label>
+<!-- EN: restless -->
+<SP_Restless.label>nerwowość</SP_Restless.label>
+<!-- EN: paranoid -->
+<SP_Paranoid.label>paranoidalność</SP_Paranoid.label>
 
 </LanguageData>
