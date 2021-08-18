@@ -1,13 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_BurnEmptyCorticalStacks.label>burn empty cortical stacks</UT_BurnEmptyCorticalStacks.label>
-  <UT_BurnEmptyCorticalStacks.description>Cremate empty cortical stacks.</UT_BurnEmptyCorticalStacks.description>
-  <UT_BurnEmptyCorticalStacks.jobString>Burning cortical stacks.</UT_BurnEmptyCorticalStacks.jobString>
+    <!-- EN: burn empty cortical stacks -->
+  <UT_BurnEmptyCorticalStacks.label>spal pusty pojemnik węglowy</UT_BurnEmptyCorticalStacks.label>
+    <!-- EN: Cremate empty cortical stacks. -->
+  <UT_BurnEmptyCorticalStacks.description>Kremuj pusty pojemnik węglowy.</UT_BurnEmptyCorticalStacks.description>
+    <!-- EN: Burning cortical stacks. -->
+  <UT_BurnEmptyCorticalStacks.jobString>Pali pojemnik węglowy.</UT_BurnEmptyCorticalStacks.jobString>
 
-  <UT_BurnFilledCorticalStack.label>burn filled cortical stack</UT_BurnFilledCorticalStack.label>
-  <UT_BurnFilledCorticalStack.description>Cremate a filled cortical stack.</UT_BurnFilledCorticalStack.description>
-  <UT_BurnFilledCorticalStack.jobString>Burning cortical stacks.</UT_BurnFilledCorticalStack.jobString>
-
+    <!-- EN: burn filled cortical stack -->
+  <UT_BurnFilledCorticalStack.label>spal wypełniony pojemnik węglowy</UT_BurnFilledCorticalStack.label>
+    <!-- EN: Cremate a filled cortical stack. -->
+  <UT_BurnFilledCorticalStack.description>Kremuj wypełniony pojemnik węglowy.</UT_BurnFilledCorticalStack.description>
+    <!-- EN: Burning cortical stacks. -->
+  <UT_BurnFilledCorticalStack.jobString>Pali pojemnik węglowy.</UT_BurnFilledCorticalStack.jobString>
 
 </LanguageData>

@@ -1,14 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_BrainTemplateCombat.label>brain template (combat)</UT_BrainTemplateCombat.label>
-  <UT_BrainTemplateCombat.description>A modification chip that can be installed in sleeve incubators that tune a sleeves brain to a specific skill, no matter the stack installed. Only one template can be installed in an incubator at a time without overloading it.</UT_BrainTemplateCombat.description>
+    <!-- EN: brain template (combat) -->
+  <UT_BrainTemplateCombat.label>szablon mózgu (walka)</UT_BrainTemplateCombat.label>
+    <!-- EN: A modification chip that can be installed in sleeve incubators that tune a sleeves brain to a specific skill, no matter the stack installed. Only one template can be installed in an incubator at a time without overloading it. -->
+  <UT_BrainTemplateCombat.description>Chip modyfikacji, który można zainstalować w inkubatorach Homunkulusów, które kształcą mózg Homunkulusów do określonej umiejętności, bez względu na zainstalowany pojemnik. W inkubatorze można zainstalować tylko jeden szablon na raz, nie przeciążając go.</UT_BrainTemplateCombat.description>
 
-  <UT_BrainTemplateWorker.label>brain template (worker)</UT_BrainTemplateWorker.label>
-  <UT_BrainTemplateWorker.description>A modification chip that can be installed in sleeve incubators that tune a sleeves brain to a specific skill, no matter the stack installed. Only one template can be installed in an incubator at a time without overloading it.</UT_BrainTemplateWorker.description>
+    <!-- EN: brain template (worker) -->
+  <UT_BrainTemplateWorker.label>szablon mózgu (pracownik)</UT_BrainTemplateWorker.label>
+    <!-- EN: A modification chip that can be installed in sleeve incubators that tune a sleeves brain to a specific skill, no matter the stack installed. Only one template can be installed in an incubator at a time without overloading it. -->
+  <UT_BrainTemplateWorker.description>Chip modyfikacji, który można zainstalować w inkubatorach Homunkulusów, które kształcą mózg Homunkulusów do określonej umiejętności, bez względu na zainstalowany pojemnik. W inkubatorze można zainstalować tylko jeden szablon na raz, nie przeciążając go.</UT_BrainTemplateWorker.description>
 
-  <UT_BrainTemplateInfiltrator.label>brain template (infiltrator)</UT_BrainTemplateInfiltrator.label>
-  <UT_BrainTemplateInfiltrator.description>A modification chip that can be installed in sleeve incubators that tune a sleeves brain to a specific skill, no matter the stack installed. Only one template can be installed in an incubator at a time without overloading it.</UT_BrainTemplateInfiltrator.description>
+    <!-- EN: brain template (infiltrator) -->
+  <UT_BrainTemplateInfiltrator.label>szablon mózgu (infiltrator)</UT_BrainTemplateInfiltrator.label>
+    <!-- EN: A modification chip that can be installed in sleeve incubators that tune a sleeves brain to a specific skill, no matter the stack installed. Only one template can be installed in an incubator at a time without overloading it. -->
+  <UT_BrainTemplateInfiltrator.description>Chip modyfikacji, który można zainstalować w inkubatorach Homunkulusów, które kształcą mózg Homunkulusów do określonej umiejętności, bez względu na zainstalowany pojemnik. W inkubatorze można zainstalować tylko jeden szablon na raz, nie przeciążając go.</UT_BrainTemplateInfiltrator.description>
 
 
 </LanguageData>

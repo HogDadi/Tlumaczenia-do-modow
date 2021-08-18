@@ -2,8 +2,9 @@
 <LanguageData>
 
   <!-- Good -->
-
-  <UT_StackRequest.label>stack request</UT_StackRequest.label>
+  
+  <!-- EN: stack request -->
+  <UT_StackRequest.label>żądanie pojemnika</UT_StackRequest.label>
 
 
 </LanguageData>

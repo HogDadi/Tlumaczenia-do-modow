@@ -5,8 +5,8 @@
   <ResearchPal>ResearchPal - Forked</ResearchPal>
 
   <!-- EN: Enables construction {0} -->
-  <ResearchPal.AllowsBuildingX>Enables construction {0}</ResearchPal.AllowsBuildingX>
-  <!-- EN: Enables recipe {0}</> -->
+  <ResearchPal.AllowsBuildingX>Umożliwia budowę {0}</ResearchPal.AllowsBuildingX>
+  <!-- EN: Enables recipe {0} -->
   <ResearchPal.AllowsCraftingX>Enables recipe {0}</ResearchPal.AllowsCraftingX>
   <!-- EN: Enables planting {0} in {1} -->
   <ResearchPal.AllowsSowingXinY>Enables planting {0} in {1}</ResearchPal.AllowsSowingXinY>

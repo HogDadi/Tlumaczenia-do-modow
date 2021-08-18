@@ -23,7 +23,7 @@
   <InstallNaturalArm.description>Przyszyj ramię.</InstallNaturalArm.description>
   <InstallNaturalArm.jobString>Przyszywa ramię.</InstallNaturalArm.jobString>
 
-  <InstallNaturalLeg.label>Przyszy nogę</InstallNaturalLeg.label>
+  <InstallNaturalLeg.label>Przyszyj nogę</InstallNaturalLeg.label>
   <InstallNaturalLeg.description>Przyszyj nogę.</InstallNaturalLeg.description>
   <InstallNaturalLeg.jobString>Przyszywa nogę/</InstallNaturalLeg.jobString>
 

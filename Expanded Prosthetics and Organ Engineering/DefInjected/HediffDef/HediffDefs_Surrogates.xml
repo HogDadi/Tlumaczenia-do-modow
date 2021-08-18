@@ -4,15 +4,15 @@
   <!-- Added body parts -->
 
   <BrainStimulator.label>Stymulator mózgu</BrainStimulator.label>
-  <BrainStimulator.description>Zainstalowny stymulator mózgu.</BrainStimulator.description>
+  <BrainStimulator.description>Zainstalowany stymulator mózgu.</BrainStimulator.description>
 
   <SurrogateLung.label>Sztuczne płuco</SurrogateLung.label>
   <SurrogateLung.description>Zainstalowane sztuczne płuco.</SurrogateLung.description>
 
-  <SurrogateStomach.label>Sztuczny żołąde</SurrogateStomach.label>
+  <SurrogateStomach.label>Sztuczny żołądek</SurrogateStomach.label>
   <SurrogateStomach.description>Zainstalowany sztuczny żołądek.</SurrogateStomach.description>
 
-  <SurrogateLiver.label>Sztuczna wątrob</SurrogateLiver.label>
+  <SurrogateLiver.label>Sztuczna wątroba</SurrogateLiver.label>
   <SurrogateLiver.description>Zainstalowana sztuczna wątroba.</SurrogateLiver.description>
 
   <SurrogateKidney.label>Sztuczna nerka</SurrogateKidney.label>

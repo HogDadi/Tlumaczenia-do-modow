@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_MyOriginalDied.stages.0.label>my original copy {0} died</UT_MyOriginalDied.stages.0.label>
-  <UT_MyOriginalDied.stages.0.description>My original copy is dead. I am alone again.</UT_MyOriginalDied.stages.0.description>
+    <!-- EN: my original copy {0} died -->
+  <UT_MyOriginalDied.stages.0.label>moja oryginalna kopia {0} umarła</UT_MyOriginalDied.stages.0.label>
+    <!-- EN: My original copy is dead. I am alone again. -->
+  <UT_MyOriginalDied.stages.0.description>Moja oryginalna kopia nie żyje. Znowu jestem {PAWN_gender ? sam : sama}.</UT_MyOriginalDied.stages.0.description>
 
-  <UT_MyCopyDied.stages.0.label>my copy {0} died</UT_MyCopyDied.stages.0.label>
-  <UT_MyCopyDied.stages.0.description>My copy is dead. I am alone again.</UT_MyCopyDied.stages.0.description>
+    <!-- EN: my copy {0} died -->
+  <UT_MyCopyDied.stages.0.label>moja kopia {0} umarła</UT_MyCopyDied.stages.0.label>
+    <!-- EN: My copy is dead. I am alone again. -->
+  <UT_MyCopyDied.stages.0.description>Moja kopia nie żyje. Znowu jestem {PAWN_gender ? sam : sama}.</UT_MyCopyDied.stages.0.description>
 
 
 </LanguageData>

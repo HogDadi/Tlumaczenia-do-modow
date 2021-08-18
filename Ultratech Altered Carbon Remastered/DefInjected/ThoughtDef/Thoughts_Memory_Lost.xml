@@ -1,17 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_MyOriginalLostMale.stages.0.label>my original copy {0} lost</UT_MyOriginalLostMale.stages.0.label>
-  <UT_MyOriginalLostMale.stages.0.description>My original copy has gone lost. I hope he will get back to us someday.</UT_MyOriginalLostMale.stages.0.description>
+    <!-- EN: my original copy {0} lost -->
+  <UT_MyOriginalLostMale.stages.0.label>moja oryginalna kopia {0} zaginęła</UT_MyOriginalLostMale.stages.0.label>
+    <!-- EN: My original copy has gone lost. I hope he will get back to us someday. -->
+  <UT_MyOriginalLostMale.stages.0.description>Moja oryginalna kopia zaginęła. Mam nadzieję, że kiedyś do nas wróci.</UT_MyOriginalLostMale.stages.0.description>
 
-  <UT_MyOriginalLostFemale.stages.0.label>my original copy {0} lost</UT_MyOriginalLostFemale.stages.0.label>
-  <UT_MyOriginalLostFemale.stages.0.description>My original copy has gone lost. I hope she will get back to us someday.</UT_MyOriginalLostFemale.stages.0.description>
+    <!-- EN: my original copy {0} lost -->
+  <UT_MyOriginalLostFemale.stages.0.label>moja oryginalna kopia {0} zaginęła</UT_MyOriginalLostFemale.stages.0.label>
+    <!-- EN: My original copy has gone lost. I hope she will get back to us someday. -->
+  <UT_MyOriginalLostFemale.stages.0.description>Moja oryginalna kopia zaginęła. Mam nadzieję, że kiedyś do nas wróci.</UT_MyOriginalLostFemale.stages.0.description>
 
-  <UT_MyCopyLostMale.stages.0.label>my copy {0} lost</UT_MyCopyLostMale.stages.0.label>
-  <UT_MyCopyLostMale.stages.0.description>My copy has gone lost. I hope he will get back to us someday.</UT_MyCopyLostMale.stages.0.description>
+    <!-- EN: my copy {0} lost -->
+  <UT_MyCopyLostMale.stages.0.label>moja kopia {0} zaginęła</UT_MyCopyLostMale.stages.0.label>
+    <!-- EN: My copy has gone lost. I hope he will get back to us someday. -->
+  <UT_MyCopyLostMale.stages.0.description>Moja kopia zaginęła. Mam nadzieję, że kiedyś do nas wróci.</UT_MyCopyLostMale.stages.0.description>
 
-  <UT_MyCopyLostFemale.stages.0.label>my copy {0} lost</UT_MyCopyLostFemale.stages.0.label>
-  <UT_MyCopyLostFemale.stages.0.description>My copy has gone lost. I hope she will get back to us someday.</UT_MyCopyLostFemale.stages.0.description>
+    <!-- EN: my copy {0} lost -->
+  <UT_MyCopyLostFemale.stages.0.label>moja kopia {0} zaginęła</UT_MyCopyLostFemale.stages.0.label>
+    <!-- EN: My copy has gone lost. I hope she will get back to us someday. -->
+  <UT_MyCopyLostFemale.stages.0.description>Moja kopia zaginęła. Mam nadzieję, że kiedyś do nas wróci.</UT_MyCopyLostFemale.stages.0.description>
 
 
 </LanguageData>

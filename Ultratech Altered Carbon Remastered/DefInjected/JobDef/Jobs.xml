@@ -1,13 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_ExtractStack.reportString>extracts cortical stack from TargetA</UT_ExtractStack.reportString>
-  <UT_DuplicateStack.reportString>duplicating cortical stack</UT_DuplicateStack.reportString>
-  <UT_ReleaseSleeve.reportString>releasing sleeve</UT_ReleaseSleeve.reportString>
-  <UT_InsertBrainTemplate.reportString>inserting brain template</UT_InsertBrainTemplate.reportString>
-  <UT_ExtractActiveBrainTemplate.reportString>extracting brain template from incubator</UT_ExtractActiveBrainTemplate.reportString>
-  <UT_StartIncubatingProcess.reportString>starting growth process on incubator</UT_StartIncubatingProcess.reportString>
-  <UT_CancelIncubatingProcess.reportString>canceling growth process on incubator</UT_CancelIncubatingProcess.reportString>
-
+    <!-- EN: extracts cortical stack from TargetA -->
+  <UT_ExtractStack.reportString>wydobądź pojemnik węglowy z TargetA</UT_ExtractStack.reportString>
+    <!-- EN: duplicating cortical stack -->
+  <UT_DuplicateStack.reportString>powielanie pojemnika węglowego</UT_DuplicateStack.reportString>
+    <!-- EN: releasing sleeve -->
+  <UT_ReleaseSleeve.reportString>zniewolony Homunkulus</UT_ReleaseSleeve.reportString>
+    <!-- EN: inserting brain template -->
+  <UT_InsertBrainTemplate.reportString>umieść szablon mózgu</UT_InsertBrainTemplate.reportString>
+    <!-- EN: extracting brain template from incubator -->
+  <UT_ExtractActiveBrainTemplate.reportString>pobranie szablonu mózgu z inkubatora</UT_ExtractActiveBrainTemplate.reportString>
+    <!-- EN: starting growth process on incubator -->
+  <UT_StartIncubatingProcess.reportString>rozpoczęcie procesu wzrostu w inkubatorze</UT_StartIncubatingProcess.reportString>
+    <!-- EN: canceling growth process on incubator -->
+  <UT_CancelIncubatingProcess.reportString>przerwanie procesu wzrostu w inkubatorze</UT_CancelIncubatingProcess.reportString>
 
 </LanguageData>

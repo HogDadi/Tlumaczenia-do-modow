@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_EmptySleeves.label>empty sleeves</UT_EmptySleeves.label>
-  <UT_EmptySleeves.pawnsPlural>sleeves</UT_EmptySleeves.pawnsPlural>
-  <UT_EmptySleeves.fixedName>Empty Sleeves</UT_EmptySleeves.fixedName>
+    <!-- EN: empty sleeves -->
+  <UT_EmptySleeves.label>puste Homunkulusy</UT_EmptySleeves.label>
+    <!-- EN: sleeves -->
+  <UT_EmptySleeves.pawnsPlural>Homunkulusy</UT_EmptySleeves.pawnsPlural>
+    <!-- EN: Empty Sleeves -->
+  <UT_EmptySleeves.fixedNamP>puste Homunkulusy</UT_EmptySleeves.fixedNamP>
 
 
 </LanguageData>

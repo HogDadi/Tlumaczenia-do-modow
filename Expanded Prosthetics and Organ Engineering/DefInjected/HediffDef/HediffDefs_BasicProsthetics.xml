@@ -21,9 +21,9 @@
   <denture.description>Proteza.</denture.description>
   <denture.labelNoun>proteza</denture.labelNoun>
 
-  <PegLeg.label>derewniana noga</PegLeg.label>
+  <PegLeg.label>drewniana noga</PegLeg.label>
   <PegLeg.description>Zainstalowana drewniana noga.</PegLeg.description>
-  <PegLeg.labelNoun>derewniana noga</PegLeg.labelNoun>
+  <PegLeg.labelNoun>drewniana noga</PegLeg.labelNoun>
 
   <WoodenFoot.label>drewniana stopa</WoodenFoot.label>
   <WoodenFoot.description>Zainstalowana drewniana stopa.</WoodenFoot.description>

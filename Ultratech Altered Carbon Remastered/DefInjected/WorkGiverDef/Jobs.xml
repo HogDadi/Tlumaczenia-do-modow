@@ -1,37 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_ExtractActiveBrainTemplate.label>extracting brain template from incubator</UT_ExtractActiveBrainTemplate.label>
-  <UT_ExtractActiveBrainTemplate.verb>extract brain template from incubator</UT_ExtractActiveBrainTemplate.verb>
-  <UT_ExtractActiveBrainTemplate.gerund>extracting brain template from incubator</UT_ExtractActiveBrainTemplate.gerund>
+    <!-- EN: extracting brain template from incubator -->
+  <UT_ExtractActiveBrainTemplate.label>pobranie szablonu mózgu z inkubatora</UT_ExtractActiveBrainTemplate.label>
+    <!-- EN: extract brain template from incubator -->
+  <UT_ExtractActiveBrainTemplate.verb>pobierz szablon mózgu z inkubatora</UT_ExtractActiveBrainTemplate.verb>
+    <!-- EN: extracting brain template from incubator -->
+  <UT_ExtractActiveBrainTemplate.gerund>pobiera szablonu mózgu z inkubatora</UT_ExtractActiveBrainTemplate.gerund>
 
-  <UT_InsertBrainTemplate.label>inserting brain template in incubator</UT_InsertBrainTemplate.label>
-  <UT_InsertBrainTemplate.verb>insert brain template in incubator</UT_InsertBrainTemplate.verb>
-  <UT_InsertBrainTemplate.gerund>inserting brain template in incubator</UT_InsertBrainTemplate.gerund>
+    <!-- EN: inserting brain template in incubator -->
+  <UT_InsertBrainTemplate.label>wstawianie szablonu mózgu do inkubatora</UT_InsertBrainTemplate.label>
+    <!-- EN: insert brain template in incubator -->
+  <UT_InsertBrainTemplate.verb>wstaw szablon mózgu do inkubatora</UT_InsertBrainTemplate.verb>
+    <!-- EN: inserting brain template in incubator -->
+  <UT_InsertBrainTemplate.gerund>wstawia szablonu mózgu do inkubatora</UT_InsertBrainTemplate.gerund>
 
-  <UT_ExtractStack.label>extracting cortical stack</UT_ExtractStack.label>
-  <UT_ExtractStack.verb>extract cortical stack</UT_ExtractStack.verb>
-  <UT_ExtractStack.gerund>extracting cortical stack</UT_ExtractStack.gerund>
+    <!-- EN: extracting cortical stack -->
+  <UT_ExtractStack.label>pobranie pojemika węlowego</UT_ExtractStack.label>
+    <!-- EN: extract cortical stack -->
+  <UT_ExtractStack.verb>pobierz pojemik węglowy</UT_ExtractStack.verb>
+    <!-- EN: extracting cortical stack -->
+  <UT_ExtractStack.gerund>pobiera pojemmik węglowy</UT_ExtractStack.gerund>
 
-  <UT_DuplicateStacks.label>duplicate stacks</UT_DuplicateStacks.label>
-  <UT_DuplicateStacks.verb>duplicate</UT_DuplicateStacks.verb>
-  <UT_DuplicateStacks.gerund>duplicating</UT_DuplicateStacks.gerund>
+    <!-- EN: duplicate stacks -->
+  <UT_DuplicateStacks.label>duplikowanie pojemnków</UT_DuplicateStacks.label>
+    <!-- EN: duplicate -->
+  <UT_DuplicateStacks.verb>duplikuj</UT_DuplicateStacks.verb>
+    <!-- EN: duplicating -->
+  <UT_DuplicateStacks.gerund>duplikuje</UT_DuplicateStacks.gerund>
 
-  <UT_HaulStacksToStorage.label>haul stacks</UT_HaulStacksToStorage.label>
-  <UT_HaulStacksToStorage.verb>haul</UT_HaulStacksToStorage.verb>
-  <UT_HaulStacksToStorage.gerund>hauling</UT_HaulStacksToStorage.gerund>
+    <!-- EN: haul stacks -->
+  <UT_HaulStacksToStorage.label>pobierz pojemnik</UT_HaulStacksToStorage.label>
+    <!-- EN: haul -->
+  <UT_HaulStacksToStorage.verb>pobieranie</UT_HaulStacksToStorage.verb>
+    <!-- EN: hauling -->
+  <UT_HaulStacksToStorage.gerund>pobiera</UT_HaulStacksToStorage.gerund>
 
-  <UT_DoBillsDecryptionBench.label>hack stacks</UT_DoBillsDecryptionBench.label>
-  <UT_DoBillsDecryptionBench.verb>hacking stacks</UT_DoBillsDecryptionBench.verb>
-  <UT_DoBillsDecryptionBench.gerund>hacking stacks at</UT_DoBillsDecryptionBench.gerund>
+    <!-- EN: hack stacks -->
+  <UT_DoBillsDecryptionBench.label>zhakuj pojemnik</UT_DoBillsDecryptionBench.label>
+    <!-- EN: hacking stacks -->
+  <UT_DoBillsDecryptionBench.verb>hakowanie pijemnika</UT_DoBillsDecryptionBench.verb>
+    <!-- EN: hacking stacks at -->
+  <UT_DoBillsDecryptionBench.gerund>hakuje pojemnik</UT_DoBillsDecryptionBench.gerund>
 
-  <UT_StartIncubatingProcess.label>start growing process</UT_StartIncubatingProcess.label>
-  <UT_StartIncubatingProcess.verb>starting growing process</UT_StartIncubatingProcess.verb>
-  <UT_StartIncubatingProcess.gerund>starting growing process at</UT_StartIncubatingProcess.gerund>
+    <!-- EN: start growing process -->
+  <UT_StartIncubatingProcess.label>wystartuj proces wzrostu</UT_StartIncubatingProcess.label>
+    <!-- EN: starting growing process -->
+  <UT_StartIncubatingProcess.verb>startowanie procesu wzrostu</UT_StartIncubatingProcess.verb>
+    <!-- EN: starting growing process at -->
+  <UT_StartIncubatingProcess.gerund>startuje proces wzrostu</UT_StartIncubatingProcess.gerund>
 
-  <UT_CancelIncubatingProcess.label>cancel growing process</UT_CancelIncubatingProcess.label>
-  <UT_CancelIncubatingProcess.verb>canceling growing process</UT_CancelIncubatingProcess.verb>
-  <UT_CancelIncubatingProcess.gerund>canceling growing process at</UT_CancelIncubatingProcess.gerund>
+    <!-- EN: cancel growing process -->
+  <UT_CancelIncubatingProcess.label>anuluj proces wzrostu</UT_CancelIncubatingProcess.label>
+    <!-- EN: canceling growing process -->
+  <UT_CancelIncubatingProcess.verb>anulowanie procesu wzrostu</UT_CancelIncubatingProcess.verb>
+    <!-- EN: canceling growing process at -->
+  <UT_CancelIncubatingProcess.gerund>anulowuje proces wzrostu</UT_CancelIncubatingProcess.gerund>
 
 
 </LanguageData>

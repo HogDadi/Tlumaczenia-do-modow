@@ -1,30 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_CorticalStack.label>cortical stack</UT_CorticalStack.label>
-  <UT_CorticalStack.description>An installed cortical stack.</UT_CorticalStack.description>
-  <UT_CorticalStack.labelNoun>a cortical stack</UT_CorticalStack.labelNoun>
+    <!-- EN: cortical stack -->
+  <UT_CorticalStack.label>pojemnik węglowy</UT_CorticalStack.label>
+    <!-- EN: An installed cortical stack. -->
+  <UT_CorticalStack.description>Zainstalowany pojemnik węglowy.</UT_CorticalStack.description>
+    <!-- EN: a cortical stack -->
+  <UT_CorticalStack.labelNoun>pojemnik węglowy</UT_CorticalStack.labelNoun>
 
-  <UT_Sleeve_Quality_Low.label>sleeve quality</UT_Sleeve_Quality_Low.label>
-  <UT_Sleeve_Quality_Low.description>This body was grown fast and poorly. It is frail and sickly.</UT_Sleeve_Quality_Low.description>
-  <UT_Sleeve_Quality_Low.stages.0.label>low</UT_Sleeve_Quality_Low.stages.0.label>
+    <!-- EN: sleeve quality -->
+  <UT_Sleeve_Quality_Low.label>jakość Homunkulusa</UT_Sleeve_Quality_Low.label>
+    <!-- EN: This body was grown fast and poorly. It is frail and sickly. -->
+  <UT_Sleeve_Quality_Low.description>To ciało rosło szybko, ale słabo. Jest wątły i chorowity.</UT_Sleeve_Quality_Low.description>
+    <!-- EN: low -->
+  <UT_Sleeve_Quality_Low.stages.0.label>słaby</UT_Sleeve_Quality_Low.stages.0.label>
 
-  <UT_Sleeve_Quality_Standart.label>sleeve quality</UT_Sleeve_Quality_Standart.label>
-  <UT_Sleeve_Quality_Standart.description>A baseline body grown properly.</UT_Sleeve_Quality_Standart.description>
-  <UT_Sleeve_Quality_Standart.stages.0.label>standart</UT_Sleeve_Quality_Standart.stages.0.label>
+    <!-- EN: sleeve quality -->
+  <UT_Sleeve_Quality_Standart.label>jakość Homunkulusa</UT_Sleeve_Quality_Standart.label>
+    <!-- EN: A baseline body grown properly. -->
+  <UT_Sleeve_Quality_Standart.description>Ciało wyrosło prawidłowo.</UT_Sleeve_Quality_Standart.description>
+    <!-- EN: standart -->
+  <UT_Sleeve_Quality_Standart.stages.0.label>standardowy</UT_Sleeve_Quality_Standart.stages.0.label>
 
-  <UT_Sleeve_Quality_High.label>sleeve quality</UT_Sleeve_Quality_High.label>
-  <UT_Sleeve_Quality_High.description>A body grown to perfection. It is strong and has no flaws.</UT_Sleeve_Quality_High.description>
-  <UT_Sleeve_Quality_High.stages.0.label>high</UT_Sleeve_Quality_High.stages.0.label>
+    <!-- EN: sleeve quality -->
+  <UT_Sleeve_Quality_High.label>jakość Homunkulusa</UT_Sleeve_Quality_High.label>
+    <!-- EN: A body grown to perfection. It is strong and has no flaws. -->
+  <UT_Sleeve_Quality_High.description>Ciało wyrośnięte do perfekcji. Jest mocny i nie ma wad.</UT_Sleeve_Quality_High.description>
+    <!-- EN: high -->
+  <UT_Sleeve_Quality_High.stages.0.label>silny</UT_Sleeve_Quality_High.stages.0.label>
 
-  <UT_EmptySleeve.label>empty sleeve</UT_EmptySleeve.label>
-  <UT_EmptySleeve.description>An empty sleeve.</UT_EmptySleeve.description>
-  <UT_EmptySleeve.stages.0.label>empty</UT_EmptySleeve.stages.0.label>
+    <!-- EN: empty sleeve -->
+  <UT_EmptySleeve.label>pusty Homunkulus</UT_EmptySleeve.label>
+    <!-- EN: An empty sleeve. -->
+  <UT_EmptySleeve.description>Pusty Homunkulus.</UT_EmptySleeve.description>
+    <!-- EN: empty -->
+  <UT_EmptySleeve.stages.0.label>pusty</UT_EmptySleeve.stages.0.label>
 
-  <UT_SleeveShock.label>sleeve shock</UT_SleeveShock.label>
-  <UT_SleeveShock.description>Shock from switching bodies.</UT_SleeveShock.description>
-  <UT_SleeveShock.stages.0.label>wearing off</UT_SleeveShock.stages.0.label>
-  <UT_SleeveShock.stages.1.label>irritated</UT_SleeveShock.stages.1.label>
+    <!-- EN: sleeve shock -->
+  <UT_SleeveShock.label>zszokowany Homunkulus</UT_SleeveShock.label>
+    <!-- EN: Shock from switching bodies. -->
+  <UT_SleeveShock.description>Szok spowodowany zmianą ciał.</UT_SleeveShock.description>
+    <!-- EN: wearing off -->
+  <UT_SleeveShock.stages.0.label>ustępuje</UT_SleeveShock.stages.0.label>
+    <!-- EN: irritated -->
+  <UT_SleeveShock.stages.1.label>poirytowany</UT_SleeveShock.stages.1.label>
 
 
 </LanguageData>

@@ -19,7 +19,7 @@
   <InstallBionicFoot.jobString>Przyszywa bioniczną stopę.</InstallBionicFoot.jobString>
   
   <InstallBionicEar.label>Przyszyj bioniczne ucho</InstallBionicEar.label>
-  <InstallBionicEar.description>Przyszyk bioniczne ucho.</InstallBionicEar.description>
+  <InstallBionicEar.description>Przyszyj bioniczne ucho.</InstallBionicEar.description>
   <InstallBionicEar.jobString>Przyszywa bioniczne ucho.</InstallBionicEar.jobString>
   
   <InstallBionicJaw.label>Zainstaluj bioniczną szczękę</InstallBionicJaw.label>
@@ -27,8 +27,8 @@
   <InstallBionicJaw.jobString>Instaluje bioniczną szczękę.</InstallBionicJaw.jobString>
   
   <InstallSilentJaw.label>Zainstaluj cichą szczękę</InstallSilentJaw.label>
-  <InstallSilentJaw.description>Zainstaluj cichą szczekę.</InstallSilentJaw.description>
-  <InstallSilentJaw.jobString>Instaluje cichą szczekę.</InstallSilentJaw.jobString>
+  <InstallSilentJaw.description>Zainstaluj cichą szczękę.</InstallSilentJaw.description>
+  <InstallSilentJaw.jobString>Instaluje cichą szczękę.</InstallSilentJaw.jobString>
 
   <InstallPowerClaw.label>Zainstaluj pazur mocy</InstallPowerClaw.label>
   <InstallPowerClaw.description>Zainstaluj pazur mocy.</InstallPowerClaw.description>

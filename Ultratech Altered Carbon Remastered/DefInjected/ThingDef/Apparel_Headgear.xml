@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_Apparel_ProtectorateArmorHelmet.label>protectorate helmet</UT_Apparel_ProtectorateArmorHelmet.label>
-  <UT_Apparel_ProtectorateArmorHelmet.description>A protectorate armor helmet, with a built-in status computer and layered plasteel-weave plates.</UT_Apparel_ProtectorateArmorHelmet.description>
+    <!-- EN: protectorate helmet -->
+  <UT_Apparel_ProtectorateArmorHelmet.label>Chełm protektoratu</UT_Apparel_ProtectorateArmorHelmet.label>
+    <!-- EN: A protectorate armor helmet, with a built-in status computer and layered plasteel-weave plates. -->
+  <UT_Apparel_ProtectorateArmorHelmet.description>Chełm protektoratu z wbudowanym komputerem statusu i warstwowymi z płyt z super stali.</UT_Apparel_ProtectorateArmorHelmet.description>
 
 
 </LanguageData>

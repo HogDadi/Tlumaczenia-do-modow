@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UT_Original.label>original</UT_Original.label>
-  <UT_Original.labelFemale>original</UT_Original.labelFemale>
+    <!-- EN: original -->
+  <UT_Original.label>oryginał</UT_Original.label>
+    <!-- EN: original -->
+  <UT_Original.labelFemale>oryginał</UT_Original.labelFemale>
 
-  <UT_Copy.label>copy</UT_Copy.label>
-  <UT_Copy.labelFemale>copy</UT_Copy.labelFemale>
+    <!-- EN: copy -->
+  <UT_Copy.label>kopia</UT_Copy.label>
+    <!-- EN: copy -->
+  <UT_Copy.labelFemale>kopia</UT_Copy.labelFemale>
 
 
 </LanguageData>
