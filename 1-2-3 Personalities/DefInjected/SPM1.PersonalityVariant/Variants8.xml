@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Challenger -->
+<SP_Challenger.label>Pretendent</SP_Challenger.label>
+<!-- EN: Protector -->
+<SP_Protector.label>Ochroniarz</SP_Protector.label>
+<!-- EN: Nonconformist -->
+<SP_Nonconformist.label>Nonkonformista</SP_Nonconformist.label>
+<!-- EN: Diplomat -->
+<SP_Diplomat.label>Dyplomata</SP_Diplomat.label>
+
+</LanguageData>

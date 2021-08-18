@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: easygoing -->
+<SP_Easygoing.label>wyluzowanie</SP_Easygoing.label>
+<!-- EN: self-effacing -->
+<SP_Self-effacing.label>skromność</SP_Self-effacing.label>
+<!-- EN: comforting -->
+<SP_Comforting.label>pocieszanie</SP_Comforting.label>
+<!-- EN: reassuring -->
+<SP_Reassuring.label>uspokajanie</SP_Reassuring.label>
+<!-- EN: agreeable -->
+<SP_Agreeable.label>zgodność</SP_Agreeable.label>
+<!-- EN: complacent -->
+<SP_Complacent.label>beztroska</SP_Complacent.label>
+<!-- EN: patient -->
+<SP_Patient.label>cierpliwość</SP_Patient.label>
+<!-- EN: methodical -->
+<SP_Methodical.label>systematyczność</SP_Methodical.label>
+
+</LanguageData>

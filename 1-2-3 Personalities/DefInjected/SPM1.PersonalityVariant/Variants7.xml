@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Enthusiast -->
+<SP_Enthusiast.label>Entuzjasta</SP_Enthusiast.label>
+<!-- EN: Pathfinder -->
+<SP_Pathfinder.label>Pionier</SP_Pathfinder.label>
+<!-- EN: Opportunist -->
+<SP_Opportunist.label>Oportunista</SP_Opportunist.label>
+<!-- EN: Adventurer -->
+<SP_Adventurer.label>Poszukiwacz przygód</SP_Adventurer.label>
+
+</LanguageData>

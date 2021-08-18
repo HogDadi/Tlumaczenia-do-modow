@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: good {0} -->
+<SP_Animal_GoodBoy.label>dobrym {0}</SP_Animal_GoodBoy.label>
+<!-- EN: hugger -->
+<SP_Animal_Hugger.label>przytulasem</SP_Animal_Hugger.label>
+<!-- EN: pack leader -->
+<SP_Animal_PackLeader.label>liderem stada</SP_Animal_PackLeader.label>
+<!-- EN: man's best friend -->
+<SP_Animal_BestFriend.label>najlepszym przyjacielem człowieka</SP_Animal_BestFriend.label>
+<!-- EN: snuggler -->
+<SP_Animal_Snuggler.label>przytulaczem</SP_Animal_Snuggler.label>
+<!-- EN: floof -->
+<SP_Animal_Floof.label>piętrowcem</SP_Animal_Floof.label>
+<!-- EN: poop producer -->
+<SP_Animal_PoopProducer.label>producentem kupy</SP_Animal_PoopProducer.label>
+<!-- EN: yelper -->
+<SP_Animal_Yelper.label>szczekiem</SP_Animal_Yelper.label>
+<!-- EN: alpha {0} -->
+<SP_Animal_Alpha.label>alpha {0}</SP_Animal_Alpha.label>
+<!-- EN: toy hoarder -->
+<SP_Animal_ToyHoarder.label>zbieraczem zabawek</SP_Animal_ToyHoarder.label>
+<!-- EN: joyful dirt carrier -->
+<SP_Animal_DirtCarrier.label>radosnym nosicielem brudu</SP_Animal_DirtCarrier.label>
+<!-- EN: exhibiton veteran -->
+<SP_Animal_ExhibitionVeteran.label>weteranem wystaw</SP_Animal_ExhibitionVeteran.label>
+<!-- EN: fondling -->
+<SP_Animal_Fondling.label>pieszczochem</SP_Animal_Fondling.label>
+<!-- EN: goodest {0} -->
+<SP_Animal_GoodestBoy.label>najlepszym {0}</SP_Animal_GoodestBoy.label>
+<!-- EN: runt -->
+<SP_Animal_Runt.label>karłęm</SP_Animal_Runt.label>
+<!-- EN: cutie pie -->
+<SP_Animal_CutiePie.label>słodkim ciastkiem</SP_Animal_CutiePie.label>
+<!-- EN: cuteness overload -->
+<SP_Animal_CutenessOverload.label>zasłodkim</SP_Animal_CutenessOverload.label>
+<!-- EN: slipper bringer -->
+<SP_Animal_SlipperBringer.label>pantofelkiem</SP_Animal_SlipperBringer.label>
+<!-- EN: loyal one -->
+<SP_Animal_LoyalOne.label>lojalnym</SP_Animal_LoyalOne.label>
+<!-- EN: face licker -->
+<SP_Animal_FaceLicker.label>lizaczem twarzy</SP_Animal_FaceLicker.label>
+
+</LanguageData>
