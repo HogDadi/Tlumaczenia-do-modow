@@ -2,12 +2,12 @@
 <LanguageData>
 
   <Dirt.label>gleba</Dirt.label>
-  <Dirt.description>Gleba standardowa. Smakuje jak ziema.</Dirt.description>
-  <Dirt.tools.0.label>ziema</Dirt.tools.0.label>
+  <Dirt.description>Gleba standardowa. Smakuje jak ziemia.</Dirt.description>
+  <Dirt.tools.0.label>ziemia</Dirt.tools.0.label>
 
   <GT_SoilTilled.label>Gleba uprawna</GT_SoilTilled.label>
   <GT_SoilTilled.description>Gleba uprawna, do prawidłowego sadzenia roślin.</GT_SoilTilled.description>
-  <GT_SoilTilled.tools.0.label>ziema</GT_SoilTilled.tools.0.label>
+  <GT_SoilTilled.tools.0.label>ziemia</GT_SoilTilled.tools.0.label>
 
 
 </LanguageData>
