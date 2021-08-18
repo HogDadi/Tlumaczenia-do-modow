@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- Kind animals get this hediff. -->
+
+<!-- EN: Personality (Kind) -->
+<SP_Hediff_AnimalKind.label>Osobowość (miła)</SP_Hediff_AnimalKind.label>
+<!-- EN: This animal has a kind personality. It will nuzzle colonists more often. -->
+<SP_Hediff_AnimalKind.description>To zwierzę jest miłe. Częściej będzie przytulał kolonistów.</SP_Hediff_AnimalKind.description>
+
+<!-- Intense animals get this hediff. -->
+
+<!-- EN: Personality (Intense) -->
+<SP_Hediff_AnimalIntense.label>Osobowość (slina)</SP_Hediff_AnimalIntense.label>
+<!-- EN: This animal has an intense personality. It will deal more damage when it attacks. -->
+<SP_Hediff_AnimalIntense.description>To zwierzę ma sliną osobowość. Zada większe obrażenia, gdy zaatakuje.</SP_Hediff_AnimalIntense.description>
+
+<!-- Energetic animals get this hediff. -->
+
+<!-- EN: Personality (Energetic) -->
+<SP_Hediff_AnimalEnergetic.label>Osobowość (Energetyczna)</SP_Hediff_AnimalEnergetic.label>
+<!-- EN: This animal has an energetic personality. It will move slightly faster. -->
+<SP_Hediff_AnimalEnergetic.description>To zwierzę ma energetyczną osobowość. Porusza się nieco szybciej.</SP_Hediff_AnimalEnergetic.description>
+
+<!-- Calm animals get this hediff. -->
+
+<!-- EN: Personality (Calm) -->
+<SP_Hediff_AnimalCalm.label>Osobowość (Spokojna)</SP_Hediff_AnimalCalm.label>
+<!-- EN: This animal has a calm personality. Its steady movement allows it to haul more items and carry more mass in caravans. -->
+<SP_Hediff_AnimalCalm.description>To zwierzę ma spokojną osobowość. Jego równomierny ruch pozwala przewozić więcej przedmiotów i przewozić większy ciężar w karawanach.</SP_Hediff_AnimalCalm.description>
+
+
+</LanguageData>

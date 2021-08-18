@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: dominating -->
+<SP_Dominating.label>dominacja</SP_Dominating.label>
+<!-- EN: self-confident -->
+<SP_Self-confident.label>pewność siebie</SP_Self-confident.label>
+<!-- EN: decisive -->
+<SP_Decisive.label>zdecydowananie</SP_Decisive.label>
+<!-- EN: willful -->
+<SP_Willful.label>samowolka</SP_Willful.label>
+<!-- EN: confrontational -->
+<SP_Confrontational.label>konfrontacyjność</SP_Confrontational.label>
+<!-- EN: persistent -->
+<SP_Persistent.label>uporczywość</SP_Persistent.label>
+<!-- EN: competitive -->
+<SP_Competitive.label>konkurencyjność</SP_Competitive.label>
+<!-- EN: assertive -->
+<SP_Assertive.label>stanowczość</SP_Assertive.label>
+
+</LanguageData>

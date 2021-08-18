@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: bad {0} -->
+<SP_Animal_BadBoy.label>złym {0}</SP_Animal_BadBoy.label>
+<!-- EN: mischief -->
+<SP_Animal_Mischief.label>psotnikiem</SP_Animal_Mischief.label>
+<!-- EN: fussy eater -->
+<SP_Animal_FussyEater.label>wybrednym</SP_Animal_FussyEater.label>
+<!-- EN: bully -->
+<SP_Animal_Bully.label>zbirem</SP_Animal_Bully.label>
+<!-- EN: houseplant eater -->
+<SP_Animal_HouseplantEater.label>zjadaczem roślin doniczkowych</SP_Animal_HouseplantEater.label>
+<!-- EN: shoe gnawer -->
+<SP_Animal_ShoeGnawer.label>ogryzaczem butów</SP_Animal_ShoeGnawer.label>
+<!-- EN: territorial warlord -->
+<SP_Animal_TerritorialWarlord.label>terytorialnym watażką</SP_Animal_TerritorialWarlord.label>
+<!-- EN: barking enthusiast -->
+<SP_Animal_BarkingEnthusiast.label>entuzjastą szczekania</SP_Animal_BarkingEnthusiast.label>
+<!-- EN: feet biter -->
+<SP_Animal_FeetBiter.label>gryzaczem stóp</SP_Animal_FeetBiter.label>
+<!-- EN: neighbour chaser -->
+<SP_Animal_NeighbourChaser.label>łowcą sąsiadów</SP_Animal_NeighbourChaser.label>
+<!-- EN: greedy fetcher -->
+<SP_Animal_GreedyFetcher.label>chciwym aporterem</SP_Animal_GreedyFetcher.label>
+<!-- EN: perpetual snarler -->
+<SP_Animal_PerpetualSnarler.label>wiecznym warkotem</SP_Animal_PerpetualSnarler.label>
+<!-- EN: fancy purebred -->
+<SP_Animal_FancyPurebred.label>luksusowym rasowcem</SP_Animal_FancyPurebred.label>
+<!-- EN: moody diva -->
+<SP_Animal_MoodyDiva.label>nastrojową diwą</SP_Animal_MoodyDiva.label>
+<!-- EN: rascal -->
+<SP_Animal_Rascal.label>łotrem</SP_Animal_Rascal.label>
+<!-- EN: stalker -->
+<SP_Animal_Stalker.label>prześladowcą</SP_Animal_Stalker.label>
+<!-- EN: spoiled pup -->
+<SP_Animal_SpoiledPup.label>zepsutym szczeniakiem</SP_Animal_SpoiledPup.label>
+<!-- EN: mailman's nightmare -->
+<SP_Animal_MailmansNightmare.label>koszmarem listonosza</SP_Animal_MailmansNightmare.label>
+
+</LanguageData>

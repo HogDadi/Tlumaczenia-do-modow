@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: chonk -->
+<SP_Animal_Chonk.label>chrupkiem</SP_Animal_Chonk.label>
+<!-- EN: resident sleeper -->
+<SP_Animal_ResidentSleeper.label>śpiącym mieszkańcem</SP_Animal_ResidentSleeper.label>
+<!-- EN: feet bump -->
+<SP_Animal_FeetBump.label>tupotającą stopą</SP_Animal_FeetBump.label>
+<!-- EN: lap regular -->
+<SP_Animal_LapRegular.label>stałą zakładką</SP_Animal_LapRegular.label>
+<!-- EN: staring contest champion -->
+<SP_Animal_StaringContestChampion.label>mistrzem konkursów dla niepełnosprawnych</SP_Animal_StaringContestChampion.label>
+<!-- EN: horribly slow stalker -->
+<SP_Animal_HorriblySlowStalker.label>straszne powolnym prześladowcą</SP_Animal_HorriblySlowStalker.label>
+<!-- EN: sunbather -->
+<SP_Animal_Sunbather.label>opalaczem</SP_Animal_Sunbather.label>
+<!-- EN: bed-dweller -->
+<SP_Animal_BedDweller.label>mieszkańcem łóżka</SP_Animal_BedDweller.label>
+<!-- EN: blep specialist -->
+<SP_Animal_BlepSpecialist.label>specjalistą od pleepów</SP_Animal_BlepSpecialist.label>
+<!-- EN: loner -->
+<SP_Animal_Loner.label>samotnikiem</SP_Animal_Loner.label>
+<!-- EN: sleepyhead -->
+<SP_Animal_Sleepyhead.label>śpiochem</SP_Animal_Sleepyhead.label>
+<!-- EN: laggard -->
+<SP_Animal_Laggard.label>guzdrałą</SP_Animal_Laggard.label>
+<!-- EN: slowpoke -->
+<SP_Animal_Slowpoke.label>ślamazarą</SP_Animal_Slowpoke.label>
+<!-- EN: dilly-dallyer -->
+<SP_Animal_DillyDallyer.label>zjarusem</SP_Animal_DillyDallyer.label>
+<!-- EN: landmark -->
+<SP_Animal_Landmark.label>elementem krajobrazu</SP_Animal_Landmark.label>
+<!-- EN: CEO of chonks -->
+<SP_Animal_CEO.label>CEO chrupka</SP_Animal_CEO.label>
+<!-- EN: maruder -->
+<SP_Animal_Maruder.label>marudą</SP_Animal_Maruder.label>
+<!-- EN: catnip aficionado -->
+<SP_Animal_Catnip.label>miłośnikiem kocimiętki</SP_Animal_Catnip.label>
+<!-- EN: beast of burden -->
+<SP_Animal_BOB.label>brzemieniem bestii</SP_Animal_BOB.label>
+<!-- EN: gentle giant -->
+<SP_Animal_GentleGiant.label>delikatnym olbrzymem</SP_Animal_GentleGiant.label>
+
+</LanguageData>

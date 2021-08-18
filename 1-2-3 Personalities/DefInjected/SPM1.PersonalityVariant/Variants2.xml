@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Helper -->
+<SP_Helper.label>Pomocnik</SP_Helper.label>
+<!-- EN: Companion -->
+<SP_Companion.label>Towarzysz</SP_Companion.label>
+<!-- EN: Host -->
+<SP_Host.label>Gospodarz</SP_Host.label>
+<!-- EN: Caregiver -->
+<SP_Caregiver.label>Opiekun</SP_Caregiver.label>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: sensitive -->
+<SP_Sensitive.label>wrażliwość</SP_Sensitive.label>
+<!-- EN: withdrawn -->
+<SP_Withdrawn.label>zamknięcie w sobie</SP_Withdrawn.label>
+<!-- EN: expressive -->
+<SP_Expressive.label>ekspresyjność</SP_Expressive.label>
+<!-- EN: dramatic -->
+<SP_Dramatic.label>dramatyzowanie</SP_Dramatic.label>
+<!-- EN: self-absorbed -->
+<SP_Self-absorbed.label>zaabsorbowanie sobą</SP_Self-absorbed.label>
+<!-- EN: temperamental -->
+<SP_Temperamental.label>wybuchowość</SP_Temperamental.label>
+<!-- EN: passionate -->
+<SP_Passionate.label>porywczość</SP_Passionate.label>
+<!-- EN: introspective -->
+<SP_Introspective.label>introspekcyjność</SP_Introspective.label>
+
+</LanguageData>

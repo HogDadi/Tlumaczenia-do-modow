@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Peacemaker -->
+<SP_Peacemaker.label>Rozjemca</SP_Peacemaker.label>
+<!-- EN: Advisor -->
+<SP_Advisor.label>Doradca</SP_Advisor.label>
+<!-- EN: Negotiator -->
+<SP_Negotiator.label>Negocjator</SP_Negotiator.label>
+<!-- EN: Teacher -->
+<SP_Teacher.label>Nauczyciel</SP_Teacher.label>
+
+</LanguageData>
