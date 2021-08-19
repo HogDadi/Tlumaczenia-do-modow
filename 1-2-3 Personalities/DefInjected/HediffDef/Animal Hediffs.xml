@@ -4,16 +4,16 @@
 <!-- Kind animals get this hediff. -->
 
 <!-- EN: Personality (Kind) -->
-<SP_Hediff_AnimalKind.label>Osobowość (miła)</SP_Hediff_AnimalKind.label>
+<SP_Hediff_AnimalKind.label>Osobowość (Miła)</SP_Hediff_AnimalKind.label>
 <!-- EN: This animal has a kind personality. It will nuzzle colonists more often. -->
 <SP_Hediff_AnimalKind.description>To zwierzę jest miłe. Częściej będzie przytulał kolonistów.</SP_Hediff_AnimalKind.description>
 
 <!-- Intense animals get this hediff. -->
 
 <!-- EN: Personality (Intense) -->
-<SP_Hediff_AnimalIntense.label>Osobowość (slina)</SP_Hediff_AnimalIntense.label>
+<SP_Hediff_AnimalIntense.label>Osobowość (Silna)</SP_Hediff_AnimalIntense.label>
 <!-- EN: This animal has an intense personality. It will deal more damage when it attacks. -->
-<SP_Hediff_AnimalIntense.description>To zwierzę ma sliną osobowość. Zada większe obrażenia, gdy zaatakuje.</SP_Hediff_AnimalIntense.description>
+<SP_Hediff_AnimalIntense.description>To zwierzę ma silną osobowość. Zada większe obrażenia, gdy zaatakuje.</SP_Hediff_AnimalIntense.description>
 
 <!-- Energetic animals get this hediff. -->
 

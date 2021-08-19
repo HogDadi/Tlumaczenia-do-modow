@@ -12,7 +12,7 @@
 <SP.HiddenPersonality>Ukryta: Osobowość tej osoby jest nieznana, ponieważ nie jest ona członkiem twojej kolonii.</SP.HiddenPersonality>
 
 <!-- EN: This animal's personality is not yet known.\nTame the animal to discover its nature. -->
-<SP.HiddenAnimalPersonality>Osobowość tego zwierzęcia nie jest jeszcze znana.\nOswoj zwierzę, aby odkryć jego naturę.</SP.HiddenAnimalPersonality>
+<SP.HiddenAnimalPersonality>Osobowość tego zwierzęcia nie jest jeszcze znana.\nOswój zwierzę, aby odkryć jego naturę.</SP.HiddenAnimalPersonality>
 <!-- EN: This animal's personality is not yet known.\nTrain the animal or wait a few days to discover its personality. -->
 <SP.HiddenAnimalOfFactionPersonality>Osobowość tego zwierzęcia nie jest jeszcze znana.\nWytrenuj zwierzę lub poczekaj kilka dni, aby odkryć jego osobowość.</SP.HiddenAnimalOfFactionPersonality>
 
@@ -50,7 +50,7 @@
 <!-- EN: Add new -->
 <SP.AddSeed>Dodaj nowe</SP.AddSeed>
 <!-- EN: Remove last -->
-<SP.RemoveSeed>Usuń ostatne</SP.RemoveSeed>
+<SP.RemoveSeed>Usuń ostatnie</SP.RemoveSeed>
 <!-- EN: Edit personality -->
 <SP.EditPersonality>Edytuj osobowość</SP.EditPersonality>
 <!-- EN: Edit Personalities -->
@@ -91,7 +91,7 @@
 <!-- EN: Animals -->
 <SPS.AnimalCat>Zwierzęta</SPS.AnimalCat>
 <!-- EN: Ticks to animal reveal:The time, in ticks, after which a tame animal will automatically reveal its personality.\nThere are 60 ticks in a second. -->
-<SPS.AnimalTicksToReveal>Tiki do ujawnienia osobowaości zwierzęcia: Czas w tikach, po którym oswojone zwierzę automatycznie ujawnia swoją osobowość.\nNa sekundę jest 60 tików.</SPS.AnimalTicksToReveal>
+<SPS.AnimalTicksToReveal>Tiki do ujawnienia osobowości zwierzęcia: Czas w tikach, po którym oswojone zwierzę automatycznie ujawnia swoją osobowość.\nNa sekundę jest 60 tików.</SPS.AnimalTicksToReveal>
 <!-- EN: Personality reveal on train chance:The percentage chance for a tame animal's personality to be revealed upon a training attempt. -->
 <SPS.AnimalPersonalityOnTrainChance>Szansa na ujawnienie osobowości przy trenowaniu: Procentowa szansa na ujawnienie osobowości oswojonego zwierzęcia podczas próby treningu.</SPS.AnimalPersonalityOnTrainChance>
 <!-- EN: Extra bio height:The additional height that is added to a character's bio window, to accomodate the personality description. Decrease if the window goes off the top of the screen. -->
