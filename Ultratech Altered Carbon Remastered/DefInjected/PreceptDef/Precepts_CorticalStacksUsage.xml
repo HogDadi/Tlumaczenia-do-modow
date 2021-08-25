@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+<!-- EN: abhorrent -->
+<UT_StackUsage_Abhorrent.label>odrażające</UT_StackUsage_Abhorrent.label>
+<!-- EN: To make oneself immortal with technology is against moral laws. -->
+<UT_StackUsage_Abhorrent.description>Stawanie się nieśmiertelnym dzięki technologii jest sprzeczne z prawami moralnymi.</UT_StackUsage_Abhorrent.description>
+
+<!-- EN: disapproved -->
+<UT_StackUsage_Disapproved.label>odrzucające</UT_StackUsage_Disapproved.label>
+<!-- EN: To make oneself immortal with technology is an ugly, dirty act. -->
+<UT_StackUsage_Disapproved.description>Stać się nieśmiertelnym dzięki technologii to brzydki i brudny czyn.</UT_StackUsage_Disapproved.description>
+
+<!-- EN: approved -->
+<UT_StackUsage_Approved.label>uznane</UT_StackUsage_Approved.label>
+<!-- EN: Humans should strive to reach immortallity by improving our flawed natural bodies. -->
+<UT_StackUsage_Approved.description>Ludzie powinni dążyć do osiągnięcia nieśmiertelności poprzez ulepszanie sowich wadliwych naturalnych ciał.</UT_StackUsage_Approved.description>
+
+
+</LanguageData>

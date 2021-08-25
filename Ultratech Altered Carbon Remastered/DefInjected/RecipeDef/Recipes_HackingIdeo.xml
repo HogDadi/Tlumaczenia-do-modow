@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Convert cortical stack to colony ideo -->
+<UT_ConvertFilledCorticalStackToIdeo.label>Konwertuj pojemnik węglowy na ideologię kolonii</UT_ConvertFilledCorticalStackToIdeo.label>
+<!-- EN: PLACEHOLDER -->
+<UT_ConvertFilledCorticalStackToIdeo.description>MIEJSCE ZASTĘPCZE</UT_ConvertFilledCorticalStackToIdeo.description>
+<!-- EN: Converting cortical stack to colony ideo. -->
+<UT_ConvertFilledCorticalStackToIdeo.jobString>Konwertowanie pojemnika węglowego na ideologię kolonii.</UT_ConvertFilledCorticalStackToIdeo.jobString>
+
+
+</LanguageData>

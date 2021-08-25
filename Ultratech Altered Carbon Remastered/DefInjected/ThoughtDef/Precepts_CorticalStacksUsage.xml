@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Related: Installed Stack -->
+
+<!-- EN: installed cortical stack -->
+<UT_InstalledStack_Abhorrent.stages.0.label>zainstalowany pojemnik węglowy</UT_InstalledStack_Abhorrent.stages.0.label>
+<!-- EN: I had to install a cortical stack. This was deeply offensive to my beliefs. -->
+<UT_InstalledStack_Abhorrent.stages.0.description>Zmusili mnie do zainstalowania pojemnika węglowego. Jest to sprzeczne z moimi przekonaniami.</UT_InstalledStack_Abhorrent.stages.0.description>
+
+<!-- EN: installed cortical stack -->
+<UT_InstalledStack_Know_Abhorrent.stages.0.label>zainstalowany pojemnik węglowy</UT_InstalledStack_Know_Abhorrent.stages.0.label>
+
+<!-- EN: installed cortical stack -->
+<UT_InstalledStack_Disapproved.stages.0.label>zainstalowany pojemnik węglowy</UT_InstalledStack_Disapproved.stages.0.label>
+<!-- EN: I had to install a cortical stack. This was clearly against my beliefs. -->
+<UT_InstalledStack_Disapproved.stages.0.description>Zmusili mnie do zainstalowania pojemnika węglowego. Jest to sprzeczne z moimi przekonaniami.</UT_InstalledStack_Disapproved.stages.0.description>
+
+<!-- EN: installed cortical stack -->
+<UT_InstalledStack_Know_Disapproved.stages.0.label>zainstalowany pojemnik węglowy</UT_InstalledStack_Know_Disapproved.stages.0.label>
+
+
+  <!-- Related: Has cortical stack -->
+
+<!-- EN: cortical stack -->
+<UT_HasStack_Abhorrent.stages.0.label>pojemnik węglowy</UT_HasStack_Abhorrent.stages.0.label>
+<!-- EN: I have cortical stack installed in me. It's an abhorrent offense against everything I believe! -->
+<UT_HasStack_Abhorrent.stages.0.description>Mam w sobie zainstalowany pojemnik węglowy. To obraza wszystkiego, w co wierzę!</UT_HasStack_Abhorrent.stages.0.description>
+
+<!-- EN: cortical stack -->
+<UT_HasStack_Abhorrent_Social.stages.0.label>pojemnik węglowy</UT_HasStack_Abhorrent_Social.stages.0.label>
+
+<!-- EN: cortical stack -->
+<UT_HasStack_Disapproved.stages.0.label>pojemnik węglowy</UT_HasStack_Disapproved.stages.0.label>
+<!-- EN: I have cortical stack installed in me. I don't believe such things are acceptable. -->
+<UT_HasStack_Disapproved.stages.0.description>Mam w sobie zainstalowany pojemnik węglowy. Nie wierzę, że takie rzeczy są dopuszczalne.</UT_HasStack_Disapproved.stages.0.description>
+
+<!-- EN: cortical stack -->
+<UT_HasStack_Disapproved_Social.stages.0.label>pojemnik węglowy</UT_HasStack_Disapproved_Social.stages.0.label>
+
+<!-- EN: no cortical stack -->
+<UT_HasNoStack_Disapproved.stages.0.label>brak pojemnika węglowego</UT_HasNoStack_Disapproved.stages.0.label>
+<!-- EN: I don't have a cortical stack. It's against my beliefs to be able to die so easily. -->
+<UT_HasNoStack_Disapproved.stages.0.description>Nie mam pojemnika węglowego. To wbrew moim przekonaniom. Mogę tak łatwo umrzeć!</UT_HasNoStack_Disapproved.stages.0.description>
+
+<!-- EN: no cortical stack -->
+<UT_HasNoStack_Disapproved_Social.stages.0.label>brak pojemnika węglowego</UT_HasNoStack_Disapproved_Social.stages.0.label>
+
+
+</LanguageData>
