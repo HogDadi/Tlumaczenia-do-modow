@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <UT_StackUsage_Abhorrent.label>abhorrent</UT_StackUsage_Abhorrent.label>
+  <UT_StackUsage_Abhorrent.description>To make oneself immortal with technology is against moral laws.</UT_StackUsage_Abhorrent.description>
+
+  <UT_StackUsage_Disapproved.label>disapproved</UT_StackUsage_Disapproved.label>
+  <UT_StackUsage_Disapproved.description>To make oneself immortal with technology is an ugly, dirty act.</UT_StackUsage_Disapproved.description>
+
+  <UT_StackUsage_Approved.label>approved</UT_StackUsage_Approved.label>
+  <UT_StackUsage_Approved.description>Humans should strive to reach immortallity by improving our flawed natural bodies.</UT_StackUsage_Approved.description>
+
+
+</LanguageData>

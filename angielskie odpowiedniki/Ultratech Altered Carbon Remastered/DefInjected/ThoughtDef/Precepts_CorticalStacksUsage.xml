@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Related: Installed Stack -->
+
+  <UT_InstalledStack_Abhorrent.stages.0.label>installed cortical stack</UT_InstalledStack_Abhorrent.stages.0.label>
+  <UT_InstalledStack_Abhorrent.stages.0.description>I had to install a cortical stack. This was deeply offensive to my beliefs.</UT_InstalledStack_Abhorrent.stages.0.description>
+
+  <UT_InstalledStack_Know_Abhorrent.stages.0.label>installed cortical stack</UT_InstalledStack_Know_Abhorrent.stages.0.label>
+
+  <UT_InstalledStack_Disapproved.stages.0.label>installed cortical stack</UT_InstalledStack_Disapproved.stages.0.label>
+  <UT_InstalledStack_Disapproved.stages.0.description>I had to install a cortical stack. This was clearly against my beliefs.</UT_InstalledStack_Disapproved.stages.0.description>
+
+  <UT_InstalledStack_Know_Disapproved.stages.0.label>installed cortical stack</UT_InstalledStack_Know_Disapproved.stages.0.label>
+
+
+  <!-- Related: Has cortical stack -->
+
+  <UT_HasStack_Abhorrent.stages.0.label>cortical stack</UT_HasStack_Abhorrent.stages.0.label>
+  <UT_HasStack_Abhorrent.stages.0.description>I have cortical stack installed in me. It's an abhorrent offense against everything I believe!</UT_HasStack_Abhorrent.stages.0.description>
+
+  <UT_HasStack_Abhorrent_Social.stages.0.label>cortical stack</UT_HasStack_Abhorrent_Social.stages.0.label>
+
+  <UT_HasStack_Disapproved.stages.0.label>cortical stack</UT_HasStack_Disapproved.stages.0.label>
+  <UT_HasStack_Disapproved.stages.0.description>I have cortical stack installed in me. I don't believe such things are acceptable.</UT_HasStack_Disapproved.stages.0.description>
+
+  <UT_HasStack_Disapproved_Social.stages.0.label>cortical stack</UT_HasStack_Disapproved_Social.stages.0.label>
+
+  <UT_HasNoStack_Disapproved.stages.0.label>no cortical stack</UT_HasNoStack_Disapproved.stages.0.label>
+  <UT_HasNoStack_Disapproved.stages.0.description>I don't have a cortical stack. It's against my beliefs to be able to die so easily.</UT_HasNoStack_Disapproved.stages.0.description>
+
+  <UT_HasNoStack_Disapproved_Social.stages.0.label>no cortical stack</UT_HasNoStack_Disapproved_Social.stages.0.label>
+
+
+</LanguageData>
