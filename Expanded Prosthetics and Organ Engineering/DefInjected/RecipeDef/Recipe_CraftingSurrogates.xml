@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateBrainStimulator.label>Stwórz stymulator mózgu</CreateBrainStimulator.label>
-  <CreateBrainStimulator.description>Stwórz stymulator mózgu.</CreateBrainStimulator.description>
-    <CreateBrainStimulator.jobString>Tworzy stymulator mózgu.</CreateBrainStimulator.jobString>
+  <Make_BrainStimulator.label>Stwórz stymulator mózgu</Make_BrainStimulator.label>
+  <Make_BrainStimulator.description>Stwórz stymulator mózgu.</Make_BrainStimulator.description>
+  <Make_BrainStimulator.jobString>Tworzy stymulator mózgu.</Make_BrainStimulator.jobString>
   
-  <CreateSurrogateLung.label>Stwórz sztuczne płuco</CreateSurrogateLung.label>
-  <CreateSurrogateLung.description>Stwórz sztuczne płuco.</CreateSurrogateLung.description>
-    <CreateSurrogateLung.jobString>Tworzy sztuczne płuco.</CreateSurrogateLung.jobString>
+  <Make_SurrogateLung.label>Stwórz sztuczne płuco</Make_SurrogateLung.label>
+  <Make_SurrogateLung.description>Stwórz sztuczne płuco.</Make_SurrogateLung.description>
+  <Make_SurrogateLung.jobString>Tworzy sztuczne płuco.</Make_SurrogateLung.jobString>
   
-  <CreateSurrogateStomach.label>Stwórz sztuczny żołądek</CreateSurrogateStomach.label>
-  <CreateSurrogateStomach.description>Stwórz sztuczny żołądek.</CreateSurrogateStomach.description>
-    <CreateSurrogateStomach.jobString>Tworzy sztuczny żołądek.</CreateSurrogateStomach.jobString>
+  <Make_SurrogateStomach.label>Stwórz sztuczny żołądek</Make_SurrogateStomach.label>
+  <Make_SurrogateStomach.description>Stwórz sztuczny żołądek.</Make_SurrogateStomach.description>
+    <Make_SurrogateStomach.jobString>Tworzy sztuczny żołądek.</Make_SurrogateStomach.jobString>
   
-  <CreateSurrogateLiver.label>Stwórz sztuczną wątrobę</CreateSurrogateLiver.label>
-  <CreateSurrogateLiver.description>Stwórz sztuczną wątrobę.</CreateSurrogateLiver.description>
-    <CreateSurrogateLiver.jobString>Tworzy sztuczną wątrobę.</CreateSurrogateLiver.jobString>
+  <Make_SurrogateLiver.label>Stwórz sztuczną wątrobę</Make_SurrogateLiver.label>
+  <Make_SurrogateLiver.description>Stwórz sztuczną wątrobę.</Make_SurrogateLiver.description>
+    <Make_SurrogateLiver.jobString>Tworzy sztuczną wątrobę.</Make_SurrogateLiver.jobString>
   
-  <CreateSurrogateKidney.label>Stwórz sztuczną nerkę</CreateSurrogateKidney.label>
-  <CreateSurrogateKidney.description>Stwórz sztuczną nerkę.</CreateSurrogateKidney.description>
-    <CreateSurrogateKidney.jobString>Tworzy sztuczną nerkę.</CreateSurrogateKidney.jobString>
+  <Make_SurrogateKidney.label>Stwórz sztuczną nerkę</Make_SurrogateKidney.label>
+  <Make_SurrogateKidney.description>Stwórz sztuczną nerkę.</Make_SurrogateKidney.description>
+    <Make_SurrogateKidney.jobString>Tworzy sztuczną nerkę.</Make_SurrogateKidney.jobString>
   
-  <CreateSurrogateHeart.label>Stwórz sztuczne serce</CreateSurrogateHeart.label>
-  <CreateSurrogateHeart.description>Stwórz sztuczne serce.</CreateSurrogateHeart.description>
-    <CreateSurrogateHeart.jobString>Tworzy sztuczne serce.</CreateSurrogateHeart.jobString>
+  <Make_SurrogateHeart.label>Stwórz sztuczne serce</Make_SurrogateHeart.label>
+  <Make_SurrogateHeart.description>Stwórz sztuczne serce.</Make_SurrogateHeart.description>
+    <Make_SurrogateHeart.jobString>Tworzy sztuczne serce.</Make_SurrogateHeart.jobString>
   
 </LanguageData>

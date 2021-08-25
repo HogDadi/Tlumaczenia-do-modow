@@ -11,13 +11,13 @@
   <InstallLightReceptor.description>Zainstaluj receptor światła.</InstallLightReceptor.description>
   <InstallLightReceptor.jobString>Instaluje receptor światła.</InstallLightReceptor.jobString>
 
-  <InstallSimpleProstheticHand.label>Przyszyj prostą protezę dłoni</InstallSimpleProstheticHand.label>
-  <InstallSimpleProstheticHand.description>Przyszywa prostą protezę dłoni.</InstallSimpleProstheticHand.description>
-  <InstallSimpleProstheticHand.jobString>Przyszywa prostą protezę dłoni.</InstallSimpleProstheticHand.jobString>
+  <InstallSimpleProstheticHand.label>Przyszyj protezę dłoni</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Przyszywa protezę dłoni.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>Przyszywa protezę dłoni.</InstallSimpleProstheticHand.jobString>
 
-  <InstallSimpleProstheticFoot.label>Przyszyj prostą protezę stopy</InstallSimpleProstheticFoot.label>
-  <InstallSimpleProstheticFoot.description>Przyszywa prostą protezę stopy.</InstallSimpleProstheticFoot.description>
-  <InstallSimpleProstheticFoot.jobString>Przyszywa prostą protezę stopy.</InstallSimpleProstheticFoot.jobString>
+  <InstallSimpleProstheticFoot.label>Przyszyj protezę stopy</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Przyszywa protezę stopy.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>Przyszywa protezę stopy.</InstallSimpleProstheticFoot.jobString>
 
   <InstallArtificialNose.label>Przyszyj sztuczny nos</InstallArtificialNose.label>
   <InstallArtificialNose.description>Przyszywa sztuczny nos.</InstallArtificialNose.description>

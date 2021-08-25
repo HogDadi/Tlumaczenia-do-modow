@@ -1,64 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateBionicEye.label>Stwórz bioniczne oko</CreateBionicEye.label>
-  <CreateBionicEye.description>Stwórz bioniczne oko z super stali.</CreateBionicEye.description>
-  <CreateBionicEye.jobString>Tworzy bioniczne oko.</CreateBionicEye.jobString>
+  <Make_BionicEye.label>Stwórz bioniczne oko</Make_BionicEye.label>
+  <Make_BionicEye.description>Stwórz bioniczne oko z super stali.</Make_BionicEye.description>
+  <Make_BionicEye.jobString>Tworzy bioniczne oko.</Make_BionicEye.jobString>
 
-  <CreatePowerClaw.label>Stwórz pazur mocy</CreatePowerClaw.label>
-  <CreatePowerClaw.description>Stwórz pazur mocy przy użyciu stali i zaawansowanych komponentów.</CreatePowerClaw.description>
-  <CreatePowerClaw.jobString>Tworzy pazur mocy.</CreatePowerClaw.jobString>
+  <Make_PowerClaw.label>Stwórz pazur mocy</Make_PowerClaw.label>
+  <Make_PowerClaw.description>Stwórz pazur mocy przy użyciu stali i zaawansowanych komponentów.</Make_PowerClaw.description>
+  <Make_PowerClaw.jobString>Tworzy pazur mocy.</Make_PowerClaw.jobString>
 
-  <CreatePowerArm.label>Stwórz ramię mocy</CreatePowerArm.label>
-  <CreatePowerArm.description>Przymocowanie pazura mocy do bionicznego ramienia nie jest tak łatwe, jak się wydaje. Ale cholera, to jest niesamowite!.</CreatePowerArm.description>
-  <CreatePowerArm.jobString>Tworzy ramię mocy.</CreatePowerArm.jobString>
+  <Make_PowerArm.label>Stwórz ramię mocy</Make_PowerArm.label>
+  <Make_PowerArm.description>Przymocowanie pazura mocy do bionicznego ramienia nie jest tak łatwe, jak się wydaje. Ale cholera, to jest niesamowite!.</Make_PowerArm.description>
+  <Make_PowerArm.jobString>Tworzy ramię mocy.</Make_PowerArm.jobString>
 
-  <CreateBionicArm.label>Stwórz bioniczne ramię</CreateBionicArm.label>
-  <CreateBionicArm.description>Ulepsz prostą protezę za pomocą super stali i komponentów.</CreateBionicArm.description>
-  <CreateBionicArm.jobString>Tworzy bioniczne ramię.</CreateBionicArm.jobString>
+  <Make_BionicArm.label>Stwórz bioniczne ramię</Make_BionicArm.label>
+  <Make_BionicArm.description>Ulepsz protezę za pomocą super stali i komponentów.</Make_BionicArm.description>
+  <Make_BionicArm.jobString>Tworzy bioniczne ramię.</Make_BionicArm.jobString>
 
-  <CreateBionicHand.label>Stwórz bioniczną dłoń</CreateBionicHand.label>
-  <CreateBionicHand.description>Ulepsz prostą protezę za pomocą super stali i komponentów.</CreateBionicHand.description>
-  <CreateBionicHand.jobString>Tworzy bioniczną dłoń.</CreateBionicHand.jobString>
+  <Make_BionicHand.label>Stwórz bioniczną dłoń</Make_BionicHand.label>
+  <Make_BionicHand.description>Ulepsz protezę za pomocą super stali i komponentów.</Make_BionicHand.description>
+  <Make_BionicHand.jobString>Tworzy bioniczną dłoń.</Make_BionicHand.jobString>
 
-  <CreateBionicFoot.label>Stwórz bioniczną stopę</CreateBionicFoot.label>
-  <CreateBionicFoot.description>Ulepsz prostą protezę za pomocą super stali i komponentów.</CreateBionicFoot.description>
-  <CreateBionicFoot.jobString>Tworzy bioniczną stopę.</CreateBionicFoot.jobString>
+  <Make_BionicFoot.label>Stwórz bioniczną stopę</Make_BionicFoot.label>
+  <Make_BionicFoot.description>Ulepsz protezę za pomocą super stali i komponentów.</Make_BionicFoot.description>
+  <Make_BionicFoot.jobString>Tworzy bioniczną stopę.</Make_BionicFoot.jobString>
 
-  <CreateBionicLeg.label>Stwórz bioniczną nogę</CreateBionicLeg.label>
-  <CreateBionicLeg.description>Ulepsz prostą protezę za pomocą super stali i komponentów.</CreateBionicLeg.description>
-  <CreateBionicLeg.jobString>Tworzy bioniczną nogę.</CreateBionicLeg.jobString>
+  <Make_BionicLeg.label>Stwórz bioniczną nogę</Make_BionicLeg.label>
+  <Make_BionicLeg.description>Ulepsz protezę za pomocą super stali i komponentów.</Make_BionicLeg.description>
+  <Make_BionicLeg.jobString>Tworzy bioniczną nogę.</Make_BionicLeg.jobString>
 
-  <CreateBionicEar.label>Stwórz bioniczne ucho.</CreateBionicEar.label>
-  <CreateBionicEar.description>Stwórz bioniczne ucho z super stali.</CreateBionicEar.description>
-  <CreateBionicEar.jobString>Tworzy bioniczne ucho.</CreateBionicEar.jobString>
+  <Make_BionicEar.label>Stwórz bioniczne ucho.</Make_BionicEar.label>
+  <Make_BionicEar.description>Stwórz bioniczne ucho z super stali.</Make_BionicEar.description>
+  <Make_BionicEar.jobString>Tworzy bioniczne ucho.</Make_BionicEar.jobString>
 
-  <CreateBionicJaw.label>Stwórz bioniczną szczękę</CreateBionicJaw.label>
-  <CreateBionicJaw.description>Stwórz bioniczną szczękę z metalu i super stali.</CreateBionicJaw.description>
-  <CreateBionicJaw.jobString>Tworzy bioniczną szczękę.</CreateBionicJaw.jobString>
+  <Make_BionicJaw.label>Stwórz bioniczną szczękę</Make_BionicJaw.label>
+  <Make_BionicJaw.description>Stwórz bioniczną szczękę z metalu i super stali.</Make_BionicJaw.description>
+  <Make_BionicJaw.jobString>Tworzy bioniczną szczękę.</Make_BionicJaw.jobString>
 
-  <CreateSilentJaw.label>Stwórz cichą szczękę</CreateSilentJaw.label>
-  <CreateSilentJaw.description>Stwórz cichą szczękę z metalu i super stali.</CreateSilentJaw.description>
-  <CreateSilentJaw.jobString>Tworzy cichą szczękę.</CreateSilentJaw.jobString>
+  <Make_SilentJaw.label>Stwórz cichą szczękę</Make_SilentJaw.label>
+  <Make_SilentJaw.description>Stwórz cichą szczękę z metalu i super stali.</Make_SilentJaw.description>
+  <Make_SilentJaw.jobString>Tworzy cichą szczękę.</Make_SilentJaw.jobString>
 
-  <CreateBionicSpine.label>Stwórz bioniczny kręgosłup</CreateBionicSpine.label>
-  <CreateBionicSpine.description>Stwórz bioniczny kręgosłup z metalu i super stali.</CreateBionicSpine.description>
-  <CreateBionicSpine.jobString>Tworzy bioniczny kręgosłup.</CreateBionicSpine.jobString>
+  <Make_BionicSpine.label>Stwórz bioniczny kręgosłup</Make_BionicSpine.label>
+  <Make_BionicSpine.description>Stwórz bioniczny kręgosłup z metalu i super stali.</Make_BionicSpine.description>
+  <Make_BionicSpine.jobString>Tworzy bioniczny kręgosłup.</Make_BionicSpine.jobString>
   
-  <CreateMedicalRib.label>Stwórz żebro medyczne</CreateMedicalRib.label>
-  <CreateMedicalRib.description>Stwórz żebro medyczne z super stali i najlepszych medykamentów.</CreateMedicalRib.description>
-  <CreateMedicalRib.jobString>Tworzy żebro medyczne.</CreateMedicalRib.jobString>
+  <Make_MedicalRib.label>Stwórz żebro medyczne</Make_MedicalRib.label>
+  <Make_MedicalRib.description>Stwórz żebro medyczne z super stali i najlepszych medykamentów.</Make_MedicalRib.description>
+  <Make_MedicalRib.jobString>Tworzy żebro medyczne.</Make_MedicalRib.jobString>
   
-  <CreateDruggedRib.label>Stwórz żebro odurzające</CreateDruggedRib.label>
-  <CreateDruggedRib.description>Stwórz żebro odurzające z super stali i piwa.</CreateDruggedRib.description>
-  <CreateDruggedRib.jobString>Tworzy żebro odurzające.</CreateDruggedRib.jobString>
+  <Make_DruggedRib.label>Stwórz żebro odurzające</Make_DruggedRib.label>
+  <Make_DruggedRib.description>Stwórz żebro odurzające z super stali i piwa.</Make_DruggedRib.description>
+  <Make_DruggedRib.jobString>Tworzy żebro odurzające.</Make_DruggedRib.jobString>
   
-  <CreateAdrenalineRib.label>Stwórz Żebro z adrenaliną</CreateAdrenalineRib.label>
-  <CreateAdrenalineRib.description>Stwórz żebro z adrenaliną używając super stali i narkotyków.</CreateAdrenalineRib.description>
-  <CreateAdrenalineRib.jobString>Tworzy żebro z adrenaliną.</CreateAdrenalineRib.jobString>
+  <Make_AdrenalineRib.label>Stwórz Żebro z adrenaliną</Make_AdrenalineRib.label>
+  <Make_AdrenalineRib.description>Stwórz żebro z adrenaliną używając super stali i narkotyków.</Make_AdrenalineRib.description>
+  <Make_AdrenalineRib.jobString>Tworzy żebro z adrenaliną.</Make_AdrenalineRib.jobString>
   
-  <CreatePainkillerRib.label>Stwórz Żebro przeciwbólowe</CreatePainkillerRib.label>
-  <CreatePainkillerRib.description>Stwórz żebro przeciwbólowe używając super stali i narkotyków.</CreatePainkillerRib.description>
-  <CreatePainkillerRib.jobString>Tworzy żebro przeciwbólowe.</CreatePainkillerRib.jobString>
+  <Make_PainkillerRib.label>Stwórz Żebro przeciwbólowe</Make_PainkillerRib.label>
+  <Make_PainkillerRib.description>Stwórz żebro przeciwbólowe używając super stali i narkotyków.</Make_PainkillerRib.description>
+  <Make_PainkillerRib.jobString>Tworzy żebro przeciwbólowe.</Make_PainkillerRib.jobString>
 
 </LanguageData>

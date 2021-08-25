@@ -18,16 +18,16 @@
   <LightReceptor.label>Receptor światła</LightReceptor.label>
   <LightReceptor.description>Zastępuje brakujące oko. Potrafi wykrywać światło, a nawet przedmioty. Jak patrzenie przez matowe szkło, ale bez kolorów.</LightReceptor.description>
 
-  <SimpleProstheticHand.label>Prosta proteza dłoni</SimpleProstheticHand.label>
+  <SimpleProstheticHand.label>Proteza dłoni</SimpleProstheticHand.label>
   <SimpleProstheticHand.description>Zastępuje brakującą dłoń. O wiele bardziej komfortowa niż ta zakończona hakiem.</SimpleProstheticHand.description>
 
-  <SimpleProstheticFoot.label>Prosta proteza stopy</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.label>Proteza stopy</SimpleProstheticFoot.label>
   <SimpleProstheticFoot.description>Zastępuje brakującą stopę. Nie tak tania jak ta drewniana.</SimpleProstheticFoot.description>
 
-  <SimpleProstheticLeg.label>Prosta proteza nogi</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.label>Proteza nogi</SimpleProstheticLeg.label>
   <SimpleProstheticLeg.description>Zastępuje brakującą nogę. Niezbyt wygodna, ale cicha.</SimpleProstheticLeg.description>
 
-  <SimpleProstheticArm.label>Prosta proteza ramienia</SimpleProstheticArm.label>
+  <SimpleProstheticArm.label>Proteza ramienia</SimpleProstheticArm.label>
   <SimpleProstheticArm.description>Prosta, ale trwała!</SimpleProstheticArm.description>
 
    <ArtificialPelvis.label>Sztuczna miednica</ArtificialPelvis.label>

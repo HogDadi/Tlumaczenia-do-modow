@@ -9,19 +9,19 @@
   <LightReceptor.label>Receptor światła</LightReceptor.label>
   <LightReceptor.description>Zainstalowany receptor światła.</LightReceptor.description>
 
-  <SimpleProstheticHand.label>Prosta proteza ramienia</SimpleProstheticHand.label>
-  <SimpleProstheticHand.description>Zainstalowana prosta proteza ramienia.</SimpleProstheticHand.description>
+  <SimpleProstheticHand.label>Proteza ramienia</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>Zainstalowana proteza ramienia.</SimpleProstheticHand.description>
   <SimpleProstheticHand.comps.0.tools.0.label>Bioniczna pięść</SimpleProstheticHand.comps.0.tools.0.label>
 
-  <SimpleProstheticFoot.label>Prosta proteza stopy</SimpleProstheticFoot.label>
-  <SimpleProstheticFoot.description>Zainstalowana prosta proteza stopy.</SimpleProstheticFoot.description>
+  <SimpleProstheticFoot.label>Proteza stopy</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>Zainstalowana proteza stopy.</SimpleProstheticFoot.description>
 
-  <SimpleProstheticArm.label>Prosta proteza dłoni</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>Zainstalowana prosta proteza dłoni.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.label>Proteza dłoni</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>Zainstalowana proteza dłoni.</SimpleProstheticArm.description>
   <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
 
-  <SimpleProstheticLeg.label>Prosta proteza nogi</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>Zainstalowana prosta proteza nogi.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.label>Proteza nogi</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Zainstalowana proteza nogi.</SimpleProstheticLeg.description>
 
   <ArtificialNose.label>Sztuczny nos</ArtificialNose.label>
   <ArtificialNose.description>Zainstalowany sztuczny nos.</ArtificialNose.description>

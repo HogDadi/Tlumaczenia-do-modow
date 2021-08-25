@@ -1,49 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateSimpleProstheticLeg.label>Stwórz prostą protezę nogi</CreateSimpleProstheticLeg.label>
-  <CreateSimpleProstheticLeg.description>Stwórz prostą protezę nogi z metalu, super stali i komponentów.</CreateSimpleProstheticLeg.description>
-  <CreateSimpleProstheticLeg.jobString>Tworzy prostą protezę nogi.</CreateSimpleProstheticLeg.jobString>
+  <Make_SimpleProstheticLeg.label>Stwórz protezę nogi</Make_SimpleProstheticLeg.label>
+  <Make_SimpleProstheticLeg.description>Stwórz protezę nogi z metalu, super stali i komponentów.</Make_SimpleProstheticLeg.description>
+  <Make_SimpleProstheticLeg.jobString>Tworzy protezę nogi.</Make_SimpleProstheticLeg.jobString>
   
-  <CreateSimpleProstheticArm.label>Stwórz prostą protezę ramienia</CreateSimpleProstheticArm.label>
-  <CreateSimpleProstheticArm.description>Stwórz prostą protezę ramienia z metalu, super stali i komponentów.</CreateSimpleProstheticArm.description>
-  <CreateSimpleProstheticArm.jobString>Tworzy prostą protezę ramienia.</CreateSimpleProstheticArm.jobString>
+  <Make_SimpleProstheticArm.label>Stwórz protezę ramienia</Make_SimpleProstheticArm.label>
+  <Make_SimpleProstheticArm.description>Stwórz protezę ramienia z metalu, super stali i komponentów.</Make_SimpleProstheticArm.description>
+  <Make_SimpleProstheticArm.jobString>Tworzy protezę ramienia.</Make_SimpleProstheticArm.jobString>
   
-  <CreateSimpleProstheticHand.label>Stwórz prostą protezę dłoni</CreateSimpleProstheticHand.label>
-  <CreateSimpleProstheticHand.description>Stwórz prostą protezę dłoni z metalu, super stali i komponentów.</CreateSimpleProstheticHand.description>
-  <CreateSimpleProstheticHand.jobString>Tworzy prostą protezę dłoni.</CreateSimpleProstheticHand.jobString>
+  <Make_SimpleProstheticHand.label>Stwórz protezę dłoni</Make_SimpleProstheticHand.label>
+  <Make_SimpleProstheticHand.description>Stwórz protezę dłoni z metalu, super stali i komponentów.</Make_SimpleProstheticHand.description>
+  <Make_SimpleProstheticHand.jobString>Tworzy protezę dłoni.</Make_SimpleProstheticHand.jobString>
   
-  <CreateSimpleProstheticFoot.label>Stwórz prostą protezę nogi</CreateSimpleProstheticFoot.label>
-  <CreateSimpleProstheticFoot.description>Stwórz prostą protezę nogi z metalu, super stali i komponentów</CreateSimpleProstheticFoot.description>
-  <CreateSimpleProstheticFoot.jobString>Tworzy prostą protezę nogi.</CreateSimpleProstheticFoot.jobString>
+  <Make_SimpleProstheticFoot.label>Stwórz protezę nogi</Make_SimpleProstheticFoot.label>
+  <Make_SimpleProstheticFoot.description>Stwórz protezę nogi z metalu, super stali i komponentów</Make_SimpleProstheticFoot.description>
+  <Make_SimpleProstheticFoot.jobString>Tworzy protezę nogi.</Make_SimpleProstheticFoot.jobString>
   
-  <CreateArtificialNose.label>Stwórz sztuczny nos</CreateArtificialNose.label>
-  <CreateArtificialNose.description>Stwórz sztuczny nos z super stali.</CreateArtificialNose.description>
-  <CreateArtificialNose.jobString>Tworzy sztuczny nos.</CreateArtificialNose.jobString>
+  <Make_ArtificialNose.label>Stwórz sztuczny nos</Make_ArtificialNose.label>
+  <Make_ArtificialNose.description>Stwórz sztuczny nos z super stali.</Make_ArtificialNose.description>
+  <Make_ArtificialNose.jobString>Tworzy sztuczny nos.</Make_ArtificialNose.jobString>
 
-  <CreateCochlearImplant.label>Stwórz implant ślimakowy</CreateCochlearImplant.label>
-  <CreateCochlearImplant.description>Stwórz implant ślimakowy z super stali.</CreateCochlearImplant.description>
-  <CreateCochlearImplant.jobString>Tworzy implant ślimakowy.</CreateCochlearImplant.jobString>
+  <Make_CochlearImplant.label>Stwórz implant ślimakowy</Make_CochlearImplant.label>
+  <Make_CochlearImplant.description>Stwórz implant ślimakowy z super stali.</Make_CochlearImplant.description>
+  <Make_CochlearImplant.jobString>Tworzy implant ślimakowy.</Make_CochlearImplant.jobString>
 
-  <CreateHydraulicJaw.label>Stwórz hydrauliczną szczękę</CreateHydraulicJaw.label>
-  <CreateHydraulicJaw.description>Stwórz hydrauliczną szczękę z metalu i super stali.</CreateHydraulicJaw.description>
-  <CreateHydraulicJaw.jobString>Tworzy hydrauliczną szczękę.</CreateHydraulicJaw.jobString>
+  <Make_HydraulicJaw.label>Stwórz hydrauliczną szczękę</Make_HydraulicJaw.label>
+  <Make_HydraulicJaw.description>Stwórz hydrauliczną szczękę z metalu i super stali.</Make_HydraulicJaw.description>
+  <Make_HydraulicJaw.jobString>Tworzy hydrauliczną szczękę.</Make_HydraulicJaw.jobString>
 
-  <CreateGoldenEye.label>Złote oko</CreateGoldenEye.label>
-  <CreateGoldenEye.description>Sztabka złota + młotek = złote oko</CreateGoldenEye.description>
-  <CreateGoldenEye.jobString>Tworzy złote oko.</CreateGoldenEye.jobString>
+  <Make_GoldenEye.label>Złote oko</Make_GoldenEye.label>
+  <Make_GoldenEye.description>Sztabka złota + młotek = złote oko</Make_GoldenEye.description>
+  <Make_GoldenEye.jobString>Tworzy złote oko.</Make_GoldenEye.jobString>
 
-  <CreateLightReceptor.label>Stwórz receptor światła</CreateLightReceptor.label>
-  <CreateLightReceptor.description>Stwórz receptor światła z super stali i komponentów.</CreateLightReceptor.description>
-  <CreateLightReceptor.jobString>Tworzy receptor światła.</CreateLightReceptor.jobString>
+  <Make_LightReceptor.label>Stwórz receptor światła</Make_LightReceptor.label>
+  <Make_LightReceptor.description>Stwórz receptor światła z super stali i komponentów.</Make_LightReceptor.description>
+  <Make_LightReceptor.jobString>Tworzy receptor światła.</Make_LightReceptor.jobString>
 
-  <CreateArtificialPelvis.label>Stwórz sztuczną miednicę</CreateArtificialPelvis.label>
-  <CreateArtificialPelvis.description>Stwórz sztuczną miednicę z metalu i super stali.</CreateArtificialPelvis.description>
-  <CreateArtificialPelvis.jobString>Tworzy sztuczną miednicę.</CreateArtificialPelvis.jobString>
+  <Make_ArtificialPelvis.label>Stwórz sztuczną miednicę</Make_ArtificialPelvis.label>
+  <Make_ArtificialPelvis.description>Stwórz sztuczną miednicę z metalu i super stali.</Make_ArtificialPelvis.description>
+  <Make_ArtificialPelvis.jobString>Tworzy sztuczną miednicę.</Make_ArtificialPelvis.jobString>
   
-  <CreateArtificialClavicle.label>Stwórz sztuczny obojczyk</CreateArtificialClavicle.label>
-  <CreateArtificialClavicle.description>Stwórz sztuczny obojczyk ze stali.</CreateArtificialClavicle.description>
-  <CreateArtificialClavicle.jobString>Tworzy sztuczny obojczyk.</CreateArtificialClavicle.jobString>
+  <Make_ArtificialClavicle.label>Stwórz sztuczny obojczyk</Make_ArtificialClavicle.label>
+  <Make_ArtificialClavicle.description>Stwórz sztuczny obojczyk ze stali.</Make_ArtificialClavicle.description>
+  <Make_ArtificialClavicle.jobString>Tworzy sztuczny obojczyk.</Make_ArtificialClavicle.jobString>
 
 
 </LanguageData>
