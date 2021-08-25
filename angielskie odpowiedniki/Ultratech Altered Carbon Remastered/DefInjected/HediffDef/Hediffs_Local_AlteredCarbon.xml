@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_CorticalStack.label>cortical stack</UT_CorticalStack.label>
+  <UT_CorticalStack.labelNoun>a cortical stack</UT_CorticalStack.labelNoun>
+  <UT_CorticalStack.description>An installed cortical stack.</UT_CorticalStack.description>
+
+  <UT_Sleeve_Quality_Low.label>sleeve quality</UT_Sleeve_Quality_Low.label>
+  <UT_Sleeve_Quality_Low.description>This body was grown fast and poorly. It is frail and sickly.</UT_Sleeve_Quality_Low.description>
+  <UT_Sleeve_Quality_Low.stages.0.label>low</UT_Sleeve_Quality_Low.stages.0.label>
+
+  <UT_Sleeve_Quality_Standart.label>sleeve quality</UT_Sleeve_Quality_Standart.label>
+  <UT_Sleeve_Quality_Standart.description>A baseline body grown properly.</UT_Sleeve_Quality_Standart.description>
+  <UT_Sleeve_Quality_Standart.stages.0.label>standart</UT_Sleeve_Quality_Standart.stages.0.label>
+
+  <UT_Sleeve_Quality_High.label>sleeve quality</UT_Sleeve_Quality_High.label>
+  <UT_Sleeve_Quality_High.description>A body grown to perfection. It is strong and has no flaws.</UT_Sleeve_Quality_High.description>
+  <UT_Sleeve_Quality_High.stages.0.label>high</UT_Sleeve_Quality_High.stages.0.label>
+
+  <UT_EmptySleeve.label>empty sleeve</UT_EmptySleeve.label>
+  <UT_EmptySleeve.description>An empty sleeve.</UT_EmptySleeve.description>
+  <UT_EmptySleeve.stages.0.label>empty</UT_EmptySleeve.stages.0.label>
+
+  <UT_SleeveShock.label>sleeve shock</UT_SleeveShock.label>
+  <UT_SleeveShock.description>Shock from switching bodies.</UT_SleeveShock.description>
+  <UT_SleeveShock.stages.0.label>wearing off</UT_SleeveShock.stages.0.label>
+  <UT_SleeveShock.stages.1.label>irritated</UT_SleeveShock.stages.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_GrowOrganicHeart.label>organic heart</UT_GrowOrganicHeart.label>
+  <UT_GrowOrganicLung.label>organic lung</UT_GrowOrganicLung.label>
+  <UT_GrowOrganicKidney.label>organic kidney</UT_GrowOrganicKidney.label>
+  <UT_GrowOrganicLiver.label>organic liver</UT_GrowOrganicLiver.label>
+  <UT_GrowOrganicStomach.label>organic stomach</UT_GrowOrganicStomach.label>
+  <UT_GrowOrganicArm.label>organic arm</UT_GrowOrganicArm.label>
+  <UT_GrowOrganicLeg.label>organic leg</UT_GrowOrganicLeg.label>
+  <UT_GrowOrganicEye.label>organic eye</UT_GrowOrganicEye.label>
+  <UT_GrowOrganicEar.label>organic ear</UT_GrowOrganicEar.label>
+  <UT_GrowOrganicNose.label>organic nose</UT_GrowOrganicNose.label>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_SleeveIncubator.label>sleeve incubator</UT_SleeveIncubator.label>
+  <UT_SleeveIncubator.description>An ultra-tech vat tank connected to advanced life support systems and an AI core. Used by the rich 1% on ultra-tech worlds and less trustworthy individuals on rimworlds to grow custom sleeves, the sleeve incubator is capable of growing any human body one can imagine.</UT_SleeveIncubator.description>
+
+  <UT_OrganIncubator.label>organ incubator</UT_OrganIncubator.label>
+  <UT_OrganIncubator.description>A small ultra-tech vat tank used to grow organs of any kind in a short period of time. Requires neutroamine to work.</UT_OrganIncubator.description>
+
+  <UT_SleeveCasket.label>sleeve casket</UT_SleeveCasket.label>
+  <UT_SleeveCasket.description>An ultra-tech casket used for storing grown sleeves before their stack is installed. It uses crypto tech technology to suspend the needs of the sleeves body, while still allowing for the installation of implants or bionics.</UT_SleeveCasket.description>
+
+  <UT_CorticalStackStorage.label>quantum storage matrix</UT_CorticalStackStorage.label>
+  <UT_CorticalStackStorage.description>A ultra-tech, quantum computing matrix made to store cortical stacks. If in range of auto-linked stacks, the matrix can make emergency backups in case of catastrophic stack faliure. Can be linked to a rVR server.</UT_CorticalStackStorage.description>
+
+  <UT_DecryptionBench.label>decryption bench</UT_DecryptionBench.label>
+  <UT_DecryptionBench.description>A workbench equipped with advanced tools for decrypting ultra-tech gear and items.</UT_DecryptionBench.description>
+
+
+</LanguageData>

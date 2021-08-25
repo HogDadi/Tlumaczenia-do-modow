@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_Hacking.label>hacking</UT_Hacking.label>
+  <UT_Hacking.description>Hack into closed systems, remove restrictions or wipe cortical stacks.</UT_Hacking.description>
+
+  <UT_CorticalStackMatrix.label>quantum matrix</UT_CorticalStackMatrix.label>
+  <UT_CorticalStackMatrix.description>Store cortical stacks in an advanced storage system.</UT_CorticalStackMatrix.description>
+
+  <UT_OrganProduction.label>organ growing</UT_OrganProduction.label>
+  <UT_OrganProduction.description>Growing human organs in organ incubators.</UT_OrganProduction.description>
+
+  <UT_SleeveProduction.label>human sleeves</UT_SleeveProduction.label>
+  <UT_SleeveProduction.description>Grow perfect human bodies (sleeves) in sleeve incubators.</UT_SleeveProduction.description>
+
+
+</LanguageData>

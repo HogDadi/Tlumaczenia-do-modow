@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_InstallEmptyCorticalStack.label>install empty cortical stack</UT_InstallEmptyCorticalStack.label>
+  <UT_InstallEmptyCorticalStack.description>Install an empty cortical stack.</UT_InstallEmptyCorticalStack.description>
+  <UT_InstallEmptyCorticalStack.jobString>Installing cortical stack.</UT_InstallEmptyCorticalStack.jobString>
+
+  <UT_InstallCorticalStack.label>install filled cortical stack</UT_InstallCorticalStack.label>
+  <UT_InstallCorticalStack.description>Install a cortical stack.</UT_InstallCorticalStack.description>
+  <UT_InstallCorticalStack.jobString>Installing cortical stack.</UT_InstallCorticalStack.jobString>
+
+  <UT_RemoveCorticalStack.label>remove cortical stack</UT_RemoveCorticalStack.label>
+  <UT_RemoveCorticalStack.description>Remove cortical stack.</UT_RemoveCorticalStack.description>
+  <UT_RemoveCorticalStack.jobString>Removing cortical stack.</UT_RemoveCorticalStack.jobString>
+
+
+</LanguageData>

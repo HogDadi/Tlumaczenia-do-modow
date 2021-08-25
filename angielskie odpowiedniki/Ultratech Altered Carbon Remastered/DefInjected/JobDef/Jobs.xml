@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UT_ExtractStack.reportString>extracts cortical stack from TargetA</UT_ExtractStack.reportString>
+  <UT_DuplicateStack.reportString>duplicating cortical stack</UT_DuplicateStack.reportString>
+  <UT_ReleaseSleeve.reportString>releasing sleeve</UT_ReleaseSleeve.reportString>
+  <UT_InsertBrainTemplate.reportString>inserting brain template</UT_InsertBrainTemplate.reportString>
+  <UT_ExtractActiveBrainTemplate.reportString>extracting brain template from incubator</UT_ExtractActiveBrainTemplate.reportString>
+  <UT_StartIncubatingProcess.reportString>starting growth process on incubator</UT_StartIncubatingProcess.reportString>
+  <UT_CancelIncubatingProcess.reportString>canceling growth process on incubator</UT_CancelIncubatingProcess.reportString>
+
+
+</LanguageData>
