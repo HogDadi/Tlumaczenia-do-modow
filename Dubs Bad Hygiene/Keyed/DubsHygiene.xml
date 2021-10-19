@@ -10,13 +10,13 @@
   <RemoveAirCon>Zdemontować systemy klimatyzacji</RemoveAirCon>
 
   <!--Warnings-->
-  <DBH.requiresSaunaRoom>Room is too large to heat!\nMaximum of 50 cells per heater\nAdd more sauna heaters or shrink the room</DBH.requiresSaunaRoom>
-  <DBH.HeatedPool>Pool is heated</DBH.HeatedPool>
-  <DBH.CantUsePool>Cannot use pool now:</DBH.CantUsePool>
-  <DBH.PoolRaining>Raining</DBH.PoolRaining>
-  <DBH.PoolTooCold>Too cold {0}</DBH.PoolTooCold>
-  <DBHPrisonWater>Prison needs water source</DBHPrisonWater>
-  <DBHPrisonWaterEx>A prison cell has no access to drinking water, build at least 1 drinking water source like a water tub or basin so that prisoners have free access to drinking water</DBHPrisonWaterEx>
+  <DBH.requiresSaunaRoom>Pokój jest za duży, aby go ogrzać!\nMaksymalnie 50 pól na grzejnik\nDodaj więcej grzejników do sauny lub zmniejsz pomieszczenie</DBH.requiresSaunaRoom>
+  <DBH.HeatedPool>Basen jest gorący</DBH.HeatedPool>
+  <DBH.CantUsePool>Nie możesz użyć teraz basenu:</DBH.CantUsePool>
+  <DBH.PoolRaining>Pada</DBH.PoolRaining>
+  <DBH.PoolTooCold>Za zimno {0}</DBH.PoolTooCold>
+  <DBHPrisonWater>Więzienie potrzebuje źródła wody</DBHPrisonWater>
+  <DBHPrisonWaterEx>Cela więzienna nie ma dostępu do pitnej wody, zbuduj co najmniej 1 źródło pitnej wody, takie jak wanna z wodą lub umywalka, aby więźniowie mieli swobodny dostęp do pitnej wody</DBHPrisonWaterEx>
   <Alert_MissingTower>Brakująca wieża ciśnień</Alert_MissingTower>
   <Alert_MissingTowerDesc>Wieża ciśnień lub zbiornik na wodę jest wymagany do przechowywania wody wypompowywanej ze studni.</Alert_MissingTowerDesc>
   <Alert_MissingWell>Brak studni</Alert_MissingWell>
@@ -56,7 +56,7 @@
   <LetterBlockedDrain>Odpływ jest zatkany, środek czyszczący musi usunąć zator.</LetterBlockedDrain>
 
   <ContaminationAlert>Zanieczyszczona woda</ContaminationAlert>
-  <ContaminationAlertDesc>Źródło wody jest mocno zanieczyszczone. W zbiornikach jest ryzyko zanieczyszczenia. \nPozbać się źródła zanieczyszczeń lub zbuduj system oczyszczania ścieków, który również oczyszcza zanieczyszczone zbiorniki.</ContaminationAlertDesc>
+  <ContaminationAlertDesc>Źródło wody jest mocno zanieczyszczone. W zbiornikach jest ryzyko zanieczyszczenia. \nPozbądź się źródła zanieczyszczeń lub zbuduj system oczyszczania ścieków, który również oczyszcza zanieczyszczone zbiorniki.</ContaminationAlertDesc>
   <ContaminatiedTowerAlert>Zanieczyszczony zbiornik wodny</ContaminatiedTowerAlert>
   <ContaminatiedTowerAlertDesc>Zbiorniki są zanieczyszczone, co powoduje poważne zagrożenie dla zdrowia kolonistów! Przenieść zbiorniki, opróżnij je lub stworzyć system oczyszczania wody</ContaminatiedTowerAlertDesc>
 
@@ -104,8 +104,8 @@
   <OverrideThermostat>Ignorowanie termostatu</OverrideThermostat>
   <OverrideThermostatDesc>Utrzymywać kocioł w ciągłej pracy 	niezależnie od termostatu.</OverrideThermostatDesc>
   <MustPlaceFreezerWithFreeSpaces>Zawory wydechowe nie mogą zostać spalone!</MustPlaceFreezerWithFreeSpaces>
-  <SolarEfficiencyCold>Too cold</SolarEfficiencyCold>
-  <SolarEfficiencyRoof>Roofed</SolarEfficiencyRoof>
+  <SolarEfficiencyCold>Za zimno</SolarEfficiencyCold>
+  <SolarEfficiencyRoof>Zadaszony</SolarEfficiencyRoof>
   <SolarEfficiencyGood>Wydajność: {0}</SolarEfficiencyGood>
   <RadCurrentCap>Temperatura grzejnika: {0}</RadCurrentCap>
   <ThermostatSetupWarning>Termostat przesterowany przez zbiorniki ciepłej wody. Ustawić wszystkie podłączone zbiorniki ciepłej wody na tryb termostatu.</ThermostatSetupWarning>
@@ -186,23 +186,23 @@
   <RemoveFertilizerArea>Usuń obszar</RemoveFertilizerArea>
 
   <!--Mod Options-->
-  <dbh.DrinkPackSearchRange>Drink packing search range: {0}</dbh.DrinkPackSearchRange>
-  <dbh.DrinksToPack>Drink packing: search at {0}, pack {1}</dbh.DrinksToPack>
+  <dbh.DrinkPackSearchRange>Zakres wyszukiwania opakowań na napoje: {0}</dbh.DrinkPackSearchRange>
+  <dbh.DrinksToPack>Pakowanie napojów: szukaj w {0}, pakuj {1}</dbh.DrinksToPack>
   <dbh.restartconfirm>Restart</dbh.restartconfirm>
   <dbh.PriorityIndoorCleaning>Nadanie priorytetu sprzątaniu w pomieszczeniach</dbh.PriorityIndoorCleaning>
   <dbh.PriorityIndoorCleaningTip>Umożliwia sprzątanie w pomieszczeniach o wyższym priorytecie w pierwszej kolejności.</dbh.PriorityIndoorCleaningTip>
   <dbh.ModRemove>Pomoc w usuwaniu modów</dbh.ModRemove>
   <dbh.ModRemoveDesc>Kroki:\n1: Zapisz grę natychmiast po naciśnięciu przycisku confirm \n2: Wyjdź do menu głównego i wyłącz mod, a następnie uruchom ponownie grę:\n3: Wczytaj save'a, zignoruj wszystkie wyjątki i zapisz go jeszcze raz i nie powinno być żadnych wyjątków związanych z brakującymi defami lub klasami.!</dbh.ModRemoveDesc>
-  <PetsGetThirst>Pet thirst</PetsGetThirst>
-  <PetsGetThirstTip>Pets get the thirst need</PetsGetThirstTip>
-  <fixtureQualityRequiresRestart>A restart is required to add quality and art comps back in.\n\n restart now?</fixtureQualityRequiresRestart>
-  <fixtureQuality>Fixture quality and art</fixtureQuality>
-  <fixtureQualityTip>Enable quality and art comps for fixtures like toilets</fixtureQualityTip>
+  <PetsGetThirst>Pragnienie zwierzaka</PetsGetThirst>
+  <PetsGetThirstTip>Zwierzęta mają pragnienia</PetsGetThirstTip>
+  <fixtureQualityRequiresRestart>Aby dodać jakość i ustawienia graficzne, wymagane jest ponowne uruchomienie.\n\n Czy uruchomić ponownie teraz?</fixtureQualityRequiresRestart>
+  <fixtureQuality>Jakość textur i sztuki</fixtureQuality>
+  <fixtureQualityTip>Włącz jakość i kompozycje artystyczne dla urządzeń takich jak toalety</fixtureQualityTip>
   <QuitToMenuToChange>Przejdź do menu głównego, aby zmienić</QuitToMenuToChange>
   <RimefellerLink>Rimefeller jest podłączony</RimefellerLink>
   <RimefellerLinkTip>Zezwolenie na użycie wody do rozłupywarki i rafinerii w Rimefeller</RimefellerLinkTip>
-  <RimatomicsLink>Rimatomia jest połączona</RimatomicsLink>
-  <RimatomicsLinkTip>Zezwolenie na stosowanie wody w urządzeniach chłodniczych w rimatomii</RimatomicsLinkTip>
+  <RimatomicsLink>Rimatomic jest podłączony</RimatomicsLink>
+  <RimatomicsLinkTip>Zezwolenie na stosowanie wody w urządzeniach chłodniczych w Rimatomic</RimatomicsLinkTip>
   <OverrideNeedSettingsTip>Wyłącz ręcznie potrzeby w oparciu o typ ciała, rasę i stan zdrowia</OverrideNeedSettingsTip>
   <OverrideNeedsSettings>Potrzebuje filtrów</OverrideNeedsSettings>
   <Disablebladderneed>Wyłącz małą potrzebę</Disablebladderneed>
@@ -217,17 +217,17 @@
   <PrivacyChecksTip>Koloniści martwią się o prywatność podczas zabiegów wodnych i korzystania z toalet</PrivacyChecksTip>
   <CoolingEfficiency>Efektywność chłodzenia</CoolingEfficiency>
   <CoolingEfficiencyTip>Czy wysokie temperatury powinny wpływać na wydajność chłodzenia, jak ma to miejsce w przypadku konwencjonalnych klimatyzatorów</CoolingEfficiencyTip>
-  <RainIrrigation>Rain irrigation</RainIrrigation>
-  <RainIrrigationTip>Rain will give the same boost as sprinklers. Might reduce game performance.</RainIrrigationTip>
-  <DisableNeeds>Toggle needs</DisableNeeds>
-  <DisableNeedsTip>Disable needs entirely. Overrides all other settings.</DisableNeedsTip>
-  <AllowModdedDrinks>Allow modded drinks</AllowModdedDrinks>
-  <AllowModdedDrinksTip>Pawns will also be allowed to drink and pack any modded drinks. VGP and RimCuisine drinks can be used default, others will require modding an extension to the def.</AllowModdedDrinksTip>
-  <AllowDrinkPacking>Pack water bottles</AllowDrinkPacking>
-  <AllowDrinkPackingTip>Pawns will automatically pack water bottles into their inventory when they can.\n\nMay not work with some mods, for CE you will need to manually manage your loadout to include water bottles else they will keep dropping them.</AllowDrinkPackingTip>
-  <NeedsFilter>Needs filter</NeedsFilter>
-  <MainFeatures>Main features</MainFeatures>
-  <ExperimentalFeatures>Experimental features</ExperimentalFeatures>
+  <RainIrrigation>Nawadnianie deszczowe</RainIrrigation>
+  <RainIrrigationTip>Deszcz da taki sam impuls jak zraszacze. Może obniżyć wydajność gry.</RainIrrigationTip>
+  <DisableNeeds>Przełącz potrzeby</DisableNeeds>
+  <DisableNeedsTip>Całkowicie wyłącz potrzeby. Zastępuje wszystkie inne ustawienia.</DisableNeedsTip>
+  <AllowModdedDrinks>Zezwalaj na modyfikowane napoje</AllowModdedDrinks>
+  <AllowModdedDrinksTip>Pionki będą również mogły pić i pakować dowolne zmodyfikowane napoje. Napoje VGP i RimCuisine mogą być używane domyślnie, inne będą wymagały modyfikacji rozszerzenia do def.</AllowModdedDrinksTip>
+  <AllowDrinkPacking>Spakuj butelki na wodę</AllowDrinkPacking>
+  <AllowDrinkPackingTip>Pionki automatycznie zapakują butelki z wodą do swojego ekwipunku, kiedy tylko będą mogli.\n\nMoże nie działać z niektórymi modami, w przypadku CE będziesz musiał ręcznie zarządzać swoim wyposażeniem, aby uwzględnić butelki z wodą, w przeciwnym razie będą je upuszczać.</AllowDrinkPackingTip>
+  <NeedsFilter>Potrzeba filtru</NeedsFilter>
+  <MainFeatures>Główne cechy</MainFeatures>
+  <ExperimentalFeatures>Funkcje eksperymentalne</ExperimentalFeatures>
   <PetsGetBladder>Mała potrzeba zwierząt domowych</PetsGetBladder>
   <PetsGetBladderTip>Czy zwierzęta domowe zaspokoją małą potrzebę</PetsGetBladderTip>
   <WildAnimalsGetBladder>Mała potrzeba dzikich zwierząt</WildAnimalsGetBladder>
@@ -238,24 +238,21 @@
   <FertilizerVisibleTip>Czy klatka nawozowa powinna być widoczna</FertilizerVisibleTip>
   <AllowNonHuman>Koloniści inni niż ludzcy</AllowNonHuman>
   <AllowNonHumanTip>Uwzględnia potrzeby nie-ludzkich kolonistów. Możesz wyłączyć poszczególne stworzenia w zakładce "Filtry potrzeb"</AllowNonHumanTip>
-  <dbh.ExtraFeatures>Extra features</dbh.ExtraFeatures>
-  <DBHLiteMode>Lite Mode (Simplifies the mod)</DBHLiteMode>
-  <DBHLiteModeTip>Switch the mod into a simplified mode which removes pipes, water and sewage management, and any buildings and jobs not directly related to hygiene and thirst.\n\nThis will prevent many defs from loading and requires a restart.\n\nIf you are trying to load a save with existing hygiene buildings you may need to save and reload it after activating</DBHLiteModeTip>
+  <dbh.ExtraFeatures>Dodatkowe cechy</dbh.ExtraFeatures>
+  <DBHLiteMode>Tryb Lite (upraszcza mod)</DBHLiteMode>
+  <DBHLiteModeTip>Przełącz mod w tryb uproszczony, który usuwa rury, zarządzanie wodą i ściekami oraz wszelkie budynki i prace niezwiązane bezpośrednio z higieną i pragnieniem.\n\nZapobiegnie to załadowaniu wielu def i wymaga ponownego uruchomienia.\n\nJeśli tak próbując wczytać zapis z istniejącymi budynkami higienicznymi, może być konieczne zapisanie go i ponowne wczytanie po aktywacji</DBHLiteModeTip>
   <LiteRequiresRestart>You must reload the game after changing the Lite mode setting\n\nIf you are trying to load a save with existing hygiene buildings you may need to save and reload it after activating to clear errors</LiteRequiresRestart>
-  <PassiveWaterCoolersLink>Passive coolers use water</PassiveWaterCoolersLink>
-  <PassiveWaterCoolersLinkTip>Passive coolers have their wood fueling removed and are instead filled with water, similar to water tubs.</PassiveWaterCoolersLinkTip>
-  <sos2int>SoS2 integration</sos2int>
-  <sos2intTip>Adds water and sewage processing to life support, and adds pipes to ship structures.</sos2intTip>
-  <StockpileWater>Stockpile water x{0}</StockpileWater>
+  <PassiveWaterCoolersLink>Ewaporatory wykorzystują wodę</PassiveWaterCoolersLink>
+  <PassiveWaterCoolersLinkTip>Ewaporatory mają usunięte paliwo drzewne i zamiast tego są napełniane wodą, podobnie jak wanny wodne.</PassiveWaterCoolersLinkTip>
+  <sos2int>Integracja SoS2</sos2int>
+  <sos2intTip>Dodaje przetwarzanie wody i ścieków do podtrzymywania życia i dodaje rury do konstrukcji statków.</sos2intTip>
+  <StockpileWater>Woda z zapasów x{0}</StockpileWater>
   <HygieneWiki>Bad Hygiene Wiki</HygieneWiki>
-  <HygieneWikiDesc>Go to the Bad Hygiene Wiki</HygieneWikiDesc>
-  <SurvivalMode>Survival mode</SurvivalMode>
-  <SurvivalModeTip>Limits the default shallow water grid generation to very small patches. Terrain features no longer generate water, and the radius around surface water is reduced.\n\nA new game is not required; works with existing saves.</SurvivalModeTip>
-  <HydroponicsLink>Hydroponics</HydroponicsLink>
-  <HydroponicsLinkTip>Powered growing buildings like hydroponics have water tanks that require filling from pipes. Plants die from lack of water instead of power, but water tanks only fill when the building is powered.</HydroponicsLinkTip>
-  <ThirstRequiresRestart>A restart is required to add and remove thirst-related items.\n\nRestart now?</ThirstRequiresRestart>
-
-  <!--<SolarEfficiencyBad>Wydajność: {0} za zimno</SolarEfficiencyBad>-->
-  <!--<Experimentalfeatures>Funkcje eksperymentalne</Experimentalfeatures>-->
+  <HygieneWikiDesc>Przejdź do Bad Hygiene Wiki</HygieneWikiDesc>
+  <SurvivalMode>Tryb przetrwania</SurvivalMode>
+  <SurvivalModeTip>Ogranicza domyślną generację sieci płytkiej wody do bardzo małych obszarów. Elementy terenu nie generują już wody, a promień wokół wód powierzchniowych jest zmniejszony.\n\nNowa gra nie jest wymagana; działa z istniejącymi zapisami.</SurvivalModeTip>
+  <HydroponicsLink>Hydroponika</HydroponicsLink>
+  <HydroponicsLinkTip>Budynki zasilane energią, takie jak hydroponika, mają zbiorniki na wodę, które wymagają napełniania z rur. Rośliny giną z powodu braku wody zamiast energii, ale zbiorniki na wodę napełniają się tylko wtedy, gdy budynek jest zasilany.</HydroponicsLinkTip>
+  <ThirstRequiresRestart>Aby dodać i usunąć elementy związane z pragnieniem, wymagane jest ponowne uruchomienie.\n\nZrestartować teraz?</ThirstRequiresRestart>
 
 </LanguageData>

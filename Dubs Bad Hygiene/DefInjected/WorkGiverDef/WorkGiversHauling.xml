@@ -1,49 +1,82 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DoBillsBurnPit.label>do burn pit bills</DoBillsBurnPit.label>
-  <DoBillsBurnPit.verb>burn</DoBillsBurnPit.verb>
-  <DoBillsBurnPit.gerund>burning at</DoBillsBurnPit.gerund>
+<!-- EN: do burn pit bills -->
+<DoBillsBurnPit.label>pal dół fermentacyjny</DoBillsBurnPit.label>
+<!-- EN: burn -->
+<DoBillsBurnPit.verb>spal</DoBillsBurnPit.verb>
+<!-- EN: burning at -->
+<DoBillsBurnPit.gerund>pali</DoBillsBurnPit.gerund>
 
-  <RemoveSewage.label>shovel sewage into barrels</RemoveSewage.label>
-  <RemoveSewage.verb>remove sewage</RemoveSewage.verb>
-  <RemoveSewage.gerund>removing sewage</RemoveSewage.gerund>
+<!-- EN: shovel sewage into barrels -->
+<RemoveSewage.label>zgarnij ścieki do beczek</RemoveSewage.label>
+<!-- EN: remove sewage -->
+<RemoveSewage.verb>usuń ścieki</RemoveSewage.verb>
+<!-- EN: removing sewage -->
+<RemoveSewage.gerund>usuwa ścieki</RemoveSewage.gerund>
 
-  <UnloadWashing.label>unload washing</UnloadWashing.label>
-  <UnloadWashing.verb>unload washing</UnloadWashing.verb>
-  <UnloadWashing.gerund>unloading washing</UnloadWashing.gerund>
+<!-- EN: unload washing -->
+<UnloadWashing.label>wyjmuj pranie</UnloadWashing.label>
+<!-- EN: unload washing -->
+<UnloadWashing.verb>wyjmij pranie</UnloadWashing.verb>
+<!-- EN: unloading washing -->
+<UnloadWashing.gerund>wyjmuje pranie</UnloadWashing.gerund>
 
-  <LoadWashing.label>load washing</LoadWashing.label>
-  <LoadWashing.verb>load washing</LoadWashing.verb>
-  <LoadWashing.gerund>loading washing</LoadWashing.gerund>
+<!-- EN: load washing -->
+<LoadWashing.label>wkładaj pranie</LoadWashing.label>
+<!-- EN: load washing -->
+<LoadWashing.verb>włóż pranie</LoadWashing.verb>
+<!-- EN: loading washing -->
+<LoadWashing.gerund>wkłada pranie</LoadWashing.gerund>
 
-  <UnloadComposter.label>take compost out of composter</UnloadComposter.label>
-  <UnloadComposter.verb>take compost</UnloadComposter.verb>
-  <UnloadComposter.gerund>taking compost from</UnloadComposter.gerund>
+<!-- EN: take compost out of composter -->
+<UnloadComposter.label>wyjmuj kompost z kompostownika</UnloadComposter.label>
+<!-- EN: take compost -->
+<UnloadComposter.verb>weź kompost</UnloadComposter.verb>
+<!-- EN: taking compost from -->
+<UnloadComposter.gerund>bierze kompost z</UnloadComposter.gerund>
 
-  <FillComposter.label>fill composter</FillComposter.label>
-  <FillComposter.verb>fill</FillComposter.verb>
-  <FillComposter.gerund>filling</FillComposter.gerund>
+<!-- EN: fill composter -->
+<FillComposter.label>napełniaj kompostownik</FillComposter.label>
+<!-- EN: fill -->
+<FillComposter.verb>napełnij</FillComposter.verb>
+<!-- EN: filling -->
+<FillComposter.gerund>napełnia</FillComposter.gerund>
 
-  <emptySepticTank.label>empty septic tank</emptySepticTank.label>
-  <emptySepticTank.verb>empty</emptySepticTank.verb>
-  <emptySepticTank.gerund>emptying</emptySepticTank.gerund>
+<!-- EN: empty septic tank -->
+<emptySepticTank.label>opróżniaj szambo</emptySepticTank.label>
+<!-- EN: empty -->
+<emptySepticTank.verb>opróżnij</emptySepticTank.verb>
+<!-- EN: emptying -->
+<emptySepticTank.gerund>opróżnia</emptySepticTank.gerund>
 
-  <WardenEmptySepticTank.label>empty septic tank</WardenEmptySepticTank.label>
-  <WardenEmptySepticTank.verb>empty</WardenEmptySepticTank.verb>
-  <WardenEmptySepticTank.gerund>emptying</WardenEmptySepticTank.gerund>
+<!-- EN: empty septic tank -->
+<WardenEmptySepticTank.label>opróżniaj szambo</WardenEmptySepticTank.label>
+<!-- EN: empty -->
+<WardenEmptySepticTank.verb>opróżnij</WardenEmptySepticTank.verb>
+<!-- EN: emptying -->
+<WardenEmptySepticTank.gerund>opróżnia</WardenEmptySepticTank.gerund>
 
-  <RefillWater.label>refill water</RefillWater.label>
-  <RefillWater.verb>refill</RefillWater.verb>
-  <RefillWater.gerund>refilling</RefillWater.gerund>
+<!-- EN: refill water -->
+<RefillWater.label>uzupełniaj wodę</RefillWater.label>
+<!-- EN: refill -->
+<RefillWater.verb>uzupełnij</RefillWater.verb>
+<!-- EN: refilling -->
+<RefillWater.gerund>uzupełnia</RefillWater.gerund>
 
-  <WardenRefillWater.label>refill water</WardenRefillWater.label>
-  <WardenRefillWater.verb>refill</WardenRefillWater.verb>
-  <WardenRefillWater.gerund>refilling</WardenRefillWater.gerund>
+<!-- EN: refill water -->
+<WardenRefillWater.label>uzupełniaj wodę</WardenRefillWater.label>
+<!-- EN: refill -->
+<WardenRefillWater.verb>uzupełnij</WardenRefillWater.verb>
+<!-- EN: refilling -->
+<WardenRefillWater.gerund>uzupełnia</WardenRefillWater.gerund>
 
-  <CleanFilthIndoors.label>clean filth indoors</CleanFilthIndoors.label>
-  <CleanFilthIndoors.verb>clean</CleanFilthIndoors.verb>
-  <CleanFilthIndoors.gerund>cleaning</CleanFilthIndoors.gerund>
+<!-- EN: clean filth indoors -->
+<CleanFilthIndoors.label>czyść bród w pomieszczeniu</CleanFilthIndoors.label>
+<!-- EN: clean -->
+<CleanFilthIndoors.verb>czyść</CleanFilthIndoors.verb>
+<!-- EN: cleaning -->
+<CleanFilthIndoors.gerund>czyści</CleanFilthIndoors.gerund>
 
 
 </LanguageData>

@@ -2,38 +2,38 @@
 <LanguageData>
 
   <PlaceFertilizer.label>nawoź</PlaceFertilizer.label>
-  <PlaceFertilizer.verb>nawożenie</PlaceFertilizer.verb>
-  <PlaceFertilizer.gerund>nawoź</PlaceFertilizer.gerund>
+  <PlaceFertilizer.verb>nawoź</PlaceFertilizer.verb>
+  <PlaceFertilizer.gerund>nawozi</PlaceFertilizer.gerund>
 
   <TipSewage.label>przysypuj nieczystości</TipSewage.label>
-  <TipSewage.verb>przysypuje nieczystości</TipSewage.verb>
-  <TipSewage.gerund>przysyp nieczystości</TipSewage.gerund>
+  <TipSewage.verb>przysyp nieczystości</TipSewage.verb>
+  <TipSewage.gerund>przysypuje nieczystości</TipSewage.gerund>
 
   <DrainWaterTank.label>spuszczaj wodę</DrainWaterTank.label>
-  <DrainWaterTank.verb>spuszcza wodę</DrainWaterTank.verb>
-  <DrainWaterTank.gerund>spuść wodę</DrainWaterTank.gerund>
+  <DrainWaterTank.verb>spuść wodę</DrainWaterTank.verb>
+  <DrainWaterTank.gerund>spuszcza wodę</DrainWaterTank.gerund>
 
   <DBHAdministerFluids.label>podawaj wodę</DBHAdministerFluids.label>
-  <DBHAdministerFluids.verb>podaje wodę</DBHAdministerFluids.verb>
-  <DBHAdministerFluids.gerund>podaj wodę</DBHAdministerFluids.gerund>
+  <DBHAdministerFluids.verb>podaj wodę</DBHAdministerFluids.verb>
+  <DBHAdministerFluids.gerund>podaje wodę</DBHAdministerFluids.gerund>
 
   <DBHAdministerFluidsWarden.label>podawaj wodę</DBHAdministerFluidsWarden.label>
-  <DBHAdministerFluidsWarden.verb>podaje wodę</DBHAdministerFluidsWarden.verb>
-  <DBHAdministerFluidsWarden.gerund>podaj wodę</DBHAdministerFluidsWarden.gerund>
+  <DBHAdministerFluidsWarden.verb>podaj wodę</DBHAdministerFluidsWarden.verb>
+  <DBHAdministerFluidsWarden.gerund>podaje wodę</DBHAdministerFluidsWarden.gerund>
 
   <ClearBlockage.label>usuwaj blokadę</ClearBlockage.label>
-  <ClearBlockage.verb>usuwa blokadę</ClearBlockage.verb>
-  <ClearBlockage.gerund>usuń blokadę</ClearBlockage.gerund>
+  <ClearBlockage.verb>usuń blokadę</ClearBlockage.verb>
+  <ClearBlockage.gerund>usuwa blokadę</ClearBlockage.gerund>
 
   <washPatient.label>umyj pacjenta</washPatient.label>
-  <washPatient.verb>myje</washPatient.verb>
-  <washPatient.gerund>myj</washPatient.gerund>
+  <washPatient.verb>myj</washPatient.verb>
+  <washPatient.gerund>myje</washPatient.gerund>
 
   <DocCleanBedpan.label>czyść basen dla chorego</DocCleanBedpan.label>
-  <DocCleanBedpan.verb>czyści</DocCleanBedpan.verb>
-  <DocCleanBedpan.gerund>czyść</DocCleanBedpan.gerund>
+  <DocCleanBedpan.verb>czyść</DocCleanBedpan.verb>
+  <DocCleanBedpan.gerund>czyści</DocCleanBedpan.gerund>
 
-  <cleanBedpan.label>clean bed pan</cleanBedpan.label>
+  <cleanBedpan.label>czyść basen dla chorego</cleanBedpan.label>
   <cleanBedpan.verb>czyści</cleanBedpan.verb>
   <cleanBedpan.gerund>czyści</cleanBedpan.gerund>
 
