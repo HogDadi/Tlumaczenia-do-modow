@@ -18,7 +18,7 @@
 
   <SimpleProstheticArm.label>Proteza dłoni</SimpleProstheticArm.label>
   <SimpleProstheticArm.description>Zainstalowana proteza dłoni.</SimpleProstheticArm.description>
-  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>pięść</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
 
   <SimpleProstheticLeg.label>Proteza nogi</SimpleProstheticLeg.label>
   <SimpleProstheticLeg.description>Zainstalowana proteza nogi.</SimpleProstheticLeg.description>

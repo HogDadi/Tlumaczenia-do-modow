@@ -15,7 +15,6 @@
   <SyntheticLung.description>Zainstalowane syntetyczne płuco.</SyntheticLung.description>
   <SyntheticLung.labelNoun>Syntetyczne płuco</SyntheticLung.labelNoun>
 
-	<SyntheticStomach.label>Syntetyczny żołądek</SyntheticStomach.label>
   <BionicStomach.description>Zainstalowany syngenetyczny żołądek.</BionicStomach.description>
   <BionicStomach.labelNoun>Syntetyczny żołądek</BionicStomach.labelNoun>
 
@@ -27,7 +26,6 @@
   <SyntheticKidney.description>Zainstalowana syntetyczna nerka.</SyntheticKidney.description>
   <SyntheticKidney.labelNoun>Syntetyczna nerka</SyntheticKidney.labelNoun>
 
-  <SyntheticHeart.label>Syntetyczne serce</SyntheticHeart.label>
   <BionicHeart.description>Zainstalowane syntetyczne serce.</BionicHeart.description>
   <BionicHeart.labelNoun>Syntetyczne serce</BionicHeart.labelNoun>
 

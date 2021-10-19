@@ -1,48 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Make_AdvancedBionicEye.label>Ulepsz bioniczne oko</Make_AdvancedBionicEye.label>
-  <Make_AdvancedBionicEye.description>Ulepsz bioniczne oko.</Make_AdvancedBionicEye.description>
-  <Make_AdvancedBionicEye.jobString>Ulepsza bioniczne oko</Make_AdvancedBionicEye.jobString>
+  <CreateAdvancedBionicEye.label>Ulepsz bioniczne oko</CreateAdvancedBionicEye.label>
+  <CreateAdvancedBionicEye.description>Ulepsz bioniczne oko.</CreateAdvancedBionicEye.description>
+  <CreateAdvancedBionicEye.jobString>Ulepsza bioniczne oko</CreateAdvancedBionicEye.jobString>
   
-  <Make_AdvancedPowerClaw.label>Ulepsz pazur mocy</Make_AdvancedPowerClaw.label>
-  <Make_AdvancedPowerClaw.description>Ulepsz pazur mocy za pomocą zaawansowanych komponentów.</Make_AdvancedPowerClaw.description>
-  <Make_AdvancedPowerClaw.jobString>Ulepsza pazur mocy.</Make_AdvancedPowerClaw.jobString>
+  <CreateAdvancedPowerClaw.label>Ulepsz pazur mocy</CreateAdvancedPowerClaw.label>
+  <CreateAdvancedPowerClaw.description>Ulepsz pazur mocy za pomocą zaawansowanych komponentów.</CreateAdvancedPowerClaw.description>
+  <CreateAdvancedPowerClaw.jobString>Ulepsza pazur mocy.</CreateAdvancedPowerClaw.jobString>
   
-  <Make_AdvancedPowerArm.label>Ulepsz ramię mocy</Make_AdvancedPowerArm.label>
-  <Make_AdvancedPowerArm.description>Ulepsz ramię mocy.</Make_AdvancedPowerArm.description>
-  <Make_AdvancedPowerArm.jobString>Ulepsza ramię mocy</Make_AdvancedPowerArm.jobString>
+  <CreateAdvancedPowerArm.label>Ulepsz ramię mocy</CreateAdvancedPowerArm.label>
+  <CreateAdvancedPowerArm.description>Ulepsz ramię mocy.</CreateAdvancedPowerArm.description>
+  <CreateAdvancedPowerArm.jobString>Ulepsza ramię mocy</CreateAdvancedPowerArm.jobString>
   
-  <Make_AdvancedBionicArm.label>Ulepsz bioniczne ramię</Make_AdvancedBionicArm.label>
-  <Make_AdvancedBionicArm.description>Ulepsz bioniczne ramię.</Make_AdvancedBionicArm.description>
-  <Make_AdvancedBionicArm.jobString>Ulepsza bioniczne ramię</Make_AdvancedBionicArm.jobString>
+  <CreateAdvancedBionicArm.label>Ulepsz bioniczne ramię</CreateAdvancedBionicArm.label>
+  <CreateAdvancedBionicArm.description>Ulepsz bioniczne ramię.</CreateAdvancedBionicArm.description>
+  <CreateAdvancedBionicArm.jobString>Ulepsza bioniczne ramię</CreateAdvancedBionicArm.jobString>
   
-  <Make_AdvancedBionicHand.label>Ulepsz bioniczną dłoń</Make_AdvancedBionicHand.label>
-  <Make_AdvancedBionicHand.description>Ulepsz bioniczną dłoń.</Make_AdvancedBionicHand.description>
-  <Make_AdvancedBionicHand.jobString>Ulepsza bioniczną dłoń</Make_AdvancedBionicHand.jobString>
+  <CreateAdvancedBionicHand.label>Ulepsz bioniczną dłoń</CreateAdvancedBionicHand.label>
+  <CreateAdvancedBionicHand.description>Ulepsz bioniczną dłoń.</CreateAdvancedBionicHand.description>
+  <CreateAdvancedBionicHand.jobString>Ulepsza bioniczną dłoń</CreateAdvancedBionicHand.jobString>
   
-  <Make_AdvancedBionicFoot.label>Ulepsz bioniczną stopę</Make_AdvancedBionicFoot.label>
-  <Make_AdvancedBionicFoot.description>Ulepsz bioniczną stopę.</Make_AdvancedBionicFoot.description>
-  <Make_AdvancedBionicFoot.jobString>Ulepsza bioniczną stopę</Make_AdvancedBionicFoot.jobString>
+  <CreateAdvancedBionicFoot.label>Ulepsz bioniczną stopę</CreateAdvancedBionicFoot.label>
+  <CreateAdvancedBionicFoot.description>Ulepsz bioniczną stopę.</CreateAdvancedBionicFoot.description>
+  <CreateAdvancedBionicFoot.jobString>Ulepsza bioniczną stopę</CreateAdvancedBionicFoot.jobString>
   
-  <Make_AdvancedBionicLeg.label>Ulepsz bioniczną nogę</Make_AdvancedBionicLeg.label>
-  <Make_AdvancedBionicLeg.description>Ulepsz bioniczną nogę.</Make_AdvancedBionicLeg.description>
-  <Make_AdvancedBionicLeg.jobString>Ulepsza bioniczną nogę</Make_AdvancedBionicLeg.jobString>
+  <CreateAdvancedBionicLeg.label>Ulepsz bioniczną nogę</CreateAdvancedBionicLeg.label>
+  <CreateAdvancedBionicLeg.description>Ulepsz bioniczną nogę.</CreateAdvancedBionicLeg.description>
+  <CreateAdvancedBionicLeg.jobString>Ulepsza bioniczną nogę</CreateAdvancedBionicLeg.jobString>
   
-  <Make_AdvancedBionicJaw.label>Ulepsz bioniczną szczękę</Make_AdvancedBionicJaw.label>
-  <Make_AdvancedBionicJaw.description>Ulepsz bioniczną szczękę.</Make_AdvancedBionicJaw.description>
-  <Make_AdvancedBionicJaw.jobString>Ulepsza bioniczną szczękę</Make_AdvancedBionicJaw.jobString> 
+  <CreateAdvancedBionicJaw.label>Ulepsz bioniczną szczękę</CreateAdvancedBionicJaw.label>
+  <CreateAdvancedBionicJaw.description>Ulepsz bioniczną szczękę.</CreateAdvancedBionicJaw.description>
+  <CreateAdvancedBionicJaw.jobString>Ulepsza bioniczną szczękę</CreateAdvancedBionicJaw.jobString> 
   
-  <Make_AdvancedBionicEar.label>Ulepsz bioniczne ucho</Make_AdvancedBionicEar.label>
-  <Make_AdvancedBionicEar.description>Ulepsz bioniczne ucho.</Make_AdvancedBionicEar.description>
-  <Make_AdvancedBionicEar.jobString>Ulepsza bioniczne ucho</Make_AdvancedBionicEar.jobString>
+  <CreateAdvancedBionicEar.label>Ulepsz bioniczne ucho</CreateAdvancedBionicEar.label>
+  <CreateAdvancedBionicEar.description>Ulepsz bioniczne ucho.</CreateAdvancedBionicEar.description>
+  <CreateAdvancedBionicEar.jobString>Ulepsza bioniczne ucho</CreateAdvancedBionicEar.jobString>
   
-  <Make_AdvancedBionicSpine.label>Ulepsz bioniczny kręgosłup</Make_AdvancedBionicSpine.label>
-  <Make_AdvancedBionicSpine.description>Ulepsz bioniczny kręgosłup.</Make_AdvancedBionicSpine.description>
-  <Make_AdvancedBionicSpine.jobString>Ulepsza bioniczny kręgosłup</Make_AdvancedBionicSpine.jobString>
+  <CreateAdvancedBionicSpine.label>Ulepsz bioniczny kręgosłup</CreateAdvancedBionicSpine.label>
+  <CreateAdvancedBionicSpine.description>Ulepsz bioniczny kręgosłup.</CreateAdvancedBionicSpine.description>
+  <CreateAdvancedBionicSpine.jobString>Ulepsza bioniczny kręgosłup</CreateAdvancedBionicSpine.jobString>
   
-  <Make_ExoskeletonSuit.label>Stwórz egzoszkielet</Make_ExoskeletonSuit.label>
-  <Make_ExoskeletonSuit.description>Stwórz egzoszkielet z metalu i super stali. Wymaga drukarki 3D i odpowiednio dużej ilości czasu.</Make_ExoskeletonSuit.description>
-  <Make_ExoskeletonSuit.jobString>Tworzy egzoszkielet</Make_ExoskeletonSuit.jobString>
+  <CreateExoskeletonSuit.label>Stwórz egzoszkielet</CreateExoskeletonSuit.label>
+  <CreateExoskeletonSuit.description>Stwórz egzoszkielet z metalu i super stali. Wymaga drukarki 3D i odpowiednio dużej ilości czasu.</CreateExoskeletonSuit.description>
+  <CreateExoskeletonSuit.jobString>Tworzy egzoszkielet</CreateExoskeletonSuit.jobString>
 
 </LanguageData>

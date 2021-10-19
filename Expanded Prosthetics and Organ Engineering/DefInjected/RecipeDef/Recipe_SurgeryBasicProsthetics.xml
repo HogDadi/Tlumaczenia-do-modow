@@ -9,10 +9,6 @@
   <InstallEyePatch.description>Załóż przepaskę na oko.</InstallEyePatch.description>
   <InstallEyePatch.jobString>Zakłada przepaskę na oko.</InstallEyePatch.jobString>
   
-  <InstallHookHand.label>Przyszyj rękę hak</InstallHookHand.label>
-  <InstallHookHand.description>Przyszyj rękę hak.</InstallHookHand.description>
-  <InstallHookHand.jobString>Przyszywa rękę hak.</InstallHookHand.jobString>
-  
   <InstallDenture.label>Zainstaluj drewnianą szczękę</InstallDenture.label>
   <InstallDenture.description>Zainstaluj drewnianą szczękę.</InstallDenture.description>
   <InstallDenture.jobString>Instaluje drewnianą szczękę.</InstallDenture.jobString>

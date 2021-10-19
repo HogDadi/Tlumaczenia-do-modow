@@ -30,8 +30,8 @@
   <SimpleProstheticArm.label>Proteza ramienia</SimpleProstheticArm.label>
   <SimpleProstheticArm.description>Prosta, ale trwała!</SimpleProstheticArm.description>
 
-   <ArtificialPelvis.label>Sztuczna miednica</ArtificialPelvis.label>
-   <ArtificialPelvis.description>Zastępuje brakującą miednicę. Bardzo użyteczna, pod warunkiem, że pełzanie nie jest twoją ulubioną formą przemieszczania się.</ArtificialPelvis.description>
+  <ArtificialPelvis.label>Sztuczna miednica</ArtificialPelvis.label>
+  <ArtificialPelvis.description>Zastępuje brakującą miednicę. Bardzo użyteczna, pod warunkiem, że pełzanie nie jest twoją ulubioną formą przemieszczania się.</ArtificialPelvis.description>
 
   <ArtificialClavicle.label>Sztuczny obojczyk</ArtificialClavicle.label>
   <ArtificialClavicle.description>Zastępuje brakujący obojczyk. Jeśli jakoś zdołasz złamać swój.</ArtificialClavicle.description>
