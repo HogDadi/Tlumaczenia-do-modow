@@ -366,5 +366,35 @@
 <!-- EN: 1 day -->
 <FertilizerLifespan.options.10.label>1 dzień</FertilizerLifespan.options.10.label>
 
+<!-- EN: How pipes should be rendered -->
+<PipeVisibility.tip>Jak powinny być wyświetlane rury</PipeVisibility.tip>
+<!-- EN: How fast hygiene need decreases -->
+<HygieneRateD.tip>Jak szybko maleje potrzeba higieny</HygieneRateD.tip>
+<!-- EN: How fast bladder need decreases -->
+<BladderRateD.tip>Jak szybko zwiększa się się zapotrzebowanie na opróżnienie pęcherza moczowego?</BladderRateD.tip>
+<!-- EN: How much sewage is produced from each flush -->
+<FlushSize.tip>Ile ścieków powstaje z każdego spłukania</FlushSize.tip>
+<!-- EN: How fast thirst need decreases -->
+<ThirstRateD.tip>Jak szybko zmniejsza się pragnienie</ThirstRateD.tip>
+<!-- EN: Chance for a colonist to get contaminated from untreated water -->
+<ContaminationChance.tip>Szansa na skażenie kolonisty przez nieoczyszczoną wodę</ContaminationChance.tip>
+<!-- EN: Capacity of water pumps -->
+<WaterPumpCapacity.tip>Wydajność pomp wodnych</WaterPumpCapacity.tip>
+<!-- EN: How much hot water is used while washing -->
+<WaterHeatingRate.tip>Ile gorącej wody zużywa się podczas prania</WaterHeatingRate.tip>
+<!-- EN: How much sewage can fit into a cell on the surface -->
+<SewageGridCapacity.tip>Ile ścieków może zmieścić się na jednym polu</SewageGridCapacity.tip>
+<!-- EN: How fast sewage on the surface cleans up over time -->
+<SewageCleanupRateB.tip>Jak szybko ścieki na powierzchni same się oczyszczą</SewageCleanupRateB.tip>
+<!-- EN: How fast sewage is treated in septic tanks and sewage treatment -->
+<SewageProcRate.tip>Jak szybko oczyszczane są ścieki w szambach i oczyszczalniach?</SewageProcRate.tip>
+<!-- EN: How much effect of irrigation has on fertility -->
+<IrrigationGridStrength.tip>Jak duży wpływ na żyzność ma nawadnianie</IrrigationGridStrength.tip>
+<!-- EN: How much effect fertilizer has on fertility -->
+<FertilizerGridStrength.tip>Jak duży wpływ na żyzność ma nawóz</FertilizerGridStrength.tip>
+<!-- EN: Base value of terrain fertility -->
+<TerrainFertilityFactor.tip>Jak duży wpływ na żyzność ma nawóz</TerrainFertilityFactor.tip>
+<!-- EN: How long terrain remains fertilized after applying fertilizer -->
+<FertilizerLifespan.tip>Jak długo teren pozostaje nawożony po zastosowaniu nawozu</FertilizerLifespan.tip>
 
 </LanguageData>

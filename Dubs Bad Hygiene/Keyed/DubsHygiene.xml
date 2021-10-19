@@ -56,13 +56,13 @@
   <LetterBlockedDrain>Odpływ jest zatkany, środek czyszczący musi usunąć zator.</LetterBlockedDrain>
 
   <ContaminationAlert>Zanieczyszczona woda</ContaminationAlert>
-  <ContaminationAlertDesc>Źródło wody jest mocno zanieczyszczone. W zbiornikach jest ryzyko zanieczyszczenia. \nPozbądź się źródła zanieczyszczeń lub zbuduj system oczyszczania ścieków, który również oczyszcza zanieczyszczone zbiorniki.</ContaminationAlertDesc>
+  <ContaminationAlertDesc>Studnia została zanieczyszczona.\n\nŹródło skażenia:\n{0}\n\nPrzenieś studnię, usuń źródła skażenia lub, jeśli używasz studni z rurami, dodaj system uzdatniania wody, który również oczyści skażone wieże ciśnień.</ContaminationAlertDesc>
   <ContaminatiedTowerAlert>Zanieczyszczony zbiornik wodny</ContaminatiedTowerAlert>
   <ContaminatiedTowerAlertDesc>Zbiorniki są zanieczyszczone, co powoduje poważne zagrożenie dla zdrowia kolonistów! Przenieść zbiorniki, opróżnij je lub stworzyć system oczyszczania wody</ContaminatiedTowerAlertDesc>
 
   <MessageHygieneDisease>Kolonista o imieniu {0} {1} z powodu brudnej wody i braku higieny osobistej</MessageHygieneDisease>
   <MessageWaterDisease>Kolonista o imieniu {0} {1} z powodu brudnej wody lub nieumytych rąk</MessageWaterDisease>
-  <MessageWaterDiseaseContaminated>{0} zachorował od picia skażonej wody</MessageWaterDiseaseContaminated>
+  <MessageWaterDiseaseContaminated>{0} zachorował na {1} od picia skażonej wody</MessageWaterDiseaseContaminated>
 
   <!--Restrictions-->
   <ChangeGenderRestriction>Zmiana ograniczeń dotyczących płci</ChangeGenderRestriction>
@@ -87,8 +87,8 @@
 
   <!--Heating-->
   <WaterTemp>Temperatura wody: {0}</WaterTemp>
-  <ConnectedHeatingCapacity>Zapewnione ogrzewanie: {0} U ({1})</ConnectedHeatingCapacity>
-  <ConnectedCoolingCapacity>Zapewnione chłodzenie: {0} U ({1})</ConnectedCoolingCapacity>
+  <ConnectedHeatingCapacity>Zapewnione ogrzewanie: {0} / {1} U ({2})</ConnectedHeatingCapacity>
+  <ConnectedCoolingCapacity>Zapewnione chłodzenie: {0} / {1} U ({2})</ConnectedCoolingCapacity>
   <HeatingUnits>Ogrzewanie: {0} U</HeatingUnits>
   <CoolingUnits>Chłodzenie: {0} U</CoolingUnits>
   <HeatingMode>Jednostki grzewcze / moc: {0} U / {1} Вт</HeatingMode>
@@ -106,7 +106,7 @@
   <MustPlaceFreezerWithFreeSpaces>Zawory wydechowe nie mogą zostać spalone!</MustPlaceFreezerWithFreeSpaces>
   <SolarEfficiencyCold>Za zimno</SolarEfficiencyCold>
   <SolarEfficiencyRoof>Zadaszony</SolarEfficiencyRoof>
-  <SolarEfficiencyGood>Wydajność: {0}</SolarEfficiencyGood>
+  <SolarEfficiencyGood>Jednostki grzewcze (wydajność): {0} U ({1})</SolarEfficiencyGood>
   <RadCurrentCap>Temperatura grzejnika: {0}</RadCurrentCap>
   <ThermostatSetupWarning>Termostat przesterowany przez zbiorniki ciepłej wody. Ustawić wszystkie podłączone zbiorniki ciepłej wody na tryb termostatu.</ThermostatSetupWarning>
   <HotWaterTankUseThermostat>Sterowanie termostatem</HotWaterTankUseThermostat>

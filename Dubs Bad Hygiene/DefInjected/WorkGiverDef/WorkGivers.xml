@@ -13,14 +13,6 @@
   <DrainWaterTank.verb>spuść wodę</DrainWaterTank.verb>
   <DrainWaterTank.gerund>spuszcza wodę</DrainWaterTank.gerund>
 
-  <DBHAdministerFluids.label>podawaj wodę</DBHAdministerFluids.label>
-  <DBHAdministerFluids.verb>podaj wodę</DBHAdministerFluids.verb>
-  <DBHAdministerFluids.gerund>podaje wodę</DBHAdministerFluids.gerund>
-
-  <DBHAdministerFluidsWarden.label>podawaj wodę</DBHAdministerFluidsWarden.label>
-  <DBHAdministerFluidsWarden.verb>podaj wodę</DBHAdministerFluidsWarden.verb>
-  <DBHAdministerFluidsWarden.gerund>podaje wodę</DBHAdministerFluidsWarden.gerund>
-
   <ClearBlockage.label>usuwaj blokadę</ClearBlockage.label>
   <ClearBlockage.verb>usuń blokadę</ClearBlockage.verb>
   <ClearBlockage.gerund>usuwa blokadę</ClearBlockage.gerund>

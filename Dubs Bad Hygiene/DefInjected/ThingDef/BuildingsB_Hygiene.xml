@@ -30,20 +30,6 @@
   <WashBucket_Frame.label>wanna z wodą (budowa)</WashBucket_Frame.label>
   <WashBucket_Frame.description>Wanna z wodą używana do higieny osobistej. Musi być regularnie uzupełniana świeżą wodą, napełnia się ją również wodą deszczową. Może być również używana do picia, jeśli włączone jest pragnienie.</WashBucket_Frame.description>
 
-  <WaterTrough.label>Koryto wodne</WaterTrough.label>
-  <WaterTrough.description>Koryto z wodą używaną przez zwierzęta, skrzynka serwisowa z zaworem kulowym automatycznie uzupełnia wodę, gdy jej poziom jest niski, uzupełnia również podczas deszczu.</WaterTrough.description>
-  <WaterTrough_Blueprint.label>Koryto wodne (plan)</WaterTrough_Blueprint.label>
-  <WaterTrough_Blueprint_Install.label>Koryto wodne (plan)</WaterTrough_Blueprint_Install.label>
-  <WaterTrough_Frame.label>Koryto wodne (budowa)</WaterTrough_Frame.label>
-  <WaterTrough_Frame.description>Koryto z wodą używaną przez zwierzęta, skrzynka serwisowa z zaworem kulowym automatycznie uzupełnia wodę, gdy jej poziom jest niski, uzupełnia również podczas deszczu.</WaterTrough_Frame.description>
-
-  <PetWaterBowl.label>Miska na wodę</PetWaterBowl.label>
-  <PetWaterBowl.description>Miska z wodą wykorzystywana przez zwierzęta.</PetWaterBowl.description>
-  <PetWaterBowl_Blueprint.label>Miska na wodę (plan)</PetWaterBowl_Blueprint.label>
-  <PetWaterBowl_Blueprint_Install.label>Miska na wodę (plan)</PetWaterBowl_Blueprint_Install.label>
-  <PetWaterBowl_Frame.label>Miska na wodę (budowa)</PetWaterBowl_Frame.label>
-  <PetWaterBowl_Frame.description>Miska z wodą wykorzystywana przez zwierzęta.</PetWaterBowl_Frame.description>
-
   <LitterBox.label>kuweta</LitterBox.label>
   <LitterBox.description>Kryta skrzynka do zbierania kału i moczu dla małych zwierząt.</LitterBox.description>
   <LitterBox_Blueprint.label>kuweta (plan)</LitterBox_Blueprint.label>
@@ -90,12 +76,6 @@
   <ToiletStuff_Blueprint_Install.label>toaleta (plan)</ToiletStuff_Blueprint_Install.label>
   <ToiletStuff_Frame.label>toaleta (budowa)</ToiletStuff_Frame.label>
   <ToiletStuff_Frame.description>Przyrząd sanitarny służący do usuwania ludzkiego moczu i kału.\n14L na jedno użycie</ToiletStuff_Frame.description>
-
-  <ToiletAdv.description>Dwukrotnie bardziej oszczędny w zużyciu wody niż standardowa toaleta. Zapewnia optymalne, wielofunkcyjne doświadczenie dzięki automatycznemu oczyszczaniu i dezodoryzacji.\n7L na jedno użycie</ToiletAdv.description>
-  <ToiletAdv_Blueprint.label>Zaawansowana toaleta (plan)</ToiletAdv_Blueprint.label>
-  <ToiletAdv_Blueprint_Install.label>Zaawansowana toaleta (plan)</ToiletAdv_Blueprint_Install.label>
-  <ToiletAdv_Frame.label>Zaawansowana toaleta (budowa)</ToiletAdv_Frame.label>
-  <ToiletAdv_Frame.description>Dwukrotnie bardziej oszczędny w zużyciu wody niż standardowa toaleta. Zapewnia optymalne, wielofunkcyjne doświadczenie dzięki automatycznemu oczyszczaniu i dezodoryzacji.\n7L na jedno użycie</ToiletAdv_Frame.description>
 
   <ToiletAdvStuff.label>Inteligentna toaleta</ToiletAdvStuff.label>
   <ToiletAdvStuff.description>Dwukrotnie większa oszczędność wody niż w przypadku standardowej toalety. Zapewnia optymalne, wielofunkcyjne doświadczenie dzięki automatycznemu oczyszczaniu i dezodoryzacji.\n7L na jedno użycie</ToiletAdvStuff.description>

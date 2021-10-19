@@ -13,10 +13,4 @@
 
   <!-- Example of a drink for the thirst need, modExtension makes anything ingestible work as a drink, this is patched out when thirst is disabled -->
 
-  <DBH_WaterBottle.label>woda</DBH_WaterBottle.label>
-  <DBH_WaterBottle.description>Butelka wody.</DBH_WaterBottle.description>
-  <DBH_WaterBottle.ingestible.ingestCommandString>pij {0}</DBH_WaterBottle.ingestible.ingestCommandString>
-  <DBH_WaterBottle.ingestible.ingestReportString>Picie {0}.</DBH_WaterBottle.ingestible.ingestReportString>
-
-
 </LanguageData>

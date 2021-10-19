@@ -16,11 +16,11 @@
   <CentralHeating.label>centralne ogrzewanie</CentralHeating.label>
   <CentralHeating.description>Budowa systemów centralnego ogrzewania z grzejnikami, zbiornikami ciepłej wody, kotłami i termostatami.</CentralHeating.description>
 
-  <GeothermalHeating.label>Geothermal Heating</GeothermalHeating.label>
-  <GeothermalHeating.description>Build geothermal heaters which can be built over geysers to generate heat for central heating and hot water tanks.</GeothermalHeating.description>
+  <GeothermalHeating.label>Ogrzewanie geotermalne</GeothermalHeating.label>
+  <GeothermalHeating.description>Zbuduj grzejniki geotermalne, które mogą być budowane nad gejzerami, aby generować ciepło do centralnego ogrzewania i zbiorników ciepłej wody.</GeothermalHeating.description>
 
-  <Saunas.label>saunas</Saunas.label>
-  <Saunas.description>Build a dedicated room with a sauna heater where colonists can relax and clean, frequent use can reduce the chance of heart attacks.</Saunas.description>
+  <Saunas.label>sauny</Saunas.label>
+  <Saunas.description>Zbuduj dedykowane pomieszczenie z piecem do sauny, w którym koloniści mogą odpocząć i umyć się, częste korzystanie może zmniejszyć ryzyko zawałów serca.</Saunas.description>
 
   <ModernFixtures.label>nowoczesna armatura łazienkowa</ModernFixtures.label>
   <ModernFixtures.description>Zbuduj armaturę łazienkową w nowoczesnym stylu, taką jak toalety i prysznice.</ModernFixtures.description>
@@ -49,7 +49,7 @@
   <WaterFiltration.label>filtracja wody</WaterFiltration.label>
   <WaterFiltration.description>Buduj systemy filtracji wody, które uzdatniają dostarczaną wodę, eliminując ryzyko chorób.</WaterFiltration.description>
 
-  <HygieneBionics.label>Higiena Bioniki</HygieneBionics.label>
+  <HygieneBionics.label>Bioniczna higiena</HygieneBionics.label>
   <HygieneBionics.description>Zaprojektuj bioniki, które pomagają w przetwarzaniu odpadów cielesnych i utrzymaniu higieny osobistej.</HygieneBionics.description>
 
   <SepticTanks.label>szambo</SepticTanks.label>

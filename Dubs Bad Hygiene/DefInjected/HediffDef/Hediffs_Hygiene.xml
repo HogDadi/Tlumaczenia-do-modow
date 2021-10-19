@@ -30,13 +30,4 @@
   <Cholera.stages.2.label>poważna</Cholera.stages.2.label>
   <Cholera.stages.3.label>ekstremalna</Cholera.stages.3.label>
 
-  <DBHDehydration.label>odwodnienie</DBHDehydration.label>
-  <DBHDehydration.description>Odwodnienie jest stanem, który może wystąpić, gdy utrata płynów ustrojowych, głównie wody, przekracza ilość, która jest przyjmowana.</DBHDehydration.description>
-  <DBHDehydration.stages.0.label>trywialne</DBHDehydration.stages.0.label>
-  <DBHDehydration.stages.1.label>drobne</DBHDehydration.stages.1.label>
-  <DBHDehydration.stages.2.label>umiarkowane</DBHDehydration.stages.2.label>
-  <DBHDehydration.stages.3.label>poważne</DBHDehydration.stages.3.label>
-  <DBHDehydration.stages.4.label>ekstremalne</DBHDehydration.stages.4.label>
-
-
 </LanguageData>

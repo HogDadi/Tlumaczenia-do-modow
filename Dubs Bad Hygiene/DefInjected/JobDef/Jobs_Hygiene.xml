@@ -22,11 +22,6 @@
   <TipOverSewage.reportString>przechylanie TargetA</TipOverSewage.reportString>
   <DrainWaterTankJob.reportString>opróżnianie TargetA</DrainWaterTankJob.reportString>
   <PlaceFertilizer.reportString>nawożenie gleby</PlaceFertilizer.reportString>
-  <DBHDrinkFromGround.reportString>picie wody</DBHDrinkFromGround.reportString>
-  <DBHDrinkFromBasin.reportString>picie wody z TargetA</DBHDrinkFromBasin.reportString>
-  <DBHPackWaterBottle.reportString>napełnianie butelki z wodą z TargetA</DBHPackWaterBottle.reportString>
-  <DBHStockpileWaterBottles.reportString>składowanie wody z TargetA</DBHStockpileWaterBottles.reportString>
-  <DBHAdministerFluids.reportString>doprowadzenie wody do TargetB</DBHAdministerFluids.reportString>
   <UseToilet.reportString>używanie TargetA</UseToilet.reportString>
   <haveWildPoo.reportString>wypróżnianie się na otwartej przestrzeni</haveWildPoo.reportString>
   <useWashBucket.reportString>mycie w TargetA</useWashBucket.reportString>
