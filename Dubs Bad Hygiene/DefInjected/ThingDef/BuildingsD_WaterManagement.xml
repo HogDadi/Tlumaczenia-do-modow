@@ -5,77 +5,78 @@
 
   <WaterWellInlet.label>studnia</WaterWellInlet.label>
   <WaterWellInlet.description>Dostęp do wód gruntowych, które mogą być pompowane przez pompy wodne. Obecność ścieków lub innych zanieczyszczeń obniża jakość wody i może powodować jej skażenie.</WaterWellInlet.description>
-  <WaterWellInlet_Blueprint.label>studnia (plan)</WaterWellInlet_Blueprint.label>
-  <WaterWellInlet_Frame.label>studnia (budowa)</WaterWellInlet_Frame.label>
-  <WaterWellInlet_Frame.description>Dostęp do wód gruntowych, które mogą być pompowane przez pompy wodne. Obecność ścieków lub innych zanieczyszczeń obniża jakość wody i może powodować jej skażenie.</WaterWellInlet_Frame.description>
-
+  <Blueprint_WaterWellInlet.label>studnia (plan)</Blueprint_WaterWellInlet.label>
+  <Frame_WaterWellInlet.label>studnia (budowa)</Frame_WaterWellInlet.label>
+  <Frame_WaterWellInlet.description>Dostęp do wód gruntowych, które mogą być pompowane przez pompy wodne. Obecność ścieków lub innych zanieczyszczeń obniża jakość wody i może powodować jej skażenie.</Frame_WaterWellInlet.description>
+  
   <DeepWaterWellInlet.label>studnia głębinowa</DeepWaterWellInlet.label>
   <DeepWaterWellInlet.description>Uzyskuje dostęp do dużej powierzchni wód gruntowych, które mogą być pompowane przez pompy wodne. Studnie głębinowe nie są narażone na zanieczyszczenia.</DeepWaterWellInlet.description>
-  <DeepWaterWellInlet_Blueprint.label>studnia głębinowa (plan)</DeepWaterWellInlet_Blueprint.label>
-  <DeepWaterWellInlet_Frame.label>studnia głębinowa (budowa)</DeepWaterWellInlet_Frame.label>
-  <DeepWaterWellInlet_Frame.description>Uzyskuje dostęp do dużej powierzchni wód gruntowych, które mogą być pompowane przez pompy wodne. Studnie głębinowe nie są narażone na zanieczyszczenia.</DeepWaterWellInlet_Frame.description>
-
+  <Blueprint_DeepWaterWellInlet.label>studnia głębinowa (plan)</Blueprint_DeepWaterWellInlet.label>
+  <Frame_DeepWaterWellInlet.label>studnia głębinowa (budowa)</Frame_DeepWaterWellInlet.label>
+  <Frame_DeepWaterWellInlet.description>Uzyskuje dostęp do dużej powierzchni wód gruntowych, które mogą być pompowane przez pompy wodne. Studnie głębinowe nie są narażone na zanieczyszczenia.</Frame_DeepWaterWellInlet.description>
+  
   <WaterButt.label>tygiel wodny</WaterButt.label>
   <WaterButt.description>Magazynuje wodę do wykorzystania przez armaturę. Jeśli woda zostanie zanieczyszczona, zbiornik musi zostać opróżniony.</WaterButt.description>
-  <WaterButt_Blueprint.label>tygiel wodny (plan)</WaterButt_Blueprint.label>
-  <WaterButt_Blueprint_Install.label>tygiel wodny (plan)</WaterButt_Blueprint_Install.label>
-  <WaterButt_Frame.label>tygiel wodny (budowa)</WaterButt_Frame.label>
-  <WaterButt_Frame.description>Magazynuje wodę do wykorzystania przez armaturę. Jeśli woda zostanie zanieczyszczona, zbiornik musi zostać opróżniony.</WaterButt_Frame.description>
-
+  <Blueprint_WaterButt.label>tygiel wodny (plan)</Blueprint_WaterButt.label>
+  <Blueprint_Install_WaterButt.label>tygiel wodny (plan)</Blueprint_Install_WaterButt.label>
+  <Frame_WaterButt.label>tygiel wodny (budowa)</Frame_WaterButt.label>
+  <Frame_WaterButt.description>Magazynuje wodę do wykorzystania przez armaturę. Jeśli woda zostanie zanieczyszczona, zbiornik musi zostać opróżniony.</Frame_WaterButt.description>
+  
   <WaterTowerS.label>wieża ciśnień</WaterTowerS.label>
   <WaterTowerS.description>Magazynuje wodę do wykorzystania przez armaturę wodną. Jeśli woda zostanie zanieczyszczona, zbiornik musi zostać opróżniony.</WaterTowerS.description>
-  <WaterTowerS_Blueprint.label>wieża ciśnień (plan)</WaterTowerS_Blueprint.label>
-  <WaterTowerS_Frame.label>wieża ciśnień (budowa)</WaterTowerS_Frame.label>
-  <WaterTowerS_Frame.description>Magazynuje wodę do wykorzystania przez armaturę wodną. Jeśli woda zostanie zanieczyszczona, zbiornik musi zostać opróżniony.</WaterTowerS_Frame.description>
-
+  <Blueprint_WaterTowerS.label>wieża ciśnień (plan)</Blueprint_WaterTowerS.label>
+  <Frame_WaterTowerS.label>wieża ciśnień (budowa)</Frame_WaterTowerS.label>
+  <Frame_WaterTowerS.description>Magazynuje wodę do wykorzystania przez armaturę wodną. Jeśli woda zostanie zanieczyszczona, zbiornik musi zostać opróżniony.</Frame_WaterTowerS.description>
+  
   <WaterTowerL.label>wielka wieża ciśnień</WaterTowerL.label>
   <WaterTowerL.description>Magazynuje wodę do wykorzystania przez armaturę wodną. Jeśli woda w zbiorniku ulegnie zanieczyszczeniu, zbiornik należy opróżnić.</WaterTowerL.description>
-  <WaterTowerL_Blueprint.label>wielka wieża ciśnień (plan)</WaterTowerL_Blueprint.label>
-  <WaterTowerL_Frame.label>wielka wieża ciśnień (budowa)</WaterTowerL_Frame.label>
-  <WaterTowerL_Frame.description>Magazynuje wodę do wykorzystania przez armaturę wodną. Jeśli woda w zbiorniku ulegnie zanieczyszczeniu, zbiornik należy opróżnić.</WaterTowerL_Frame.description>
-
+  <Blueprint_WaterTowerL.label>wielka wieża ciśnień (plan)</Blueprint_WaterTowerL.label>
+  <Frame_WaterTowerL.label>wielka wieża ciśnień (budowa)</Frame_WaterTowerL.label>
+  <Frame_WaterTowerL.description>Magazynuje wodę do wykorzystania przez armaturę wodną. Jeśli woda w zbiorniku ulegnie zanieczyszczeniu, zbiornik należy opróżnić.</Frame_WaterTowerL.description>
+  
   <WindPump.label>pompa wiatrowa</WindPump.label>
   <WindPump.description>Pompuje wodę ze studni do wież ciśnień. Wydajność pompowania: 3000 L/dzień.</WindPump.description>
-  <WindPump_Blueprint.label>pompa wiatrowa (plan)</WindPump_Blueprint.label>
-  <WindPump_Frame.label>pompa wiatrowa (budowa)</WindPump_Frame.label>
-  <WindPump_Frame.description>Pompuje wodę ze studni do wież ciśnień. Wydajność pompowania: 3000 L/dzień.</WindPump_Frame.description>
-
+  <Blueprint_WindPump.label>pompa wiatrowa (plan)</Blueprint_WindPump.label>
+  <Frame_WindPump.label>pompa wiatrowa (budowa)</Frame_WindPump.label>
+  <Frame_WindPump.description>Pompuje wodę ze studni do wież ciśnień. Wydajność pompowania: 3000 L/dzień.</Frame_WindPump.description>
+  
   <ElectricPump.label>pompa elektryczna</ElectricPump.label>
   <ElectricPump.description>Pompuje wodę ze studni do wież ciśnień. Wydajność pompowania: 1500 L/dzień.</ElectricPump.description>
-  <ElectricPump_Blueprint.label>pompa elektryczna (plan)</ElectricPump_Blueprint.label>
-  <ElectricPump_Blueprint_Install.label>pompa elektryczna (plan)</ElectricPump_Blueprint_Install.label>
-  <ElectricPump_Frame.label>pompa elektryczna (budowa)</ElectricPump_Frame.label>
-  <ElectricPump_Frame.description>Pompuje wodę ze studni do wież ciśnień. Wydajność pompowania: 1500 L/dzień.</ElectricPump_Frame.description>
-
+  <Blueprint_ElectricPump.label>pompa elektryczna (plan)</Blueprint_ElectricPump.label>
+  <Blueprint_Install_ElectricPump.label>pompa elektryczna (plan)</Blueprint_Install_ElectricPump.label>
+  <Frame_ElectricPump.label>pompa elektryczna (budowa)</Frame_ElectricPump.label>
+  <Frame_ElectricPump.description>Pompuje wodę ze studni do wież ciśnień. Wydajność pompowania: 1500 L/dzień.</Frame_ElectricPump.description>
+  
   <PumpingStation.label>przepompownia</PumpingStation.label>
   <PumpingStation.description>Pompuje wodę ze studni do wież ciśnień. Wydajność pompowania: 10000 L/dzień.</PumpingStation.description>
-  <PumpingStation_Blueprint.label>przepompownia (plan)</PumpingStation_Blueprint.label>
-  <PumpingStation_Frame.label>przepompownia (budowa)</PumpingStation_Frame.label>
-  <PumpingStation_Frame.description>Pompuje wodę ze studni do wież ciśnień. Wydajność pompowania: 10000 L/dzień.</PumpingStation_Frame.description>
-
+  <Blueprint_PumpingStation.label>przepompownia (plan)</Blueprint_PumpingStation.label>
+  <Frame_PumpingStation.label>przepompownia (budowa)</Frame_PumpingStation.label>
+  <Frame_PumpingStation.description>Pompuje wodę ze studni do wież ciśnień. Wydajność pompowania: 10000 L/dzień.</Frame_PumpingStation.description>
+  
   <SewageOutlet.label>odpływ ścieków</SewageOutlet.label>
   <SewageOutlet.description>Może być umieszczony w dowolnym miejscu. Ścieki będą się gromadzić i rozprzestrzeniać na lądzie lub rozpraszać w wodzie. Ścieki oczyszczają się z czasem; obecność drzew, wody lub deszczu przyspiesza ten proces.</SewageOutlet.description>
-  <SewageOutlet_Blueprint.label>odpływ ścieków (plan)</SewageOutlet_Blueprint.label>
-  <SewageOutlet_Frame.label>odpływ ścieków (budowa)</SewageOutlet_Frame.label>
-  <SewageOutlet_Frame.description>Może być umieszczony w dowolnym miejscu. Ścieki będą się gromadzić i rozprzestrzeniać na lądzie lub rozpraszać w wodzie. Ścieki oczyszczają się z czasem; obecność drzew, wody lub deszczu przyspiesza ten proces.</SewageOutlet_Frame.description>
-
+  <Blueprint_SewageOutlet.label>odpływ ścieków (plan)</Blueprint_SewageOutlet.label>
+  <Frame_SewageOutlet.label>odpływ ścieków (budowa)</Frame_SewageOutlet.label>
+  <Frame_SewageOutlet.description>Może być umieszczony w dowolnym miejscu. Ścieki będą się gromadzić i rozprzestrzeniać na lądzie lub rozpraszać w wodzie. Ścieki oczyszczają się z czasem; obecność drzew, wody lub deszczu przyspiesza ten proces.</Frame_SewageOutlet.description>
+  
   <SewageSepticTank.label>szambo</SewageSepticTank.label>
   <SewageSepticTank.description>Powoli, w miarę upływu czasu oczyszcza ścieki. Ścieki kierowane są w pierwszej kolejności do szamba. Jeśli osiągnie ono pełną pojemność, nadmiar ścieków kierowany jest do przykanalików.</SewageSepticTank.description>
-  <SewageSepticTank_Blueprint.label>szambo (plan)</SewageSepticTank_Blueprint.label>
-  <SewageSepticTank_Frame.label>szambo (budowa)</SewageSepticTank_Frame.label>
-  <SewageSepticTank_Frame.description>Powoli, w miarę upływu czasu oczyszcza ścieki. Ścieki kierowane są w pierwszej kolejności do szamba. Jeśli osiągnie ono pełną pojemność, nadmiar ścieków kierowany jest do przykanalików.</SewageSepticTank_Frame.description>
-
+  <Blueprint_SewageSepticTank.label>szambo (plan)</Blueprint_SewageSepticTank.label>
+  <Frame_SewageSepticTank.label>szambo (budowa)</Frame_SewageSepticTank.label>
+  <Frame_SewageSepticTank.description>Powoli, w miarę upływu czasu oczyszcza ścieki. Ścieki kierowane są w pierwszej kolejności do szamba. Jeśli osiągnie ono pełną pojemność, nadmiar ścieków kierowany jest do przykanalików.</Frame_SewageSepticTank.description>
+  
   <SewageTreatment.label>oczyszczanie ścieków</SewageTreatment.label>
   <SewageTreatment.description>Powoli oczyszcza ścieki w czasie. Jeśli osiągnie pełną wydajność, nadmiar ścieków jest kierowany bezpośrednio do odpływów bez oczyszczania.</SewageTreatment.description>
-  <SewageTreatment_Blueprint.label>oczyszczanie ścieków (plan)</SewageTreatment_Blueprint.label>
-  <SewageTreatment_Frame.label>oczyszczanie ścieków (budowa)</SewageTreatment_Frame.label>
-  <SewageTreatment_Frame.description>Powoli oczyszcza ścieki w czasie. Jeśli osiągnie pełną wydajność, nadmiar ścieków jest kierowany bezpośrednio do odpływów bez oczyszczania.</SewageTreatment_Frame.description>
-
+  <Blueprint_SewageTreatment.label>oczyszczanie ścieków (plan)</Blueprint_SewageTreatment.label>
+  <Frame_SewageTreatment.label>oczyszczanie ścieków (budowa)</Frame_SewageTreatment.label>
+  <Frame_SewageTreatment.description>Powoli oczyszcza ścieki w czasie. Jeśli osiągnie pełną wydajność, nadmiar ścieków jest kierowany bezpośrednio do odpływów bez oczyszczania.</Frame_SewageTreatment.description>
+  
   <WaterTreatment.label>uzdatnianie wody</WaterTreatment.label>
   <WaterTreatment.description>Oczyszcza 99,99% zarazków! Filtruje istniejącą wodę w wieżach magazynowych oraz każdą wodę używaną przez armaturę, eliminując ryzyko zachorowań.</WaterTreatment.description>
-  <WaterTreatment_Blueprint.label>uzdatnianie wody (plan)</WaterTreatment_Blueprint.label>
-  <WaterTreatment_Frame.label>uzdatnianie wody (budowa)</WaterTreatment_Frame.label>
-  <WaterTreatment_Frame.description>Oczyszcza 99,99% zarazków! Filtruje istniejącą wodę w wieżach magazynowych oraz każdą wodę używaną przez armaturę, eliminując ryzyko zachorowań.</WaterTreatment_Frame.description>
+  <Blueprint_WaterTreatment.label>uzdatnianie wody (plan)</Blueprint_WaterTreatment.label>
+  <Frame_WaterTreatment.label>uzdatnianie wody (budowa)</Frame_WaterTreatment.label>
+  <Frame_WaterTreatment.description>Oczyszcza 99,99% zarazków! Filtruje istniejącą wodę w wieżach magazynowych oraz każdą wodę używaną przez armaturę, eliminując ryzyko zachorowań.</Frame_WaterTreatment.description>
+  
 
 
 </LanguageData>

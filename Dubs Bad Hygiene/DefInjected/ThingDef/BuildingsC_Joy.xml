@@ -53,9 +53,9 @@
 
   <DBHSwimmingPool.label>basen</DBHSwimmingPool.label>
   <DBHSwimmingPool.description>Basen używany do hydroterapii, relaksu lub dla przyjemności. Musi być najpierw napełniony wodą z wieży ciśnień.</DBHSwimmingPool.description>
-  <DBHSwimmingPool_Blueprint.label>basen(plan)</DBHSwimmingPool_Blueprint.label>
-  <DBHSwimmingPool_Frame.label>basen (budowa)</DBHSwimmingPool_Frame.label>
-  <DBHSwimmingPool_Frame.description>Basen używany do hydroterapii, relaksu lub dla przyjemności. Musi być najpierw napełniony wodą z wieży ciśnień.</DBHSwimmingPool_Frame.description>
+  <Blueprint_DBHSwimmingPool.label>basen(plan)</Blueprint_DBHSwimmingPool.label>
+  <Frame_DBHSwimmingPool.label>basen (budowa)</Frame_DBHSwimmingPool.label>
+  <Frame_DBHSwimmingPool.description>Basen używany do hydroterapii, relaksu lub dla przyjemności. Musi być najpierw napełniony wodą z wieży ciśnień.</Frame_DBHSwimmingPool.description>
 
 
   <!-- <ThingDef ParentName="DubsSwimmingPoolBase">
@@ -82,36 +82,35 @@
 		</budowa>
 	</ThingDef> -->
 
-  <HotTub.label>jacuzzi</HotTub.label>
-  <HotTub.description>Gorąca wanna używana do hydroterapii, relaksu lub przyjemności. Przy pierwszym użyciu napełnia się wodą z wieży ciśnień. Samoczynnie się nagrzewa i nie wymaga odpływu ścieków.</HotTub.description>
-  <HotTub_Blueprint.label>jacuzzi (plan)</HotTub_Blueprint.label>
-  <HotTub_Blueprint_Install.label>jacuzzi (plan)</HotTub_Blueprint_Install.label>
-  <HotTub_Frame.label>jacuzzi (budowa)</HotTub_Frame.label>
-  <HotTub_Frame.description>Gorąca wanna używana do hydroterapii, relaksu lub przyjemności. Przy pierwszym użyciu napełnia się wodą z wieży ciśnień. Samoczynnie się nagrzewa i nie wymaga odpływu ścieków..</HotTub_Frame.description>
-
-  <WashingMachine.label>pralka</WashingMachine.label>
-  <WashingMachine.description>Pierze ubrania tak dobrze, że nie można nawet powiedzieć, że ktoś umarł mając je na sobie!</WashingMachine.description>
-  <WashingMachine_Blueprint.label>pralka (plan)</WashingMachine_Blueprint.label>
-  <WashingMachine_Blueprint_Install.label>pralka (plan)</WashingMachine_Blueprint_Install.label>
-  <WashingMachine_Frame.label>pralka (budowa)</WashingMachine_Frame.label>
-  <WashingMachine_Frame.description>Pierze ubrania tak dobrze, że nie można nawet powiedzieć, że ktoś umarł mając je na sobie!</WashingMachine_Frame.description>
-
-  <DBHSaunaHeaterLog.label>Fueled Sauna Heater</DBHSaunaHeaterLog.label>
-  <DBHSaunaHeaterLog.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterLog.description>
-  <DBHSaunaHeaterLog_Blueprint.label>Fueled Sauna Heater (plan)</DBHSaunaHeaterLog_Blueprint.label>
-  <DBHSaunaHeaterLog_Blueprint_Install.label>Fueled Sauna Heater (plan)</DBHSaunaHeaterLog_Blueprint_Install.label>
-  <DBHSaunaHeaterLog_Frame.label>Fueled Sauna Heater (budowa)</DBHSaunaHeaterLog_Frame.label>
-  <DBHSaunaHeaterLog_Frame.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterLog_Frame.description>
-
-  <DBHSaunaHeaterElec.label>Elektryczny piec do sauny</DBHSaunaHeaterElec.label>
-  <DBHSaunaHeaterElec.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterElec.description>
-  <DBHSaunaHeaterElec_Blueprint.label>Elektryczny piec do sauny (plan)</DBHSaunaHeaterElec_Blueprint.label>
-  <DBHSaunaHeaterElec_Blueprint_Install.label>Elektryczny piec do sauny (plan)</DBHSaunaHeaterElec_Blueprint_Install.label>
-  <DBHSaunaHeaterElec_Frame.label>Elektryczny piec do sauny (budowa)</DBHSaunaHeaterElec_Frame.label>
-  <DBHSaunaHeaterElec_Frame.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterElec_Frame.description>
-
-  <DBHSaunaSeating.label>Siedzenia w saunie</DBHSaunaSeating.label>
-  <DBHSaunaSeating.description>Listewki do saun</DBHSaunaSeating.description>
-
+	<HotTub.label>jacuzzi</HotTub.label>
+	<HotTub.description>Gorąca wanna używana do hydroterapii, relaksu lub przyjemności. Przy pierwszym użyciu napełnia się wodą z wieży ciśnień. Samoczynnie się nagrzewa i nie wymaga odpływu ścieków.</HotTub.description>
+	<Blueprint_HotTub.label>jacuzzi (plan)</Blueprint_HotTub.label>
+	<Blueprint_Install_HotTub.label>jacuzzi (plan)</Blueprint_Install_HotTub.label>
+	<Frame_HotTub.label>jacuzzi (budowa)</Frame_HotTub.label>
+	<Frame_HotTub.description>Gorąca wanna używana do hydroterapii, relaksu lub przyjemności. Przy pierwszym użyciu napełnia się wodą z wieży ciśnień. Samoczynnie się nagrzewa i nie wymaga odpływu ścieków..</Frame_HotTub.description>
+	
+	<WashingMachine.label>pralka</WashingMachine.label>
+	<WashingMachine.description>Pierze ubrania tak dobrze, że nie można nawet powiedzieć, że ktoś umarł mając je na sobie!</WashingMachine.description>
+	<Blueprint_WashingMachine.label>pralka (plan)</Blueprint_WashingMachine.label>
+	<Blueprint_Install_WashingMachine.label>pralka (plan)</Blueprint_Install_WashingMachine.label>
+	<Frame_WashingMachine.label>pralka (budowa)</Frame_WashingMachine.label>
+	<Frame_WashingMachine.description>Pierze ubrania tak dobrze, że nie można nawet powiedzieć, że ktoś umarł mając je na sobie!</Frame_WashingMachine.description>
+	
+	<DBHSaunaHeaterLog.label>Fueled Sauna Heater</DBHSaunaHeaterLog.label>
+	<DBHSaunaHeaterLog.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterLog.description>
+	<Blueprint_DBHSaunaHeaterLog.label>Fueled Sauna Heater (plan)</Blueprint_DBHSaunaHeaterLog.label>
+	<Blueprint_Install_DBHSaunaHeaterLog.label>Fueled Sauna Heater (plan)</Blueprint_Install_DBHSaunaHeaterLog.label>
+	<Frame_DBHSaunaHeaterLog.label>Fueled Sauna Heater (budowa)</Frame_DBHSaunaHeaterLog.label>
+	<Frame_DBHSaunaHeaterLog.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</Frame_DBHSaunaHeaterLog.description>
+	
+	<DBHSaunaHeaterElec.label>Elektryczny piec do sauny</DBHSaunaHeaterElec.label>
+	<DBHSaunaHeaterElec.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterElec.description>
+	<Blueprint_DBHSaunaHeaterElec.label>Elektryczny piec do sauny (plan)</Blueprint_DBHSaunaHeaterElec.label>
+	<Blueprint_Install_DBHSaunaHeaterElec.label>Elektryczny piec do sauny (plan)</Blueprint_Install_DBHSaunaHeaterElec.label>
+	<Frame_DBHSaunaHeaterElec.label>Elektryczny piec do sauny (budowa)</Frame_DBHSaunaHeaterElec.label>
+	<Frame_DBHSaunaHeaterElec.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</Frame_DBHSaunaHeaterElec.description>
+	
+	<DBHSaunaSeating.label>Siedzenia w saunie</DBHSaunaSeating.label>
+	<DBHSaunaSeating.description>Listewki do saun</DBHSaunaSeating.description>
 
 </LanguageData>

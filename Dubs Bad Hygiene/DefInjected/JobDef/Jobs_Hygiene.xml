@@ -1,37 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TriggerFireSprinkler.reportString>aktywacja TargetA</TriggerFireSprinkler.reportString>
-  <emptySeptictank.reportString>opróżnianie TargetA</emptySeptictank.reportString>
-  <emptyLatrine.reportString>opróżnianie TargetA</emptyLatrine.reportString>
-
-
-  <!-- <JobDef>
-    <defName>LoadFridge</defName>
-    <driverClass>DubsBadHygiene.JobDriver_LoadFridge</driverClass>
-    <reportString>loading TargetA</reportString>
-    <suspendable>false</suspendable>
-  </JobDef> -->
-
-  <LoadWashing.reportString>ładowanie TargetA</LoadWashing.reportString>
-  <UnloadWashing.reportString>rozładowywanie TargetA</UnloadWashing.reportString>
-  <LoadComposter.reportString>napełnianie TargetA</LoadComposter.reportString>
-  <UnloadComposter.reportString>usuwanie kompostu z TargetA</UnloadComposter.reportString>
-  <RemoveSewage.reportString>odprowadzanie ścieków</RemoveSewage.reportString>
-  <WatchWashingMachine.reportString>oglądanie cyklu wirowania</WatchWashingMachine.reportString>
-  <TipOverSewage.reportString>przechylanie TargetA</TipOverSewage.reportString>
-  <DrainWaterTankJob.reportString>opróżnianie TargetA</DrainWaterTankJob.reportString>
-  <PlaceFertilizer.reportString>nawożenie gleby</PlaceFertilizer.reportString>
-  <UseToilet.reportString>używanie TargetA</UseToilet.reportString>
-  <haveWildPoo.reportString>wypróżnianie się na otwartej przestrzeni</haveWildPoo.reportString>
-  <useWashBucket.reportString>mycie w TargetA</useWashBucket.reportString>
-  <washAtCell.reportString>mycie</washAtCell.reportString>
-  <washHands.reportString>mycie rąk</washHands.reportString>
-  <washPatient.reportString>mycie TargetA</washPatient.reportString>
-  <RefillTub.reportString>napełnianie wanny do mycia</RefillTub.reportString>
-  <RefillWater.reportString>uzupełnianie wody</RefillWater.reportString>
-  <cleanBedpan.reportString>cleaning up bed pan</cleanBedpan.reportString>
-  <clearBlockage.reportString>odblokowanie zatkanego TargetA</clearBlockage.reportString>
-
+  <TriggerFireSprinkler.reportString>aktywuje TargetA</TriggerFireSprinkler.reportString>
+  <emptySeptictank.reportString>opróżnia TargetA</emptySeptictank.reportString>
+  <emptyLatrine.reportString>opróżniaTargetA</emptyLatrine.reportString>
+  <LoadWashing.reportString>ładuje TargetA</LoadWashing.reportString>
+  <UnloadWashing.reportString>rozładowuje TargetA</UnloadWashing.reportString>
+  <LoadComposter.reportString>napełnia TargetA</LoadComposter.reportString>
+  <UnloadComposter.reportString>usuwa kompost z TargetA</UnloadComposter.reportString>
+  <RemoveSewage.reportString>odprowadza ścieki</RemoveSewage.reportString>
+  <WatchWashingMachine.reportString>ogląda cykl wirowania</WatchWashingMachine.reportString>
+  <TipOverSewage.reportString>przechyla TargetA</TipOverSewage.reportString>
+  <DrainWaterTankJob.reportString>opróżnia TargetA</DrainWaterTankJob.reportString>
+  <PlaceFertilizer.reportString>nawozi glebę</PlaceFertilizer.reportString>
+  <UseToilet.reportString>używa TargetA</UseToilet.reportString>
+  <haveWildPoo.reportString>wypróżnia się na otwartej przestrzeni</haveWildPoo.reportString>
+  <useWashBucket.reportString>myje się w TargetA</useWashBucket.reportString>
+  <washAtCell.reportString>myje się</washAtCell.reportString>
+  <washHands.reportString>myje ręce</washHands.reportString>
+  <washPatient.reportString>myje TargetA</washPatient.reportString>
+  <RefillTub.reportString>napełnia wannę do mycia</RefillTub.reportString>
+  <RefillWater.reportString>uzupełnia wodę</RefillWater.reportString>
+  <cleanBedpan.reportString>myje basen dla chorego</cleanBedpan.reportString>
+  <clearBlockage.reportString>odblokuje zatkany TargetA</clearBlockage.reportString>
+  <takeBath.reportString>kąpie się</takeBath.reportString>
+  <takeShower.reportString>kąpie się z TargetA</takeShower.reportString>
+  <DBHGoSwimming.reportString>pływa</DBHGoSwimming.reportString>
+  <UseHotTub.reportString>relaksuje się</UseHotTub.reportString>
+  <DBHUseSauna.reportString>używanie sauny</DBHUseSauna.reportString>
 
 </LanguageData>
