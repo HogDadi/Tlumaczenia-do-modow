@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef ParentName="BasedHygieneMom">
+	  <description>Water fountain used for joy and beauty, must be filled with water.</description>
+	  <thingClass>DubsBadHygiene.Building_WaterFeature</thingClass>
+	  <defName>DBHWaterFeature</defName>
+	  <label>Water feature</label>
+	  <stuffCategories>
+		  <li>Stony</li>
+	  </stuffCategories>
+	  <costStuffCount>450</costStuffCount>
+	  <altitudeLayer>FloorEmplacement</altitudeLayer>
+	  <uiIconPath>DBH/UI/water_feature</uiIconPath>
+	  <graphicData>
+		  <drawSize>(5,5)</drawSize>
+		  <texPath>DBH/Things/budowa/water_feature</texPath>
+		  <graphicClass>Graphic_Single</graphicClass>
+		  <shaderType>CutoutComplex</shaderType>
+	  </graphicData>
+	  <statBases>
+		  <MaxHitPoints>1500</MaxHitPoints>
+		  <WorkToBuild>10000</WorkToBuild>
+		  <Flammability>0</Flammability>
+		  <Beauty>200</Beauty>
+		  <Comfort>0.6</Comfort>
+		  <JoyGainFactor>1</JoyGainFactor>
+		  <Mass>100</Mass>
+	  </statBases>
+	  <budowa>
+		  <ai_chillDestination>true</ai_chillDestination>
+	  </budowa>
+	  <comps>
+		  <li Class="DubsBadHygiene.CompProperties_Pipe">
+			  <mode>Sewage</mode>
+		  </li>
+		  <li>
+			  <compClass>CompColorable</compClass>
+		  </li>
+	  </comps>
+	  <fillPercent>0.15</fillPercent>
+	  <size>(3, 3)</size>
+	  <passability>PassThroughOnly</passability>
+	  <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+	  <pathCost>0</pathCost>
+	  <rotatable>true</rotatable>
+	  <researchPrerequisites>
+		  <li MayRequire="dbhlitemode">SwimmingPools</li>
+	  </researchPrerequisites>
+	  <tickerType>Normal</tickerType>
+	  <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+  </ThingDef> -->
+
+  <DBHSwimmingPool.label>basen</DBHSwimmingPool.label>
+  <DBHSwimmingPool.description>Basen używany do hydroterapii, relaksu lub dla przyjemności. Musi być najpierw napełniony wodą z wieży ciśnień.</DBHSwimmingPool.description>
+  <DBHSwimmingPool_Blueprint.label>basen(plan)</DBHSwimmingPool_Blueprint.label>
+  <DBHSwimmingPool_Frame.label>basen (budowa)</DBHSwimmingPool_Frame.label>
+  <DBHSwimmingPool_Frame.description>Basen używany do hydroterapii, relaksu lub dla przyjemności. Musi być najpierw napełniony wodą z wieży ciśnień.</DBHSwimmingPool_Frame.description>
+
+
+  <!-- <ThingDef ParentName="DubsSwimmingPoolBase">
+		<placingDraggableDimensions>2</placingDraggableDimensions>
+		<label>swimming pool atlas</label>
+		<thingClass>DubsBadHygiene.Building_FillableThing</thingClass>
+		<defName>DBHPoolAtlas</defName>
+		<size>(1, 1)</size>
+		<graphicData>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<texPath>DBH/Things/budowa/Pool_Atlas</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<linkType>CornerFiller</linkType>
+			<linkFlags>
+				<li>Custom8</li>
+			</linkFlags>
+		</graphicData>
+		<costStuffCount>10</costStuffCount>
+		<budowa>
+			<blueprintGraphicData>
+				<texPath>DBH/Things/budowa/Pool_Atlas</texPath>
+			</blueprintGraphicData>
+		</budowa>
+	</ThingDef> -->
+
+  <HotTub.label>jacuzzi</HotTub.label>
+  <HotTub.description>Gorąca wanna używana do hydroterapii, relaksu lub przyjemności. Przy pierwszym użyciu napełnia się wodą z wieży ciśnień. Samoczynnie się nagrzewa i nie wymaga odpływu ścieków.</HotTub.description>
+  <HotTub_Blueprint.label>jacuzzi (plan)</HotTub_Blueprint.label>
+  <HotTub_Blueprint_Install.label>jacuzzi (plan)</HotTub_Blueprint_Install.label>
+  <HotTub_Frame.label>jacuzzi (budowa)</HotTub_Frame.label>
+  <HotTub_Frame.description>Gorąca wanna używana do hydroterapii, relaksu lub przyjemności. Przy pierwszym użyciu napełnia się wodą z wieży ciśnień. Samoczynnie się nagrzewa i nie wymaga odpływu ścieków..</HotTub_Frame.description>
+
+  <WashingMachine.label>pralka</WashingMachine.label>
+  <WashingMachine.description>Pierze ubrania tak dobrze, że nie można nawet powiedzieć, że ktoś umarł mając je na sobie!</WashingMachine.description>
+  <WashingMachine_Blueprint.label>pralka (plan)</WashingMachine_Blueprint.label>
+  <WashingMachine_Blueprint_Install.label>pralka (plan)</WashingMachine_Blueprint_Install.label>
+  <WashingMachine_Frame.label>pralka (budowa)</WashingMachine_Frame.label>
+  <WashingMachine_Frame.description>Pierze ubrania tak dobrze, że nie można nawet powiedzieć, że ktoś umarł mając je na sobie!</WashingMachine_Frame.description>
+
+  <DBHSaunaHeaterLog.label>Fueled Sauna Heater</DBHSaunaHeaterLog.label>
+  <DBHSaunaHeaterLog.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterLog.description>
+  <DBHSaunaHeaterLog_Blueprint.label>Fueled Sauna Heater (plan)</DBHSaunaHeaterLog_Blueprint.label>
+  <DBHSaunaHeaterLog_Blueprint_Install.label>Fueled Sauna Heater (plan)</DBHSaunaHeaterLog_Blueprint_Install.label>
+  <DBHSaunaHeaterLog_Frame.label>Fueled Sauna Heater (budowa)</DBHSaunaHeaterLog_Frame.label>
+  <DBHSaunaHeaterLog_Frame.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterLog_Frame.description>
+
+  <DBHSaunaHeaterElec.label>Elektryczny piec do sauny</DBHSaunaHeaterElec.label>
+  <DBHSaunaHeaterElec.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterElec.description>
+  <DBHSaunaHeaterElec_Blueprint.label>Elektryczny piec do sauny (plan)</DBHSaunaHeaterElec_Blueprint.label>
+  <DBHSaunaHeaterElec_Blueprint_Install.label>Elektryczny piec do sauny (plan)</DBHSaunaHeaterElec_Blueprint_Install.label>
+  <DBHSaunaHeaterElec_Frame.label>Elektryczny piec do sauny (budowa)</DBHSaunaHeaterElec_Frame.label>
+  <DBHSaunaHeaterElec_Frame.description>Piec zaprojektowany specjalnie do stworzenia pomieszczenia saunowego, regularne korzystanie z sauny zmniejsza ryzyko zawałów serca, nagrzewa pomieszczenie do 60c.</DBHSaunaHeaterElec_Frame.description>
+
+  <DBHSaunaSeating.label>Siedzenia w saunie</DBHSaunaSeating.label>
+  <DBHSaunaSeating.description>Listewki do saun</DBHSaunaSeating.description>
+
+
+</LanguageData>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WATER PUMPING -->
+
+  <WaterWellInlet.label>water well</WaterWellInlet.label>
+  <WaterWellInlet.description>Accesses ground water which can be pumped by water pumps. The presence of sewage or other pollution will reduce water quality and can cause contamination.</WaterWellInlet.description>
+  <WaterWellInlet_Blueprint.label>water well (blueprint)</WaterWellInlet_Blueprint.label>
+  <WaterWellInlet_Frame.label>water well (building)</WaterWellInlet_Frame.label>
+  <WaterWellInlet_Frame.description>Accesses ground water which can be pumped by water pumps. The presence of sewage or other pollution will reduce water quality and can cause contamination.</WaterWellInlet_Frame.description>
+
+  <DeepWaterWellInlet.label>deep water well</DeepWaterWellInlet.label>
+  <DeepWaterWellInlet.description>Accesses a large area of ground water which can be pumped by water pumps. Deep wells are unaffected by pollution.</DeepWaterWellInlet.description>
+  <DeepWaterWellInlet_Blueprint.label>deep water well (blueprint)</DeepWaterWellInlet_Blueprint.label>
+  <DeepWaterWellInlet_Frame.label>deep water well (building)</DeepWaterWellInlet_Frame.label>
+  <DeepWaterWellInlet_Frame.description>Accesses a large area of ground water which can be pumped by water pumps. Deep wells are unaffected by pollution.</DeepWaterWellInlet_Frame.description>
+
+  <WaterButt.label>water butt</WaterButt.label>
+  <WaterButt.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterButt.description>
+  <WaterButt_Blueprint.label>water butt (blueprint)</WaterButt_Blueprint.label>
+  <WaterButt_Blueprint_Install.label>water butt (blueprint)</WaterButt_Blueprint_Install.label>
+  <WaterButt_Frame.label>water butt (building)</WaterButt_Frame.label>
+  <WaterButt_Frame.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterButt_Frame.description>
+
+  <WaterTowerS.label>water tower</WaterTowerS.label>
+  <WaterTowerS.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerS.description>
+  <WaterTowerS_Blueprint.label>water tower (blueprint)</WaterTowerS_Blueprint.label>
+  <WaterTowerS_Frame.label>water tower (building)</WaterTowerS_Frame.label>
+  <WaterTowerS_Frame.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerS_Frame.description>
+
+  <WaterTowerL.label>huge water tower</WaterTowerL.label>
+  <WaterTowerL.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerL.description>
+  <WaterTowerL_Blueprint.label>huge water tower (blueprint)</WaterTowerL_Blueprint.label>
+  <WaterTowerL_Frame.label>huge water tower (building)</WaterTowerL_Frame.label>
+  <WaterTowerL_Frame.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerL_Frame.description>
+
+  <WindPump.label>wind pump</WindPump.label>
+  <WindPump.description>Pumps water from wells to water towers. Pumping capacity: 3000 L/day.</WindPump.description>
+  <WindPump_Blueprint.label>wind pump (blueprint)</WindPump_Blueprint.label>
+  <WindPump_Frame.label>wind pump (building)</WindPump_Frame.label>
+  <WindPump_Frame.description>Pumps water from wells to water towers. Pumping capacity: 3000 L/day.</WindPump_Frame.description>
+
+  <ElectricPump.label>electric pump</ElectricPump.label>
+  <ElectricPump.description>Pumps water from wells to water towers. Pumping capacity: 1500 L/day.</ElectricPump.description>
+  <ElectricPump_Blueprint.label>electric pump (blueprint)</ElectricPump_Blueprint.label>
+  <ElectricPump_Blueprint_Install.label>electric pump (blueprint)</ElectricPump_Blueprint_Install.label>
+  <ElectricPump_Frame.label>electric pump (building)</ElectricPump_Frame.label>
+  <ElectricPump_Frame.description>Pumps water from wells to water towers. Pumping capacity: 1500 L/day.</ElectricPump_Frame.description>
+
+  <PumpingStation.label>pumping station</PumpingStation.label>
+  <PumpingStation.description>Pumps water from wells to water towers. Pumping capacity: 10000 L/day.</PumpingStation.description>
+  <PumpingStation_Blueprint.label>pumping station (blueprint)</PumpingStation_Blueprint.label>
+  <PumpingStation_Frame.label>pumping station (building)</PumpingStation_Frame.label>
+  <PumpingStation_Frame.description>Pumps water from wells to water towers. Pumping capacity: 10000 L/day.</PumpingStation_Frame.description>
+
+  <SewageOutlet.label>sewage outlet</SewageOutlet.label>
+  <SewageOutlet.description>Can be placed anywhere. Sewage will pool and spread on land or disperse in water. Sewage cleans up over time; the presence of trees, water, or rain will speed this up.</SewageOutlet.description>
+  <SewageOutlet_Blueprint.label>sewage outlet (blueprint)</SewageOutlet_Blueprint.label>
+  <SewageOutlet_Frame.label>sewage outlet (building)</SewageOutlet_Frame.label>
+  <SewageOutlet_Frame.description>Can be placed anywhere. Sewage will pool and spread on land or disperse in water. Sewage cleans up over time; the presence of trees, water, or rain will speed this up.</SewageOutlet_Frame.description>
+
+  <SewageSepticTank.label>septic tank</SewageSepticTank.label>
+  <SewageSepticTank.description>Slowly cleans sewage over time. Sewage is directed to septic tanks first. If it reaches full capacity, excess sewage is sent to sewage outlets.</SewageSepticTank.description>
+  <SewageSepticTank_Blueprint.label>septic tank (blueprint)</SewageSepticTank_Blueprint.label>
+  <SewageSepticTank_Frame.label>septic tank (building)</SewageSepticTank_Frame.label>
+  <SewageSepticTank_Frame.description>Slowly cleans sewage over time. Sewage is directed to septic tanks first. If it reaches full capacity, excess sewage is sent to sewage outlets.</SewageSepticTank_Frame.description>
+
+  <SewageTreatment.label>sewage treatment</SewageTreatment.label>
+  <SewageTreatment.description>Slowly cleans sewage over time. If it reaches full capacity then excess sewage is sent directly to sewage outlets without treatment.</SewageTreatment.description>
+  <SewageTreatment_Blueprint.label>sewage treatment (blueprint)</SewageTreatment_Blueprint.label>
+  <SewageTreatment_Frame.label>sewage treatment (building)</SewageTreatment_Frame.label>
+  <SewageTreatment_Frame.description>Slowly cleans sewage over time. If it reaches full capacity then excess sewage is sent directly to sewage outlets without treatment.</SewageTreatment_Frame.description>
+
+  <WaterTreatment.label>water treatment</WaterTreatment.label>
+  <WaterTreatment.description>Cleans 99.99% of germs! Filters existing water in storage towers, and any water used by fixtures, eliminating the risk of disease.</WaterTreatment.description>
+  <WaterTreatment_Blueprint.label>water treatment (blueprint)</WaterTreatment_Blueprint.label>
+  <WaterTreatment_Frame.label>water treatment (building)</WaterTreatment_Frame.label>
+  <WaterTreatment_Frame.description>Cleans 99.99% of germs! Filters existing water in storage towers, and any water used by fixtures, eliminating the risk of disease.</WaterTreatment_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlaceFertilizer.label>fertilize</PlaceFertilizer.label>
+  <PlaceFertilizer.verb>fertilize</PlaceFertilizer.verb>
+  <PlaceFertilizer.gerund>fertilizing</PlaceFertilizer.gerund>
+
+  <TipSewage.label>tip sewage</TipSewage.label>
+  <TipSewage.verb>tip Sewage</TipSewage.verb>
+  <TipSewage.gerund>tipping over</TipSewage.gerund>
+
+  <DrainWaterTank.label>drain water</DrainWaterTank.label>
+  <DrainWaterTank.verb>drain</DrainWaterTank.verb>
+  <DrainWaterTank.gerund>draining</DrainWaterTank.gerund>
+
+  <DBHAdministerFluids.label>administer fluids</DBHAdministerFluids.label>
+  <DBHAdministerFluids.verb>give drink</DBHAdministerFluids.verb>
+  <DBHAdministerFluids.gerund>serving drink</DBHAdministerFluids.gerund>
+
+  <DBHAdministerFluidsWarden.label>administer fluids</DBHAdministerFluidsWarden.label>
+  <DBHAdministerFluidsWarden.verb>give drink</DBHAdministerFluidsWarden.verb>
+  <DBHAdministerFluidsWarden.gerund>serving drink</DBHAdministerFluidsWarden.gerund>
+
+  <ClearBlockage.label>clear blockage</ClearBlockage.label>
+  <ClearBlockage.verb>clear blockage</ClearBlockage.verb>
+  <ClearBlockage.gerund>clearing blockage</ClearBlockage.gerund>
+
+  <washPatient.label>wash patient</washPatient.label>
+  <washPatient.verb>wash</washPatient.verb>
+  <washPatient.gerund>washing</washPatient.gerund>
+
+  <DocCleanBedpan.label>clean bed pan</DocCleanBedpan.label>
+  <DocCleanBedpan.verb>clean</DocCleanBedpan.verb>
+  <DocCleanBedpan.gerund>cleaning</DocCleanBedpan.gerund>
+
+  <cleanBedpan.label>clean bed pan</cleanBedpan.label>
+  <cleanBedpan.verb>clean</cleanBedpan.verb>
+  <cleanBedpan.gerund>cleaning</cleanBedpan.gerund>
+
+
+</LanguageData>

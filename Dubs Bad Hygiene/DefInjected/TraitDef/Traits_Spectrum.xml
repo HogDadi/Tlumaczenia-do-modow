@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hygienic.degreeDatas.0.label>germafobia</Hygienic.degreeDatas.0.label>
+  <Hygienic.degreeDatas.0.description>{PAWN_nameDef} ma obsesję na punkcie zarazków i będzie myć się znacznie częściej niż inni.</Hygienic.degreeDatas.0.description>
+  <Hygienic.degreeDatas.1.label>higieniczn{PAWN_gender ? y : a}</Hygienic.degreeDatas.1.label>
+  <Hygienic.degreeDatas.1.description>{PAWN_nameDef} jest bardzo higieniczn{PAWN_gender ? y : a} i będzie my{PAWN_gender ? ł : ła} się częściej.</Hygienic.degreeDatas.1.description>
+  <Hygienic.degreeDatas.2.label>niehigieniczn{PAWN_gender ? y : a}</Hygienic.degreeDatas.2.label>
+  <Hygienic.degreeDatas.2.description>{PAWN_nameDef} jest bardzo niehigieniczn{PAWN_gender ? y : a} i będzie my{PAWN_gender ? ł : ła} się znacznie rzadziej.</Hygienic.degreeDatas.2.description>
+  <Hygienic.degreeDatas.3.label>niechluj{PAWN_gender ? y : a}</Hygienic.degreeDatas.3.label>
+  <Hygienic.degreeDatas.3.description>{PAWN_nameDef} ma bardzo niskie standardy czystości i myje się tylko wtedy, gdy absolutnie musi.</Hygienic.degreeDatas.3.description>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: mosaic tile -->
+<DBHMosaicTile.label>mozaikowa płytka</DBHMosaicTile.label>
+<!-- EN: Steel tiles in a mosaic pattern, stylish in bathrooms or kitchens. -->
+<DBHMosaicTile.description>Stalowe płytki w mozaikowy wzór, pasujące w łazience lub kuchni.</DBHMosaicTile.description>
+
+<!-- EN: sandstone flagstone -->
+<DBHMosaicSandstone.label>płytka chodnikowa z piaskowca</DBHMosaicSandstone.label>
+<!-- EN: Carefully-cut and fit stone tiles in a mosaic pattern, stylish in bathrooms or kitchens. -->
+<DBHMosaicSandstone.description>Starannie docięte i dopasowane kamienne płytki w mozaikowy wzór, pasujące w łazience lub kuchni.</DBHMosaicSandstone.description>
+
+<!-- EN: granite flagstone -->
+<DBHMosaicGranite.label>płytka chodnikowa z granitu</DBHMosaicGranite.label>
+<!-- EN: Carefully-cut and fit stone tiles in a mosaic pattern, stylish in bathrooms or kitchens. -->
+<DBHMosaicGranite.description>Starannie docięte i dopasowane kamienne płytki w mozaikowy wzór, pasujące w łazience lub kuchni.</DBHMosaicGranite.description>
+
+<!-- EN: limestone flagstone -->
+<DBHMosaicLimestone.label>płytka chodnikowa z wapienia</DBHMosaicLimestone.label>
+<!-- EN: Carefully-cut and fit stone tiles in a mosaic pattern, stylish in bathrooms or kitchens. -->
+<DBHMosaicLimestone.description>Starannie docięte i dopasowane kamienne płytki w mozaikowy wzór, pasujące w łazience lub kuchni.</DBHMosaicLimestone.description>
+
+<!-- EN: slate flagstone -->
+<DBHMosaicSlate.label>płytka chodnikowa z łupku</DBHMosaicSlate.label>
+<!-- EN: Carefully-cut and fit stone tiles in a mosaic pattern, stylish in bathrooms or kitchens. -->
+<DBHMosaicSlate.description>Starannie docięte i dopasowane kamienne płytki w mozaikowy wzór, pasujące w łazience lub kuchni.</DBHMosaicSlate.description>
+
+<!-- EN: marble flagstone -->
+<DBHMosaicMarble.label>płytka chodnikowa z marmuru</DBHMosaicMarble.label>
+<!-- EN: Carefully-cut and fit stone tiles in a mosaic pattern, stylish in bathrooms or kitchens. -->
+<DBHMosaicMarble.description>Starannie docięte i dopasowane kamienne płytki w mozaikowy wzór, pasujące w łazience lub kuchni.</DBHMosaicMarble.description>
+
+
+</LanguageData>

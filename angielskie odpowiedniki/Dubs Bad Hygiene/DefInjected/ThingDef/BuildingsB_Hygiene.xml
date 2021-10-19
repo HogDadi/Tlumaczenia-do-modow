@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ToiletStallDoor.label>stall door</ToiletStallDoor.label>
+  <ToiletStallDoor.description>Thin door which only blocks line of sight to people using bathroom fixtures. Does not create new rooms or prevent heat loss.</ToiletStallDoor.description>
+  <ToiletStallDoor_Blueprint.label>stall door (blueprint)</ToiletStallDoor_Blueprint.label>
+  <ToiletStallDoor_Frame.label>stall door (building)</ToiletStallDoor_Frame.label>
+  <ToiletStallDoor_Frame.description>Thin door which only blocks line of sight to people using bathroom fixtures. Does not create new rooms or prevent heat loss.</ToiletStallDoor_Frame.description>
+
+
+  <!-- Low Tech Stuff -->
+
+  <PitLatrine.label>latrine</PitLatrine.label>
+  <PitLatrine.description>A pit latrine that collects faeces in a hole in the ground. Must be emptied manually, or can be plumbed.\n14L per use</PitLatrine.description>
+  <PitLatrine_Blueprint.label>latrine (blueprint)</PitLatrine_Blueprint.label>
+  <PitLatrine_Blueprint_Install.label>latrine (blueprint)</PitLatrine_Blueprint_Install.label>
+  <PitLatrine_Frame.label>latrine (building)</PitLatrine_Frame.label>
+  <PitLatrine_Frame.description>A pit latrine that collects faeces in a hole in the ground. Must be emptied manually, or can be plumbed.\n14L per use</PitLatrine_Frame.description>
+
+  <PrimitiveWell.label>primitive well</PrimitiveWell.label>
+  <PrimitiveWell.description>Accesses ground water. Water must be hauled to a water tub before it can be used for washing or drinking.</PrimitiveWell.description>
+  <PrimitiveWell_Blueprint.label>primitive well (blueprint)</PrimitiveWell_Blueprint.label>
+  <PrimitiveWell_Frame.label>primitive well (building)</PrimitiveWell_Frame.label>
+  <PrimitiveWell_Frame.description>Accesses ground water. Water must be hauled to a water tub before it can be used for washing or drinking.</PrimitiveWell_Frame.description>
+
+  <WashBucket.label>water tub</WashBucket.label>
+  <WashBucket.description>Tub of water used for personal hygiene. Must be regularly refilled with fresh water, also fills with rain water. Can also be used for drinking if thirst is enabled.</WashBucket.description>
+  <WashBucket_Blueprint.label>water tub (blueprint)</WashBucket_Blueprint.label>
+  <WashBucket_Blueprint_Install.label>water tub (blueprint)</WashBucket_Blueprint_Install.label>
+  <WashBucket_Frame.label>water tub (building)</WashBucket_Frame.label>
+  <WashBucket_Frame.description>Tub of water used for personal hygiene. Must be regularly refilled with fresh water, also fills with rain water. Can also be used for drinking if thirst is enabled.</WashBucket_Frame.description>
+
+  <WaterTrough.label>Water Trough</WaterTrough.label>
+  <WaterTrough.description>Trough of water used by animals, a service box with a ballcock valve automatically refills the water when the level is low, also refills in rain.</WaterTrough.description>
+  <WaterTrough_Blueprint.label>Water Trough (blueprint)</WaterTrough_Blueprint.label>
+  <WaterTrough_Blueprint_Install.label>Water Trough (blueprint)</WaterTrough_Blueprint_Install.label>
+  <WaterTrough_Frame.label>Water Trough (building)</WaterTrough_Frame.label>
+  <WaterTrough_Frame.description>Trough of water used by animals, a service box with a ballcock valve automatically refills the water when the level is low, also refills in rain.</WaterTrough_Frame.description>
+
+  <PetWaterBowl.label>Water Bowl</PetWaterBowl.label>
+  <PetWaterBowl.description>Bowl of water used by animals.</PetWaterBowl.description>
+  <PetWaterBowl_Blueprint.label>Water Bowl (blueprint)</PetWaterBowl_Blueprint.label>
+  <PetWaterBowl_Blueprint_Install.label>Water Bowl (blueprint)</PetWaterBowl_Blueprint_Install.label>
+  <PetWaterBowl_Frame.label>Water Bowl (building)</PetWaterBowl_Frame.label>
+  <PetWaterBowl_Frame.description>Bowl of water used by animals.</PetWaterBowl_Frame.description>
+
+  <LitterBox.label>litter box</LitterBox.label>
+  <LitterBox.description>An indoor faeces and urine collection box for small animals.</LitterBox.description>
+  <LitterBox_Blueprint.label>litter box (blueprint)</LitterBox_Blueprint.label>
+  <LitterBox_Blueprint_Install.label>litter box (blueprint)</LitterBox_Blueprint_Install.label>
+  <LitterBox_Frame.label>litter box (building)</LitterBox_Frame.label>
+  <LitterBox_Frame.description>An indoor faeces and urine collection box for small animals.</LitterBox_Frame.description>
+
+  <BurnPit.label>burn pit</BurnPit.label>
+  <BurnPit.description>Eliminates fecal sludge by burning it as fuel. Can also be used for disposing of corpses or other detritus. Colonists may become sick if they spend too long near burning waste.</BurnPit.description>
+  <BurnPit_Blueprint.label>burn pit (blueprint)</BurnPit_Blueprint.label>
+  <BurnPit_Frame.label>burn pit (building)</BurnPit_Frame.label>
+  <BurnPit_Frame.description>Eliminates fecal sludge by burning it as fuel. Can also be used for disposing of corpses or other detritus. Colonists may become sick if they spend too long near burning waste.</BurnPit_Frame.description>
+
+
+  <!-- Basins -->
+
+  <BasinStuff.label>basin</BasinStuff.label>
+  <BasinStuff.description>Clean and simple bathroom basin for keeping your hands clean after using the toilet.</BasinStuff.description>
+  <BasinStuff_Blueprint.label>basin (blueprint)</BasinStuff_Blueprint.label>
+  <BasinStuff_Blueprint_Install.label>basin (blueprint)</BasinStuff_Blueprint_Install.label>
+  <BasinStuff_Frame.label>basin (building)</BasinStuff_Frame.label>
+  <BasinStuff_Frame.description>Clean and simple bathroom basin for keeping your hands clean after using the toilet.</BasinStuff_Frame.description>
+
+  <Fountain.label>fountain</Fountain.label>
+  <Fountain.description>A water fountain used for drinking and washing.</Fountain.description>
+  <Fountain_Blueprint.label>fountain (blueprint)</Fountain_Blueprint.label>
+  <Fountain_Blueprint_Install.label>fountain (blueprint)</Fountain_Blueprint_Install.label>
+  <Fountain_Frame.label>fountain (building)</Fountain_Frame.label>
+  <Fountain_Frame.description>A water fountain used for drinking and washing.</Fountain_Frame.description>
+
+  <KitchenSink.label>kitchen sink</KitchenSink.label>
+  <KitchenSink.description>Everything but a kitchen sink. Increases room cleanliness.</KitchenSink.description>
+  <KitchenSink_Blueprint.label>kitchen sink (blueprint)</KitchenSink_Blueprint.label>
+  <KitchenSink_Blueprint_Install.label>kitchen sink (blueprint)</KitchenSink_Blueprint_Install.label>
+  <KitchenSink_Frame.label>kitchen sink (building)</KitchenSink_Frame.label>
+  <KitchenSink_Frame.description>Everything but a kitchen sink. Increases room cleanliness.</KitchenSink_Frame.description>
+
+
+  <!-- Toilets -->
+
+  <ToiletStuff.label>toilet</ToiletStuff.label>
+  <ToiletStuff.description>Sanitation fixture used for the disposal of human urine and faeces.\n14L per use</ToiletStuff.description>
+  <ToiletStuff_Blueprint.label>toilet (blueprint)</ToiletStuff_Blueprint.label>
+  <ToiletStuff_Blueprint_Install.label>toilet (blueprint)</ToiletStuff_Blueprint_Install.label>
+  <ToiletStuff_Frame.label>toilet (building)</ToiletStuff_Frame.label>
+  <ToiletStuff_Frame.description>Sanitation fixture used for the disposal of human urine and faeces.\n14L per use</ToiletStuff_Frame.description>
+
+  <ToiletAdv.description>Comfortable, self cleaning, unblockable, super efficient smart toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.\n7L per use</ToiletAdv.description>
+  <ToiletAdv_Blueprint.label>ToiletAdv (blueprint)</ToiletAdv_Blueprint.label>
+  <ToiletAdv_Blueprint_Install.label>ToiletAdv (blueprint)</ToiletAdv_Blueprint_Install.label>
+  <ToiletAdv_Frame.label>ToiletAdv (building)</ToiletAdv_Frame.label>
+  <ToiletAdv_Frame.description>Comfortable, self cleaning, unblockable, super efficient smart toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.\n7L per use</ToiletAdv_Frame.description>
+
+  <ToiletAdvStuff.label>smart toilet</ToiletAdvStuff.label>
+  <ToiletAdvStuff.description>Comfortable, self cleaning, unblockable, super efficient smart toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.\n7L per use</ToiletAdvStuff.description>
+  <ToiletAdvStuff_Blueprint.label>smart toilet (blueprint)</ToiletAdvStuff_Blueprint.label>
+  <ToiletAdvStuff_Blueprint_Install.label>smart toilet (blueprint)</ToiletAdvStuff_Blueprint_Install.label>
+  <ToiletAdvStuff_Frame.label>smart toilet (building)</ToiletAdvStuff_Frame.label>
+  <ToiletAdvStuff_Frame.description>Comfortable, self cleaning, unblockable, super efficient smart toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.\n7L per use</ToiletAdvStuff_Frame.description>
+
+
+  <!-- Baths -->
+
+  <BathMat.label>Bath Mat</BathMat.label>
+  <BathMat.description>A small mat used next to a bathtub to absorb water.</BathMat.description>
+  <BathMat_Blueprint.label>Bath Mat (blueprint)</BathMat_Blueprint.label>
+  <BathMat_Blueprint_Install.label>Bath Mat (blueprint)</BathMat_Blueprint_Install.label>
+  <BathMat_Frame.label>Bath Mat (building)</BathMat_Frame.label>
+  <BathMat_Frame.description>A small mat used next to a bathtub to absorb water.</BathMat_Frame.description>
+
+  <BathtubStuff.label>bathtub</BathtubStuff.label>
+  <BathtubStuff.description>Slow to use, but very comfortable. Can be heated by placing an adjacent campfire or log boiler, or via plumbed hot water tanks. Does not require a sewage outlet.\n190L per wash</BathtubStuff.description>
+  <BathtubStuff_Blueprint.label>bathtub (blueprint)</BathtubStuff_Blueprint.label>
+  <BathtubStuff_Blueprint_Install.label>bathtub (blueprint)</BathtubStuff_Blueprint_Install.label>
+  <BathtubStuff_Frame.label>bathtub (building)</BathtubStuff_Frame.label>
+  <BathtubStuff_Frame.description>Slow to use, but very comfortable. Can be heated by placing an adjacent campfire or log boiler, or via plumbed hot water tanks. Does not require a sewage outlet.\n190L per wash</BathtubStuff_Frame.description>
+
+
+  <!-- Showers -->
+
+  <ShowerStuff.label>shower</ShowerStuff.label>
+  <ShowerStuff.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerStuff.description>
+  <ShowerStuff_Blueprint.label>shower (blueprint)</ShowerStuff_Blueprint.label>
+  <ShowerStuff_Blueprint_Install.label>shower (blueprint)</ShowerStuff_Blueprint_Install.label>
+  <ShowerStuff_Frame.label>shower (building)</ShowerStuff_Frame.label>
+  <ShowerStuff_Frame.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerStuff_Frame.description>
+
+  <ShowerSimple.label>simple shower</ShowerSimple.label>
+  <ShowerSimple.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerSimple.description>
+  <ShowerSimple_Blueprint.label>simple shower (blueprint)</ShowerSimple_Blueprint.label>
+  <ShowerSimple_Blueprint_Install.label>simple shower (blueprint)</ShowerSimple_Blueprint_Install.label>
+  <ShowerSimple_Frame.label>simple shower (building)</ShowerSimple_Frame.label>
+  <ShowerSimple_Frame.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerSimple_Frame.description>
+
+  <ShowerAdvStuff.label>power shower</ShowerAdvStuff.label>
+  <ShowerAdvStuff.description>Heats water on demand and does not need a hot water tank, cleans twice as fast\n90L per wash</ShowerAdvStuff.description>
+  <ShowerAdvStuff_Blueprint.label>power shower (blueprint)</ShowerAdvStuff_Blueprint.label>
+  <ShowerAdvStuff_Blueprint_Install.label>power shower (blueprint)</ShowerAdvStuff_Blueprint_Install.label>
+  <ShowerAdvStuff_Frame.label>power shower (building)</ShowerAdvStuff_Frame.label>
+  <ShowerAdvStuff_Frame.description>Heats water on demand and does not need a hot water tank, cleans twice as fast\n90L per wash</ShowerAdvStuff_Frame.description>
+
+
+</LanguageData>

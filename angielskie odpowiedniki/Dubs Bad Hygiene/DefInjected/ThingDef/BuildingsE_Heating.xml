@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Heating -->
+
+  <Thermostat.label>thermostat</Thermostat.label>
+  <Thermostat.description>Used to control electric and gas boilers. More than one can be placed. Connects via standard plumbing.</Thermostat.description>
+  <Thermostat_Blueprint.label>thermostat (blueprint)</Thermostat_Blueprint.label>
+  <Thermostat_Blueprint_Install.label>thermostat (blueprint)</Thermostat_Blueprint_Install.label>
+  <Thermostat_Frame.label>thermostat (building)</Thermostat_Frame.label>
+  <Thermostat_Frame.description>Used to control electric and gas boilers. More than one can be placed. Connects via standard plumbing.</Thermostat_Frame.description>
+
+  <LogBoiler.label>log boiler</LogBoiler.label>
+  <LogBoiler.description>Produces 2000 heating units for piped radiators and hot water tanks. Heats the room and adjacent baths. Requires wood logs for fuel.</LogBoiler.description>
+  <LogBoiler_Blueprint.label>log boiler (blueprint)</LogBoiler_Blueprint.label>
+  <LogBoiler_Blueprint_Install.label>log boiler (blueprint)</LogBoiler_Blueprint_Install.label>
+  <LogBoiler_Frame.label>log boiler (building)</LogBoiler_Frame.label>
+  <LogBoiler_Frame.description>Produces 2000 heating units for piped radiators and hot water tanks. Heats the room and adjacent baths. Requires wood logs for fuel.</LogBoiler_Frame.description>
+
+  <GasBoiler.label>gas boiler</GasBoiler.label>
+  <GasBoiler.description>Produces 2000 heating units for radiators and hot water tanks. Requires chemfuel for fuel. Can be controlled by thermostats.</GasBoiler.description>
+  <GasBoiler_Blueprint.label>gas boiler (blueprint)</GasBoiler_Blueprint.label>
+  <GasBoiler_Blueprint_Install.label>gas boiler (blueprint)</GasBoiler_Blueprint_Install.label>
+  <GasBoiler_Frame.label>gas boiler (building)</GasBoiler_Frame.label>
+  <GasBoiler_Frame.description>Produces 2000 heating units for radiators and hot water tanks. Requires chemfuel for fuel. Can be controlled by thermostats.</GasBoiler_Frame.description>
+
+  <ElectricBoiler.label>electric boiler</ElectricBoiler.label>
+  <ElectricBoiler.description>Produces a variable amount of heating units for radiators and hot water tanks. Manually controlled power setting. Can be controlled by thermostats.</ElectricBoiler.description>
+  <ElectricBoiler_Blueprint.label>electric boiler (blueprint)</ElectricBoiler_Blueprint.label>
+  <ElectricBoiler_Blueprint_Install.label>electric boiler (blueprint)</ElectricBoiler_Blueprint_Install.label>
+  <ElectricBoiler_Frame.label>electric boiler (building)</ElectricBoiler_Frame.label>
+  <ElectricBoiler_Frame.description>Produces a variable amount of heating units for radiators and hot water tanks. Manually controlled power setting. Can be controlled by thermostats.</ElectricBoiler_Frame.description>
+
+  <SolarHeater.label>solar heater</SolarHeater.label>
+  <SolarHeater.description>Uses sunlight to heat hot water tanks and radiators. 0-2000 units of heating power depending on light level and ambient temperature.</SolarHeater.description>
+  <SolarHeater_Blueprint.label>solar heater (blueprint)</SolarHeater_Blueprint.label>
+  <SolarHeater_Frame.label>solar heater (building)</SolarHeater_Frame.label>
+  <SolarHeater_Frame.description>Uses sunlight to heat hot water tanks and radiators. 0-2000 units of heating power depending on light level and ambient temperature.</SolarHeater_Frame.description>
+
+  <GeothermHeater.label>Geothermal heater</GeothermHeater.label>
+  <GeothermHeater.description>Uses geothermal heat to heat hot water tanks and radiators. 3700 units of heating.</GeothermHeater.description>
+  <GeothermHeater_Blueprint.label>Geothermal heater (blueprint)</GeothermHeater_Blueprint.label>
+  <GeothermHeater_Frame.label>Geothermal heater (building)</GeothermHeater_Frame.label>
+  <GeothermHeater_Frame.description>Uses geothermal heat to heat hot water tanks and radiators. 3700 units of heating.</GeothermHeater_Frame.description>
+
+  <HotWaterTank.label>hot water tank</HotWaterTank.label>
+  <HotWaterTank.description>Stores hot running water for showers and baths. Connect to any boiler to heat.</HotWaterTank.description>
+  <HotWaterTank_Blueprint.label>hot water tank (blueprint)</HotWaterTank_Blueprint.label>
+  <HotWaterTank_Blueprint_Install.label>hot water tank (blueprint)</HotWaterTank_Blueprint_Install.label>
+  <HotWaterTank_Frame.label>hot water tank (building)</HotWaterTank_Frame.label>
+  <HotWaterTank_Frame.description>Stores hot running water for showers and baths. Connect to any boiler to heat.</HotWaterTank_Frame.description>
+
+  <RadiatorStuffed.label>radiator</RadiatorStuffed.label>
+  <RadiatorStuffed.description>Heats rooms using hot water from boilers. Requires 100 heating units.</RadiatorStuffed.description>
+  <RadiatorStuffed_Blueprint.label>radiator (blueprint)</RadiatorStuffed_Blueprint.label>
+  <RadiatorStuffed_Blueprint_Install.label>radiator (blueprint)</RadiatorStuffed_Blueprint_Install.label>
+  <RadiatorStuffed_Frame.label>radiator (building)</RadiatorStuffed_Frame.label>
+  <RadiatorStuffed_Frame.description>Heats rooms using hot water from boilers. Requires 100 heating units.</RadiatorStuffed_Frame.description>
+
+  <RadiatorLarge.label>large radiator</RadiatorLarge.label>
+  <RadiatorLarge.description>Three times the output of a standard radiator. Useful for larger rooms. Requires 300 heating units.</RadiatorLarge.description>
+  <RadiatorLarge_Blueprint.label>large radiator (blueprint)</RadiatorLarge_Blueprint.label>
+  <RadiatorLarge_Blueprint_Install.label>large radiator (blueprint)</RadiatorLarge_Blueprint_Install.label>
+  <RadiatorLarge_Frame.label>large radiator (building)</RadiatorLarge_Frame.label>
+  <RadiatorLarge_Frame.description>Three times the output of a standard radiator. Useful for larger rooms. Requires 300 heating units.</RadiatorLarge_Frame.description>
+
+  <RadiatorTowelRail.label>Towel Rail</RadiatorTowelRail.label>
+  <RadiatorTowelRail.description>Impressive bathroom towel rail.</RadiatorTowelRail.description>
+  <RadiatorTowelRail_Blueprint.label>Towel Rail (blueprint)</RadiatorTowelRail_Blueprint.label>
+  <RadiatorTowelRail_Blueprint_Install.label>Towel Rail (blueprint)</RadiatorTowelRail_Blueprint_Install.label>
+  <RadiatorTowelRail_Frame.label>Towel Rail (building)</RadiatorTowelRail_Frame.label>
+  <RadiatorTowelRail_Frame.description>Impressive bathroom towel rail.</RadiatorTowelRail_Frame.description>
+
+
+  <!-- COOLING -->
+
+  <CeilingFan.label>ceiling fan 2x2</CeilingFan.label>
+  <CeilingFan.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFan.description>
+  <CeilingFan_Blueprint.label>ceiling fan 2x2 (blueprint)</CeilingFan_Blueprint.label>
+  <CeilingFan_Blueprint_Install.label>ceiling fan 2x2 (blueprint)</CeilingFan_Blueprint_Install.label>
+  <CeilingFan_Frame.label>ceiling fan 2x2 (building)</CeilingFan_Frame.label>
+  <CeilingFan_Frame.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFan_Frame.description>
+
+  <CeilingFanS.label>ceiling fan 1x1</CeilingFanS.label>
+  <CeilingFanS.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFanS.description>
+  <CeilingFanS_Blueprint.label>ceiling fan 1x1 (blueprint)</CeilingFanS_Blueprint.label>
+  <CeilingFanS_Blueprint_Install.label>ceiling fan 1x1 (blueprint)</CeilingFanS_Blueprint_Install.label>
+  <CeilingFanS_Frame.label>ceiling fan 1x1 (building)</CeilingFanS_Frame.label>
+  <CeilingFanS_Frame.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFanS_Frame.description>
+
+  <CeilingFanDarklight.label>ceiling fan 2x2 (dark)</CeilingFanDarklight.label>
+  <CeilingFanDarklight.description>Cools a room by circulating air. Includes a built-in Darklight lamp.</CeilingFanDarklight.description>
+  <CeilingFanDarklight_Blueprint.label>ceiling fan 2x2 (dark) (blueprint)</CeilingFanDarklight_Blueprint.label>
+  <CeilingFanDarklight_Blueprint_Install.label>ceiling fan 2x2 (dark) (blueprint)</CeilingFanDarklight_Blueprint_Install.label>
+  <CeilingFanDarklight_Frame.label>ceiling fan 2x2 (dark) (building)</CeilingFanDarklight_Frame.label>
+  <CeilingFanDarklight_Frame.description>Cools a room by circulating air. Includes a built-in Darklight lamp.</CeilingFanDarklight_Frame.description>
+
+  <CeilingFanSDarklight.label>ceiling fan 1x1 (dark)</CeilingFanSDarklight.label>
+  <CeilingFanSDarklight.description>Cools a room by circulating air. Includes a built-in Darklight lamp.</CeilingFanSDarklight.description>
+  <CeilingFanSDarklight_Blueprint.label>ceiling fan 1x1 (dark) (blueprint)</CeilingFanSDarklight_Blueprint.label>
+  <CeilingFanSDarklight_Blueprint_Install.label>ceiling fan 1x1 (dark) (blueprint)</CeilingFanSDarklight_Blueprint_Install.label>
+  <CeilingFanSDarklight_Frame.label>ceiling fan 1x1 (dark) (building)</CeilingFanSDarklight_Frame.label>
+  <CeilingFanSDarklight_Frame.description>Cools a room by circulating air. Includes a built-in Darklight lamp.</CeilingFanSDarklight_Frame.description>
+
+  <AirConOutdoorUnit.label>air-con outdoor unit</AirConOutdoorUnit.label>
+  <AirConOutdoorUnit.description>Multi-split air conditioner unit. Place outdoors and pipe to indoor units or freezer units. Power mode selection with 100-1000 cooling units capacity.</AirConOutdoorUnit.description>
+  <AirConOutdoorUnit_Blueprint.label>air-con outdoor unit (blueprint)</AirConOutdoorUnit_Blueprint.label>
+  <AirConOutdoorUnit_Blueprint_Install.label>air-con outdoor unit (blueprint)</AirConOutdoorUnit_Blueprint_Install.label>
+  <AirConOutdoorUnit_Frame.label>air-con outdoor unit (building)</AirConOutdoorUnit_Frame.label>
+  <AirConOutdoorUnit_Frame.description>Multi-split air conditioner unit. Place outdoors and pipe to indoor units or freezer units. Power mode selection with 100-1000 cooling units capacity.</AirConOutdoorUnit_Frame.description>
+
+  <AirconIndoorUnit.label>air-con indoor unit</AirconIndoorUnit.label>
+  <AirconIndoorUnit.description>Indoor air-con unit for rooms. Connect to outdoor air-con units. Requires 100 cooling units.</AirconIndoorUnit.description>
+  <AirconIndoorUnit_Blueprint.label>air-con indoor unit (blueprint)</AirconIndoorUnit_Blueprint.label>
+  <AirconIndoorUnit_Blueprint_Install.label>air-con indoor unit (blueprint)</AirconIndoorUnit_Blueprint_Install.label>
+  <AirconIndoorUnit_Frame.label>air-con indoor unit (building)</AirconIndoorUnit_Frame.label>
+  <AirconIndoorUnit_Frame.description>Indoor air-con unit for rooms. Connect to outdoor air-con units. Requires 100 cooling units.</AirconIndoorUnit_Frame.description>
+
+  <FreezerUnit.label>walk-in freezer unit</FreezerUnit.label>
+  <FreezerUnit.description>Freezer unit for creating a walk-in freezer. Connect to outdoor air-con units. Requires 300 cooling units.</FreezerUnit.description>
+  <FreezerUnit_Blueprint.label>walk-in freezer unit (blueprint)</FreezerUnit_Blueprint.label>
+  <FreezerUnit_Blueprint_Install.label>walk-in freezer unit (blueprint)</FreezerUnit_Blueprint_Install.label>
+  <FreezerUnit_Frame.label>walk-in freezer unit (building)</FreezerUnit_Frame.label>
+  <FreezerUnit_Frame.description>Freezer unit for creating a walk-in freezer. Connect to outdoor air-con units. Requires 300 cooling units.</FreezerUnit_Frame.description>
+
+
+</LanguageData>
