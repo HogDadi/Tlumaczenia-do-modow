@@ -4,34 +4,34 @@
   <!-- Added body parts -->
 
   <AdvancedPowerArm.label>Zaawansowane ramię mocy</AdvancedPowerArm.label>
-  <AdvancedPowerArm.Description>Jeszcze więcej niezrównanej mocy i zręczności wraz z zabójczymi ostrzami. Teraz to się nazywa ostateczne ulepszenie!</AdvancedPowerArm.Description>
+  <AdvancedPowerArm.description>Jeszcze więcej niezrównanej mocy i zręczności wraz z zabójczymi ostrzami. Teraz to się nazywa ostateczne ulepszenie!</AdvancedPowerArm.description>
 
   <AdvancedPowerClaw.label>Zaawansowany pazur mocy</AdvancedPowerClaw.label>
   <AdvancedPowerClaw.description>Ten pazur może kroić kamienie.</AdvancedPowerClaw.description>
 
   <AdvancedBionicHand.label>Zaawansowana bioniczna dłoń</AdvancedBionicHand.label>
-  <AdvancedBionicHand.Description>Niektórzy daliby swoje dłonie obciąć tylko po ty, aby otrzymać taki kawał technologii.</AdvancedBionicHand.Description>
+  <AdvancedBionicHand.description>Niektórzy daliby swoje dłonie obciąć tylko po ty, aby otrzymać taki kawał technologii.</AdvancedBionicHand.description>
 
   <AdvancedBionicArm.label>Zaawansowane bioniczne ramię</AdvancedBionicArm.label>
-  <AdvancedBionicArm.Description>Pamiętasz jak zmagałeś się z otwieraniem słoików? Teraz będziesz borykał się z ciągle tłukącymi się słoikami!</AdvancedBionicArm.Description>
+  <AdvancedBionicArm.description>Pamiętasz jak zmagałeś się z otwieraniem słoików? Teraz będziesz borykał się z ciągle tłukącymi się słoikami!</AdvancedBionicArm.description>
 
   <AdvancedBionicLeg.label>Zaawansowana bioniczna noga</AdvancedBionicLeg.label>
-  <AdvancedBionicLeg.Description>Imponująca technologia pozwala poruszać się szybciej niż kiedykolwiek wcześniej.</AdvancedBionicLeg.Description>
+  <AdvancedBionicLeg.description>Imponująca technologia pozwala poruszać się szybciej niż kiedykolwiek wcześniej.</AdvancedBionicLeg.description>
 
   <AdvancedBionicFoot.label>Zaawansowane bioniczna stopa</AdvancedBionicFoot.label>
-  <AdvancedBionicFoot.Description>Dziesiątki siłowników usprawniają poruszanie się i sprawiają wiele komfortu.</AdvancedBionicFoot.Description>
+  <AdvancedBionicFoot.description>Dziesiątki siłowników usprawniają poruszanie się i sprawiają wiele komfortu.</AdvancedBionicFoot.description>
 
   <AdvancedBionicEar.label>Zaawansowane bioniczne ucho</AdvancedBionicEar.label>
-  <AdvancedBionicEar.Description>Urządzenie pozwalające słyszeć lepiej niż nietoperze.</AdvancedBionicEar.Description>
+  <AdvancedBionicEar.description>Urządzenie pozwalające słyszeć lepiej niż nietoperze.</AdvancedBionicEar.description>
 
   <AdvancedBionicJaw.label>Zaawansowana bioniczna szczęka</AdvancedBionicJaw.label>
-  <AdvancedBionicJaw.Description>Dźwięk jaki wytwarza jest tak piękny, że nawet mechanoidy zatrzymują się, aby posłuchać.</AdvancedBionicJaw.Description>
+  <AdvancedBionicJaw.description>Dźwięk jaki wytwarza jest tak piękny, że nawet mechanoidy zatrzymują się, aby posłuchać.</AdvancedBionicJaw.description>
 
   <AdvancedBionicEye.label>Zaawansowane bioniczne oko</AdvancedBionicEye.label>
-  <AdvancedBionicEye.Description>Ten zaawansowany kawałek technologi sprawia, że będziesz widział w ciemności.</AdvancedBionicEye.Description>
+  <AdvancedBionicEye.description>Ten zaawansowany kawałek technologi sprawia, że będziesz widział w ciemności.</AdvancedBionicEye.description>
 
   <AdvancedBionicSpine.label>Zaawansowany bioniczny kręgosłup</AdvancedBionicSpine.label>
-  <AdvancedBionicSpine.Description>Sprawia, że praca staje się o wiele łatwiejsza.</AdvancedBionicSpine.Description>
+  <AdvancedBionicSpine.description>Sprawia, że praca staje się o wiele łatwiejsza.</AdvancedBionicSpine.description>
 
   <ExoskeletonSuit.label>Egzoszkielet</ExoskeletonSuit.label>
   <ExoskeletonSuit.description>Wysokiej jakości urządzenie stworzone z dwóch komponentów: Szkieletu z lekkiego materiału, który odciąży plecy oraz siłowników, aby uczynić użytkownika silniejszym.</ExoskeletonSuit.description>
