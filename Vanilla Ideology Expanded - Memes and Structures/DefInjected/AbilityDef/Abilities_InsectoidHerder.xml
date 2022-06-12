@@ -2,14 +2,14 @@
 <LanguageData>
 
 <!-- EN: tame insectoid -->
-<VME_TameInsectoid.label>oswój insektoida</VME_TameInsectoid.label>
+<VME_TameInsectoid.label>tame insectoid</VME_TameInsectoid.label>
 <!-- EN: Targets an insectoid creature and tames it instantly. -->
-<VME_TameInsectoid.description>Namierza insektoida i natychmiast go oswaja.</VME_TameInsectoid.description>
+<VME_TameInsectoid.description>Targets an insectoid creature and tames it instantly.</VME_TameInsectoid.description>
 
 <!-- EN: construct a nest -->
-<VME_ConstructANest.label>zbuduj gniazdo</VME_ConstructANest.label>
+<VME_ConstructANest.label>construct a nest</VME_ConstructANest.label>
 <!-- EN: Constructs an insectoid nest that produces insect jelly. A sucessful insectoid hymn ritual must be conducted to reduce the cooldown of this ability. -->
-<VME_ConstructANest.description>Konstruuje gniazdo insektoidów, które wytwarza owadzią galaretkę. Aby skrócić czas odnowienia tej umiejętności, należy przeprowadzić udany rytuał hymnu insektoidów.</VME_ConstructANest.description>
+<VME_ConstructANest.description>Constructs an insectoid nest that produces insect jelly. A sucessful insectoid hymn ritual must be conducted to reduce the cooldown of this ability.</VME_ConstructANest.description>
 
 
 </LanguageData>

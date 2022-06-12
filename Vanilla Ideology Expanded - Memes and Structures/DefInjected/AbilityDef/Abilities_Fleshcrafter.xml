@@ -2,9 +2,9 @@
 <LanguageData>
 
 <!-- EN: harvest body parts -->
-<VME_HarvestBodyParts.label>zbierz części ciała</VME_HarvestBodyParts.label>
+<VME_HarvestBodyParts.label>harvest body parts</VME_HarvestBodyParts.label>
 <!-- EN: Executes a colonist. Every colonist receives a positive mood bonus. -->
-<VME_HarvestBodyParts.description>Zabija kolonistę. Każdy kolonista otrzymuje pozytywną premię do nastroju.</VME_HarvestBodyParts.description>
+<VME_HarvestBodyParts.description>Executes a colonist. Every colonist receives a positive mood bonus.</VME_HarvestBodyParts.description>
 
 
 </LanguageData>

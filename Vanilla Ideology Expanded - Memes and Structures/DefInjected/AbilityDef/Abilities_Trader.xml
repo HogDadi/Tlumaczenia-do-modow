@@ -2,9 +2,9 @@
 <LanguageData>
 
 <!-- EN: call trade caravan -->
-<VME_CallTradeCaravan.label>Telefon do karawany</VME_CallTradeCaravan.label>
+<VME_CallTradeCaravan.label>call trade caravan</VME_CallTradeCaravan.label>
 <!-- EN: Summon a trade caravan. -->
-<VME_CallTradeCaravan.description>Wezywa karawanę handlową.</VME_CallTradeCaravan.description>
+<VME_CallTradeCaravan.description>Summon a trade caravan.</VME_CallTradeCaravan.description>
 
 
 </LanguageData>
