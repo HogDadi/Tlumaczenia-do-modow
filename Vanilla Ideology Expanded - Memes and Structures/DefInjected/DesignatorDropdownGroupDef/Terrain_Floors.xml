@@ -3,14 +3,18 @@
 
   <!-- Corporate -->
 
-  <VME_Floor_CorporateFineStoneTiles.label>corporate fine stone tiles</VME_Floor_CorporateFineStoneTiles.label>
+<!-- EN: corporate fine stone tiles -->
+<VME_Floor_CorporateFineStoneTiles.label>znakomite kamienne płytki w stylu korporacyjnym</VME_Floor_CorporateFineStoneTiles.label>
 
 
   <!-- Shintao -->
 
-  <VME_Floor_ShintaoFineStoneTiles.label>shintao fine stone tiles</VME_Floor_ShintaoFineStoneTiles.label>
-  <VME_Floor_ShintaoCarpet.label>shintao carpets</VME_Floor_ShintaoCarpet.label>
-  <VME_Floor_ShintaoCarpetFine.label>shintao fine carpets</VME_Floor_ShintaoCarpetFine.label>
+<!-- EN: shintao fine stone tiles -->
+<VME_Floor_ShintaoFineStoneTiles.label>znakomite kamienne płytki w stylu shintao</VME_Floor_ShintaoFineStoneTiles.label>
+<!-- EN: shintao carpets -->
+<VME_Floor_ShintaoCarpet.label>dywan w stylu shintao</VME_Floor_ShintaoCarpet.label>
+<!-- EN: shintao fine carpets -->
+<VME_Floor_ShintaoCarpetFine.label>gustowny dywan w stylu shintao</VME_Floor_ShintaoCarpetFine.label>
 
 
 </LanguageData>
