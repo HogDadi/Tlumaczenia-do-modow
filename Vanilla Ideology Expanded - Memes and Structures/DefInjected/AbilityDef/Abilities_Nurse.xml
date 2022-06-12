@@ -2,9 +2,9 @@
 <LanguageData>
 
 <!-- EN: medical emergency -->
-<VME_MedicalEmergency.label>medical emergency</VME_MedicalEmergency.label>
+<VME_MedicalEmergency.label>pogotowie medyczne</VME_MedicalEmergency.label>
 <!-- EN: Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly. -->
-<VME_MedicalEmergency.description>Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly.</VME_MedicalEmergency.description>
+<VME_MedicalEmergency.description>Zatrzymuje odpoczynek, rekreację i głód pielęgniarki przez 12 godzin. W tym czasie pielęgniarka może właściwie wykonywać tylko prace lekarskie.</VME_MedicalEmergency.description>
 
 
 </LanguageData>
