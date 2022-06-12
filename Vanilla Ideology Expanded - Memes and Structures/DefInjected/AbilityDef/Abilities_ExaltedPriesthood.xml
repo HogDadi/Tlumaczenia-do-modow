@@ -2,29 +2,29 @@
 <LanguageData>
 
 <!-- EN: conversion ritual (leader) -->
-<VME_LeaderConversionRitual.label>conversion ritual (leader)</VME_LeaderConversionRitual.label>
+<VME_LeaderConversionRitual.label>rytuał nawrócenia (lider)</VME_LeaderConversionRitual.label>
 <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
-<VME_LeaderConversionRitual.description>Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram.</VME_LeaderConversionRitual.description>
+<VME_LeaderConversionRitual.description>Spróbuj przekonać kogoś do przyjęcia Twoich przekonań. Jeśli wszystko pójdzie dobrze, stracą pewność swojej ideologii i mogą się nawrócić. Jeśli to się nie powiedzie, nabiorą pewności w swoich starych wierzeniach.\n\nAby rozpocząć ten rytuał w określonym miejscu, wybierz miejsce rytuału lub pasujący ołtarz/ideogram.</VME_LeaderConversionRitual.description>
 
 <!-- EN: convert (leader) -->
-<VME_LeaderConvert.label>convert (leader)</VME_LeaderConvert.label>
+<VME_LeaderConvert.label>konwersja (lider)</VME_LeaderConvert.label>
 <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
-<VME_LeaderConvert.description>Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability.</VME_LeaderConvert.description>
+<VME_LeaderConvert.description>Próba przekonania kogoś do ideologii mówcy. Zmniejszy to pewność celu we własnych przekonaniach. Zmniejszenie pewności zależy od zdolności negocjacyjnych mówcy.</VME_LeaderConvert.description>
 
 <!-- EN: preach health (leader) -->
-<VME_LeaderPreachHealth.label>preach health (leader)</VME_LeaderPreachHealth.label>
+<VME_LeaderPreachHealth.label>modlitwa za chorego (lider)</VME_LeaderPreachHealth.label>
 <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
-<VME_LeaderPreachHealth.description>Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain.</VME_LeaderPreachHealth.description>
+<VME_LeaderPreachHealth.description>Módl się za zranioną lub chorą osobę poprzez koncepcje swojej ideologii. Poprawi to jego tempo gojenia się ran i wzmocnienie odporności.</VME_LeaderPreachHealth.description>
 
 <!-- EN: reassure (leader) -->
-<VME_LeaderReassure.label>reassure (leader)</VME_LeaderReassure.label>
+<VME_LeaderReassure.label>umocnienie wiary (lider)</VME_LeaderReassure.label>
 <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
-<VME_LeaderReassure.description>Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability.</VME_LeaderReassure.description>
+<VME_LeaderReassure.description>Zwiększ czyjąś pewność co do własnych przekonań. Będzie to zależne od zdolności negocjacyjnej mówcy.</VME_LeaderReassure.description>
 
 <!-- EN: Counsel (leader) -->
-<VME_LeaderCounsel.label>Counsel (leader)</VME_LeaderCounsel.label>
+<VME_LeaderCounsel.label>Rada (lider)</VME_LeaderCounsel.label>
 <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
-<VME_LeaderCounsel.description>Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener.</VME_LeaderCounsel.description>
+<VME_LeaderCounsel.description>Zaproponuj komuś radę, jak zniwelować skutki smutnego wspomnienia. Szansa na sukces zależy od umiejętności społecznych mówiącego i jego relacji ze słuchaczem.</VME_LeaderCounsel.description>
 
 
 </LanguageData>
