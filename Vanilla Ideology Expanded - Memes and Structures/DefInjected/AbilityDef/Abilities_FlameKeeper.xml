@@ -2,9 +2,9 @@
 <LanguageData>
 
 <!-- EN: strengthen flame -->
-<VME_StrengthenFlame.label>strengthen flame</VME_StrengthenFlame.label>
+<VME_StrengthenFlame.label>wzmocnienie płomienia</VME_StrengthenFlame.label>
 <!-- EN: An ability to ignite flame sources and cause an explosion. Only works on wild fires, not on man-made fire structures. -->
-<VME_StrengthenFlame.description>An ability to ignite flame sources and cause an explosion. Only works on wild fires, not on man-made fire structures.</VME_StrengthenFlame.description>
+<VME_StrengthenFlame.description>Zdolność do zapalania źródeł ognia i powodowania ich wybuchu. Działa tylko na dzikie pożary, a nie na sztuczne konstrukcje przeciwpożarowe.</VME_StrengthenFlame.description>
 
 
 </LanguageData>
