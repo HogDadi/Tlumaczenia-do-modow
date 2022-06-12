@@ -2,9 +2,9 @@
 <LanguageData>
 
 <!-- EN: enforce compliance -->
-<VME_EnforceCompliance.label>enforce compliance</VME_EnforceCompliance.label>
+<VME_EnforceCompliance.label>egzekwowanie zgodności</VME_EnforceCompliance.label>
 <!-- EN: Executes a colonist. Every colonist sharing the Commissar's ideoligion receives a positive mood bonus. -->
-<VME_EnforceCompliance.description>Executes a colonist. Every colonist sharing the Commissar's ideoligion receives a positive mood bonus.</VME_EnforceCompliance.description>
+<VME_EnforceCompliance.description>Zabija kolonistę. Każdy kolonista wyznający ideę Komisarza otrzymuje pozytywną premię do nastroju.</VME_EnforceCompliance.description>
 
 
 </LanguageData>
