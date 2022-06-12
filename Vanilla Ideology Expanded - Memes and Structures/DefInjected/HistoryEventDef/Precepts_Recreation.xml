@@ -3,7 +3,8 @@
 
   <!-- Issues -->
 
-  <VME_HavingFun.label>having fun</VME_HavingFun.label>
+<!-- EN: having fun -->
+<VME_HavingFun.label>having fun</VME_HavingFun.label>
 
 
 </LanguageData>

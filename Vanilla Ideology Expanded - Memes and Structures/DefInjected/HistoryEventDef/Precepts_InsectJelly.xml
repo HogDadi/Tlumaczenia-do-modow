@@ -3,7 +3,8 @@
 
   <!-- Precepts -->
 
-  <VME_AteInsectJelly.label>ate insect jelly</VME_AteInsectJelly.label>
+<!-- EN: ate insect jelly -->
+<VME_AteInsectJelly.label>ate insect jelly</VME_AteInsectJelly.label>
 
 
 </LanguageData>
