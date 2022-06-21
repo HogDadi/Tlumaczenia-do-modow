@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VME_Anonymity.label>anonymity</VME_Anonymity.label>
-  <VME_Anonymity.description>Anonymity reflects on how secretive a person finds their identity and personality to be. A pawn with this belief will feel happier when it’s high and unhappy when it’s nearing depletion. Anonymity slowly rises over time and any social interaction or exposed facial features will lower it.</VME_Anonymity.description>
+<!-- EN: anonymity -->
+<VME_Anonymity.label>anonimowość</VME_Anonymity.label>
+<!-- EN: Anonymity reflects on how secretive a person finds their identity and personality to be. A pawn with this belief will feel happier when it’s high and unhappy when it’s nearing depletion. Anonymity slowly rises over time and any social interaction or exposed facial features will lower it. -->
+<VME_Anonymity.description>Anonimowość odzwierciedla to, jak skryta jest dla danej osoby jej tożsamość i osobowość. Pionek z tym przekonaniem będzie czuł się szczęśliwszy, gdy jego poziom będzie wysoki, a nieszczęśliwy, gdy będzie bliski wyczerpania. Anonimowość powoli wzrasta z czasem, a każda interakcja społeczna lub odsłonięte rysy twarzy obniżają ją.</VME_Anonymity.description>
 
-  <VME_Corruption.label>corruption</VME_Corruption.label>
-  <VME_Corruption.description>Corruption reflects a person's desire to give in to the dark, eldritch, and possibly even violent desires deeply embedded within them; a mildly corrupt pawn cannot lose ideological certainty. Corruption slowly fades daily, but can be paused by nearby obelisks and increased by incantation rituals. Upon reaching 100 corruption a pawn will immediately begin mentally breaking, and upon reaching 0 a pawn will easily be swayed to any other ideoligion</VME_Corruption.description>
+<!-- EN: corruption -->
+<VME_Corruption.label>zepsucie</VME_Corruption.label>
+<!-- EN: Corruption reflects a person's desire to give in to the dark, eldritch, and possibly even violent desires deeply embedded within them; a mildly corrupt pawn cannot lose ideological certainty. Corruption slowly fades daily, but can be paused by nearby obelisks and increased by incantation rituals. Upon reaching 100 corruption a pawn will immediately begin mentally breaking, and upon reaching 0 a pawn will easily be swayed to any other ideoligion -->
+<VME_Corruption.description>Zepsucie odzwierciedla chęć danej osoby do poddania się mrocznym, eldryckim, a nawet brutalnym pragnieniom, które są w niej głęboko zakorzenione; lekko skorumpowany pionek nie może stracić pewności ideologicznej. Zepsucie powoli zanika każdego dnia, ale może zostać zatrzymane przez pobliskie obeliski i zwiększone przez zaklęcia. Po osiągnięciu 100 zepsucia pionek natychmiast zaczyna łamać się psychicznie, a po osiągnięciu 0 łatwo daje się przekonać do jakiejkolwiek innej ideologii.</VME_Corruption.description>
 
 
 </LanguageData>
