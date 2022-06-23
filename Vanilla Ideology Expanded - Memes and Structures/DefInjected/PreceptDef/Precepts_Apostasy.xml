@@ -3,12 +3,17 @@
 
   <!-- Precepts -->
 
-  <VME_Apostasy_Accepted.label>accepted</VME_Apostasy_Accepted.label>
-  <VME_Apostasy_Accepted.description>We feel bound by authority alone to follow our current ideology, and will not think twice if an opportunity presents itself to change our ways.</VME_Apostasy_Accepted.description>
+<!-- EN: accepted -->
+<VME_Apostasy_Accepted.label>akceptacja</VME_Apostasy_Accepted.label>
+<!-- EN: We feel bound by authority alone to follow our current ideology, and will not think twice if an opportunity presents itself to change our ways. -->
+<VME_Apostasy_Accepted.description>Czujemy się związani wyłącznie autorytetem, aby postępować zgodnie z naszą obecną ideologią, i nie będziemy się zastanawiać, jeśli nadarzy się okazja do zmiany sposobu postępowania.</VME_Apostasy_Accepted.description>
 
-  <Apostasy_Despicable.label>despicable</Apostasy_Despicable.label>
-  <Apostasy_Despicable.description>Being coerced or otherwise manipulated into following a different belief is a despicable act. If somebody seeks knowledge of another's faith, then let them ask for it naturally.</Apostasy_Despicable.description>
-  <Apostasy_Despicable.comps.0.description>Changed ideoligion</Apostasy_Despicable.comps.0.description>
+<!-- EN: despicable -->
+<Apostasy_Despicable.label>podłość</Apostasy_Despicable.label>
+<!-- EN: Being coerced or otherwise manipulated into following a different belief is a despicable act. If somebody seeks knowledge of another's faith, then let them ask for it naturally. -->
+<Apostasy_Despicable.description>Bycie zmuszanym lub w inny sposób manipulowanym do wyznawania innej wiary jest czynem godnym pogardy. Jeśli ktoś chce poznać wiarę innej osoby, niech sam o nią poprosi naturally.</Apostasy_Despicable.description>
+<!-- EN: Changed ideoligion -->
+<Apostasy_Despicable.comps.0.description>Zmiana ideoligii</Apostasy_Despicable.comps.0.description>
 
 
 </LanguageData>

@@ -3,8 +3,10 @@
 
   <!-- Precepts -->
 
-  <VME_Corruption_Essential.label>essential</VME_Corruption_Essential.label>
-  <VME_Corruption_Essential.description>It is by the hand of an omniscient and all-powerful ancient god that we are threatened. Let us partake in an ever-obscuring, ritualistic way of life, that it may shield us from such baneful judgements.</VME_Corruption_Essential.description>
+<!-- EN: essential -->
+<VME_Corruption_Essential.label>konieczność</VME_Corruption_Essential.label>
+<!-- EN: It is by the hand of an omniscient and all-powerful ancient god that we are threatened. Let us partake in an ever-obscuring, ritualistic way of life, that it may shield us from such baneful judgements. -->
+<VME_Corruption_Essential.description>Zagraża nam ręka wszechwiedzącego i wszechmocnego starożytnego boga. Weźmy udział w wiecznie ukrytym, rytualnym sposobie życia, aby uchronił nas przed takimi zgubnymi wyrokami.</VME_Corruption_Essential.description>
 
 
 </LanguageData>

@@ -3,11 +3,15 @@
 
   <!-- Precepts -->
 
-  <VME_AutomationEfficiency_Increased.label>increased</VME_AutomationEfficiency_Increased.label>
-  <VME_AutomationEfficiency_Increased.description>From the woodwork of a simple bow to grand factoriums, a craftmaster knows how to craft with efficiency.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Electric work table speed: +50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: +25%.</VME_AutomationEfficiency_Increased.description>
+<!-- EN: increased -->
+<VME_AutomationEfficiency_Increased.label>natchnienie</VME_AutomationEfficiency_Increased.label>
+<!-- EN: From the woodwork of a simple bow to grand factoriums, a craftmaster knows how to craft with efficiency.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Electric work table speed: +50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: +25%. -->
+<VME_AutomationEfficiency_Increased.description>Rzemieślnik wie, jak sprawnie wykonywać prace rzemieślnicze - od prostego łuku po wielkie faktorie.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Prędkość elektrycznego stołu roboczego: +50%.\n - Vanilla Factions Expanded - Prędkość Fabryki Mechanoidów: +25%.</VME_AutomationEfficiency_Increased.description>
 
-  <VME_AutomationEfficiency_Decreased.label>decreased</VME_AutomationEfficiency_Decreased.label>
-  <VME_AutomationEfficiency_Decreased.description>Advanced machines and automated factories are to be shunned, for they detract from the exquisiteness of artisanal work.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Electric work table speed: -50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: -25%.</VME_AutomationEfficiency_Decreased.description>
+<!-- EN: decreased -->
+<VME_AutomationEfficiency_Decreased.label>niechęć</VME_AutomationEfficiency_Decreased.label>
+<!-- EN: Advanced machines and automated factories are to be shunned, for they detract from the exquisiteness of artisanal work.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Electric work table speed: -50%.\n - Vanilla Factions Expanded - Mechanoids factories speed: -25%. -->
+<VME_AutomationEfficiency_Decreased.description>Należy unikać zaawansowanych maszyn i zautomatyzowanych fabryk, ponieważ umniejszają one wyjątkowość pracy rzemieślniczej.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Prędkość elektrycznego stołu roboczego: -50%.\n - Vanilla Factions Expanded - Prędkość Fabryki Mechanoidów: -25%.</VME_AutomationEfficiency_Decreased.description>
 
 
 </LanguageData>

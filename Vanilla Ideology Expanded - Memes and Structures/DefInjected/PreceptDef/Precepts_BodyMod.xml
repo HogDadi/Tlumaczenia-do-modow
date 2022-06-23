@@ -3,8 +3,10 @@
 
   <!-- Precepts -->
 
-  <VME_BodyMod_OnlyBiological.label>only biological</VME_BodyMod_OnlyBiological.label>
-  <VME_BodyMod_OnlyBiological.description>Flesh only should be replaced by flesh, to replace a body with a machine is forbidden.</VME_BodyMod_OnlyBiological.description>
+<!-- EN: only biological -->
+<VME_BodyMod_OnlyBiological.label>tylko biologiczność</VME_BodyMod_OnlyBiological.label>
+<!-- EN: Flesh only should be replaced by flesh, to replace a body with a machine is forbidden. -->
+<VME_BodyMod_OnlyBiological.description>Ciało powinno być zastępowane tylko ciałem, zastępowanie ciała maszyną jest zabronione.</VME_BodyMod_OnlyBiological.description>
 
 
 </LanguageData>

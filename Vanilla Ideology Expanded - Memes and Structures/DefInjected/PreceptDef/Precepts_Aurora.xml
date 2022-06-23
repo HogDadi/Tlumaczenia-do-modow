@@ -3,11 +3,15 @@
 
   <!-- Precepts -->
 
-  <VME_Aurora_Amazing.label>amazing</VME_Aurora_Amazing.label>
-  <VME_Aurora_Amazing.description>Auroras are a beautiful respite from the absolute darkness.</VME_Aurora_Amazing.description>
+<!-- EN: amazing -->
+<VME_Aurora_Amazing.label>niesamowitość</VME_Aurora_Amazing.label>
+<!-- EN: Auroras are a beautiful respite from the absolute darkness. -->
+<VME_Aurora_Amazing.description>Zorze polarne są pięknym wytchnieniem od absolutnej ciemności.</VME_Aurora_Amazing.description>
 
-  <VME_Aurora_Despised.label>despised</VME_Aurora_Despised.label>
-  <VME_Aurora_Despised.description>The blinding lights in the heavens give us a nasty headache.</VME_Aurora_Despised.description>
+<!-- EN: despised -->
+<VME_Aurora_Despised.label>pogardzanie</VME_Aurora_Despised.label>
+<!-- EN: The blinding lights in the heavens give us a nasty headache. -->
+<VME_Aurora_Despised.description>Oślepiające światła na niebie przyprawiają nas o nieprzyjemny ból głowy.</VME_Aurora_Despised.description>
 
 
 </LanguageData>

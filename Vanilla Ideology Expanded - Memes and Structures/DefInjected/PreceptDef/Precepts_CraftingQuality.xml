@@ -3,11 +3,15 @@
 
   <!-- Precepts -->
 
-  <VME_CraftingQuality_Increased.label>increased</VME_CraftingQuality_Increased.label>
-  <VME_CraftingQuality_Increased.description>We pride ourselves in our work, and take no shortcuts in achieving perfection.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Increases quality of items created on a worktable by 1, up to Legendary.</VME_CraftingQuality_Increased.description>
+<!-- EN: increased -->
+<VME_CraftingQuality_Increased.label>inspiracja</VME_CraftingQuality_Increased.label>
+<!-- EN: We pride ourselves in our work, and take no shortcuts in achieving perfection.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Increases quality of items created on a worktable by 1, up to Legendary. -->
+<VME_CraftingQuality_Increased.description>Jesteśmy dumni z naszej pracy i nie idziemy na skróty, aby osiągnąć perfekcję.\n\n&lt;color=#E5E54C&gt;Efekt na grę:&lt;/color&gt;\n - Zwiększa jakość przedmiotów stworzonych na stole warsztatowym o 1, aż do poziomu Legendarnego.</VME_CraftingQuality_Increased.description>
 
-  <VME_CraftingQuality_Decreased.label>decreased</VME_CraftingQuality_Decreased.label>
-  <VME_CraftingQuality_Decreased.description>We don't care about artisanal work. Why create something when you can buy it or steal it from others?\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Decreases quality of items created on a worktable by 1, down to Awful.</VME_CraftingQuality_Decreased.description>
+<!-- EN: decreased -->
+<VME_CraftingQuality_Decreased.label>niechęć</VME_CraftingQuality_Decreased.label>
+<!-- EN: We don't care about artisanal work. Why create something when you can buy it or steal it from others?\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Decreases quality of items created on a worktable by 1, down to Awful. -->
+<VME_CraftingQuality_Decreased.description>Nie zależy nam na pracy rzemieślniczej. Po co tworzyć coś, skoro można to kupić lub ukraść innym?\n\n&lt;color=#E5E54C&gt;Efekt na grę:&lt;/color&gt;\n - Obniża jakość przedmiotów tworzonych na stole warsztatowym o 1, aż do poziomu Okropnego.</VME_CraftingQuality_Decreased.description>
 
 
 </LanguageData>

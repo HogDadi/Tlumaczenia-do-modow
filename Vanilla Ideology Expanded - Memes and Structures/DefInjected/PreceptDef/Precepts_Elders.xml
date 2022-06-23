@@ -3,14 +3,20 @@
 
   <!-- Precepts -->
 
-  <VME_Elders_Despised.label>despised</VME_Elders_Despised.label>
-  <VME_Elders_Despised.description>What is this, a retirement home? Get out of my way, fossil!</VME_Elders_Despised.description>
+<!-- EN: despised -->
+<VME_Elders_Despised.label>niechęć</VME_Elders_Despised.label>
+<!-- EN: What is this, a retirement home? Get out of my way, fossil! -->
+<VME_Elders_Despised.description>Co to jest, dom spokojnej starości? Zejdź mi z drogi, skamielino!</VME_Elders_Despised.description>
 
-  <VME_Elders_Respected.label>respected</VME_Elders_Respected.label>
-  <VME_Elders_Respected.description>True wisdom comes only with age, and those who have seen many seasons are to be venerated.</VME_Elders_Respected.description>
+<!-- EN: respected -->
+<VME_Elders_Respected.label>szanowanie</VME_Elders_Respected.label>
+<!-- EN: True wisdom comes only with age, and those who have seen many seasons are to be venerated. -->
+<VME_Elders_Respected.description>Prawdziwa mądrość przychodzi dopiero z wiekiem, a tych, którzy przeżyli wiele sezonów, należy czcić.</VME_Elders_Respected.description>
 
-  <VME_Elders_Holy.label>holy</VME_Elders_Holy.label>
-  <VME_Elders_Holy.description>Our elders are to be respected and revered, and never shall we expect them to do hard work.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists older than 65 will not do dumb labor.</VME_Elders_Holy.description>
+<!-- EN: holy -->
+<VME_Elders_Holy.label>świętość</VME_Elders_Holy.label>
+<!-- EN: Our elders are to be respected and revered, and never shall we expect them to do hard work.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists older than 65 will not do dumb labor. -->
+<VME_Elders_Holy.description>Starszym należy się szacunek i poważanie, ale nigdy nie oczekujmy od nich ciężkiej pracy.\n\n&lt;color=#E5E54C&gt;Efekt na grę:&lt;/color&gt;\n - Koloniści w wieku powyżej 65 lat nie będą wykonywać Głupiej pracy.</VME_Elders_Holy.description>
 
 
 </LanguageData>
