@@ -3,7 +3,8 @@
 
   <!-- Precepts -->
 
-  <VME_Firefighting_Abhorrent.label>abhorrent</VME_Firefighting_Abhorrent.label>
+  <!-- EN: abhorrnet -->
+  <VME_Firefighting_Abhorrent.label>odrażające</VME_Firefighting_Abhorrent.label>
   <VME_Firefighting_Abhorrent.description>To quash a sacred flame is to commit an unspeakable sin.</VME_Firefighting_Abhorrent.description>
 
   <VME_Firefighting_Preferred.label>preferred</VME_Firefighting_Preferred.label>

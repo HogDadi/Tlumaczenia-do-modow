@@ -9,7 +9,8 @@
   <VME_TaintedApparel_Disapproved.label>disapproved</VME_TaintedApparel_Disapproved.label>
   <VME_TaintedApparel_Disapproved.description>Wearing a dead person's apparel is quite disgusting.</VME_TaintedApparel_Disapproved.description>
 
-  <VME_TaintedApparel_Abhorrent.label>abhorrent</VME_TaintedApparel_Abhorrent.label>
+  <!-- EN: abhorrnet -->
+  <VME_TaintedApparel_Abhorrent.label>odrażające</VME_TaintedApparel_Abhorrent.label>
   <VME_TaintedApparel_Abhorrent.description>There can be nothing more disgusting in this world than wearing the clothing used by a dead person.</VME_TaintedApparel_Abhorrent.description>
 
 

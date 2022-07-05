@@ -3,7 +3,8 @@
 
   <!-- Precepts -->
 
-  <VME_LeatherApparel_Abhorrent.label>abhorrent</VME_LeatherApparel_Abhorrent.label>
+  <!-- EN: abhorrnet -->
+  <VME_LeatherApparel_Abhorrent.label>odrażające</VME_LeatherApparel_Abhorrent.label>
   <VME_LeatherApparel_Abhorrent.description>Slaughtering an animal to use its skin as apparel is cruel and inhumane.</VME_LeatherApparel_Abhorrent.description>
 
 

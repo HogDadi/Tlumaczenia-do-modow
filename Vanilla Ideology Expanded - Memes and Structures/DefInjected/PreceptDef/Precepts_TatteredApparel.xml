@@ -9,7 +9,8 @@
   <VME_TatteredApparel_Disapproved.label>disapproved</VME_TatteredApparel_Disapproved.label>
   <VME_TatteredApparel_Disapproved.description>Wearing ratty clothes is uncomfortable and should be avoided.</VME_TatteredApparel_Disapproved.description>
 
-  <VME_TatteredApparel_Abhorrent.label>abhorrent</VME_TatteredApparel_Abhorrent.label>
+  <!-- EN: abhorrnet -->
+  <VME_TatteredApparel_Abhorrent.label>odrażające</VME_TatteredApparel_Abhorrent.label>
   <VME_TatteredApparel_Abhorrent.description>Ratty clothes are disgusting and should be discarded as soon as possible.</VME_TatteredApparel_Abhorrent.description>
 
 
