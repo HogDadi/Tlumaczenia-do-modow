@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crossbow -->
+
+  <VWE_Bow_Crossbow.label>crossbow</VWE_Bow_Crossbow.label>
+  <VWE_Bow_Crossbow.description>A crossbow is a type of ranged weapon in similar principle to a bow, consisting of a bow-like assembly mounted horizontally on a main frame, which is handheld in a similar fashion to the stock of a long gun.\n\nThis weapon attempt of early mankind can send a bolt even through strongest metal.</VWE_Bow_Crossbow.description>
+  <VWE_Bow_Crossbow.tools.0.label>limb</VWE_Bow_Crossbow.tools.0.label>
+
+  <VWE_Arrow_Bolt.label>crossbow bolt</VWE_Arrow_Bolt.label>
+
+
+  <!-- Musket -->
+
+  <VWE_Gun_Musket.label>musket</VWE_Gun_Musket.label>
+  <VWE_Gun_Musket.description>An ancient pattern musket. As one of the first of its kind, it only has short range and low fire rate.</VWE_Gun_Musket.description>
+  <VWE_Gun_Musket.tools.0.label>stock</VWE_Gun_Musket.tools.0.label>
+  <VWE_Gun_Musket.tools.1.label>barrel</VWE_Gun_Musket.tools.1.label>
+
+  <Bullet_Leadball.label>lead ball</Bullet_Leadball.label>
+
+
+  <!-- Flintlock -->
+
+  <VWE_Gun_Flintlock.label>flintlock</VWE_Gun_Flintlock.label>
+  <VWE_Gun_Flintlock.description>This pistol features a smoothbore barrel and a long, wooden grip ending in a knob. As its name implies, the flintlock pistol is operated by a flintlock mechanism.</VWE_Gun_Flintlock.description>
+  <VWE_Gun_Flintlock.tools.0.label>stock</VWE_Gun_Flintlock.tools.0.label>
+  <VWE_Gun_Flintlock.tools.1.label>barrel</VWE_Gun_Flintlock.tools.1.label>
+
+
+  <!-- Throwing Knives -->
+
+  <VWE_Throwing_Knives.label>throwing knives</VWE_Throwing_Knives.label>
+  <VWE_Throwing_Knives.description>A set of well balanced knives, perfect for throwing.</VWE_Throwing_Knives.description>
+  <VWE_Throwing_Knives.tools.0.label>handle</VWE_Throwing_Knives.tools.0.label>
+  <VWE_Throwing_Knives.tools.1.label>blade</VWE_Throwing_Knives.tools.1.label>
+  <VWE_Throwing_Knives.tools.2.label>point</VWE_Throwing_Knives.tools.2.label>
+
+  <VWE_FlyingBlade.label>small knife</VWE_FlyingBlade.label>
+
+
+  <!-- Whip -->
+
+  <VWE_Tool_Whip.label>Whip</VWE_Tool_Whip.label>
+  <VWE_Tool_Whip.description>A traditional tool used for striking animals to aid guidance and earn obedience.\n\nCan be used on people.</VWE_Tool_Whip.description>
+  <VWE_Tool_Whip.tools.0.label>edge</VWE_Tool_Whip.tools.0.label>
+
+  <VWE_WhipSlash.label>whip slash</VWE_WhipSlash.label>
+
+
+</LanguageData>

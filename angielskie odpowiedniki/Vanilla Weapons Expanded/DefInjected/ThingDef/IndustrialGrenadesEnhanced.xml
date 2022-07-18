@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SMOKE GRENADE -->
+
+  <VWE_SmokeGrenade.label>smoke grenades</VWE_SmokeGrenade.label>
+  <VWE_SmokeGrenade.description>Old school condensed smoke canister that explodes into a smoke wall on impact.</VWE_SmokeGrenade.description>
+  <VWE_SmokeGrenade.verbs.0.label>throw smoke grenade</VWE_SmokeGrenade.verbs.0.label>
+
+  <VWE_Projectile_SmokeGrenade.label>smoke grenade</VWE_Projectile_SmokeGrenade.label>
+
+
+  <!-- Grenade -->
+
+  <VWE_ToxicGrenade.label>toxic grenades</VWE_ToxicGrenade.label>
+  <VWE_ToxicGrenade.description>Charge powered lethal gas canister causing severe toxic buildup over a very short period of time.</VWE_ToxicGrenade.description>
+  <VWE_ToxicGrenade.verbs.0.label>throw toxic grenade</VWE_ToxicGrenade.verbs.0.label>
+
+  <VWE_Projectile_ToxicGrenade.label>toxic grenade</VWE_Projectile_ToxicGrenade.label>
+
+
+  <!-- Flash grenade -->
+
+  <VWE_FlashGrenade.label>flash grenades</VWE_FlashGrenade.label>
+  <VWE_FlashGrenade.description>A flash grenade. Temporarily stuns organic enemies allowing users to close the distance.</VWE_FlashGrenade.description>
+  <VWE_FlashGrenade.verbs.0.label>throw flash grenade</VWE_FlashGrenade.verbs.0.label>
+
+  <VWE_Projectile_FlashGrenade.label>flash grenade</VWE_Projectile_FlashGrenade.label>
+
+
+</LanguageData>

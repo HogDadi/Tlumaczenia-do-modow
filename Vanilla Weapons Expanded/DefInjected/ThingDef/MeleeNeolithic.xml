@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Axe -->
+
+<!-- EN: hatchet -->
+<VWE_MeleeWeapon_Axe.label>siekiera</VWE_MeleeWeapon_Axe.label>
+<!-- EN: An axe head fastened to a handle. Suitable for one hand, due to the shape of a wedge it doesn't require significant force to cut armor and flesh. -->
+<VWE_MeleeWeapon_Axe.description>Głowica topora przymocowana do rękojeści. Nadaje się do jednej ręki, dzięki kształtowi klingi nie wymaga znacznej siły do cięcia zbroi i mięsa.</VWE_MeleeWeapon_Axe.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Axe.tools.0.label>uchwyt</VWE_MeleeWeapon_Axe.tools.0.label>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_Axe.tools.1.label>ostrze</VWE_MeleeWeapon_Axe.tools.1.label>
+
+
+</LanguageData>

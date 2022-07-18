@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Summon a Trade Caravan -->
+  <TradeCaravanRewardVE.label>Przyzwij karawanę handlową</TradeCaravanRewardVE.label>
+  <!-- EN: Spawn Cargo Pods -->
+  <CargoPodsRewardVE.label>Wezwij kapsuły ładunkowe</CargoPodsRewardVE.label>
+
+
+  <!-- <AchievementsExpanded.Reward_RandomQuest>
+		<defName>RandomRewardQuest</defName>
+		<label>Random Quest</label>
+		
+		<cost>50</cost>
+	</AchievementsExpanded.Reward_RandomQuest> -->
+
+  <!-- EN: Man in Black Joins -->
+  <ManInBlackRewardVE.label>Mężczynza w czerni dołączył</ManInBlackRewardVE.label>
+
+
+</LanguageData>

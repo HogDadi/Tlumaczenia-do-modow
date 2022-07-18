@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shovel -->
+
+<!-- EN: shovel -->
+<VWE_MeleeWeapon_Shovel.label>łopata</VWE_MeleeWeapon_Shovel.label>
+<!-- EN: Commonly used across the battlefield to dig trenches, this small portable shovel is an excellent close range weapon. -->
+<VWE_MeleeWeapon_Shovel.description>Powszechnie używana na polu bitwy do kopania rowów, ta mała przenośna łopata jest doskonałą bronią bliskiego zasięgu.</VWE_MeleeWeapon_Shovel.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Shovel.tools.0.label>uchwyt</VWE_MeleeWeapon_Shovel.tools.0.label>
+<!-- EN: head -->
+<VWE_MeleeWeapon_Shovel.tools.1.label>głowica</VWE_MeleeWeapon_Shovel.tools.1.label>
+
+
+  <!-- Baton -->
+
+<!-- EN: baton -->
+<VWE_MeleeWeapon_Baton.label>baton</VWE_MeleeWeapon_Baton.label>
+<!-- EN: A short peacekeeping baton commonly used by prison guards and urbworld militia. -->
+<VWE_MeleeWeapon_Baton.description>Krótka pałka porządkowa powszechnie używana przez strażników więziennych i milicję urbworldową.</VWE_MeleeWeapon_Baton.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Baton.tools.0.label>uchwyt</VWE_MeleeWeapon_Baton.tools.0.label>
+<!-- EN: head -->
+<VWE_MeleeWeapon_Baton.tools.1.label>głownia</VWE_MeleeWeapon_Baton.tools.1.label>
+
+
+  <!-- Combat Knife -->
+
+<!-- EN: combat knife -->
+<VWE_MeleeWeapon_CombatKnife.label>nóż bojowy</VWE_MeleeWeapon_CombatKnife.label>
+<!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nCombat knife is a standard issue melee weapon for most of the military forces. -->
+<VWE_MeleeWeapon_CombatKnife.description>Jeden z najstarszych wyprodukowanych przez ludzkość przedmiotów. Nóż przyjął wiele form, ale koncepcja zawsze pozostała taka sama: rękojeść do trzymania i ostra krawędź do cięcia.\n\nNóż bojowy to standardowa broń do walki wręcz dla większości sił zbrojnych.</VWE_MeleeWeapon_CombatKnife.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_CombatKnife.tools.0.label>uchwyt</VWE_MeleeWeapon_CombatKnife.tools.0.label>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_CombatKnife.tools.1.label>ostrze</VWE_MeleeWeapon_CombatKnife.tools.1.label>
+<!-- EN: point -->
+<VWE_MeleeWeapon_CombatKnife.tools.2.label>czubek</VWE_MeleeWeapon_CombatKnife.tools.2.label>
+
+
+  <!-- Wrench -->
+
+<!-- EN: wrench -->
+<VWE_MeleeWeapon_Wrench.label>klucz</VWE_MeleeWeapon_Wrench.label>
+<!-- EN: A universal instrument to make even the sturdiest things work.\n\nAids with construction and breaking down Mechanoid constructs. -->
+<VWE_MeleeWeapon_Wrench.description>Uniwersalny instrument, dzięki któremu nawet najtrwalsze rzeczy działają. Pomaga przy budowie i rozkładaniu konstrukcji Mechanoidów.</VWE_MeleeWeapon_Wrench.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Wrench.tools.0.label>uchwyt</VWE_MeleeWeapon_Wrench.tools.0.label>
+<!-- EN: head -->
+<VWE_MeleeWeapon_Wrench.tools.1.label>głownia</VWE_MeleeWeapon_Wrench.tools.1.label>
+
+
+  <!-- Cleaver -->
+
+<!-- EN: cleaver -->
+<VWE_MeleeWeapon_Cleaver.label>tasak</VWE_MeleeWeapon_Cleaver.label>
+<!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nThis type of knife is commonly used by chefs to cut meat and bones alike. -->
+<VWE_MeleeWeapon_Cleaver.description>Jeden z najstarszych wyprodukowanych przez ludzkość przedmiotów. Nóż przybierał wiele form, ale koncepcja zawsze pozostawała taka sama: uchwyt do trzymania i ostra krawędź do cięcia.\n\nTen typ noża jest powszechnie używany przez kucharzy do cięcia zarówno mięsa, jak i kości.</VWE_MeleeWeapon_Cleaver.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Cleaver.tools.0.label>uchwyt</VWE_MeleeWeapon_Cleaver.tools.0.label>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_Cleaver.tools.1.label>ostrze</VWE_MeleeWeapon_Cleaver.tools.1.label>
+
+
+  <!-- Scalpel -->
+
+<!-- EN: scalpel -->
+<VWE_MeleeWeapon_Scalpel.label>skalpel</VWE_MeleeWeapon_Scalpel.label>
+<!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nThis blade is commonly used by surgeons due to it's extreme sharpness. -->
+<VWE_MeleeWeapon_Scalpel.description>Jeden z najstarszych przedmiotów produkowanych przez ludzkość. Nóż przybierał wiele form, ale koncepcja zawsze pozostawała taka sama: rękojeść do trzymania i ostra krawędź do cięcia.\n\nTo ostrze jest powszechnie używane przez chirurgów ze względu na jego ekstremalną ostrość.</VWE_MeleeWeapon_Scalpel.description>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_Scalpel.tools.0.label>ostrze</VWE_MeleeWeapon_Scalpel.tools.0.label>
+<!-- EN: point -->
+<VWE_MeleeWeapon_Scalpel.tools.1.label>czubek</VWE_MeleeWeapon_Scalpel.tools.1.label>
+
+
+</LanguageData>

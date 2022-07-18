@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge Pistol -->
+
+<!-- EN: charge pistol shot -->
+<VWE_Bullet_ChargePistol.label>ładunek do pistoletu pulsacyjnego</VWE_Bullet_ChargePistol.label>
+
+<!-- EN: charge pistol -->
+<VWE_Gun_ChargePistol.label>pistolet pulsacyjny</VWE_Gun_ChargePistol.label>
+<!-- EN: A charged-shot pistol. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nThis three round burst pistol is a very effective sidearm deployed across all regiments of imperial commandos. -->
+<VWE_Gun_ChargePistol.description>Pistolet pulsacyjny. Technologia ładowania impulsowego ładuje każdy strzał niestabilną energią, gdy opuszcza lufę. Uwalniana przy uderzeniu, naładowana energia znacznie zwiększa zadawane obrażenia.\n\nTen trzy-nabojowy pistolet jest bardzo skuteczną bronią boczną, używaną przez wszystkie regimenty imperialnych komandosów.</VWE_Gun_ChargePistol.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargePistol.tools.0.label>cylinder</VWE_Gun_ChargePistol.tools.0.label>
+
+
+  <!-- Charge Shotgun -->
+
+<!-- EN: charge shotgun blast -->
+<VWE_Bullet_ChargeShotgun.label>śrut do strzelby pulsacyjnej</VWE_Bullet_ChargeShotgun.label>
+
+<!-- EN: charge shotgun -->
+<VWE_Gun_ChargeShotgun.label>strzelba pulsacyjna</VWE_Gun_ChargeShotgun.label>
+<!-- EN: A charged-shot slug thrower. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nDeadly in close range, this shotgun has been banned by the imperial military for inflicting unmeasurable pain. -->
+<VWE_Gun_ChargeShotgun.description>Miotacz śrutu z ładunkiem. Technologia ładowania impulsowego ładuje każdy strzał niestabilną energią, gdy opuszcza lufę. Uwalniana przy uderzeniu, naładowana energia znacznie zwiększa zadawane obrażenia.\n\nZabójcza na bliskim dystansie. Strzelba ta została zakazana przez imperialne wojsko za zadawanie niezmiernego bólu.</VWE_Gun_ChargeShotgun.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeShotgun.tools.0.label>cylinder</VWE_Gun_ChargeShotgun.tools.0.label>
+
+
+  <!-- Charge SMG -->
+
+<!-- EN: rapid charge shot -->
+<VWE_Bullet_ChargeSMG.label>strzał z szybkim ładowaniem</VWE_Bullet_ChargeSMG.label>
+
+<!-- EN: charge SMG -->
+<VWE_Gun_ChargeSMG.label>pulsacyjny SMG</VWE_Gun_ChargeSMG.label>
+<!-- EN: A charged-shot submachine gun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nFires rapidly but requires to close the distance between the target. -->
+<VWE_Gun_ChargeSMG.description>Pistolet podręczny o naładowanych strzałach. Technologia ładowania impulsowego ładuje każdy strzał niestabilną energią, gdy opuszcza lufę. Uwolniona przy uderzeniu, naładowana energia znacznie zwiększa zadawane obrażenia.\n\nSzybko strzela, ale wymaga zbliżenia się do celu.</VWE_Gun_ChargeSMG.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeSMG.tools.0.label>cylinder</VWE_Gun_ChargeSMG.tools.0.label>
+
+
+  <!-- Charge LMG -->
+
+<!-- EN: charge LMG shot -->
+<VWE_Bullet_ChargeLMG.label>nałdowany pocisk LMG</VWE_Bullet_ChargeLMG.label>
+
+<!-- EN: charge LMG -->
+<VWE_Gun_ChargeLMG.label>pulsacyjny LMG</VWE_Gun_ChargeLMG.label>
+<!-- EN: A charged-shot light machine gun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nCharge light machine gun fires a volley of projectiles at extreme speed which makes it ideal for area denial. -->
+<VWE_Gun_ChargeLMG.description>Lekki karabin maszynowy o naładowanych strzałach. Technologia ładowania impulsowego ładuje każdy strzał niestabilną energią, gdy opuszcza lufę. Uwolniona w momencie uderzenia, naładowana energia znacznie zwiększa zadawane obrażenia.\n\nLekki karabin maszynowy wystrzeliwuje salwę pocisków z ogromną prędkością, co czyni go idealnym do niszczenia terenu.</VWE_Gun_ChargeLMG.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeLMG.tools.0.label>cylinder</VWE_Gun_ChargeLMG.tools.0.label>
+
+
+  <!-- Charge Sniper Rifle -->
+
+<!-- EN: charge sniper shot -->
+<VWE_Bullet_ChargeSniperRifle.label>pocisk do pulsacynajego karabinu najperskiego</VWE_Bullet_ChargeSniperRifle.label>
+
+<!-- EN: charge sniper rifle -->
+<VWE_Gun_ChargeSniperRifle.label>pulsacyjny karabin snajperski</VWE_Gun_ChargeSniperRifle.label>
+<!-- EN: A charged-shot triple barreled sniper rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nDue to three separate barrels firing simultaneously, weapon power is reduced and rate of fire is decreased. -->
+<VWE_Gun_ChargeSniperRifle.description>Trójlufowy pulsacyjny karabin snajperski. Technologia ładowania impulsowego ładuje każdy strzał niestabilną energią, gdy opuszcza lufę. Uwalniana przy uderzeniu, naładowana energia znacznie zwiększa zadawane obrażenia.\n\nZe względu na trzy oddzielne lufy strzelające jednocześnie, moc broni jest zredukowana, a szybkostrzelność zmniejszona.</VWE_Gun_ChargeSniperRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_ChargeSniperRifle.tools.0.label>magazynek</VWE_Gun_ChargeSniperRifle.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeSniperRifle.tools.1.label>cylinder</VWE_Gun_ChargeSniperRifle.tools.1.label>
+
+
+  <!-- Charge Minigun -->
+
+<!-- EN: charge minigun shot -->
+<VWE_Bullet_ChargeMinigun.label>pocisk do pulsacyjnego miniguna</VWE_Bullet_ChargeMinigun.label>
+
+<!-- EN: charge minigun -->
+<VWE_Gun_ChargeMinigun.label>minigun pulsacyjny</VWE_Gun_ChargeMinigun.label>
+<!-- EN: A charged-shot minigun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nCapable of covering the entire area in volley of anti-armor rounds, this minigun is often used by glitterworld mercenaries during their infamous raids. -->
+<VWE_Gun_ChargeMinigun.description>Minigun pulsacyjny. Technologia ładowania impulsowego ładuje każdy strzał niestabilną energią, gdy opuszcza lufę. Uwolniona przy uderzeniu, naładowana energia znacznie zwiększa zadawane obrażenia.\n\nZdolny do pokrycia całego terenu salwą pocisków przeciwpancernych, ten minigun jest często używany przez najemników z Glitterworld podczas ich niesławnych najazdów.</VWE_Gun_ChargeMinigun.description>
+<!-- EN: stock -->
+<VWE_Gun_ChargeMinigun.tools.0.label>magazynek</VWE_Gun_ChargeMinigun.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeMinigun.tools.1.label>cylinder</VWE_Gun_ChargeMinigun.tools.1.label>
+
+
+</LanguageData>

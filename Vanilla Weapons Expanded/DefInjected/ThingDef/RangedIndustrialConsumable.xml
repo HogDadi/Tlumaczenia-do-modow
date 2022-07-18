@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Triple Rocket Launcher -->
+
+<!-- EN: triple rocket launcher -->
+<Gun_TripleRocket.label>potrójna wyrzutnia rakiet</Gun_TripleRocket.label>
+<!-- EN: A single-use rocket launcher that fires a cluster of three large-bore explosive rockets. Good against smalll groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+<Gun_TripleRocket.description>Jednorazowa wyrzutnia rakiet, która wystrzeliwuje klaster trzech wielkokalibrowych rakiet wybuchowych. Dobra przeciwko małym grupom trudnych celów.\n\nZ powodu jej nieporęczności, ograniczenia jednorazowego użycia i ogromnego zniszczenia, jakie powoduje, mówi się, że trzeba być trochę szalonym, żeby używać tej broni.</Gun_TripleRocket.description>
+<!-- EN: barrel -->
+<Gun_TripleRocket.tools.0.label>cylinder</Gun_TripleRocket.tools.0.label>
+
+
+  <!-- Doomsday Rocket Launcher -->
+
+<!-- EN: doomsday rocket launcher -->
+<Gun_DoomsdayRocket.label>wyrzutnia rakietowa zagłady</Gun_DoomsdayRocket.label>
+<!-- EN: A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+<Gun_DoomsdayRocket.description>Jednorazowa wyrzutnia rakiet, która wystrzeliwuje potężny wybuchowy pocisk. Dobry przeciwko dużym grupom miękkich celów. Rozpala pożary.\n\nPodobno trzeba być trochę szalonym, żeby używać tej broni, ze względu na jej nieporęczność, ograniczenie jednorazowego użycia i ogromne zniszczenia, jakie powoduje.</Gun_DoomsdayRocket.description>
+<!-- EN: barrel -->
+<Gun_DoomsdayRocket.tools.0.label>cylinder</Gun_DoomsdayRocket.tools.0.label>
+
+
+  <!-- Rocket Launcher -->
+
+<!-- EN: rocket launcher -->
+<VWE_Gun_RocketLauncher.label>wyrzutnia rakiet</VWE_Gun_RocketLauncher.label>
+<!-- EN: Fires a single mortar shell at high accuracy. -->
+<VWE_Gun_RocketLauncher.description>Wystrzeliwuje pojedynczy pocisk moździerzowy z dużą dokładnością.</VWE_Gun_RocketLauncher.description>
+<!-- EN: barrel -->
+<VWE_Gun_RocketLauncher.tools.0.label>cylinder</VWE_Gun_RocketLauncher.tools.0.label>
+
+
+</LanguageData>

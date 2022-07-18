@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gas : Thing -->
+
+  <!-- EN: toxic gas -->
+  <VWE_ToxicGasCloud.label>toksyczny gaz</VWE_ToxicGasCloud.label>
+
+
+  <!-- Smoke : Thing -->
+
+  <!-- EN: smoke cloud -->
+  <VWE_SmokeCloud.label>chmura dymu</VWE_SmokeCloud.label>
+
+
+</LanguageData>

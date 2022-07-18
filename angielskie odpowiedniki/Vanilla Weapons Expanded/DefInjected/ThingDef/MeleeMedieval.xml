@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pickaxe -->
+
+  <VWE_MeleeWeapon_Pickaxe.label>pickaxe</VWE_MeleeWeapon_Pickaxe.label>
+  <VWE_MeleeWeapon_Pickaxe.description>This basic invention is effective as a weapon, while being a tool at the same time. Needs some muscles to work with, but makes digging through mountains overall more comfortable.\n\nThe shape of the head allows to pierce thicker armor.</VWE_MeleeWeapon_Pickaxe.description>
+  <VWE_MeleeWeapon_Pickaxe.tools.0.label>handle</VWE_MeleeWeapon_Pickaxe.tools.0.label>
+  <VWE_MeleeWeapon_Pickaxe.tools.1.label>point</VWE_MeleeWeapon_Pickaxe.tools.1.label>
+
+
+  <!-- Hammer -->
+
+  <VWE_MeleeWeapon_Hammer.label>hammer</VWE_MeleeWeapon_Hammer.label>
+  <VWE_MeleeWeapon_Hammer.description>A hammer is a tool that consists of a heavy piece of metal or stone at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall.\n\nThis basic invention is effective as a weapon, while being a tool at the same time. Needs some muscles to work with, but lets you construct with more ease.</VWE_MeleeWeapon_Hammer.description>
+  <VWE_MeleeWeapon_Hammer.tools.0.label>handle</VWE_MeleeWeapon_Hammer.tools.0.label>
+  <VWE_MeleeWeapon_Hammer.tools.1.label>head</VWE_MeleeWeapon_Hammer.tools.1.label>
+
+
+  <!-- Battle Axe -->
+
+  <VWE_MeleeWeapon_BattleAxe.label>battle axe</VWE_MeleeWeapon_BattleAxe.label>
+  <VWE_MeleeWeapon_BattleAxe.description>A mighty weapon on the battlefield in the right kind of hands. Made to cut through flesh and bones alike.\n\nFavored by the Berserker clans, the battle axe is a weapon usually used by medieval knights. With a powerful swing it is capable of eliminating most enemies in close quarters.</VWE_MeleeWeapon_BattleAxe.description>
+  <VWE_MeleeWeapon_BattleAxe.tools.0.label>handle</VWE_MeleeWeapon_BattleAxe.tools.0.label>
+  <VWE_MeleeWeapon_BattleAxe.tools.1.label>blade</VWE_MeleeWeapon_BattleAxe.tools.1.label>
+
+
+  <!-- Halberd -->
+
+  <VWE_MeleeWeapon_Halberd.label>halberd</VWE_MeleeWeapon_Halberd.label>
+  <VWE_MeleeWeapon_Halberd.description>Halberd is a pike fitted with a light axe head. Due to the spear-like sharp tip, it's a great tool against armored enemies.\n\nUsed to fight down horse-mounted warriors in medieval times thanks to its its extraordinary length.</VWE_MeleeWeapon_Halberd.description>
+  <VWE_MeleeWeapon_Halberd.tools.0.label>handle</VWE_MeleeWeapon_Halberd.tools.0.label>
+  <VWE_MeleeWeapon_Halberd.tools.1.label>blade</VWE_MeleeWeapon_Halberd.tools.1.label>
+  <VWE_MeleeWeapon_Halberd.tools.2.label>point</VWE_MeleeWeapon_Halberd.tools.2.label>
+
+
+</LanguageData>

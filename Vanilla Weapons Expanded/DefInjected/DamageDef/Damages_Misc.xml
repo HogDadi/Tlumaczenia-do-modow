@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: extinguish -->
+<VWE_Extinguish.label>gaszenie</VWE_Extinguish.label>
+<!-- EN: {0} has been killed. -->
+<VWE_Extinguish.deathMessage>{0} zosta{0_gender ? ł : ła} zabit{0_gender ? y : a}.</VWE_Extinguish.deathMessage>
+
+
+</LanguageData>

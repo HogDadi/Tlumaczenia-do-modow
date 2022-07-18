@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crossbow -->
+
+<!-- EN: crossbow -->
+<VWE_Bow_Crossbow.label>kusza</VWE_Bow_Crossbow.label>
+<!-- EN: A crossbow is a type of ranged weapon in similar principle to a bow, consisting of a bow-like assembly mounted horizontally on a main frame, which is handheld in a similar fashion to the stock of a long gun.\n\nThis weapon attempt of early mankind can send a bolt even through strongest metal. -->
+<VWE_Bow_Crossbow.description>Kusza to rodzaj broni dystansowej o podobnym działaniu co łuk, składający się z zespołu łuku zamontowanego poziomo na ramie głównej, który jest trzymany w ręku w sposób podobny do zapasu broni długiej.\n\nTa broń wczesnej ludzkości może wystrzelić bełt nawet przez najmocniejszy metal.</VWE_Bow_Crossbow.description>
+<!-- EN: limb -->
+<VWE_Bow_Crossbow.tools.0.label>kończyna</VWE_Bow_Crossbow.tools.0.label>
+
+<!-- EN: crossbow bolt -->
+<VWE_Arrow_Bolt.label>bełt do kuszy</VWE_Arrow_Bolt.label>
+
+
+  <!-- Musket -->
+
+<!-- EN: musket -->
+<VWE_Gun_Musket.label>muszkiet</VWE_Gun_Musket.label>
+<!-- EN: An ancient pattern musket. As one of the first of its kind, it only has short range and low fire rate. -->
+<VWE_Gun_Musket.description>Starożytny muszkiet. Jako jeden z pierwszych w swoim rodzaju ma krótki zasięg i małą szybkostrzelność.</VWE_Gun_Musket.description>
+<!-- EN: stock -->
+<VWE_Gun_Musket.tools.0.label>magazynek</VWE_Gun_Musket.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_Musket.tools.1.label>cylinder</VWE_Gun_Musket.tools.1.label>
+
+<!-- EN: lead ball -->
+<Bullet_Leadball.label>ołowiana kulka</Bullet_Leadball.label>
+
+
+  <!-- Flintlock -->
+
+<!-- EN: flintlock -->
+<VWE_Gun_Flintlock.label>flintlock</VWE_Gun_Flintlock.label>
+<!-- EN: This pistol features a smoothbore barrel and a long, wooden grip ending in a knob. As its name implies, the flintlock pistol is operated by a flintlock mechanism. -->
+<VWE_Gun_Flintlock.description>Pistolet ten posiada gładką lufę 
+  oraz długi, drewniany chwyt zakończony gałką. Jak sama nazwa wskazuje, pistolet flintlock jest obsługiwany przez mechanizm krzemowy.</VWE_Gun_Flintlock.description>
+<!-- EN: stock -->
+<VWE_Gun_Flintlock.tools.0.label>magazynek</VWE_Gun_Flintlock.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_Flintlock.tools.1.label>cylinder</VWE_Gun_Flintlock.tools.1.label>
+
+
+  <!-- Throwing Knives -->
+
+<!-- EN: throwing knives -->
+<VWE_Throwing_Knives.label>noże do rzucania</VWE_Throwing_Knives.label>
+<!-- EN: A set of well balanced knives, perfect for throwing. -->
+<VWE_Throwing_Knives.description>Zestaw dobrze wyważonych noży, idealnych do rzucania.</VWE_Throwing_Knives.description>
+<!-- EN: handle -->
+<VWE_Throwing_Knives.tools.0.label>uchwyt</VWE_Throwing_Knives.tools.0.label>
+<!-- EN: blade -->
+<VWE_Throwing_Knives.tools.1.label>ostrze</VWE_Throwing_Knives.tools.1.label>
+<!-- EN: point -->
+<VWE_Throwing_Knives.tools.2.label>czubek</VWE_Throwing_Knives.tools.2.label>
+
+<!-- EN: small knife -->
+<VWE_FlyingBlade.label>mały nóż</VWE_FlyingBlade.label>
+
+
+  <!-- Whip -->
+
+<!-- EN: Whip -->
+<VWE_Tool_Whip.label>Bicz</VWE_Tool_Whip.label>
+<!-- EN: A traditional tool used for striking animals to aid guidance and earn obedience.\n\nCan be used on people. -->
+<VWE_Tool_Whip.description>Tradycyjne narzędzie używane do uderzania zwierząt w celu pomocy w prowadzeniu i uzyskania posłuszeństwa.\n\nMoże być używane na ludziach.</VWE_Tool_Whip.description>
+<!-- EN: edge -->
+<VWE_Tool_Whip.tools.0.label>krawędź</VWE_Tool_Whip.tools.0.label>
+
+<!-- EN: whip slash -->
+<VWE_WhipSlash.label>chłosta biczem</VWE_WhipSlash.label>
+
+
+</LanguageData>

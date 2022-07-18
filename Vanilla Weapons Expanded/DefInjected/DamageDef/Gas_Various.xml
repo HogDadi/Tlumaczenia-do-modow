@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Damage -->
+
+<!-- EN: ARL_ToxicGas -->
+<VWE_ToxicGas.label>ARL_ToksycznyGas</VWE_ToxicGas.label>
+<!-- EN: {0} has been killed. -->
+<VWE_ToxicGas.deathMessage>{0} zosta{0_gender ? ł : ła} zabit{0_gender ? y : a}.</VWE_ToxicGas.deathMessage>
+
+
+</LanguageData>

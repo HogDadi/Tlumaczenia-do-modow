@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Compound Bow -->
+
+<!-- EN: compound bow -->
+<VWE_Bow_Compound.label>łuk bloczkowy</VWE_Bow_Compound.label>
+<!-- EN: A modern day bow using levers system to fire an arrow over long distances.\n\nDue to the silencing mechanism, this bow doesn't emit any considerable sound upon firing, which makes it useful in hunting. -->
+<VWE_Bow_Compound.description>Nowoczesny łuk wykorzystujący system dźwigni do wystrzeliwania strzały na duże odległości.\n\nDzięki mechanizmowi wyciszającemu, łuk ten nie emituje żadnych znacznych dźwięków podczas strzelania, co czyni go przydatnym podczas polowań.</VWE_Bow_Compound.description>
+<!-- EN: limb -->
+<VWE_Bow_Compound.tools.0.label>kończyna</VWE_Bow_Compound.tools.0.label>
+
+<!-- EN: compound bow arrow -->
+<VWE_Arrow_Compound.label>strzałka do łuku bloczkowego</VWE_Arrow_Compound.label>
+
+
+  <!-- Hand Cannon -->
+
+<!-- EN: hand cannon bullet -->
+<VWE_Bullet_HandCannon.label>pocisk do armaty ręcznej</VWE_Bullet_HandCannon.label>
+
+<!-- EN: Hand Cannon -->
+<VWE_Gun_HandCannon.label>Armata Ręczna</VWE_Gun_HandCannon.label>
+<!-- EN: Slow firing revolver firing large caliber projectiles over long distances. -->
+<VWE_Gun_HandCannon.description>Wolno strzelający rewolwer wystrzeliwujący pociski dużego kalibru na duże odległości.</VWE_Gun_HandCannon.description>
+<!-- EN: grip -->
+<VWE_Gun_HandCannon.tools.0.label>uchwyt</VWE_Gun_HandCannon.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_HandCannon.tools.1.label>cylinder</VWE_Gun_HandCannon.tools.1.label>
+
+
+  <!-- Combat Handgun -->
+
+<!-- EN: combat handgun bullet -->
+<VWE_Bullet_CombatHandgun.label>pocisk do pistoletu bojowego</VWE_Bullet_CombatHandgun.label>
+
+<!-- EN: combat handgun -->
+<VWE_CombatHandgun.label>pistolet bojowy</VWE_CombatHandgun.label>
+<!-- EN: Semi-automatic pistol designed for personal defense. The advanced counter-recoil system allows this weapon to be fired significantly faster than a standard autopistol. -->
+<VWE_CombatHandgun.description>Półautomatyczny pistolet przeznaczony do obrony osobistej. Zaawansowany system przeciwsprężynowy pozwala na oddanie strzału z tej broni znacznie szybciej niż ze standardowego autopistolu. </VWE_CombatHandgun.description>
+<!-- EN: grip -->
+<VWE_CombatHandgun.tools.0.label>uchwyt</VWE_CombatHandgun.tools.0.label>
+<!-- EN: barrel -->
+<VWE_CombatHandgun.tools.1.label>cylinder</VWE_CombatHandgun.tools.1.label>
+
+
+  <!-- Sawed-off Shotgun -->
+
+<!-- EN: shotgun blast -->
+<VWE_Bullet_SawedOffShotgun.label>ładunek do strzelby</VWE_Bullet_SawedOffShotgun.label>
+
+<!-- EN: sawed-off Shotgun -->
+<VWE_SawedOffShotgun.label>spiłowana strzelba</VWE_SawedOffShotgun.label>
+<!-- EN: Short double-barreled shotgun. Whilst not having the same range as a standard shotgun, this weapon fires two barrels in quick successions. -->
+<VWE_SawedOffShotgun.description>Krótka strzelba dwulufowa. Choć nie ma takiego zasięgu jak standardowa strzelba, broń ta wystrzeliwuje dwa naboje w szybkim tempie.</VWE_SawedOffShotgun.description>
+<!-- EN: grip -->
+<VWE_SawedOffShotgun.tools.0.label>uchwyt</VWE_SawedOffShotgun.tools.0.label>
+<!-- EN: barrel -->
+<VWE_SawedOffShotgun.tools.1.label>cylinder</VWE_SawedOffShotgun.tools.1.label>
+
+
+  <!-- Grenade Launcher -->
+
+<!-- EN: frag grenade -->
+<VWE_Bullet_GrenadeLauncher.label>granat odłamkowy</VWE_Bullet_GrenadeLauncher.label>
+
+<!-- EN: grenade launcher -->
+<VWE_Gun_GrenadeLauncher.label>granatnik</VWE_Gun_GrenadeLauncher.label>
+<!-- EN: A military issue grenade launcher intended for anti-infantry use. -->
+<VWE_Gun_GrenadeLauncher.description>Granatnik wydania wojskowego przeznaczony do użytku przeciw piechocie.</VWE_Gun_GrenadeLauncher.description>
+<!-- EN: stock -->
+<VWE_Gun_GrenadeLauncher.tools.0.label>magazynek</VWE_Gun_GrenadeLauncher.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_GrenadeLauncher.tools.1.label>cylinder</VWE_Gun_GrenadeLauncher.tools.1.label>
+
+
+  <!-- Flamethrower -->
+
+<!-- EN: flamethrower -->
+<VWE_Gun_Flamethrower.label>miotacz ognia</VWE_Gun_Flamethrower.label>
+<!-- EN: Mechanical incendiary device designed to release a controllable stream of burning chemfuel. -->
+<VWE_Gun_Flamethrower.description>Mechaniczne urządzenie zapalające zaprojektowane w celu uwolnienia kontrolowanego strumienia płonącego paliwa chemicznego.</VWE_Gun_Flamethrower.description>
+<!-- EN: stock -->
+<VWE_Gun_Flamethrower.tools.0.label>magazynek</VWE_Gun_Flamethrower.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_Flamethrower.tools.1.label>cylinder</VWE_Gun_Flamethrower.tools.1.label>
+
+<!-- EN: flamethrower fuel -->
+<VWE_Bullet_Flamethrower.label>paliwo do miotacza ognia</VWE_Bullet_Flamethrower.label>
+
+
+  <!-- Fire Extinguisher -->
+
+<!-- EN: fire extinguisher -->
+<VWE_Gun_FireExtinguisher.label>gaśnica</VWE_Gun_FireExtinguisher.label>
+<!-- EN: Filled with a multi-purpose flame supressant, this item can be used to extinguish any kind of fire encountered in the field. -->
+<VWE_Gun_FireExtinguisher.description>Wypełniony wielofunkcyjnym środkiem tłumiącym płomień, przedmiot ten może być użyty do ugaszenia każdego rodzaju ognia napotkanego w terenie.</VWE_Gun_FireExtinguisher.description>
+<!-- EN: canister -->
+<VWE_Gun_FireExtinguisher.tools.0.label>kanister</VWE_Gun_FireExtinguisher.tools.0.label>
+
+<!-- EN: flame suppresant -->
+<VWE_Bullet_FireExtinguisher.label>tłumiący płomień</VWE_Bullet_FireExtinguisher.label>
+
+
+  <!-- Semi-Automatic Rifle -->
+
+<!-- EN: semi-automatic rifle bullet -->
+<VWE_Bullet_SemiAutomaticRifle.label>pocisk do karabinu półautomatycznego</VWE_Bullet_SemiAutomaticRifle.label>
+
+<!-- EN: semi-automatic rifle -->
+<VWE_Gun_SemiAutomaticRifle.label>karabin półautomatyczny</VWE_Gun_SemiAutomaticRifle.label>
+<!-- EN: Semi-automatic model of a standard bolt action rifle. Whilst not as accurate and powerful as the predecessor, it makes up with fast firing speed. -->
+<VWE_Gun_SemiAutomaticRifle.description>Półautomatyczny model standardowego karabinu bolt action. Choć nie jest tak celny i mocny jak poprzednik, to nadrabia szybkostrzelnością.</VWE_Gun_SemiAutomaticRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_SemiAutomaticRifle.tools.0.label>magazynek</VWE_Gun_SemiAutomaticRifle.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_SemiAutomaticRifle.tools.1.label>cylinder</VWE_Gun_SemiAutomaticRifle.tools.1.label>
+
+
+  <!-- Lever-Action Rifle -->
+
+<!-- EN: lever-action rifle bullet -->
+<VWE_Bullet_LeverActionRifle.label>pocisk do karabinu dźwigniowego</VWE_Bullet_LeverActionRifle.label>
+
+<!-- EN: lever-action rifle -->
+<VWE_Gun_LeverActionRifle.label>karabin dźwigniowy</VWE_Gun_LeverActionRifle.label>
+<!-- EN: A rifle that uses a lever located around the trigger guard area to load fresh cartridges. Whilst not as powerful as other rifles, this gun allows for rapid reload.\n\nUsed widely around the western worlds for the ability to be shot single-handedly on the horseback. -->
+<VWE_Gun_LeverActionRifle.description>Karabin, który wykorzystuje dźwignię umieszczoną w okolicy osłony spustu do ładowania świeżych nabojów. Choć nie jest tak potężny jak inne karabiny, broń ta pozwala na szybkie przeładowanie.\n\nUżywany szeroko w zachodnich światach ze względu na możliwość strzelania jednorącz z końskiego grzbietu.</VWE_Gun_LeverActionRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_LeverActionRifle.tools.0.label>magazynek</VWE_Gun_LeverActionRifle.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_LeverActionRifle.tools.1.label>cylinder</VWE_Gun_LeverActionRifle.tools.1.label>
+
+
+  <!-- Light SMG -->
+
+<!-- EN: light SMG pistol bullet -->
+<VWE_Bullet_LightSMG.label>pocisk do lekkiego pistoletu SMG</VWE_Bullet_LightSMG.label>
+
+<!-- EN: light SMG -->
+<VWE_Gun_LightSMG.label>lekki SMG</VWE_Gun_LightSMG.label>
+<!-- EN: Open bolt lightweight submachine gun with improved cooling, allowing for longer bursts before weapon needs to be cooled. -->
+<VWE_Gun_LightSMG.description>Lekki pistolet maszynowy z otwartym ryglem i ulepszonym chłodzeniem, pozwalający na dłuższe serie zanim broń będzie wymagała chłodzenia.</VWE_Gun_LightSMG.description>
+<!-- EN: grip -->
+<VWE_Gun_LightSMG.tools.0.label>uchwyt</VWE_Gun_LightSMG.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_LightSMG.tools.1.label>cylinder</VWE_Gun_LightSMG.tools.1.label>
+
+
+  <!-- SMG -->
+
+<!-- EN: smg bullet -->
+<VWE_Bullet_SMG.label>pocisk do smg</VWE_Bullet_SMG.label>
+
+<!-- EN: SMG -->
+<VWE_Gun_SMG.label>SMG</VWE_Gun_SMG.label>
+<!-- EN: A compact submachine gun. Whilst it doesn't have long range of fire, it deals significant damage in close range. -->
+<VWE_Gun_SMG.description>Kompaktowy pistolet podręczny. Choć nie ma dużego zasięgu ognia, zadaje znaczne obrażenia na bliskim dystansie.</VWE_Gun_SMG.description>
+<!-- EN: grip -->
+<VWE_Gun_SMG.tools.0.label>uchwyt</VWE_Gun_SMG.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_SMG.tools.1.label>cylinder</VWE_Gun_SMG.tools.1.label>
+
+
+  <!-- HMG -->
+
+<!-- EN: HMG bullet -->
+<VWE_Bullet_HMG.label>pocisk HMG</VWE_Bullet_HMG.label>
+
+<!-- EN: HMG -->
+<VWE_Gun_HMG.label>HMG</VWE_Gun_HMG.label>
+<!-- EN: A water-cooled type of machine gun. It's heavy and unwieldy, but delivers tremendous amount of damage thanks to armor piercing ammunition. Belt-fed ammunition ensures continuous volley of bullets as long as the person firing them is strong enough to hold the gun. -->
+<VWE_Gun_HMG.description>Chłodzony wodą typ karabinu maszynowego. Jest ciężki i nieporęczny, ale zadaje ogromne obrażenia dzięki amunicji przebijającej pancerz. Amunicja podawana do pasa zapewnia ciągłą salwę pocisków, dopóki strzelający jest wystarczająco silny, by utrzymać broń.</VWE_Gun_HMG.description>
+<!-- EN: stock -->
+<VWE_Gun_HMG.tools.0.label>magazynek</VWE_Gun_HMG.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_HMG.tools.1.label>cylinder</VWE_Gun_HMG.tools.1.label>
+
+
+  <!-- Service Rifle -->
+
+<!-- EN: assault rifle bullet -->
+<VWE_Bullet_ServiceRifle.label>pocisk dp karabinu szturmowego</VWE_Bullet_ServiceRifle.label>
+
+<!-- EN: service rifle -->
+<VWE_Gun_ServiceRifle.label>karabin służbowy</VWE_Gun_ServiceRifle.label>
+<!-- EN: A versatile and rugged assault rifle widely used around the galaxy by militia forces and mercenaries.\n\nNot as powerful as an assault rifle, but deliver 4 shot bursts. -->
+<VWE_Gun_ServiceRifle.description>Wszechstronny i wytrzymały karabin szturmowy szeroko wykorzystywany w całej galaktyce przez siły milicji i najemników.\n\nNie jest tak potężny jak karabin szturmowy, ale zapewnia 4-strzałowe serie.</VWE_Gun_ServiceRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_ServiceRifle.tools.0.label>magazynek</VWE_Gun_ServiceRifle.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_ServiceRifle.tools.1.label>cylinder</VWE_Gun_ServiceRifle.tools.1.label>
+
+
+  <!-- Battle Rifle -->
+
+<!-- EN: assault rifle bullet -->
+<VWE_Bullet_BattleRifle.label>pocisk do karabinu szturmowego</VWE_Bullet_BattleRifle.label>
+
+<!-- EN: battle rifle -->
+<VWE_Gun_BattleRifle.label>karabin bojowy</VWE_Gun_BattleRifle.label>
+<!-- EN: A semi-automatic rifle commonly used by special forces due to it's range and accuracy.\n\nSlightly longer range and higher damage than an Assault Rifle, but only fires two round bursts. -->
+<VWE_Gun_BattleRifle.description>Półautomatyczny karabin powszechnie używany przez siły specjalne ze względu na swój zasięg i celność.\n\nMa nieco większy zasięg i większe obrażenia niż karabin szturmowy, ale strzela tylko dwoma seriami.</VWE_Gun_BattleRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_BattleRifle.tools.0.label>magazynek</VWE_Gun_BattleRifle.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_BattleRifle.tools.1.label>cylinder</VWE_Gun_BattleRifle.tools.1.label>
+
+
+  <!-- Carbine -->
+
+<!-- EN: carbine bullet -->
+<VWE_Bullet_Carbine.label>pocisk do karabinka</VWE_Bullet_Carbine.label>
+
+<!-- EN: carbine -->
+<VWE_Gun_Carbine.label>karabinek</VWE_Gun_Carbine.label>
+<!-- EN: Short bullpup carbine, used often in close quarters urban combat.\n\nWhilst it's accurate at close range, due to the short stock it is incapable of firing accurately at rifle range. -->
+<VWE_Gun_Carbine.description>Krótki karabinek bullpup, używany często w walce miejskiej na bliskim dystansie.\n\nChociaż jest celny na bliskim dystansie, ze względu na krótką kolbę nie jest zdolny do oddania celnego strzału na dystansie karabinowym.</VWE_Gun_Carbine.description>
+<!-- EN: stock -->
+<VWE_Gun_Carbine.tools.0.label>magazynek</VWE_Gun_Carbine.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_Carbine.tools.1.label>cylinder</VWE_Gun_Carbine.tools.1.label>
+
+
+  <!-- Marksman Rifle -->
+
+<!-- EN: marksman rifle bullet -->
+<Bullet_MarksmanRifle.label>pocisk do karabinu wyborowego</Bullet_MarksmanRifle.label>
+
+<!-- EN: marksman rifle -->
+<VWE_Gun_MarksmanRifle.label>karabin wyborowy</VWE_Gun_MarksmanRifle.label>
+<!-- EN: A designated marksman rifle.\n\nWhilst it shares similarities with a standard bolt-action rifle, it trades off it's damage for firing two shots in quick succession. -->
+<VWE_Gun_MarksmanRifle.description>Chociaż jest podobny do standardowego karabinu bolt-action, to jednak traci obrażenia na rzecz oddania dwóch strzałów w krótkim odstępie czasu.</VWE_Gun_MarksmanRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_MarksmanRifle.tools.0.label>magazynek</VWE_Gun_MarksmanRifle.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_MarksmanRifle.tools.1.label>cylinder</VWE_Gun_MarksmanRifle.tools.1.label>
+
+
+  <!-- Anti-Materiel Rifle -->
+
+<!-- EN: anti-material impact shell -->
+<Bullet_AntiMaterialRifle.label>antymateriałowa powłoka przeciwuderzeniowa</Bullet_AntiMaterialRifle.label>
+
+<!-- EN: anti-material rifle -->
+<VWE_Gun_AntiMaterialRifle.label>karabin przeciwpancerny</VWE_Gun_AntiMaterialRifle.label>
+<!-- EN: Being a .50 caliber rifle, this weapon was designed to fight enemy armored equipment.\n\nUsed widely around the rim in mechanoid warzones, this weapon is also useful against infantry, allowing for a 1-hit kill. -->
+<VWE_Gun_AntiMaterialRifle.description>Będąc karabinem kalibru .50, broń ta została zaprojektowana do walki z wrogim sprzętem opancerzonym.\n\nUżywana szeroko wokół obręczy w mechanoidalnych strefach wojennych, broń ta jest również przydatna przeciwko piechocie, pozwalając na zabicie jednym trafieniem.</VWE_Gun_AntiMaterialRifle.description>
+<!-- EN: stock -->
+<VWE_Gun_AntiMaterialRifle.tools.0.label>magazynek</VWE_Gun_AntiMaterialRifle.tools.0.label>
+<!-- EN: barrel -->
+<VWE_Gun_AntiMaterialRifle.tools.1.label>cylinder</VWE_Gun_AntiMaterialRifle.tools.1.label>
+
+
+</LanguageData>

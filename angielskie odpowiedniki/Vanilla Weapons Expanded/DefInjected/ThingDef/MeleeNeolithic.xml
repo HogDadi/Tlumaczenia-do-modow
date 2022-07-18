@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Axe -->
+
+  <VWE_MeleeWeapon_Axe.label>hatchet</VWE_MeleeWeapon_Axe.label>
+  <VWE_MeleeWeapon_Axe.description>An axe head fastened to a handle. Suitable for one hand, due to the shape of a wedge it doesn't require significant force to cut armor and flesh.</VWE_MeleeWeapon_Axe.description>
+  <VWE_MeleeWeapon_Axe.tools.0.label>handle</VWE_MeleeWeapon_Axe.tools.0.label>
+  <VWE_MeleeWeapon_Axe.tools.1.label>blade</VWE_MeleeWeapon_Axe.tools.1.label>
+
+
+</LanguageData>

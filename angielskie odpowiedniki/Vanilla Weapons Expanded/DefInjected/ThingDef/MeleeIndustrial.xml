@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shovel -->
+
+  <VWE_MeleeWeapon_Shovel.label>shovel</VWE_MeleeWeapon_Shovel.label>
+  <VWE_MeleeWeapon_Shovel.description>Commonly used across the battlefield to dig trenches, this small portable shovel is an excellent close range weapon.</VWE_MeleeWeapon_Shovel.description>
+  <VWE_MeleeWeapon_Shovel.tools.0.label>handle</VWE_MeleeWeapon_Shovel.tools.0.label>
+  <VWE_MeleeWeapon_Shovel.tools.1.label>head</VWE_MeleeWeapon_Shovel.tools.1.label>
+
+
+  <!-- Baton -->
+
+  <VWE_MeleeWeapon_Baton.label>baton</VWE_MeleeWeapon_Baton.label>
+  <VWE_MeleeWeapon_Baton.description>A short peacekeeping baton commonly used by prison guards and urbworld militia.</VWE_MeleeWeapon_Baton.description>
+  <VWE_MeleeWeapon_Baton.tools.0.label>handle</VWE_MeleeWeapon_Baton.tools.0.label>
+  <VWE_MeleeWeapon_Baton.tools.1.label>head</VWE_MeleeWeapon_Baton.tools.1.label>
+
+
+  <!-- Combat Knife -->
+
+  <VWE_MeleeWeapon_CombatKnife.label>combat knife</VWE_MeleeWeapon_CombatKnife.label>
+  <VWE_MeleeWeapon_CombatKnife.description>One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nCombat knife is a standard issue melee weapon for most of the military forces.</VWE_MeleeWeapon_CombatKnife.description>
+  <VWE_MeleeWeapon_CombatKnife.tools.0.label>handle</VWE_MeleeWeapon_CombatKnife.tools.0.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.1.label>blade</VWE_MeleeWeapon_CombatKnife.tools.1.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.2.label>point</VWE_MeleeWeapon_CombatKnife.tools.2.label>
+
+
+  <!-- Wrench -->
+
+  <VWE_MeleeWeapon_Wrench.label>wrench</VWE_MeleeWeapon_Wrench.label>
+  <VWE_MeleeWeapon_Wrench.description>A universal instrument to make even the sturdiest things work.\n\nAids with construction and breaking down Mechanoid constructs.</VWE_MeleeWeapon_Wrench.description>
+  <VWE_MeleeWeapon_Wrench.tools.0.label>handle</VWE_MeleeWeapon_Wrench.tools.0.label>
+  <VWE_MeleeWeapon_Wrench.tools.1.label>head</VWE_MeleeWeapon_Wrench.tools.1.label>
+
+
+  <!-- Cleaver -->
+
+  <VWE_MeleeWeapon_Cleaver.label>cleaver</VWE_MeleeWeapon_Cleaver.label>
+  <VWE_MeleeWeapon_Cleaver.description>One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nThis type of knife is commonly used by chefs to cut meat and bones alike.</VWE_MeleeWeapon_Cleaver.description>
+  <VWE_MeleeWeapon_Cleaver.tools.0.label>handle</VWE_MeleeWeapon_Cleaver.tools.0.label>
+  <VWE_MeleeWeapon_Cleaver.tools.1.label>blade</VWE_MeleeWeapon_Cleaver.tools.1.label>
+
+
+  <!-- Scalpel -->
+
+  <VWE_MeleeWeapon_Scalpel.label>scalpel</VWE_MeleeWeapon_Scalpel.label>
+  <VWE_MeleeWeapon_Scalpel.description>One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nThis blade is commonly used by surgeons due to it's extreme sharpness.</VWE_MeleeWeapon_Scalpel.description>
+  <VWE_MeleeWeapon_Scalpel.tools.0.label>blade</VWE_MeleeWeapon_Scalpel.tools.0.label>
+  <VWE_MeleeWeapon_Scalpel.tools.1.label>point</VWE_MeleeWeapon_Scalpel.tools.1.label>
+
+
+</LanguageData>

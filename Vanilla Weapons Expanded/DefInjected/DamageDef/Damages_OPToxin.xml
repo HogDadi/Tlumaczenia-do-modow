@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Damage -->
+
+<!-- EN: Toxic Gas -->
+<Dam_OPToxin.label>Toksyczny Gas</Dam_OPToxin.label>
+<!-- EN: {0} has been killed. -->
+<Dam_OPToxin.deathMessage>{0} zosta{0_gender ? ł : ła} zabit{0_gender ? y : a}.</Dam_OPToxin.deathMessage>
+
+
+</LanguageData>

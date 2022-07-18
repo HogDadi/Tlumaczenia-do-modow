@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge Rocket Launcher -->
+
+<!-- EN: charge rocket launcher -->
+<VWE_Gun_ChargeRocketLauncher.label>pulsacyjna wyrzutnia rakiet</VWE_Gun_ChargeRocketLauncher.label>
+<!-- EN: Fires a single anti grain shell at precise accuracy due to laser targeting. The warhead explodes in the air, releasing a wave of deadly electroshock. -->
+<VWE_Gun_ChargeRocketLauncher.description>Wystrzeliwuje pojedynczy pocisk anty grawitacyjny z precyzyjną dokładnością dzięki laserowemu namierzaniu celu. Głowica eksploduje w powietrzu, uwalniając falę śmiertelnych elektrowstrząsów.</VWE_Gun_ChargeRocketLauncher.description>
+<!-- EN: barrel -->
+<VWE_Gun_ChargeRocketLauncher.tools.0.label>cylinder</VWE_Gun_ChargeRocketLauncher.tools.0.label>
+
+<!-- EN: antigrain rocket -->
+<VWE_Rocket_AntiGrain.label>rakieta antygrawitacyjna</VWE_Rocket_AntiGrain.label>
+
+
+</LanguageData>

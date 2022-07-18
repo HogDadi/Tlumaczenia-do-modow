@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Compound Bow -->
+
+  <VWE_Bow_Compound.label>compound bow</VWE_Bow_Compound.label>
+  <VWE_Bow_Compound.description>A modern day bow using levers system to fire an arrow over long distances.\n\nDue to the silencing mechanism, this bow doesn't emit any considerable sound upon firing, which makes it useful in hunting.</VWE_Bow_Compound.description>
+  <VWE_Bow_Compound.tools.0.label>limb</VWE_Bow_Compound.tools.0.label>
+
+  <VWE_Arrow_Compound.label>compound bow arrow</VWE_Arrow_Compound.label>
+
+
+  <!-- Hand Cannon -->
+
+  <VWE_Bullet_HandCannon.label>hand cannon bullet</VWE_Bullet_HandCannon.label>
+
+  <VWE_Gun_HandCannon.label>Hand Cannon</VWE_Gun_HandCannon.label>
+  <VWE_Gun_HandCannon.description>Slow firing revolver firing large caliber projectiles over long distances.</VWE_Gun_HandCannon.description>
+  <VWE_Gun_HandCannon.tools.0.label>grip</VWE_Gun_HandCannon.tools.0.label>
+  <VWE_Gun_HandCannon.tools.1.label>barrel</VWE_Gun_HandCannon.tools.1.label>
+
+
+  <!-- Combat Handgun -->
+
+  <VWE_Bullet_CombatHandgun.label>combat handgun bullet</VWE_Bullet_CombatHandgun.label>
+
+  <VWE_CombatHandgun.label>combat handgun</VWE_CombatHandgun.label>
+  <VWE_CombatHandgun.description>Semi-automatic pistol designed for personal defense. The advanced counter-recoil system allows this weapon to be fired significantly faster than a standard autopistol.</VWE_CombatHandgun.description>
+  <VWE_CombatHandgun.tools.0.label>grip</VWE_CombatHandgun.tools.0.label>
+  <VWE_CombatHandgun.tools.1.label>barrel</VWE_CombatHandgun.tools.1.label>
+
+
+  <!-- Sawed-off Shotgun -->
+
+  <VWE_Bullet_SawedOffShotgun.label>shotgun blast</VWE_Bullet_SawedOffShotgun.label>
+
+  <VWE_SawedOffShotgun.label>sawed-off Shotgun</VWE_SawedOffShotgun.label>
+  <VWE_SawedOffShotgun.description>Short double-barreled shotgun. Whilst not having the same range as a standard shotgun, this weapon fires two barrels in quick successions.</VWE_SawedOffShotgun.description>
+  <VWE_SawedOffShotgun.tools.0.label>grip</VWE_SawedOffShotgun.tools.0.label>
+  <VWE_SawedOffShotgun.tools.1.label>barrel</VWE_SawedOffShotgun.tools.1.label>
+
+
+  <!-- Grenade Launcher -->
+
+  <VWE_Bullet_GrenadeLauncher.label>frag grenade</VWE_Bullet_GrenadeLauncher.label>
+
+  <VWE_Gun_GrenadeLauncher.label>grenade launcher</VWE_Gun_GrenadeLauncher.label>
+  <VWE_Gun_GrenadeLauncher.description>A military issue grenade launcher intended for anti-infantry use.</VWE_Gun_GrenadeLauncher.description>
+  <VWE_Gun_GrenadeLauncher.tools.0.label>stock</VWE_Gun_GrenadeLauncher.tools.0.label>
+  <VWE_Gun_GrenadeLauncher.tools.1.label>barrel</VWE_Gun_GrenadeLauncher.tools.1.label>
+
+
+  <!-- Flamethrower -->
+
+  <VWE_Gun_Flamethrower.label>flamethrower</VWE_Gun_Flamethrower.label>
+  <VWE_Gun_Flamethrower.description>Mechanical incendiary device designed to release a controllable stream of burning chemfuel.</VWE_Gun_Flamethrower.description>
+  <VWE_Gun_Flamethrower.tools.0.label>stock</VWE_Gun_Flamethrower.tools.0.label>
+  <VWE_Gun_Flamethrower.tools.1.label>barrel</VWE_Gun_Flamethrower.tools.1.label>
+
+  <VWE_Bullet_Flamethrower.label>flamethrower fuel</VWE_Bullet_Flamethrower.label>
+
+
+  <!-- Fire Extinguisher -->
+
+  <VWE_Gun_FireExtinguisher.label>fire extinguisher</VWE_Gun_FireExtinguisher.label>
+  <VWE_Gun_FireExtinguisher.description>Filled with a multi-purpose flame supressant, this item can be used to extinguish any kind of fire encountered in the field.</VWE_Gun_FireExtinguisher.description>
+  <VWE_Gun_FireExtinguisher.tools.0.label>canister</VWE_Gun_FireExtinguisher.tools.0.label>
+
+  <VWE_Bullet_FireExtinguisher.label>flame suppresant</VWE_Bullet_FireExtinguisher.label>
+
+
+  <!-- Semi-Automatic Rifle -->
+
+  <VWE_Bullet_SemiAutomaticRifle.label>semi-automatic rifle bullet</VWE_Bullet_SemiAutomaticRifle.label>
+
+  <VWE_Gun_SemiAutomaticRifle.label>semi-automatic rifle</VWE_Gun_SemiAutomaticRifle.label>
+  <VWE_Gun_SemiAutomaticRifle.description>Semi-automatic model of a standard bolt action rifle. Whilst not as accurate and powerful as the predecessor, it makes up with fast firing speed.</VWE_Gun_SemiAutomaticRifle.description>
+  <VWE_Gun_SemiAutomaticRifle.tools.0.label>stock</VWE_Gun_SemiAutomaticRifle.tools.0.label>
+  <VWE_Gun_SemiAutomaticRifle.tools.1.label>barrel</VWE_Gun_SemiAutomaticRifle.tools.1.label>
+
+
+  <!-- Lever-Action Rifle -->
+
+  <VWE_Bullet_LeverActionRifle.label>lever-action rifle bullet</VWE_Bullet_LeverActionRifle.label>
+
+  <VWE_Gun_LeverActionRifle.label>lever-action rifle</VWE_Gun_LeverActionRifle.label>
+  <VWE_Gun_LeverActionRifle.description>A rifle that uses a lever located around the trigger guard area to load fresh cartridges. Whilst not as powerful as other rifles, this gun allows for rapid reload.\n\nUsed widely around the western worlds for the ability to be shot single-handedly on the horseback.</VWE_Gun_LeverActionRifle.description>
+  <VWE_Gun_LeverActionRifle.tools.0.label>stock</VWE_Gun_LeverActionRifle.tools.0.label>
+  <VWE_Gun_LeverActionRifle.tools.1.label>barrel</VWE_Gun_LeverActionRifle.tools.1.label>
+
+
+  <!-- Light SMG -->
+
+  <VWE_Bullet_LightSMG.label>light SMG pistol bullet</VWE_Bullet_LightSMG.label>
+
+  <VWE_Gun_LightSMG.label>light SMG</VWE_Gun_LightSMG.label>
+  <VWE_Gun_LightSMG.description>Open bolt lightweight submachine gun with improved cooling, allowing for longer bursts before weapon needs to be cooled.</VWE_Gun_LightSMG.description>
+  <VWE_Gun_LightSMG.tools.0.label>grip</VWE_Gun_LightSMG.tools.0.label>
+  <VWE_Gun_LightSMG.tools.1.label>barrel</VWE_Gun_LightSMG.tools.1.label>
+
+
+  <!-- SMG -->
+
+  <VWE_Bullet_SMG.label>smg bullet</VWE_Bullet_SMG.label>
+
+  <VWE_Gun_SMG.label>SMG</VWE_Gun_SMG.label>
+  <VWE_Gun_SMG.description>A compact submachine gun. Whilst it doesn't have long range of fire, it deals significant damage in close range.</VWE_Gun_SMG.description>
+  <VWE_Gun_SMG.tools.0.label>grip</VWE_Gun_SMG.tools.0.label>
+  <VWE_Gun_SMG.tools.1.label>barrel</VWE_Gun_SMG.tools.1.label>
+
+
+  <!-- HMG -->
+
+  <VWE_Bullet_HMG.label>HMG bullet</VWE_Bullet_HMG.label>
+
+  <VWE_Gun_HMG.label>HMG</VWE_Gun_HMG.label>
+  <VWE_Gun_HMG.description>A water-cooled type of machine gun. It's heavy and unwieldy, but delivers tremendous amount of damage thanks to armor piercing ammunition. Belt-fed ammunition ensures continuous volley of bullets as long as the person firing them is strong enough to hold the gun.</VWE_Gun_HMG.description>
+  <VWE_Gun_HMG.tools.0.label>stock</VWE_Gun_HMG.tools.0.label>
+  <VWE_Gun_HMG.tools.1.label>barrel</VWE_Gun_HMG.tools.1.label>
+
+
+  <!-- Service Rifle -->
+
+  <VWE_Bullet_ServiceRifle.label>assault rifle bullet</VWE_Bullet_ServiceRifle.label>
+
+  <VWE_Gun_ServiceRifle.label>service rifle</VWE_Gun_ServiceRifle.label>
+  <VWE_Gun_ServiceRifle.description>A versatile and rugged assault rifle widely used around the galaxy by militia forces and mercenaries.\n\nNot as powerful as an assault rifle, but deliver 4 shot bursts.</VWE_Gun_ServiceRifle.description>
+  <VWE_Gun_ServiceRifle.tools.0.label>stock</VWE_Gun_ServiceRifle.tools.0.label>
+  <VWE_Gun_ServiceRifle.tools.1.label>barrel</VWE_Gun_ServiceRifle.tools.1.label>
+
+
+  <!-- Battle Rifle -->
+
+  <VWE_Bullet_BattleRifle.label>assault rifle bullet</VWE_Bullet_BattleRifle.label>
+
+  <VWE_Gun_BattleRifle.label>battle rifle</VWE_Gun_BattleRifle.label>
+  <VWE_Gun_BattleRifle.description>A semi-automatic rifle commonly used by special forces due to it's range and accuracy.\n\nSlightly longer range and higher damage than an Assault Rifle, but only fires two round bursts.</VWE_Gun_BattleRifle.description>
+  <VWE_Gun_BattleRifle.tools.0.label>stock</VWE_Gun_BattleRifle.tools.0.label>
+  <VWE_Gun_BattleRifle.tools.1.label>barrel</VWE_Gun_BattleRifle.tools.1.label>
+
+
+  <!-- Carbine -->
+
+  <VWE_Bullet_Carbine.label>carbine bullet</VWE_Bullet_Carbine.label>
+
+  <VWE_Gun_Carbine.label>carbine</VWE_Gun_Carbine.label>
+  <VWE_Gun_Carbine.description>Short bullpup carbine, used often in close quarters urban combat.\n\nWhilst it's accurate at close range, due to the short stock it is incapable of firing accurately at rifle range.</VWE_Gun_Carbine.description>
+  <VWE_Gun_Carbine.tools.0.label>stock</VWE_Gun_Carbine.tools.0.label>
+  <VWE_Gun_Carbine.tools.1.label>barrel</VWE_Gun_Carbine.tools.1.label>
+
+
+  <!-- Marksman Rifle -->
+
+  <Bullet_MarksmanRifle.label>marksman rifle bullet</Bullet_MarksmanRifle.label>
+
+  <VWE_Gun_MarksmanRifle.label>marksman rifle</VWE_Gun_MarksmanRifle.label>
+  <VWE_Gun_MarksmanRifle.description>A designated marksman rifle.\n\nWhilst it shares similarities with a standard bolt-action rifle, it trades off it's damage for firing two shots in quick succession.</VWE_Gun_MarksmanRifle.description>
+  <VWE_Gun_MarksmanRifle.tools.0.label>stock</VWE_Gun_MarksmanRifle.tools.0.label>
+  <VWE_Gun_MarksmanRifle.tools.1.label>barrel</VWE_Gun_MarksmanRifle.tools.1.label>
+
+
+  <!-- Anti-Materiel Rifle -->
+
+  <Bullet_AntiMaterialRifle.label>anti-material impact shell</Bullet_AntiMaterialRifle.label>
+
+  <VWE_Gun_AntiMaterialRifle.label>anti-material rifle</VWE_Gun_AntiMaterialRifle.label>
+  <VWE_Gun_AntiMaterialRifle.description>Being a .50 caliber rifle, this weapon was designed to fight enemy armored equipment.\n\nUsed widely around the rim in mechanoid warzones, this weapon is also useful against infantry, allowing for a 1-hit kill.</VWE_Gun_AntiMaterialRifle.description>
+  <VWE_Gun_AntiMaterialRifle.tools.0.label>stock</VWE_Gun_AntiMaterialRifle.tools.0.label>
+  <VWE_Gun_AntiMaterialRifle.tools.1.label>barrel</VWE_Gun_AntiMaterialRifle.tools.1.label>
+
+
+</LanguageData>

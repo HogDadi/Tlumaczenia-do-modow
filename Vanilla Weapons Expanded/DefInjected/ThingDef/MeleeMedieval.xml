@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pickaxe -->
+
+<!-- EN: pickaxe -->
+<VWE_MeleeWeapon_Pickaxe.label>kilof</VWE_MeleeWeapon_Pickaxe.label>
+<!-- EN: This basic invention is effective as a weapon, while being a tool at the same time. Needs some muscles to work with, but makes digging through mountains overall more comfortable.\n\nThe shape of the head allows to pierce thicker armor. -->
+<VWE_MeleeWeapon_Pickaxe.description>Ten podstawowy wynalazek jest skuteczny jako broń, będąc jednocześnie narzędziem. Wymaga trochę mięśni do pracy, ale sprawia, że przekopywanie się przez góry jest ogólnie wygodniejsze.\n\nKształt głowicy pozwala na przebijanie grubszych pancerzy.</VWE_MeleeWeapon_Pickaxe.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Pickaxe.tools.0.label>uchwyt</VWE_MeleeWeapon_Pickaxe.tools.0.label>
+<!-- EN: point -->
+<VWE_MeleeWeapon_Pickaxe.tools.1.label>czubek</VWE_MeleeWeapon_Pickaxe.tools.1.label>
+
+
+  <!-- Hammer -->
+
+<!-- EN: hammer -->
+<VWE_MeleeWeapon_Hammer.label>młot</VWE_MeleeWeapon_Hammer.label>
+<!-- EN: A hammer is a tool that consists of a heavy piece of metal or stone at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall.\n\nThis basic invention is effective as a weapon, while being a tool at the same time. Needs some muscles to work with, but lets you construct with more ease. -->
+<VWE_MeleeWeapon_Hammer.description>Młotek to narzędzie, które składa się z ciężkiego kawałka metalu lub kamienia na końcu trzonka. Używa się go na przykład do wbijania gwoździ w kawałek drewna lub ściany.\n\nTen podstawowy wynalazek jest skuteczny jako broń, będąc jednocześnie narzędziem. Wymaga trochę mięśni do pracy, ale pozwala budować z większą łatwością.</VWE_MeleeWeapon_Hammer.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Hammer.tools.0.label>uchwyt</VWE_MeleeWeapon_Hammer.tools.0.label>
+<!-- EN: head -->
+<VWE_MeleeWeapon_Hammer.tools.1.label>głownia</VWE_MeleeWeapon_Hammer.tools.1.label>
+
+
+  <!-- Battle Axe -->
+
+<!-- EN: battle axe -->
+<VWE_MeleeWeapon_BattleAxe.label>topór bojowy</VWE_MeleeWeapon_BattleAxe.label>
+<!-- EN: A mighty weapon on the battlefield in the right kind of hands. Made to cut through flesh and bones alike.\n\nFavored by the Berserker clans, the battle axe is a weapon usually used by medieval knights. With a powerful swing it is capable of eliminating most enemies in close quarters. -->
+<VWE_MeleeWeapon_BattleAxe.description>Potężna broń na polu bitwy we właściwych rękach. Stworzony do przecinania zarówno ciała, jak i kości.\n\nUlubiony przez klany Berserkerów topór bojowy jest bronią zwykle używaną przez średniowiecznych rycerzy. Dzięki potężnemu zamachowi jest w stanie wyeliminować większość wrogów w zwarciu.</VWE_MeleeWeapon_BattleAxe.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_BattleAxe.tools.0.label>uchwyt</VWE_MeleeWeapon_BattleAxe.tools.0.label>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_BattleAxe.tools.1.label>ostrze</VWE_MeleeWeapon_BattleAxe.tools.1.label>
+
+
+  <!-- Halberd -->
+
+<!-- EN: halberd -->
+<VWE_MeleeWeapon_Halberd.label>halabarda</VWE_MeleeWeapon_Halberd.label>
+<!-- EN: Halberd is a pike fitted with a light axe head. Due to the spear-like sharp tip, it's a great tool against armored enemies.\n\nUsed to fight down horse-mounted warriors in medieval times thanks to its its extraordinary length. -->
+<VWE_MeleeWeapon_Halberd.description>Halabarda to pika wyposażona w głowicę z lekkim toporem. Ze względu na ostry jak włócznia czubek jest świetnym narzędziem przeciwko opancerzonym wrogom.\n\nWykorzystywana w średniowieczu do zwalczania konnych wojowników dzięki swojej niezwykłej długości.</VWE_MeleeWeapon_Halberd.description>
+<!-- EN: handle -->
+<VWE_MeleeWeapon_Halberd.tools.0.label>uchwyt</VWE_MeleeWeapon_Halberd.tools.0.label>
+<!-- EN: blade -->
+<VWE_MeleeWeapon_Halberd.tools.1.label>ostrze</VWE_MeleeWeapon_Halberd.tools.1.label>
+<!-- EN: point -->
+<VWE_MeleeWeapon_Halberd.tools.2.label>czubek</VWE_MeleeWeapon_Halberd.tools.2.label>
+
+
+</LanguageData>

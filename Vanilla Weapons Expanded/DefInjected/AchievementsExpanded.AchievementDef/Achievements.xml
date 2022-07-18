@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: Napoleon BonaPARTY -->
+<napoleonBonaparty.label>Napoleon BonaPARTY</napoleonBonaparty.label>
+<!-- EN: Craft 10 Muskets -->
+<napoleonBonaparty.description>Stwórz 10 muszkietów</napoleonBonaparty.description>
+
+<!-- EN: Posh Rock Lobber -->
+<poshRockLobber.label>Ekskluzywny Rock Lobber</poshRockLobber.label>
+<!-- EN: Craft jade throwing rocks -->
+<poshRockLobber.description>Stwórz jadeitowe kamienie do rzucania</poshRockLobber.description>
+
+<!-- EN: Burn Them All! -->
+<burnThemAll.label>Spalić ich wszystkich!</burnThemAll.label>
+<!-- EN: Craft a flamethrower -->
+<burnThemAll.description>Wykonaj miotacz ogniar</burnThemAll.description>
+
+<!-- EN: Guns Gallore -->
+<gunsGallore.label>Chwała broni</gunsGallore.label>
+<!-- EN: Research Specialized Firearms -->
+<gunsGallore.description>Badania specjalistycznej broni palnej</gunsGallore.description>
+
+<!-- EN: Supercharged! -->
+<superCharged.label>Doładowanie!</superCharged.label>
+<!-- EN: Craft a legendary charge minigun -->
+<superCharged.description>Stwórz legendarny minigun pulsacyjny</superCharged.description>
+
+
+</LanguageData>

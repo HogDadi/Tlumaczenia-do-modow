@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Throwing Rocks -->
+
+<!-- EN: throwing rocks -->
+<VWE_Throwing_Rocks.label>kamienie do rzucania</VWE_Throwing_Rocks.label>
+<!-- EN: A handful of rocks. Can inflict minor injuries in close range. Doesn't drop on death. Simple but effective. -->
+<VWE_Throwing_Rocks.description>Garść skał. Może zadawać drobne obrażenia w bliskim zasięgu. Nie upada przy śmierci. Proste, ale skuteczne.</VWE_Throwing_Rocks.description>
+<!-- EN: edge -->
+<VWE_Throwing_Rocks.tools.0.label>krawędź</VWE_Throwing_Rocks.tools.0.label>
+
+<!-- EN: small rock -->
+<VWE_Rock.label>mały kamień</VWE_Rock.label>
+
+
+  <!-- Long Bow -->
+
+<!-- EN: long bow -->
+<VWE_Bow_Long.label>długi łuk</VWE_Bow_Long.label>
+<!-- EN: Longbow is a massive long range neolithic weapon, capable of firing a powerful arrow over extremely long distances.\n\nArrows fired from this bow fly overhead, avoiding getting stopped by obstacles. -->
+<VWE_Bow_Long.description>Długi łuk to masywna neolityczna broń dalekiego zasięgu, zdolna do wystrzeliwania potężnych strzał na niezwykle duże odległości.\n\nStrzały wystrzelone z tego łuku lecą nad głową, unikając zatrzymania przez przeszkody.</VWE_Bow_Long.description>
+<!-- EN: limb -->
+<VWE_Bow_Long.tools.0.label>kończyna</VWE_Bow_Long.tools.0.label>
+
+<!-- EN: longbow arrow -->
+<VWE_Arrow_Long.label>długa strzała</VWE_Arrow_Long.label>
+
+
+</LanguageData>

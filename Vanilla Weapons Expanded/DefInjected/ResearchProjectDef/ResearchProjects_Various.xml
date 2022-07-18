@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- EN: longbow -->
+<VWE_Longbow.label>długi łuk</VWE_Longbow.label>
+<!-- EN: Craft longbows, a neolithic equivalent to the sniper rifle. -->
+<VWE_Longbow.description>Twórz długie łuki, neolityczny odpowiednik karabinu snajperskiego.</VWE_Longbow.description>
+
+<!-- EN: crossbow -->
+<VWE_Crossbow.label>kusza</VWE_Crossbow.label>
+<!-- EN: Construct crossbows, a medieval ranged weapon effective against armored enemies. -->
+<VWE_Crossbow.description>Zbuduj kusze, średniowieczną broń dystansową skuteczną przeciwko opancerzonym wrogom.</VWE_Crossbow.description>
+
+<!-- EN: compound bow -->
+<VWE_CompoundBow.label>łuk kompozytowy</VWE_CompoundBow.label>
+<!-- EN: Construct compound bows, which use industrial-era components to silently fire arrows with greater efficiency. -->
+<VWE_CompoundBow.description>Konstruuj łuki bloczkowe, które wykorzystują komponenty z epoki przemysłowej do cichego wystrzeliwania strzał z większą skutecznością.</VWE_CompoundBow.description>
+
+<!-- EN: tools -->
+<VWE_Tools.label>narzędzia</VWE_Tools.label>
+<!-- EN: Smith worker's tools to assist with manual labor. -->
+<VWE_Tools.description>Narzędzia Smith Worker wspomagające pracę ręczną.</VWE_Tools.description>
+
+<!-- EN: gunpowder -->
+<VWE_Gunpowder.label>proch strzelniczy</VWE_Gunpowder.label>
+<!-- EN: Synthesize gunpowder, the earliest known chemical explosive. -->
+<VWE_Gunpowder.description>Syntetyczny proch strzelniczy, najwcześniejszy znany chemiczny materiał wybuchowy.</VWE_Gunpowder.description>
+
+<!-- EN: trench warfare -->
+<VWE_TrenchWarfare.label>wojna w okopach</VWE_TrenchWarfare.label>
+<!-- EN: Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat. -->
+<VWE_TrenchWarfare.description>Zaadaptuj doktrynę wojny okopowej z wyborem broni do walki w zwarciu.</VWE_TrenchWarfare.description>
+
+<!-- EN: heavy weapons -->
+<VWE_HeavyWeapons.label>ciężka broń</VWE_HeavyWeapons.label>
+<!-- EN: Construct heavy weapons that offer superior firepower, at the cost of being very physically demanding. -->
+<VWE_HeavyWeapons.description>Skonstruuj ciężką broń, która oferuje najwyższą siłę ognia, kosztem tego, że jest bardzo wymagająca fizycznie.</VWE_HeavyWeapons.description>
+
+<!-- EN: flamethrower -->
+<VWE_Flamethrower.label>miotaczognia</VWE_Flamethrower.label>
+<!-- EN: Construct flamethrowers, weapons that project a long, controllable stream of fire. Their lethality has lead to bans on many civilized worlds. -->
+<VWE_Flamethrower.description>Skonstruuj miotacze ognia, broń, która emituje długi, kontrolowany strumień ognia. Ich śmiertelność doprowadziła do zakazu używania na wielu cywilizowanych światach.</VWE_Flamethrower.description>
+
+<!-- EN: specialized firearms -->
+<VWE_SpecializedFirearms.label>specjalistyczna broń palna</VWE_SpecializedFirearms.label>
+<!-- EN: Craft specialized guns for demanding combat scenarios. -->
+<VWE_SpecializedFirearms.description>Twórz specjalistyczne bronie dla wymagających scenariuszy walki.</VWE_SpecializedFirearms.description>
+
+<!-- EN: marksman rifle -->
+<VWE_DesignatedMarksmanRifle.label>karabin wyborowy</VWE_DesignatedMarksmanRifle.label>
+<!-- EN: Construct semi-automatic marksman rifles, for use in long-distance engagements. -->
+<VWE_DesignatedMarksmanRifle.description>Skonstruuj półautomatyczne karabiny dla strzelców wyborowych, przeznaczone do użycia w walkach na długich dystansach.</VWE_DesignatedMarksmanRifle.description>
+
+<!-- EN: tactical grenades -->
+<VWE_TacticalGrenades.label>granaty taktyczne</VWE_TacticalGrenades.label>
+<!-- EN: Craft specialized grenades, useful in a variety of engagements. -->
+<VWE_TacticalGrenades.description>Wykonaj specjalistyczne granaty, przydatne w różnych sytuacjach.</VWE_TacticalGrenades.description>
+
+<!-- EN: laser targeting systems -->
+<VWE_LaserTargetingSystems.label>laserowe systemy naprowadzania</VWE_LaserTargetingSystems.label>
+<!-- EN: Adapt laser targeting systems for accurate and swift delivery of charged warheads. -->
+<VWE_LaserTargetingSystems.description>Adaptacja laserowych systemów celowniczych do dokładnego i szybkiego dostarczania naładowanych głowic.</VWE_LaserTargetingSystems.description>
+
+
+</LanguageData>
